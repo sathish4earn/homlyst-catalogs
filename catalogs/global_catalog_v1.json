@@ -1,0 +1,712 @@
+{
+  "version": 2,
+  "countryCode": "GLOBAL",
+  "countryDisplayName": "Global",
+  "categories": [
+    {
+      "key": "Vegetables",
+      "nameEn": "Vegetables",
+      "nameResKey": "cat_vegetables",
+      "emoji": "🥬",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "onion",
+          "nameEn": "Onion"
+        },
+        {
+          "id": "tomato",
+          "nameEn": "Tomato"
+        },
+        {
+          "id": "potato",
+          "nameEn": "Potato"
+        },
+        {
+          "id": "garlic",
+          "nameEn": "Garlic"
+        },
+        {
+          "id": "ginger",
+          "nameEn": "Ginger"
+        },
+        {
+          "id": "carrot",
+          "nameEn": "Carrot"
+        },
+        {
+          "id": "cucumber",
+          "nameEn": "Cucumber"
+        },
+        {
+          "id": "cabbage",
+          "nameEn": "Cabbage"
+        },
+        {
+          "id": "spinach",
+          "nameEn": "Spinach"
+        },
+        {
+          "id": "leafy-greens",
+          "nameEn": "Leafy Greens"
+        },
+        {
+          "id": "eggplant",
+          "nameEn": "Eggplant"
+        },
+        {
+          "id": "bell-pepper",
+          "nameEn": "Bell Pepper"
+        },
+        {
+          "id": "chili-peppers",
+          "nameEn": "Chili Peppers"
+        },
+        {
+          "id": "mushrooms",
+          "nameEn": "Mushrooms"
+        },
+        {
+          "id": "corn",
+          "nameEn": "Corn"
+        },
+        {
+          "id": "pumpkin",
+          "nameEn": "Pumpkin"
+        },
+        {
+          "id": "green-beans",
+          "nameEn": "Green Beans"
+        },
+        {
+          "id": "cauliflower",
+          "nameEn": "Cauliflower"
+        },
+        {
+          "id": "broccoli",
+          "nameEn": "Broccoli"
+        },
+        {
+          "id": "radish",
+          "nameEn": "Radish"
+        },
+        {
+          "id": "spring-onion",
+          "nameEn": "Spring Onion"
+        },
+        {
+          "id": "okra",
+          "nameEn": "Okra"
+        },
+        {
+          "id": "zucchini",
+          "nameEn": "Zucchini"
+        },
+        {
+          "id": "fresh-herbs",
+          "nameEn": "Fresh Herbs"
+        }
+      ]
+    },
+    {
+      "key": "Fruits",
+      "nameEn": "Fruits",
+      "nameResKey": "cat_fruits",
+      "emoji": "🍎",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "apple",
+          "nameEn": "Apple"
+        },
+        {
+          "id": "banana",
+          "nameEn": "Banana"
+        },
+        {
+          "id": "orange",
+          "nameEn": "Orange"
+        },
+        {
+          "id": "lemon",
+          "nameEn": "Lemon"
+        },
+        {
+          "id": "lime",
+          "nameEn": "Lime"
+        },
+        {
+          "id": "mango",
+          "nameEn": "Mango"
+        },
+        {
+          "id": "grapes",
+          "nameEn": "Grapes"
+        },
+        {
+          "id": "watermelon",
+          "nameEn": "Watermelon"
+        },
+        {
+          "id": "melon",
+          "nameEn": "Melon"
+        },
+        {
+          "id": "pineapple",
+          "nameEn": "Pineapple"
+        },
+        {
+          "id": "papaya",
+          "nameEn": "Papaya"
+        },
+        {
+          "id": "pear",
+          "nameEn": "Pear"
+        },
+        {
+          "id": "peach",
+          "nameEn": "Peach"
+        },
+        {
+          "id": "strawberry",
+          "nameEn": "Strawberry"
+        },
+        {
+          "id": "avocado",
+          "nameEn": "Avocado"
+        },
+        {
+          "id": "coconut",
+          "nameEn": "Coconut"
+        },
+        {
+          "id": "dates",
+          "nameEn": "Dates"
+        },
+        {
+          "id": "pomegranate",
+          "nameEn": "Pomegranate"
+        }
+      ]
+    },
+    {
+      "key": "Rice, Grains & Bread",
+      "nameEn": "Rice, Grains & Bread",
+      "nameResKey": "cat_rice_grains",
+      "emoji": "🍚",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "rice",
+          "nameEn": "Rice"
+        },
+        {
+          "id": "flour",
+          "nameEn": "Flour"
+        },
+        {
+          "id": "noodles",
+          "nameEn": "Noodles"
+        },
+        {
+          "id": "pasta",
+          "nameEn": "Pasta"
+        },
+        {
+          "id": "oats",
+          "nameEn": "Oats"
+        },
+        {
+          "id": "cornmeal",
+          "nameEn": "Cornmeal"
+        },
+        {
+          "id": "bread",
+          "nameEn": "Bread"
+        },
+        {
+          "id": "flatbread",
+          "nameEn": "Flatbread"
+        },
+        {
+          "id": "couscous",
+          "nameEn": "Couscous"
+        },
+        {
+          "id": "quinoa",
+          "nameEn": "Quinoa"
+        },
+        {
+          "id": "barley",
+          "nameEn": "Barley"
+        },
+        {
+          "id": "semolina",
+          "nameEn": "Semolina"
+        },
+        {
+          "id": "breakfast-cereal",
+          "nameEn": "Breakfast Cereal"
+        }
+      ]
+    },
+    {
+      "key": "Beans, Lentils & Tofu",
+      "nameEn": "Beans, Lentils & Tofu",
+      "nameResKey": "cat_beans_lentils",
+      "emoji": "🥜",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "lentils",
+          "nameEn": "Lentils"
+        },
+        {
+          "id": "chickpeas",
+          "nameEn": "Chickpeas"
+        },
+        {
+          "id": "kidney-beans",
+          "nameEn": "Kidney Beans"
+        },
+        {
+          "id": "black-beans",
+          "nameEn": "Black Beans"
+        },
+        {
+          "id": "soybeans",
+          "nameEn": "Soybeans"
+        },
+        {
+          "id": "split-peas",
+          "nameEn": "Split Peas"
+        },
+        {
+          "id": "peanuts",
+          "nameEn": "Peanuts"
+        },
+        {
+          "id": "tofu",
+          "nameEn": "Tofu"
+        },
+        {
+          "id": "dried-beans",
+          "nameEn": "Dried Beans"
+        }
+      ]
+    },
+    {
+      "key": "Meat & Seafood",
+      "nameEn": "Meat & Seafood",
+      "nameResKey": "cat_meat",
+      "emoji": "🥩",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "chicken",
+          "nameEn": "Chicken"
+        },
+        {
+          "id": "beef",
+          "nameEn": "Beef"
+        },
+        {
+          "id": "lamb",
+          "nameEn": "Lamb"
+        },
+        {
+          "id": "pork",
+          "nameEn": "Pork"
+        },
+        {
+          "id": "goat",
+          "nameEn": "Goat"
+        },
+        {
+          "id": "fish",
+          "nameEn": "Fish"
+        },
+        {
+          "id": "shrimp",
+          "nameEn": "Shrimp"
+        },
+        {
+          "id": "squid",
+          "nameEn": "Squid"
+        },
+        {
+          "id": "minced-meat",
+          "nameEn": "Minced Meat"
+        },
+        {
+          "id": "sausages",
+          "nameEn": "Sausages"
+        }
+      ]
+    },
+    {
+      "key": "Dairy & Eggs",
+      "nameEn": "Dairy & Eggs",
+      "nameResKey": "cat_dairy",
+      "emoji": "🥛",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "milk",
+          "nameEn": "Milk"
+        },
+        {
+          "id": "eggs",
+          "nameEn": "Eggs"
+        },
+        {
+          "id": "yogurt",
+          "nameEn": "Yogurt"
+        },
+        {
+          "id": "butter",
+          "nameEn": "Butter"
+        },
+        {
+          "id": "cheese",
+          "nameEn": "Cheese"
+        },
+        {
+          "id": "cream",
+          "nameEn": "Cream"
+        },
+        {
+          "id": "powdered-milk",
+          "nameEn": "Powdered Milk"
+        },
+        {
+          "id": "condensed-milk",
+          "nameEn": "Condensed Milk"
+        }
+      ]
+    },
+    {
+      "key": "Oils & Fats",
+      "nameEn": "Oils & Fats",
+      "nameResKey": "cat_oils",
+      "emoji": "🫒",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "vegetable-oil",
+          "nameEn": "Vegetable Oil"
+        },
+        {
+          "id": "sunflower-oil",
+          "nameEn": "Sunflower Oil"
+        },
+        {
+          "id": "olive-oil",
+          "nameEn": "Olive Oil"
+        },
+        {
+          "id": "coconut-oil",
+          "nameEn": "Coconut Oil"
+        },
+        {
+          "id": "sesame-oil",
+          "nameEn": "Sesame Oil"
+        },
+        {
+          "id": "clarified-butter",
+          "nameEn": "Clarified Butter"
+        },
+        {
+          "id": "margarine",
+          "nameEn": "Margarine"
+        }
+      ]
+    },
+    {
+      "key": "Spices & Condiments",
+      "nameEn": "Spices & Condiments",
+      "nameResKey": "cat_spices_condiments",
+      "emoji": "🧂",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "salt",
+          "nameEn": "Salt"
+        },
+        {
+          "id": "sugar",
+          "nameEn": "Sugar"
+        },
+        {
+          "id": "black-pepper",
+          "nameEn": "Black Pepper"
+        },
+        {
+          "id": "chili-powder",
+          "nameEn": "Chili Powder"
+        },
+        {
+          "id": "turmeric",
+          "nameEn": "Turmeric"
+        },
+        {
+          "id": "cumin",
+          "nameEn": "Cumin"
+        },
+        {
+          "id": "coriander",
+          "nameEn": "Coriander"
+        },
+        {
+          "id": "cinnamon",
+          "nameEn": "Cinnamon"
+        },
+        {
+          "id": "soy-sauce",
+          "nameEn": "Soy Sauce"
+        },
+        {
+          "id": "vinegar",
+          "nameEn": "Vinegar"
+        },
+        {
+          "id": "tomato-paste",
+          "nameEn": "Tomato Paste"
+        },
+        {
+          "id": "honey",
+          "nameEn": "Honey"
+        },
+        {
+          "id": "stock-cubes",
+          "nameEn": "Stock Cubes"
+        },
+        {
+          "id": "mixed-spices",
+          "nameEn": "Mixed Spices"
+        },
+        {
+          "id": "hot-sauce",
+          "nameEn": "Hot Sauce"
+        },
+        {
+          "id": "ketchup",
+          "nameEn": "Ketchup"
+        },
+        {
+          "id": "mustard",
+          "nameEn": "Mustard"
+        }
+      ]
+    },
+    {
+      "key": "Snacks",
+      "nameEn": "Snacks",
+      "nameResKey": "cat_snacks",
+      "emoji": "🍿",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "biscuits",
+          "nameEn": "Biscuits"
+        },
+        {
+          "id": "chips",
+          "nameEn": "Chips"
+        },
+        {
+          "id": "chocolate",
+          "nameEn": "Chocolate"
+        },
+        {
+          "id": "nuts",
+          "nameEn": "Nuts"
+        },
+        {
+          "id": "crackers",
+          "nameEn": "Crackers"
+        },
+        {
+          "id": "candy",
+          "nameEn": "Candy"
+        },
+        {
+          "id": "popcorn",
+          "nameEn": "Popcorn"
+        },
+        {
+          "id": "dried-fruit",
+          "nameEn": "Dried Fruit"
+        }
+      ]
+    },
+    {
+      "key": "Beverages",
+      "nameEn": "Beverages",
+      "nameResKey": "cat_beverages",
+      "emoji": "☕",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "drinking-water",
+          "nameEn": "Drinking Water"
+        },
+        {
+          "id": "tea",
+          "nameEn": "Tea"
+        },
+        {
+          "id": "coffee",
+          "nameEn": "Coffee"
+        },
+        {
+          "id": "juice",
+          "nameEn": "Juice"
+        },
+        {
+          "id": "soft-drinks",
+          "nameEn": "Soft Drinks"
+        },
+        {
+          "id": "sparkling-water",
+          "nameEn": "Sparkling Water"
+        }
+      ]
+    },
+    {
+      "key": "Frozen & Canned",
+      "nameEn": "Frozen & Canned",
+      "nameResKey": "cat_frozen",
+      "emoji": "🥫",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "frozen-vegetables",
+          "nameEn": "Frozen Vegetables"
+        },
+        {
+          "id": "ice-cream",
+          "nameEn": "Ice Cream"
+        },
+        {
+          "id": "canned-tomatoes",
+          "nameEn": "Canned Tomatoes"
+        },
+        {
+          "id": "canned-beans",
+          "nameEn": "Canned Beans"
+        },
+        {
+          "id": "canned-corn",
+          "nameEn": "Canned Corn"
+        },
+        {
+          "id": "canned-fish",
+          "nameEn": "Canned Fish"
+        },
+        {
+          "id": "canned-fruit",
+          "nameEn": "Canned Fruit"
+        },
+        {
+          "id": "instant-noodles",
+          "nameEn": "Instant Noodles"
+        }
+      ]
+    },
+    {
+      "key": "Household",
+      "nameEn": "Household",
+      "nameResKey": "cat_household",
+      "emoji": "🧹",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "dish-soap",
+          "nameEn": "Dish Soap"
+        },
+        {
+          "id": "laundry-detergent",
+          "nameEn": "Laundry Detergent"
+        },
+        {
+          "id": "toilet-paper",
+          "nameEn": "Toilet Paper"
+        },
+        {
+          "id": "paper-towels",
+          "nameEn": "Paper Towels"
+        },
+        {
+          "id": "trash-bags",
+          "nameEn": "Trash Bags"
+        },
+        {
+          "id": "sponges",
+          "nameEn": "Sponges"
+        },
+        {
+          "id": "cleaning-liquid",
+          "nameEn": "Cleaning Liquid"
+        },
+        {
+          "id": "matches",
+          "nameEn": "Matches"
+        },
+        {
+          "id": "candles",
+          "nameEn": "Candles"
+        },
+        {
+          "id": "batteries",
+          "nameEn": "Batteries"
+        }
+      ]
+    },
+    {
+      "key": "Personal Care",
+      "nameEn": "Personal Care",
+      "nameResKey": "cat_personal_care",
+      "emoji": "🧴",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "soap",
+          "nameEn": "Soap"
+        },
+        {
+          "id": "shampoo",
+          "nameEn": "Shampoo"
+        },
+        {
+          "id": "toothpaste",
+          "nameEn": "Toothpaste"
+        },
+        {
+          "id": "toothbrush",
+          "nameEn": "Toothbrush"
+        },
+        {
+          "id": "razor",
+          "nameEn": "Razor"
+        },
+        {
+          "id": "sanitary-pads",
+          "nameEn": "Sanitary Pads"
+        },
+        {
+          "id": "lotion",
+          "nameEn": "Lotion"
+        },
+        {
+          "id": "deodorant",
+          "nameEn": "Deodorant"
+        },
+        {
+          "id": "comb",
+          "nameEn": "Comb"
+        }
+      ]
+    }
+  ]
+}

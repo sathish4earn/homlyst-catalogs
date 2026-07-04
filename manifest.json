@@ -63,6 +63,15 @@
       "dialCode": "+86",
       "currencyCode": "CNY",
       "version": 1
+    },
+    {
+      "code": "GLOBAL",
+      "displayName": "Global",
+      "flag": "🌍",
+      "fileName": "global_catalog_v1.json",
+      "dialCode": "",
+      "currencyCode": "USD",
+      "version": 1
     }
   ]
 }
