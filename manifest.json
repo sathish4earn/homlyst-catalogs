@@ -62,7 +62,10 @@
       "fileName": "china_catalog_v1.json",
       "dialCode": "+86",
       "currencyCode": "CNY",
-      "version": 1
+      "version": 1,
+      "l10n": {
+        "zh": 1
+      }
     },
     {
       "code": "GLOBAL",
