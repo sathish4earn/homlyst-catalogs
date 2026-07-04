@@ -54,6 +54,15 @@
       "dialCode": "+49",
       "currencyCode": "EUR",
       "version": 1
+    },
+    {
+      "code": "CN",
+      "displayName": "China",
+      "flag": "🇨🇳",
+      "fileName": "china_catalog_v1.json",
+      "dialCode": "+86",
+      "currencyCode": "CNY",
+      "version": 1
     }
   ]
 }

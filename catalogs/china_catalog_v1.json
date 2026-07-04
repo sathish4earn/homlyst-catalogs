@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "countryCode": "CN",
+  "countryDisplayName": "China",
+  "categories": [
+    {
+      "key": "Vegetables", "nameEn": "Vegetables", "nameResKey": "cat_vegetables",
+      "emoji": "🥬", "unitType": "WEIGHT",
+      "items": ["Bok Choy","Napa Cabbage","Choy Sum","Gai Lan","Water Spinach","Spinach",
+        "Lotus Root","Bamboo Shoots","Bean Sprouts","Winter Melon","Bitter Melon",
+        "Daikon Radish","Eggplant","Tomato","Potato","Cucumber","Carrot","Garlic","Ginger",
+        "Spring Onion","Chinese Chives","Cilantro","Chili Peppers","Bell Pepper",
+        "Shiitake Mushrooms","Enoki Mushrooms","King Oyster Mushrooms","Snow Peas",
+        "String Beans","Taro","Sweet Potato","Corn","Pumpkin","Celtuce","Cabbage","Onion"]
+    },
+    {
+      "key": "Fruits", "nameEn": "Fruits", "nameResKey": "cat_fruits",
+      "emoji": "🍎", "unitType": "WEIGHT",
+      "items": ["Apple","Banana","Orange","Mandarin","Ya Pear","Grapes","Watermelon","Peach",
+        "Lychee","Longan","Pomelo","Dragon Fruit","Mango","Kiwi","Persimmon","Plum",
+        "Hawthorn","Fresh Jujube","Cherry","Strawberry","Cantaloupe","Sugarcane"]
+    },
+    {
+      "key": "Rice, Noodles & Grains", "nameEn": "Rice, Noodles & Grains", "nameResKey": "cat_rice_grains",
+      "emoji": "🍚", "unitType": "WEIGHT",
+      "items": ["Jasmine Rice","Long Grain Rice","Glutinous Rice","Black Rice","Millet",
+        "Rice Noodles","Wheat Noodles","Egg Noodles","Glass Noodles","Knife-Cut Noodles",
+        "Flour","Rice Flour","Glutinous Rice Flour","Cornmeal","Oats",
+        "Dumpling Wrappers","Wonton Wrappers"]
+    },
+    {
+      "key": "Tofu & Soy Products", "nameEn": "Tofu & Soy Products", "nameResKey": "cat_tofu_soy",
+      "emoji": "🍢", "unitType": "PIECES",
+      "items": ["Firm Tofu","Silken Tofu","Dried Tofu","Tofu Skin","Tofu Puffs",
+        "Fermented Tofu","Dried Soybeans","Edamame","Soy Milk"]
+    },
+    {
+      "key": "Meat & Seafood", "nameEn": "Meat & Seafood", "nameResKey": "cat_meat",
+      "emoji": "🥩", "unitType": "WEIGHT",
+      "items": ["Pork Belly","Ground Pork","Pork Ribs","Chicken","Chicken Wings","Duck",
+        "Beef","Lamb","Whole Fish","Fish Fillet","Shrimp","Crab","Squid","Clams",
+        "Chinese Sausage","Fish Balls"]
+    },
+    {
+      "key": "Sauces & Seasonings", "nameEn": "Sauces & Seasonings", "nameResKey": "cat_sauces",
+      "emoji": "🥢", "unitType": "PIECES",
+      "items": ["Light Soy Sauce","Dark Soy Sauce","Oyster Sauce","Rice Vinegar",
+        "Black Vinegar","Shaoxing Cooking Wine","Doubanjiang","Hoisin Sauce","Chili Oil",
+        "Lao Gan Ma","Fermented Black Beans","Five Spice Powder","Sichuan Peppercorns",
+        "White Pepper","Star Anise","Dried Chilies","Chicken Bouillon","MSG","Salt",
+        "Sugar","Rock Sugar","Sesame Paste"]
+    },
+    {
+      "key": "Oils", "nameEn": "Oils", "nameResKey": "cat_oils",
+      "emoji": "🫒", "unitType": "LITRES",
+      "items": ["Peanut Oil","Rapeseed Oil","Corn Oil","Sunflower Oil","Sesame Oil",
+        "Vegetable Oil","Olive Oil"]
+    },
+    {
+      "key": "Dairy & Eggs", "nameEn": "Dairy & Eggs", "nameResKey": "cat_dairy",
+      "emoji": "🥛", "unitType": "PIECES",
+      "items": ["Milk","Yogurt","Yakult","Eggs","Century Eggs","Salted Duck Eggs",
+        "Butter","Cheese","Condensed Milk"]
+    },
+    {
+      "key": "Dried Goods", "nameEn": "Dried Goods", "nameResKey": "cat_dried_goods",
+      "emoji": "🍄", "unitType": "WEIGHT",
+      "items": ["Dried Shiitake Mushrooms","Wood Ear Fungus","White Fungus","Dried Shrimp",
+        "Dried Scallops","Dried Seaweed","Kelp","Dried Red Dates","Goji Berries",
+        "Dried Lily Flowers","Dried Lotus Seeds","Peanuts","Dried Chrysanthemum"]
+    },
+    {
+      "key": "Snacks", "nameEn": "Snacks", "nameResKey": "cat_snacks",
+      "emoji": "🍿", "unitType": "PIECES",
+      "items": ["Sunflower Seeds","White Rabbit Candy","Haw Flakes","Rice Crackers",
+        "Shrimp Chips","Potato Chips","Cookies","Chocolate","Mooncakes","Egg Roll Biscuits",
+        "Dried Plums","Beef Jerky","Spicy Strips (Latiao)","Seaweed Snacks","Mixed Nuts"]
+    },
+    {
+      "key": "Instant Foods", "nameEn": "Instant Foods", "nameResKey": "cat_instant_foods",
+      "emoji": "🍜", "unitType": "PIECES",
+      "items": ["Instant Noodles","Self-Heating Hot Pot","Instant Congee","Canned Fish",
+        "Luncheon Meat","Zha Cai (Pickled Mustard)","Hot Pot Base","Instant Rice Noodles"]
+    },
+    {
+      "key": "Beverages", "nameEn": "Beverages", "nameResKey": "cat_beverages",
+      "emoji": "🍵", "unitType": "LITRES",
+      "items": ["Green Tea","Jasmine Tea","Oolong Tea","Pu-erh Tea","Bottled Water",
+        "Herbal Tea","Coconut Water","Milk Tea","Cola","Orange Juice","Beer","Baijiu",
+        "Rice Wine","Coffee"]
+    },
+    {
+      "key": "Frozen Foods", "nameEn": "Frozen Foods", "nameResKey": "cat_frozen",
+      "emoji": "🧊", "unitType": "PIECES",
+      "items": ["Frozen Dumplings","Frozen Baozi","Tangyuan","Frozen Wontons",
+        "Spring Rolls","Frozen Fish Balls","Hot Pot Meatballs","Ice Cream",
+        "Frozen Vegetables"]
+    },
+    {
+      "key": "Household", "nameEn": "Household", "nameResKey": "cat_household",
+      "emoji": "🧹", "unitType": "PIECES",
+      "items": ["Dish Soap","Laundry Detergent","Toilet Paper","Paper Towels","Trash Bags",
+        "Cleaning Spray","Sponges","Mosquito Repellent","Air Freshener","Mop Pads"]
+    },
+    {
+      "key": "Personal Care", "nameEn": "Personal Care", "nameResKey": "cat_personal_care",
+      "emoji": "🧴", "unitType": "PIECES",
+      "items": ["Shampoo","Shower Gel","Toothpaste","Toothbrush","Soap","Facial Cleanser",
+        "Face Masks","Sunscreen","Deodorant","Hand Cream"]
+    }
+  ]
+}
