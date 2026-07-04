@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "countryCode": "DE",
+  "countryDisplayName": "Germany",
+  "categories": [
+    {
+      "key": "Vegetables", "nameEn": "Vegetables", "nameResKey": "cat_vegetables",
+      "emoji": "🥦", "unitType": "WEIGHT",
+      "items": ["Onion","Tomato","Potato","Carrot","Cucumber","Bell Pepper","Zucchini",
+        "Cauliflower","Broccoli","White Cabbage","Red Cabbage","Kohlrabi","Leek","Spinach",
+        "Lettuce","Radish","Beetroot","Asparagus","Mushrooms","Garlic","Spring Onion",
+        "Celery","Fennel","Pumpkin","Sauerkraut","Fresh Herbs"]
+    },
+    {
+      "key": "Fruits", "nameEn": "Fruits", "nameResKey": "cat_fruits",
+      "emoji": "🍎", "unitType": "WEIGHT",
+      "items": ["Apple","Banana","Orange","Pear","Grapes","Strawberry","Cherry","Plum",
+        "Peach","Nectarine","Kiwi","Lemon","Blueberry","Raspberry","Watermelon","Mango",
+        "Pineapple","Apricot"]
+    },
+    {
+      "key": "Bakery & Bread", "nameEn": "Bakery & Bread", "nameResKey": "cat_bakery",
+      "emoji": "🥨", "unitType": "PIECES",
+      "items": ["Bread Rolls","Rye Bread","Whole Grain Bread","Pretzel","Toast","Baguette",
+        "Croissant","Pumpernickel","Cake","Crispbread"]
+    },
+    {
+      "key": "Dairy & Eggs", "nameEn": "Dairy & Eggs", "nameResKey": "cat_dairy",
+      "emoji": "🥛", "unitType": "PIECES",
+      "items": ["Milk","Butter","Quark","Yogurt","Cream","Cheese","Gouda","Emmental",
+        "Cream Cheese","Mozzarella","Eggs","Buttermilk","Sour Cream"]
+    },
+    {
+      "key": "Meat & Seafood", "nameEn": "Meat & Seafood", "nameResKey": "cat_meat",
+      "emoji": "🍖", "unitType": "WEIGHT",
+      "items": ["Chicken Breast","Minced Meat","Pork Chops","Beef Steak","Sausages",
+        "Bratwurst","Salami","Ham","Bacon","Salmon","Fish Fillet","Turkey"]
+    },
+    {
+      "key": "Pantry & Grains", "nameEn": "Pantry & Grains", "nameResKey": "cat_pantry",
+      "emoji": "🍝", "unitType": "PIECES",
+      "items": ["Pasta","Rice","Flour","Sugar","Salt","Pepper","Muesli","Oats","Lentils",
+        "Cooking Oil","Olive Oil","Vinegar","Honey","Jam","Nutella","Mustard","Ketchup",
+        "Canned Tomatoes","Broth"]
+    },
+    {
+      "key": "Snacks", "nameEn": "Snacks", "nameResKey": "cat_snacks",
+      "emoji": "🍿", "unitType": "PIECES",
+      "items": ["Chips","Chocolate","Gummy Bears","Cookies","Crackers","Nuts","Popcorn",
+        "Cereal Bars","Salt Sticks"]
+    },
+    {
+      "key": "Beverages", "nameEn": "Beverages", "nameResKey": "cat_beverages",
+      "emoji": "☕", "unitType": "LITRES",
+      "items": ["Mineral Water","Apple Juice","Orange Juice","Coffee","Tea","Cola",
+        "Lemonade","Apple Spritzer","Beer","Wine"]
+    },
+    {
+      "key": "Frozen Foods", "nameEn": "Frozen Foods", "nameResKey": "cat_frozen",
+      "emoji": "🧊", "unitType": "PIECES",
+      "items": ["Frozen Pizza","Frozen Vegetables","Fish Fingers","Ice Cream","French Fries",
+        "Frozen Berries","Spinach (Frozen)"]
+    },
+    {
+      "key": "Household", "nameEn": "Household", "nameResKey": "cat_household",
+      "emoji": "🧹", "unitType": "PIECES",
+      "items": ["Dish Soap","Laundry Detergent","Toilet Paper","Paper Towels","Trash Bags",
+        "Cleaning Spray","Sponges","Aluminum Foil","Candles"]
+    },
+    {
+      "key": "Personal Care", "nameEn": "Personal Care", "nameResKey": "cat_personal_care",
+      "emoji": "🧴", "unitType": "PIECES",
+      "items": ["Shampoo","Shower Gel","Toothpaste","Toothbrush","Deodorant","Soap",
+        "Razor Blades","Hand Cream","Sunscreen"]
+    }
+  ]
+}

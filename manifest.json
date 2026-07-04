@@ -1,10 +1,59 @@
 {
-  "manifestVersion": 1,
+  "manifestVersion": 2,
   "catalogs": [
-    { "code": "IN", "displayName": "India",          "flag": "🇮🇳", "fileName": "india_catalog_v1.json",     "dialCode": "+91", "currencyCode": "INR", "version": 1 },
-    { "code": "US", "displayName": "United States",  "flag": "🇺🇸", "fileName": "usa_catalog_v1.json",       "dialCode": "+1",  "currencyCode": "USD", "version": 1 },
-    { "code": "GB", "displayName": "United Kingdom", "flag": "🇬🇧", "fileName": "uk_catalog_v1.json",        "dialCode": "+44", "currencyCode": "GBP", "version": 1 },
-    { "code": "AU", "displayName": "Australia",      "flag": "🇦🇺", "fileName": "australia_catalog_v1.json", "dialCode": "+61", "currencyCode": "AUD", "version": 1 },
-    { "code": "CA", "displayName": "Canada",         "flag": "🇨🇦", "fileName": "canada_catalog_v1.json",    "dialCode": "+1",  "currencyCode": "CAD", "version": 1 }
+    {
+      "code": "IN",
+      "displayName": "India",
+      "flag": "🇮🇳",
+      "fileName": "india_catalog_v1.json",
+      "dialCode": "+91",
+      "currencyCode": "INR",
+      "version": 1
+    },
+    {
+      "code": "US",
+      "displayName": "United States",
+      "flag": "🇺🇸",
+      "fileName": "usa_catalog_v1.json",
+      "dialCode": "+1",
+      "currencyCode": "USD",
+      "version": 1
+    },
+    {
+      "code": "GB",
+      "displayName": "United Kingdom",
+      "flag": "🇬🇧",
+      "fileName": "uk_catalog_v1.json",
+      "dialCode": "+44",
+      "currencyCode": "GBP",
+      "version": 1
+    },
+    {
+      "code": "AU",
+      "displayName": "Australia",
+      "flag": "🇦🇺",
+      "fileName": "australia_catalog_v1.json",
+      "dialCode": "+61",
+      "currencyCode": "AUD",
+      "version": 1
+    },
+    {
+      "code": "CA",
+      "displayName": "Canada",
+      "flag": "🇨🇦",
+      "fileName": "canada_catalog_v1.json",
+      "dialCode": "+1",
+      "currencyCode": "CAD",
+      "version": 1
+    },
+    {
+      "code": "DE",
+      "displayName": "Germany",
+      "flag": "🇩🇪",
+      "fileName": "germany_catalog_v1.json",
+      "dialCode": "+49",
+      "currencyCode": "EUR",
+      "version": 1
+    }
   ]
 }
