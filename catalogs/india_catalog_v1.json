@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "countryCode": "IN",
+  "countryDisplayName": "India",
+  "categories": [
+    {
+      "key": "Vegetables", "nameEn": "Vegetables", "nameResKey": "cat_vegetables",
+      "emoji": "🥦", "unitType": "WEIGHT",
+      "items": ["Onion","Tomato","Potato","Carrot","Beans","Brinjal","Cabbage","Cauliflower",
+        "Ladies Finger","Cucumber","Beetroot","Radish","Pumpkin","Bottle Gourd","Bitter Gourd",
+        "Drumstick","Green Peas","Ginger","Garlic","Green Chilli","Coriander Leaves","Mint Leaves",
+        "Curry Leaves","Spinach","Capsicum","Spring Onion","Raw Banana","Yam","Sweet Potato",
+        "Snake Gourd","Ridge Gourd","Ash Gourd","Chow Chow","Cluster Beans","Broad Beans",
+        "Turnip","Mushroom","Lemon","Coconut","Tender Coconut","Plantain Stem","Plantain Flower",
+        "Colocasia","Green Mango"]
+    },
+    {
+      "key": "Fruits", "nameEn": "Fruits", "nameResKey": "cat_fruits",
+      "emoji": "🍎", "unitType": "WEIGHT",
+      "items": ["Banana","Apple","Orange","Pomegranate","Papaya","Watermelon","Muskmelon",
+        "Mango","Guava","Pineapple","Grapes","Sweet Lime","Kiwi","Custard Apple","Jackfruit",
+        "Dragon Fruit","Pear","Strawberry","Litchi"]
+    },
+    {
+      "key": "Snacks", "nameEn": "Snacks", "nameResKey": "cat_snacks",
+      "emoji": "🍿", "unitType": "PIECES",
+      "items": ["Biscuits","Chips","Mixture","Murukku","Peanuts","Popcorn","Cake","Rusk",
+        "Chocolate","Cookies","Namkeen","Khakhra"]
+    },
+    {
+      "key": "Ice Cream", "nameEn": "Ice Cream", "nameResKey": "cat_ice_cream",
+      "emoji": "🍦", "unitType": "PIECES",
+      "items": ["Vanilla","Chocolate","Strawberry","Butterscotch","Mango","Pista","Choco Bar",
+        "Kulfi","Fruit Bar","Cassata","Sandwich Bar","Sundae","Cone","Cup Ice Cream"]
+    },
+    {
+      "key": "Beverages", "nameEn": "Beverages", "nameResKey": "cat_beverages",
+      "emoji": "☕", "unitType": "LITRES",
+      "items": ["Tea Powder","Coffee Powder","Green Tea","Boost","Horlicks","Bournvita",
+        "Fruit Juice","Soft Drinks","Rose Milk","Badam Mix"]
+    },
+    {
+      "key": "Dairy", "nameEn": "Dairy", "nameResKey": "cat_dairy",
+      "emoji": "🥛", "unitType": "LITRES",
+      "items": ["Milk","Curd","Paneer","Butter","Ghee","Cheese","Cream","Buttermilk",
+        "Yogurt","Lassi","Flavoured Milk"]
+    },
+    {
+      "key": "Rice & Grains", "nameEn": "Rice & Grains", "nameResKey": "cat_rice_grains",
+      "emoji": "🍚", "unitType": "WEIGHT",
+      "items": ["Raw Rice","Boiled Rice","Basmati Rice","Sona Masoori Rice","Idli Rice",
+        "Dosa Rice","Ragi","Foxtail Millet","Kodo Millet","Barnyard Millet","Wheat",
+        "Wheat Flour","Maida","Rava","Rice Flour","Besan Flour","Broken Wheat","Corn Flour",
+        "Aval","Vermicelli"]
+    },
+    {
+      "key": "Pulses & Dals", "nameEn": "Pulses & Dals", "nameResKey": "cat_pulses_dals",
+      "emoji": "🥜", "unitType": "WEIGHT",
+      "items": ["Toor Dal","Urad Dal","Moong Dal","Chana Dal","Masoor Dal","Horse Gram",
+        "Black Channa","White Channa","Rajma","Green Gram","Double Beans","Cow Peas",
+        "Soya Beans"]
+    },
+    {
+      "key": "Oils", "nameEn": "Oils", "nameResKey": "cat_oils",
+      "emoji": "🫒", "unitType": "LITRES",
+      "items": ["Sunflower Oil","Groundnut Oil","Coconut Oil","Sesame Oil","Rice Bran Oil",
+        "Mustard Oil","Olive Oil"]
+    },
+    {
+      "key": "Spices", "nameEn": "Spices", "nameResKey": "cat_spices",
+      "emoji": "🌶️", "unitType": "WEIGHT",
+      "items": ["Turmeric Powder","Chilli Powder","Coriander Powder","Pepper","Jeera",
+        "Mustard Seeds","Fenugreek","Fennel Seeds","Cardamom","Cloves","Cinnamon","Bay Leaf",
+        "Asafoetida","Briyani Saaman","Sambar Powder","Rasam Powder","Garam Masala",
+        "Briyani Masala","Kitchen King Masala","Salt","Sugar","Jaggery"]
+    },
+    {
+      "key": "Bakery & Eggs", "nameEn": "Bakery & Eggs", "nameResKey": "cat_bakery_eggs",
+      "emoji": "🍞", "unitType": "PIECES",
+      "items": ["Bread","Brown Bread","Buns","Eggs","Jam","Peanut Butter","Khari Biscuit"]
+    },
+    {
+      "key": "Instant Foods", "nameEn": "Instant Foods", "nameResKey": "cat_instant_foods",
+      "emoji": "🍜", "unitType": "PIECES",
+      "items": ["Noodles","Pasta","Macaroni","Oats","Corn Flakes","Muesli","Soup Packets",
+        "Idli Mix","Dosa Mix","Upma Mix","Pongal Mix"]
+    },
+    {
+      "key": "Dry Fruits", "nameEn": "Dry Fruits", "nameResKey": "cat_dry_fruits",
+      "emoji": "🌰", "unitType": "WEIGHT",
+      "items": ["Almonds","Cashews","Raisins","Dates","Pistachios","Walnuts","Dry Figs"]
+    },
+    {
+      "key": "Meat & Seafood", "nameEn": "Meat & Seafood", "nameResKey": "cat_meat",
+      "emoji": "🥩", "unitType": "WEIGHT",
+      "items": ["Chicken","Mutton","Pork","Beef","Fish (Rohu)","Fish (Katla)","Pomfret",
+        "Mackerel","Sardine","Tilapia","Prawns","Crab","Squid","Tuna","Salmon"]
+    },
+    {
+      "key": "Personal Care", "nameEn": "Personal Care", "nameResKey": "cat_personal_care",
+      "emoji": "🧴", "unitType": "PIECES",
+      "items": ["Bath Soap","Shampoo","Hair Oil","Toothpaste","Tooth Brush","Face Wash",
+        "Hand Wash","Talcum Powder","Deodorant","Shaving Cream","Shaving Razor",
+        "Face Cream","Lip Balm","Hair Dye"]
+    },
+    {
+      "key": "Baby Care", "nameEn": "Baby Care", "nameResKey": "cat_baby_care",
+      "emoji": "👶", "unitType": "PIECES",
+      "items": ["Baby Diapers","Baby Wipes","Baby Soap","Baby Shampoo","Baby Powder",
+        "Baby Lotion"]
+    },
+    {
+      "key": "Puja Items", "nameEn": "Puja Items", "nameResKey": "cat_puja_items",
+      "emoji": "🪔", "unitType": "PIECES",
+      "items": ["Agarbathi","Camphor","Cotton Wicks","Sesame Oil","Ghee","Flowers",
+        "Turmeric","Kumkum","Coconut","Betel Leaves","Betel Nuts"]
+    },
+    {
+      "key": "Cleaning Supplies", "nameEn": "Cleaning Supplies", "nameResKey": "cat_cleaning_supplies",
+      "emoji": "🧹", "unitType": "PIECES",
+      "items": ["Dish Wash Liquid","Dish Wash Bar","Floor Cleaner","Toilet Cleaner",
+        "Detergent Powder","Detergent Liquid","Glass Cleaner","Scrub Pad","Garbage Bags",
+        "Phenyl","Bleaching Powder","Mosquito Coil","Tissue Paper","Kitchen Towel",
+        "Paper Napkins","Toilet Tissue","Wet Wipes","Aluminium Foil","Cling Wrap"]
+    }
+  ]
+}

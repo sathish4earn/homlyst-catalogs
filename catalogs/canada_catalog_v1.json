@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "countryCode": "CA",
+  "countryDisplayName": "Canada",
+  "categories": [
+    {
+      "key": "Produce", "nameEn": "Produce",
+      "emoji": "🥦", "unitType": "WEIGHT",
+      "items": ["Broccoli","Spinach","Lettuce","Romaine","Kale","Cabbage","Cauliflower",
+        "Brussels Sprouts","Celery","Carrots","Bell Peppers","Cucumber","Zucchini",
+        "Eggplant","Asparagus","Green Beans","Snow Peas","Sugar Snap Peas","Leek",
+        "Onion","Red Onion","Shallots","Garlic","Ginger","Green Onions","Jalapeño",
+        "Tomato","Cherry Tomatoes","Mushrooms","Potatoes","Sweet Potatoes","Yam",
+        "Beets","Radish","Turnip","Rutabaga","Parsnip","Corn","Bok Choy","Swiss Chard",
+        "Cilantro","Parsley","Basil","Mint","Chives","Lemon","Lime","Banana","Apple",
+        "McIntosh Apple","Gala Apple","Orange","Mandarin","Clementine","Grapes",
+        "Strawberries","Raspberries","Blueberries","Blackberries","Saskatoon Berries",
+        "Watermelon","Cantaloupe","Honeydew","Mango","Peach","Nectarine","Plum",
+        "Pear","Pineapple","Kiwi","Cherries","Cranberries","Avocado"]
+    },
+    {
+      "key": "Meat & Poultry", "nameEn": "Meat & Poultry",
+      "emoji": "🥩", "unitType": "WEIGHT",
+      "items": ["Chicken Breast","Chicken Thighs","Whole Chicken","Chicken Drumsticks",
+        "Chicken Wings","Ground Chicken","Ground Beef","Beef Steak","Ribeye","Striploin",
+        "Tenderloin","Chuck Roast","Beef Ribs","Ground Turkey","Turkey Breast","Whole Turkey",
+        "Pork Chops","Pork Tenderloin","Pork Belly","Bacon","Back Bacon","Ham","Sausages",
+        "Smokies","Pepperoni","Lamb Chops","Lamb Rack","Bison Burger","Bison Steak"]
+    },
+    {
+      "key": "Fish & Seafood", "nameEn": "Fish & Seafood",
+      "emoji": "🐟", "unitType": "WEIGHT",
+      "items": ["Atlantic Salmon","Pacific Salmon","Arctic Char","Trout","Halibut","Cod",
+        "Haddock","Tilapia","Tuna","Pickerel","Walleye","Lake Trout","Shrimp","Snow Crab",
+        "Dungeness Crab","Lobster","Scallops","Oysters","Mussels","Clams","Squid",
+        "Smoked Salmon","Canned Tuna","Canned Salmon","Sardines"]
+    },
+    {
+      "key": "Dairy & Eggs", "nameEn": "Dairy & Eggs",
+      "emoji": "🥛", "unitType": "LITRES",
+      "items": ["Homo Milk","2% Milk","1% Milk","Skim Milk","Chocolate Milk","Oat Milk",
+        "Almond Milk","Soy Milk","Coconut Milk Drink","Butter","Margarine","Whipping Cream",
+        "Half and Half","Sour Cream","Cream Cheese","Cheddar","Old Cheddar","Marble",
+        "Havarti","Swiss","Gouda","Brie","Camembert","Feta","Parmesan","Mozzarella",
+        "Cottage Cheese","Greek Yogurt","Regular Yogurt","Kefir","Eggs","Free-Range Eggs",
+        "Omega-3 Eggs"]
+    },
+    {
+      "key": "Bakery & Bread", "nameEn": "Bakery & Bread",
+      "emoji": "🍞", "unitType": "PIECES",
+      "items": ["White Bread","Whole Wheat Bread","Multigrain Bread","Sourdough","Rye Bread",
+        "Pumpernickel","Gluten-Free Bread","Bagels","Everything Bagels","English Muffins",
+        "Buns","Burger Buns","Hot Dog Buns","Dinner Rolls","Croissants","Muffins",
+        "Pita Bread","Naan","Tortillas","Flour Tortillas","Corn Tortillas","Wraps",
+        "Bannock","Butter Tart","Tourtière Shells","Crackers","Graham Crackers","Ryvita"]
+    },
+    {
+      "key": "Pantry & Grains", "nameEn": "Pantry & Grains",
+      "emoji": "🌾", "unitType": "WEIGHT",
+      "items": ["All-Purpose Flour","Whole Wheat Flour","Cornmeal","Rolled Oats","Quick Oats",
+        "Long Grain Rice","Basmati Rice","Brown Rice","Wild Rice","Jasmine Rice","Arborio Rice",
+        "Pasta","Spaghetti","Penne","Macaroni","Egg Noodles","Quinoa","Barley","Lentils",
+        "Split Peas","Canned Beans","Black Beans","Romano Beans","Chickpeas","Kidney Beans",
+        "Navy Beans","Canned Tomatoes","Tomato Sauce","Tomato Paste","Sugar","Brown Sugar",
+        "Icing Sugar","Maple Syrup","Honey","Golden Syrup","Vanilla Extract","Cocoa Powder",
+        "Baking Powder","Baking Soda","Yeast","Breadcrumbs","Chocolate Chips","Dried Fruit"]
+    },
+    {
+      "key": "Condiments & Sauces", "nameEn": "Condiments & Sauces",
+      "emoji": "🥫", "unitType": "PIECES",
+      "items": ["Ketchup","BBQ Sauce","Worcestershire Sauce","Soy Sauce","Hot Sauce",
+        "Sriracha","Hoisin Sauce","Teriyaki Sauce","Mayonnaise","Aioli","Mustard",
+        "Dijon Mustard","Grainy Mustard","Ranch Dressing","Caesar Dressing","Italian Dressing",
+        "Balsamic Glaze","Pasta Sauce","Pesto","Salsa","Guacamole","Peanut Butter",
+        "Almond Butter","Jam","Strawberry Jam","Blueberry Jam","Maple Butter","Marmalade",
+        "Olive Oil","Canola Oil","Vegetable Oil","Coconut Oil","Apple Cider Vinegar",
+        "White Vinegar","Balsamic Vinegar","Chicken Broth","Beef Broth","Vegetable Broth"]
+    },
+    {
+      "key": "Frozen Foods", "nameEn": "Frozen Foods",
+      "emoji": "🧊", "unitType": "PIECES",
+      "items": ["Frozen Peas","Frozen Corn","Frozen Mixed Vegetables","Frozen Edamame",
+        "Frozen Berries","Frozen French Fries","Frozen Onion Rings","Perogies",
+        "Frozen Pizza","Frozen Lasagne","Frozen Meals","Fish Sticks","Chicken Nuggets",
+        "Frozen Waffles","Frozen Pancakes","Ice Cream","Sherbet","Fudgesicles","Creamsicles"]
+    },
+    {
+      "key": "Beverages", "nameEn": "Beverages",
+      "emoji": "☕", "unitType": "LITRES",
+      "items": ["Coffee Beans","Ground Coffee","Instant Coffee","Coffee Pods","Tim Hortons Coffee",
+        "Tea Bags","Green Tea","Herbal Tea","Chai","Hot Chocolate","Ovaltine","Milo",
+        "Orange Juice","Apple Juice","Cranberry Juice","Clamato Juice","Lemonade",
+        "Sparkling Water","Still Water","Sparkling Juice","Soft Drinks","Root Beer",
+        "Ginger Ale","Club Soda","Tonic Water","Energy Drinks","Sports Drinks",
+        "Beer","Canadian Whisky","Rye Whisky","Wine","Ice Wine"]
+    },
+    {
+      "key": "Snacks", "nameEn": "Snacks",
+      "emoji": "🍿", "unitType": "PIECES",
+      "items": ["Chips","All Dressed Chips","Ketchup Chips","Dill Pickle Chips","Popcorn",
+        "Pretzels","Rice Cakes","Crackers","Graham Crackers","Trail Mix","Nuts","Almonds",
+        "Cashews","Peanuts","Pecans","Walnuts","Pistachios","Dried Cranberries","Granola Bars",
+        "Protein Bars","Beef Jerky","Cheese Strings","BeaverTails Mix","Poutine Spice",
+        "Cookies","Chocolate","Nanaimo Bar Mix","Jos Louis","May West","Vachon Cakes"]
+    },
+    {
+      "key": "Personal Care", "nameEn": "Personal Care",
+      "emoji": "🧴", "unitType": "PIECES",
+      "items": ["Shampoo","Conditioner","Body Wash","Bar Soap","Face Wash","Moisturizer",
+        "Sunscreen SPF","Toothpaste","Toothbrush","Mouthwash","Floss","Deodorant",
+        "Antiperspirant","Shaving Cream","Razor","Razor Blades","Lip Balm","Hand Lotion",
+        "Hair Gel","Hair Spray","Dry Shampoo","Cotton Swabs","Cotton Balls",
+        "Feminine Hygiene Products"]
+    },
+    {
+      "key": "Baby Care", "nameEn": "Baby Care",
+      "emoji": "👶", "unitType": "PIECES",
+      "items": ["Diapers","Baby Wipes","Baby Shampoo","Baby Body Wash","Baby Lotion",
+        "Baby Powder","Baby Food","Baby Formula","Diaper Cream","Teething Gel","Pacifier",
+        "Baby Bottle","Baby Tylenol"]
+    },
+    {
+      "key": "Cleaning & Household", "nameEn": "Cleaning & Household",
+      "emoji": "🧹", "unitType": "PIECES",
+      "items": ["Dish Soap","Dishwasher Pods","Laundry Detergent","Fabric Softener",
+        "Dryer Sheets","Bleach","Bathroom Cleaner","Toilet Bowl Cleaner","All-Purpose Cleaner",
+        "Floor Cleaner","Glass Cleaner","Mould Spray","Air Freshener","Paper Towels",
+        "Toilet Paper","Facial Tissue","Garbage Bags","Compostable Bags","Freezer Bags",
+        "Plastic Wrap","Aluminum Foil","Parchment Paper","Sponges","Scrub Pads",
+        "Rubber Gloves","Swiffer Pads"]
+    },
+    {
+      "key": "Herbs & Spices", "nameEn": "Herbs & Spices",
+      "emoji": "🌶️", "unitType": "WEIGHT",
+      "items": ["Salt","Sea Salt","Kosher Salt","Black Pepper","White Pepper",
+        "Garlic Powder","Onion Powder","Paprika","Smoked Paprika","Chili Powder",
+        "Cayenne Pepper","Red Pepper Flakes","Cumin","Coriander","Turmeric","Garam Masala",
+        "Curry Powder","Italian Seasoning","Herbes de Provence","Montreal Steak Spice",
+        "Old Bay","Cinnamon","Nutmeg","Allspice","Cloves","Bay Leaves","Oregano",
+        "Basil","Thyme","Rosemary","Sage","Dill","Tarragon","Fennel Seeds","Cardamom"]
+    }
+  ]
+}
