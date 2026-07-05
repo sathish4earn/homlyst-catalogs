@@ -55,6 +55,24 @@
       "version": 1
     },
     {
+      "code": "IE",
+      "displayName": "Ireland",
+      "flag": "🇮🇪",
+      "fileName": "ireland_catalog_v1.json",
+      "dialCode": "+353",
+      "currencyCode": "EUR",
+      "version": 1
+    },
+    {
+      "code": "NZ",
+      "displayName": "New Zealand",
+      "flag": "🇳🇿",
+      "fileName": "newzealand_catalog_v1.json",
+      "dialCode": "+64",
+      "currencyCode": "NZD",
+      "version": 1
+    },
+    {
       "code": "DE",
       "displayName": "Germany",
       "flag": "🇩🇪",
