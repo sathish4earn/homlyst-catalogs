@@ -175,6 +175,18 @@
       }
     },
     {
+      "code": "MY",
+      "displayName": "Malaysia",
+      "flag": "🇲🇾",
+      "fileName": "malaysia_catalog_v1.json",
+      "dialCode": "+60",
+      "currencyCode": "MYR",
+      "version": 1,
+      "l10n": {
+        "ms": 1
+      }
+    },
+    {
       "code": "GLOBAL",
       "displayName": "Global",
       "flag": "🌍",

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "languages": {
     "en": "English",
     "hi": "हिन्दी",
@@ -14,6 +14,7 @@
     "es": "Español",
     "vi": "Tiếng Việt",
     "th": "ไทย",
-    "fr": "Français"
+    "fr": "Français",
+    "ms": "Bahasa Melayu"
   }
 }
