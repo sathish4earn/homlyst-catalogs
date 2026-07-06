@@ -103,6 +103,13 @@
     "cat_meat": "Viande et Fruits de Mer",
     "share_different_country_title": "Pays Différent ?",
     "share_different_country_warning": "Ce numéro semble provenir d'un autre pays. Le destinataire utilise peut-être un catalogue différent, les articles et catégories pourraient donc ne pas correspondre exactement.",
-    "share_different_country_confirm": "Envoyer Quand Même"
+    "share_different_country_confirm": "Envoyer Quand Même",
+    "add_item": "Ajouter un Article",
+    "add_item_hint": "Nom de l'article",
+    "add_item_duplicate": "Cet article existe déjà dans cette catégorie",
+    "add": "Ajouter",
+    "remove_item_title": "Supprimer l'Article ?",
+    "remove_item_message": "Supprimer « %1$s » de cette catégorie ?",
+    "remove": "Supprimer"
   }
 }

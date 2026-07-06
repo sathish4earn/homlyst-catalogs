@@ -102,6 +102,13 @@
     "cat_meat": "இறைச்சி & கடல் உணவு",
     "share_different_country_title": "வேறு நாடா?",
     "share_different_country_warning": "இந்த எண் வேறு நாட்டைச் சேர்ந்ததாகத் தெரிகிறது. பெறுநர் வேறு பட்டியலைப் பயன்படுத்தலாம், எனவே பொருட்களும் வகைகளும் சரியாகப் பொருந்தாமல் போகலாம்.",
-    "share_different_country_confirm": "இருந்தாலும் அனுப்பு"
+    "share_different_country_confirm": "இருந்தாலும் அனுப்பு",
+    "add_item": "பொருள் சேர்",
+    "add_item_hint": "பொருளின் பெயர்",
+    "add_item_duplicate": "இந்தப் பொருள் ஏற்கனவே இந்தப் பிரிவில் உள்ளது",
+    "add": "சேர்",
+    "remove_item_title": "பொருளை அகற்றவா?",
+    "remove_item_message": "\"%1$s\" ஐ இந்தப் பிரிவிலிருந்து அகற்றவா?",
+    "remove": "அகற்று"
   }
 }

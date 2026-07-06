@@ -102,6 +102,13 @@
     "cat_meat": "ಮಾಂಸ & ಸಮುದ್ರಾಹಾರ",
     "share_different_country_title": "ಬೇರೆ ದೇಶವೇ?",
     "share_different_country_warning": "ಈ ಸಂಖ್ಯೆ ಬೇರೆ ದೇಶದ್ದಂತೆ ಕಾಣುತ್ತಿದೆ. ಸ್ವೀಕರಿಸುವವರು ಬೇರೆ ಕ್ಯಾಟಲಾಗ್ ಬಳಸುತ್ತಿರಬಹುದು, ಆದ್ದರಿಂದ ವಸ್ತುಗಳು ಮತ್ತು ವರ್ಗಗಳು ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗದಿರಬಹುದು.",
-    "share_different_country_confirm": "ಆದರೂ ಕಳುಹಿಸಿ"
+    "share_different_country_confirm": "ಆದರೂ ಕಳುಹಿಸಿ",
+    "add_item": "ವಸ್ತು ಸೇರಿಸಿ",
+    "add_item_hint": "ವಸ್ತುವಿನ ಹೆಸರು",
+    "add_item_duplicate": "ಈ ವಸ್ತು ಈಗಾಗಲೇ ಈ ವರ್ಗದಲ್ಲಿ ಇದೆ",
+    "add": "ಸೇರಿಸಿ",
+    "remove_item_title": "ವಸ್ತುವನ್ನು ತೆಗೆದುಹಾಕುವುದೇ?",
+    "remove_item_message": "\"%1$s\" ಅನ್ನು ಈ ವರ್ಗದಿಂದ ತೆಗೆದುಹಾಕುವುದೇ?",
+    "remove": "ತೆಗೆದುಹಾಕಿ"
   }
 }

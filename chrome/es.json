@@ -103,6 +103,13 @@
     "cat_meat": "Carnes y Mariscos",
     "share_different_country_title": "¿País Diferente?",
     "share_different_country_warning": "Este número parece ser de otro país. Es posible que el destinatario use un catálogo diferente, por lo que los artículos y categorías podrían no coincidir exactamente.",
-    "share_different_country_confirm": "Enviar de Todos Modos"
+    "share_different_country_confirm": "Enviar de Todos Modos",
+    "add_item": "Agregar Artículo",
+    "add_item_hint": "Nombre del artículo",
+    "add_item_duplicate": "Este artículo ya existe en esta categoría",
+    "add": "Agregar",
+    "remove_item_title": "¿Eliminar Artículo?",
+    "remove_item_message": "¿Eliminar \"%1$s\" de esta categoría?",
+    "remove": "Eliminar"
   }
 }

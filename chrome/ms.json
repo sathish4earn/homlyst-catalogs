@@ -103,6 +103,13 @@
     "cat_meat": "Daging & Makanan Laut",
     "share_different_country_title": "Negara Berbeza?",
     "share_different_country_warning": "Nombor ini kelihatan dari negara lain. Penerima mungkin menggunakan katalog berbeza, jadi item dan kategori mungkin tidak sepadan sepenuhnya.",
-    "share_different_country_confirm": "Hantar Juga"
+    "share_different_country_confirm": "Hantar Juga",
+    "add_item": "Tambah Item",
+    "add_item_hint": "Nama item",
+    "add_item_duplicate": "Item ini sudah wujud dalam kategori ini",
+    "add": "Tambah",
+    "remove_item_title": "Buang Item?",
+    "remove_item_message": "Buang \"%1$s\" daripada kategori ini?",
+    "remove": "Buang"
   }
 }

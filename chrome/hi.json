@@ -102,6 +102,13 @@
     "cat_meat": "मांस और समुद्री भोजन",
     "share_different_country_title": "अलग देश?",
     "share_different_country_warning": "यह नंबर किसी दूसरे देश का लग रहा है। हो सकता है प्राप्तकर्ता अलग कैटलॉग का उपयोग कर रहा हो, इसलिए आइटम और श्रेणियाँ पूरी तरह मेल न खाएँ।",
-    "share_different_country_confirm": "फिर भी भेजें"
+    "share_different_country_confirm": "फिर भी भेजें",
+    "add_item": "आइटम जोड़ें",
+    "add_item_hint": "आइटम का नाम",
+    "add_item_duplicate": "यह आइटम पहले से इस श्रेणी में मौजूद है",
+    "add": "जोड़ें",
+    "remove_item_title": "आइटम हटाएं?",
+    "remove_item_message": "\"%1$s\" को इस श्रेणी से हटाएं?",
+    "remove": "हटाएं"
   }
 }

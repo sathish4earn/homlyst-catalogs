@@ -102,6 +102,13 @@
     "cat_meat": "మాంసం & సీఫుడ్",
     "share_different_country_title": "వేరే దేశమా?",
     "share_different_country_warning": "ఈ నంబర్ వేరే దేశానికి చెందినట్లు కనిపిస్తోంది. స్వీకర్త వేరే కేటలాగ్‌ని ఉపయోగిస్తుండవచ్చు, కాబట్టి వస్తువులు మరియు వర్గాలు సరిగ్గా సరిపోలకపోవచ్చు.",
-    "share_different_country_confirm": "అయినా పంపు"
+    "share_different_country_confirm": "అయినా పంపు",
+    "add_item": "వస్తువును జోడించండి",
+    "add_item_hint": "వస్తువు పేరు",
+    "add_item_duplicate": "ఈ వస్తువు ఇప్పటికే ఈ వర్గంలో ఉంది",
+    "add": "జోడించు",
+    "remove_item_title": "వస్తువును తీసివేయాలా?",
+    "remove_item_message": "\"%1$s\" ను ఈ వర్గం నుండి తీసివేయాలా?",
+    "remove": "తీసివేయి"
   }
 }

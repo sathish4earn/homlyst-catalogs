@@ -103,6 +103,13 @@
     "cat_meat": "肉类与海鲜",
     "share_different_country_title": "不同国家？",
     "share_different_country_warning": "此号码似乎属于其他国家。收件人可能使用不同的目录，因此商品和分类可能无法完全匹配。",
-    "share_different_country_confirm": "仍然发送"
+    "share_different_country_confirm": "仍然发送",
+    "add_item": "添加商品",
+    "add_item_hint": "商品名称",
+    "add_item_duplicate": "该商品已存在于此分类中",
+    "add": "添加",
+    "remove_item_title": "删除商品？",
+    "remove_item_message": "要从此分类中删除“%1$s”吗？",
+    "remove": "删除"
   }
 }

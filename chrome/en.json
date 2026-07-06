@@ -103,6 +103,13 @@
     "cat_meat": "Meat & Seafood",
     "share_different_country_title": "Different Country?",
     "share_different_country_warning": "This number looks like it's from a different country. The recipient may be using a different catalog, so items and categories might not match exactly.",
-    "share_different_country_confirm": "Send Anyway"
+    "share_different_country_confirm": "Send Anyway",
+    "add_item": "Add Item",
+    "add_item_hint": "Item name",
+    "add_item_duplicate": "This item already exists in this category",
+    "add": "Add",
+    "remove_item_title": "Remove Item?",
+    "remove_item_message": "Remove \"%1$s\" from this category?",
+    "remove": "Remove"
   }
 }

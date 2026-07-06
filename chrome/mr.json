@@ -102,6 +102,13 @@
     "cat_meat": "मांस आणि सीफूड",
     "share_different_country_title": "वेगळा देश?",
     "share_different_country_warning": "हा नंबर वेगळ्या देशाचा वाटतो. प्राप्तकर्ता वेगळा कॅटलॉग वापरत असू शकतो, त्यामुळे वस्तू आणि श्रेणी अचूक जुळणार नाहीत.",
-    "share_different_country_confirm": "तरीही पाठवा"
+    "share_different_country_confirm": "तरीही पाठवा",
+    "add_item": "आयटम जोडा",
+    "add_item_hint": "आयटमचे नाव",
+    "add_item_duplicate": "हा आयटम आधीच या श्रेणीत आहे",
+    "add": "जोडा",
+    "remove_item_title": "आयटम काढायचा?",
+    "remove_item_message": "\"%1$s\" या श्रेणीतून काढायचा?",
+    "remove": "काढा"
   }
 }

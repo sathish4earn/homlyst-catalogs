@@ -103,6 +103,13 @@
     "cat_meat": "Thịt & Hải Sản",
     "share_different_country_title": "Quốc Gia Khác?",
     "share_different_country_warning": "Số này có vẻ thuộc một quốc gia khác. Người nhận có thể đang sử dụng danh mục khác, vì vậy các mặt hàng và danh mục có thể không khớp chính xác.",
-    "share_different_country_confirm": "Vẫn Gửi"
+    "share_different_country_confirm": "Vẫn Gửi",
+    "add_item": "Thêm Mặt Hàng",
+    "add_item_hint": "Tên mặt hàng",
+    "add_item_duplicate": "Mặt hàng này đã có trong danh mục này",
+    "add": "Thêm",
+    "remove_item_title": "Xóa Mặt Hàng?",
+    "remove_item_message": "Xóa \"%1$s\" khỏi danh mục này?",
+    "remove": "Xóa"
   }
 }

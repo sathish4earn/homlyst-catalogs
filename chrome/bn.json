@@ -102,6 +102,13 @@
     "cat_meat": "মাংস ও সামুদ্রিক খাবার",
     "share_different_country_title": "ভিন্ন দেশ?",
     "share_different_country_warning": "এই নম্বরটি অন্য দেশের বলে মনে হচ্ছে। প্রাপক অন্য ক্যাটালগ ব্যবহার করতে পারেন, তাই আইটেম এবং বিভাগ পুরোপুরি মিলবে না।",
-    "share_different_country_confirm": "তবুও পাঠান"
+    "share_different_country_confirm": "তবুও পাঠান",
+    "add_item": "আইটেম যোগ করুন",
+    "add_item_hint": "আইটেমের নাম",
+    "add_item_duplicate": "এই আইটেমটি ইতিমধ্যে এই বিভাগে রয়েছে",
+    "add": "যোগ করুন",
+    "remove_item_title": "আইটেম সরাবেন?",
+    "remove_item_message": "\"%1$s\" কি এই বিভাগ থেকে সরাতে চান?",
+    "remove": "সরান"
   }
 }

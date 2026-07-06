@@ -103,6 +103,13 @@
     "cat_meat": "Carnes e Frutos do Mar",
     "share_different_country_title": "País Diferente?",
     "share_different_country_warning": "Este número parece ser de outro país. O destinatário pode estar usando um catálogo diferente, então os itens e categorias podem não corresponder exatamente.",
-    "share_different_country_confirm": "Enviar Mesmo Assim"
+    "share_different_country_confirm": "Enviar Mesmo Assim",
+    "add_item": "Adicionar Item",
+    "add_item_hint": "Nome do item",
+    "add_item_duplicate": "Este item já existe nesta categoria",
+    "add": "Adicionar",
+    "remove_item_title": "Remover Item?",
+    "remove_item_message": "Remover \"%1$s\" desta categoria?",
+    "remove": "Remover"
   }
 }
