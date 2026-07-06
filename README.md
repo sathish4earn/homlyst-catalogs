@@ -68,10 +68,13 @@ an older version will otherwise never see your edit — this is the one sharp ed
 Edit the `l10n/<CODE>_<lang>.json` file **and bump that language's version number** in the
 catalog's `l10n` map in `manifest.json` — same re-fetch rule as catalogs.
 
-## What still requires an app release
+## UI chrome (buttons, labels, dialogs) is content-driven too
 
-Only the app's own UI chrome (button labels, dialog titles, static screen text — not catalog
-content) is compiled into the app and needs a release to translate. Most languages here run
-with English chrome and translated catalog content only, which is expected and fine.
+The app's own UI chrome — button labels, dialog titles, static screen text, not just catalog
+content — is also served from this repo (`chrome_manifest.json` + `chrome/<lang>.json`), the
+same bundled-seed + remote-authoritative pattern as catalogs. No app release is needed to
+translate it. See [ROLLOUT_GUIDE.md](ROLLOUT_GUIDE.md) for the full step-by-step process,
+including chrome — it also covers adding a country and a catalog language end-to-end, using
+Malaysia as the worked example.
 
 No user data, secrets, or app logic live in this repository — content only.
