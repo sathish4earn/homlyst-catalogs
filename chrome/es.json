@@ -100,6 +100,9 @@
     "cat_baby_care": "Cuidado del Bebé",
     "cat_puja_items": "Artículos de Puja",
     "cat_cleaning_supplies": "Artículos de Limpieza",
-    "cat_meat": "Carnes y Mariscos"
+    "cat_meat": "Carnes y Mariscos",
+    "share_different_country_title": "¿País Diferente?",
+    "share_different_country_warning": "Este número parece ser de otro país. Es posible que el destinatario use un catálogo diferente, por lo que los artículos y categorías podrían no coincidir exactamente.",
+    "share_different_country_confirm": "Enviar de Todos Modos"
   }
 }

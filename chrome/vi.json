@@ -100,6 +100,9 @@
     "cat_baby_care": "Chăm Sóc Em Bé",
     "cat_puja_items": "Đồ Cúng",
     "cat_cleaning_supplies": "Đồ Dùng Vệ Sinh",
-    "cat_meat": "Thịt & Hải Sản"
+    "cat_meat": "Thịt & Hải Sản",
+    "share_different_country_title": "Quốc Gia Khác?",
+    "share_different_country_warning": "Số này có vẻ thuộc một quốc gia khác. Người nhận có thể đang sử dụng danh mục khác, vì vậy các mặt hàng và danh mục có thể không khớp chính xác.",
+    "share_different_country_confirm": "Vẫn Gửi"
   }
 }

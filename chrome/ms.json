@@ -100,6 +100,9 @@
     "cat_baby_care": "Penjagaan Bayi",
     "cat_puja_items": "Barangan Sembahyang",
     "cat_cleaning_supplies": "Bekalan Pencucian",
-    "cat_meat": "Daging & Makanan Laut"
+    "cat_meat": "Daging & Makanan Laut",
+    "share_different_country_title": "Negara Berbeza?",
+    "share_different_country_warning": "Nombor ini kelihatan dari negara lain. Penerima mungkin menggunakan katalog berbeza, jadi item dan kategori mungkin tidak sepadan sepenuhnya.",
+    "share_different_country_confirm": "Hantar Juga"
   }
 }

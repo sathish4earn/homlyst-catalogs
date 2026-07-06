@@ -99,6 +99,9 @@
     "cat_baby_care": "शिशु देखभाल",
     "cat_puja_items": "पूजा सामग्री",
     "cat_cleaning_supplies": "सफाई सामग्री",
-    "cat_meat": "मांस और समुद्री भोजन"
+    "cat_meat": "मांस और समुद्री भोजन",
+    "share_different_country_title": "अलग देश?",
+    "share_different_country_warning": "यह नंबर किसी दूसरे देश का लग रहा है। हो सकता है प्राप्तकर्ता अलग कैटलॉग का उपयोग कर रहा हो, इसलिए आइटम और श्रेणियाँ पूरी तरह मेल न खाएँ।",
+    "share_different_country_confirm": "फिर भी भेजें"
   }
 }

@@ -100,6 +100,9 @@
     "cat_baby_care": "Baby Care",
     "cat_puja_items": "Puja Items",
     "cat_cleaning_supplies": "Cleaning Supplies",
-    "cat_meat": "Meat & Seafood"
+    "cat_meat": "Meat & Seafood",
+    "share_different_country_title": "Different Country?",
+    "share_different_country_warning": "This number looks like it's from a different country. The recipient may be using a different catalog, so items and categories might not match exactly.",
+    "share_different_country_confirm": "Send Anyway"
   }
 }

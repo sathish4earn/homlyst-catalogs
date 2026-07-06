@@ -99,6 +99,9 @@
     "cat_baby_care": "శిశు సంరక్షణ",
     "cat_puja_items": "పూజా సామగ్రి",
     "cat_cleaning_supplies": "శుభ్రపరచే సామగ్రి",
-    "cat_meat": "మాంసం & సీఫుడ్"
+    "cat_meat": "మాంసం & సీఫుడ్",
+    "share_different_country_title": "వేరే దేశమా?",
+    "share_different_country_warning": "ఈ నంబర్ వేరే దేశానికి చెందినట్లు కనిపిస్తోంది. స్వీకర్త వేరే కేటలాగ్‌ని ఉపయోగిస్తుండవచ్చు, కాబట్టి వస్తువులు మరియు వర్గాలు సరిగ్గా సరిపోలకపోవచ్చు.",
+    "share_different_country_confirm": "అయినా పంపు"
   }
 }

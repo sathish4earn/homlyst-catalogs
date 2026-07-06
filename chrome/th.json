@@ -100,6 +100,9 @@
     "cat_baby_care": "การดูแลเด็กอ่อน",
     "cat_puja_items": "ของใช้ในพิธีบูชา",
     "cat_cleaning_supplies": "อุปกรณ์ทำความสะอาด",
-    "cat_meat": "เนื้อสัตว์และอาหารทะเล"
+    "cat_meat": "เนื้อสัตว์และอาหารทะเล",
+    "share_different_country_title": "ต่างประเทศหรือไม่?",
+    "share_different_country_warning": "หมายเลขนี้ดูเหมือนจะมาจากประเทศอื่น ผู้รับอาจใช้แคตตาล็อกที่แตกต่างกัน ดังนั้นรายการและหมวดหมู่อาจไม่ตรงกันทั้งหมด",
+    "share_different_country_confirm": "ส่งต่อไป"
   }
 }

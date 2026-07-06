@@ -100,6 +100,9 @@
     "cat_baby_care": "婴儿护理",
     "cat_puja_items": "祭祀用品",
     "cat_cleaning_supplies": "清洁用品",
-    "cat_meat": "肉类与海鲜"
+    "cat_meat": "肉类与海鲜",
+    "share_different_country_title": "不同国家？",
+    "share_different_country_warning": "此号码似乎属于其他国家。收件人可能使用不同的目录，因此商品和分类可能无法完全匹配。",
+    "share_different_country_confirm": "仍然发送"
   }
 }

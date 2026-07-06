@@ -99,6 +99,9 @@
     "cat_baby_care": "ಶಿಶು ಆರೈಕೆ",
     "cat_puja_items": "ಪೂಜಾ ಸಾಮಗ್ರಿ",
     "cat_cleaning_supplies": "ಶುಭ್ರೀಕರಣ ಸಾಮಗ್ರಿ",
-    "cat_meat": "ಮಾಂಸ & ಸಮುದ್ರಾಹಾರ"
+    "cat_meat": "ಮಾಂಸ & ಸಮುದ್ರಾಹಾರ",
+    "share_different_country_title": "ಬೇರೆ ದೇಶವೇ?",
+    "share_different_country_warning": "ಈ ಸಂಖ್ಯೆ ಬೇರೆ ದೇಶದ್ದಂತೆ ಕಾಣುತ್ತಿದೆ. ಸ್ವೀಕರಿಸುವವರು ಬೇರೆ ಕ್ಯಾಟಲಾಗ್ ಬಳಸುತ್ತಿರಬಹುದು, ಆದ್ದರಿಂದ ವಸ್ತುಗಳು ಮತ್ತು ವರ್ಗಗಳು ಸರಿಯಾಗಿ ಹೊಂದಿಕೆಯಾಗದಿರಬಹುದು.",
+    "share_different_country_confirm": "ಆದರೂ ಕಳುಹಿಸಿ"
   }
 }

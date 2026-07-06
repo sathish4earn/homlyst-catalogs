@@ -100,6 +100,9 @@
     "cat_baby_care": "Perawatan Bayi",
     "cat_puja_items": "Perlengkapan Sembahyang",
     "cat_cleaning_supplies": "Perlengkapan Bersih-bersih",
-    "cat_meat": "Daging & Makanan Laut"
+    "cat_meat": "Daging & Makanan Laut",
+    "share_different_country_title": "Negara Berbeda?",
+    "share_different_country_warning": "Nomor ini tampaknya berasal dari negara lain. Penerima mungkin menggunakan katalog yang berbeda, sehingga item dan kategori mungkin tidak cocok persis.",
+    "share_different_country_confirm": "Tetap Kirim"
   }
 }
