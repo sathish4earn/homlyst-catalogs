@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "ta": "தமிழ்",
+    "te": "తెలుగు",
+    "kn": "ಕನ್ನಡ",
+    "mr": "मराठी",
+    "bn": "বাংলা",
+    "zh": "中文",
+    "pt": "Português",
+    "id": "Bahasa Indonesia",
+    "es": "Español",
+    "vi": "Tiếng Việt",
+    "th": "ไทย",
+    "fr": "Français"
+  }
+}

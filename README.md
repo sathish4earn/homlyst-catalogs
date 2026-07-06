@@ -8,10 +8,14 @@ edit the JSON, push, done.
 
 ```
 manifest.json          ← registry: which countries exist, with currency/dial-code metadata
+languages.json         ← display names for language codes (e.g. "es" -> "Español")
 catalogs/
   india_catalog_v1.json
   usa_catalog_v1.json
   ...
+  l10n/
+    IN_hi.json          ← item/category translations for one catalog + language
+    ...
 ```
 
 ## How the app consumes this
@@ -39,6 +43,35 @@ bundled seed so it works offline on first install too.
 ## Updating an existing catalog
 
 Edit the catalog file **and bump its `version` number in `manifest.json`** — the app only
-re-downloads a catalog when its manifest version increases.
+re-downloads a catalog when its manifest version increases. A device that's already synced
+an older version will otherwise never see your edit — this is the one sharp edge of the
+"content-only, no app release" model, so don't forget it.
+
+## Adding a language (translating a catalog's items and categories)
+
+1. Create `catalogs/l10n/<CODE>_<lang>.json`:
+   ```json
+   { "version": 1, "categories": { "Vegetables": "Verduras" }, "items": { "onion": "Cebolla" } }
+   ```
+   `categories` keys are the catalog's category `key` values; `items` keys are item `id`s.
+   Coverage can be partial — anything missing falls back to English — but aim for 100%.
+2. Add the language to that catalog's `l10n` map in `manifest.json`:
+   `"l10n": { "es": 1 }` (version starts at 1, same bump rule as catalogs above).
+3. If this is a language the app has never shown before, add its native display name to
+   `languages.json` (e.g. `"es": "Español"`) — this is the *only* reason that file exists:
+   supplying the text shown in the Settings language picker. It's separate from the
+   translation content itself.
+4. Push. No app code or release is needed for any of this.
+
+## Updating a language's translations
+
+Edit the `l10n/<CODE>_<lang>.json` file **and bump that language's version number** in the
+catalog's `l10n` map in `manifest.json` — same re-fetch rule as catalogs.
+
+## What still requires an app release
+
+Only the app's own UI chrome (button labels, dialog titles, static screen text — not catalog
+content) is compiled into the app and needs a release to translate. Most languages here run
+with English chrome and translated catalog content only, which is expected and fine.
 
 No user data, secrets, or app logic live in this repository — content only.
