@@ -1,0 +1,1155 @@
+{
+  "version": 2,
+  "countryCode": "MX",
+  "countryDisplayName": "Mexico",
+  "categories": [
+    {
+      "key": "Vegetables",
+      "nameEn": "Vegetables",
+      "emoji": "🥬",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "onion",
+          "nameEn": "Onion"
+        },
+        {
+          "id": "red-onion",
+          "nameEn": "Red Onion"
+        },
+        {
+          "id": "garlic",
+          "nameEn": "Garlic"
+        },
+        {
+          "id": "tomato",
+          "nameEn": "Tomato"
+        },
+        {
+          "id": "tomatillo",
+          "nameEn": "Tomatillo"
+        },
+        {
+          "id": "chile-poblano",
+          "nameEn": "Poblano Chile"
+        },
+        {
+          "id": "chile-jalapeno",
+          "nameEn": "Jalapeño Chile"
+        },
+        {
+          "id": "chile-serrano",
+          "nameEn": "Serrano Chile"
+        },
+        {
+          "id": "chile-habanero",
+          "nameEn": "Habanero Chile"
+        },
+        {
+          "id": "nopales",
+          "nameEn": "Nopales"
+        },
+        {
+          "id": "calabacita",
+          "nameEn": "Calabacita"
+        },
+        {
+          "id": "elote",
+          "nameEn": "Elote"
+        },
+        {
+          "id": "potato",
+          "nameEn": "Potato"
+        },
+        {
+          "id": "carrot",
+          "nameEn": "Carrot"
+        },
+        {
+          "id": "cucumber",
+          "nameEn": "Cucumber"
+        },
+        {
+          "id": "jicama",
+          "nameEn": "Jícama"
+        },
+        {
+          "id": "chayote",
+          "nameEn": "Chayote"
+        },
+        {
+          "id": "cilantro",
+          "nameEn": "Cilantro"
+        },
+        {
+          "id": "epazote",
+          "nameEn": "Epazote"
+        },
+        {
+          "id": "lettuce",
+          "nameEn": "Lettuce"
+        },
+        {
+          "id": "spinach",
+          "nameEn": "Spinach"
+        },
+        {
+          "id": "ejotes",
+          "nameEn": "Ejotes"
+        }
+      ]
+    },
+    {
+      "key": "Fruits",
+      "nameEn": "Fruits",
+      "emoji": "🍎",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "avocado",
+          "nameEn": "Avocado"
+        },
+        {
+          "id": "lime",
+          "nameEn": "Lime"
+        },
+        {
+          "id": "lemon",
+          "nameEn": "Lemon"
+        },
+        {
+          "id": "banana",
+          "nameEn": "Banana"
+        },
+        {
+          "id": "plantain",
+          "nameEn": "Plantain"
+        },
+        {
+          "id": "mango",
+          "nameEn": "Mango"
+        },
+        {
+          "id": "papaya",
+          "nameEn": "Papaya"
+        },
+        {
+          "id": "pineapple",
+          "nameEn": "Pineapple"
+        },
+        {
+          "id": "watermelon",
+          "nameEn": "Watermelon"
+        },
+        {
+          "id": "cantaloupe",
+          "nameEn": "Cantaloupe"
+        },
+        {
+          "id": "guava",
+          "nameEn": "Guava"
+        },
+        {
+          "id": "prickly-pear",
+          "nameEn": "Prickly Pear"
+        },
+        {
+          "id": "guanabana",
+          "nameEn": "Guanábana"
+        },
+        {
+          "id": "mamey",
+          "nameEn": "Mamey"
+        },
+        {
+          "id": "orange",
+          "nameEn": "Orange"
+        },
+        {
+          "id": "apple",
+          "nameEn": "Apple"
+        },
+        {
+          "id": "grapes",
+          "nameEn": "Grapes"
+        },
+        {
+          "id": "strawberry",
+          "nameEn": "Strawberry"
+        },
+        {
+          "id": "pitahaya",
+          "nameEn": "Pitahaya"
+        },
+        {
+          "id": "peach",
+          "nameEn": "Peach"
+        }
+      ]
+    },
+    {
+      "key": "Corn, Grains & Beans",
+      "nameEn": "Corn, Grains & Beans",
+      "emoji": "🌽",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "tortillas-de-maiz",
+          "nameEn": "Corn Tortillas"
+        },
+        {
+          "id": "tortillas-de-harina",
+          "nameEn": "Flour Tortillas"
+        },
+        {
+          "id": "masa-harina",
+          "nameEn": "Masa Harina"
+        },
+        {
+          "id": "maseca",
+          "nameEn": "Maseca"
+        },
+        {
+          "id": "masa-para-tamales",
+          "nameEn": "Fresh Masa for Tamales"
+        },
+        {
+          "id": "rice",
+          "nameEn": "Rice"
+        },
+        {
+          "id": "oats",
+          "nameEn": "Oats"
+        },
+        {
+          "id": "maicena",
+          "nameEn": "Cornstarch"
+        },
+        {
+          "id": "flour",
+          "nameEn": "Flour"
+        },
+        {
+          "id": "pasta",
+          "nameEn": "Pasta"
+        },
+        {
+          "id": "breakfast-cereal",
+          "nameEn": "Breakfast Cereal"
+        },
+        {
+          "id": "totopos",
+          "nameEn": "Totopos"
+        },
+        {
+          "id": "tostadas",
+          "nameEn": "Tostadas"
+        },
+        {
+          "id": "quinoa",
+          "nameEn": "Quinoa"
+        },
+        {
+          "id": "frijoles-pintos",
+          "nameEn": "Pinto Beans"
+        },
+        {
+          "id": "frijoles-negros",
+          "nameEn": "Black Beans"
+        },
+        {
+          "id": "frijoles-bayos",
+          "nameEn": "Bayo Beans"
+        },
+        {
+          "id": "frijoles-refritos",
+          "nameEn": "Refried Beans"
+        },
+        {
+          "id": "lentils",
+          "nameEn": "Lentils"
+        },
+        {
+          "id": "garbanzo-beans",
+          "nameEn": "Garbanzo Beans"
+        }
+      ]
+    },
+    {
+      "key": "Bakery & Bread",
+      "nameEn": "Bakery & Bread",
+      "emoji": "🍞",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "pan-blanco",
+          "nameEn": "White Bread"
+        },
+        {
+          "id": "pan-de-caja",
+          "nameEn": "Sliced Sandwich Bread"
+        },
+        {
+          "id": "pan-integral",
+          "nameEn": "Whole Wheat Bread"
+        },
+        {
+          "id": "bolillo",
+          "nameEn": "Bolillo"
+        },
+        {
+          "id": "telera",
+          "nameEn": "Telera"
+        },
+        {
+          "id": "pan-dulce",
+          "nameEn": "Pan Dulce"
+        },
+        {
+          "id": "concha",
+          "nameEn": "Concha"
+        },
+        {
+          "id": "cuernito",
+          "nameEn": "Cuernito"
+        },
+        {
+          "id": "oreja",
+          "nameEn": "Oreja"
+        },
+        {
+          "id": "polvoron",
+          "nameEn": "Polvorón"
+        },
+        {
+          "id": "pan-de-muerto",
+          "nameEn": "Pan de Muerto"
+        },
+        {
+          "id": "bimbo-bread",
+          "nameEn": "Bimbo Bread"
+        },
+        {
+          "id": "pan-tostado",
+          "nameEn": "Pan Tostado"
+        },
+        {
+          "id": "panque",
+          "nameEn": "Panqué"
+        },
+        {
+          "id": "rosca-de-reyes",
+          "nameEn": "Rosca de Reyes"
+        }
+      ]
+    },
+    {
+      "key": "Meat & Poultry",
+      "nameEn": "Meat & Poultry",
+      "emoji": "🥩",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "pollo",
+          "nameEn": "Chicken"
+        },
+        {
+          "id": "pechuga-de-pollo",
+          "nameEn": "Chicken Breast"
+        },
+        {
+          "id": "pollo-entero",
+          "nameEn": "Whole Chicken"
+        },
+        {
+          "id": "carne-de-res",
+          "nameEn": "Beef"
+        },
+        {
+          "id": "bistec",
+          "nameEn": "Bistec"
+        },
+        {
+          "id": "carne-molida",
+          "nameEn": "Ground Beef"
+        },
+        {
+          "id": "arrachera",
+          "nameEn": "Arrachera"
+        },
+        {
+          "id": "milanesa",
+          "nameEn": "Milanesa"
+        },
+        {
+          "id": "carnitas",
+          "nameEn": "Carnitas"
+        },
+        {
+          "id": "chuleta-de-cerdo",
+          "nameEn": "Pork Chop"
+        },
+        {
+          "id": "tocino",
+          "nameEn": "Bacon"
+        },
+        {
+          "id": "chorizo",
+          "nameEn": "Chorizo"
+        },
+        {
+          "id": "jamon",
+          "nameEn": "Ham"
+        },
+        {
+          "id": "salchicha",
+          "nameEn": "Salchicha"
+        },
+        {
+          "id": "pierna-de-cerdo",
+          "nameEn": "Pork Leg"
+        },
+        {
+          "id": "costillas-de-cerdo",
+          "nameEn": "Pork Ribs"
+        },
+        {
+          "id": "cordero",
+          "nameEn": "Lamb"
+        },
+        {
+          "id": "cabrito",
+          "nameEn": "Cabrito"
+        },
+        {
+          "id": "pavo",
+          "nameEn": "Turkey"
+        }
+      ]
+    },
+    {
+      "key": "Fish & Seafood",
+      "nameEn": "Fish & Seafood",
+      "emoji": "🐟",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "pescado",
+          "nameEn": "Fish"
+        },
+        {
+          "id": "filete-de-pescado",
+          "nameEn": "Fish Fillet"
+        },
+        {
+          "id": "huachinango",
+          "nameEn": "Huachinango"
+        },
+        {
+          "id": "mojarra",
+          "nameEn": "Mojarra"
+        },
+        {
+          "id": "camarones",
+          "nameEn": "Shrimp"
+        },
+        {
+          "id": "camaron-seco",
+          "nameEn": "Dried Shrimp"
+        },
+        {
+          "id": "pulpo",
+          "nameEn": "Octopus"
+        },
+        {
+          "id": "calamar",
+          "nameEn": "Squid"
+        },
+        {
+          "id": "jaiba",
+          "nameEn": "Jaiba"
+        },
+        {
+          "id": "cangrejo",
+          "nameEn": "Crab"
+        },
+        {
+          "id": "ostiones",
+          "nameEn": "Oysters"
+        },
+        {
+          "id": "almejas",
+          "nameEn": "Clams"
+        },
+        {
+          "id": "mejillones",
+          "nameEn": "Mussels"
+        },
+        {
+          "id": "atun",
+          "nameEn": "Tuna"
+        },
+        {
+          "id": "atun-enlatado",
+          "nameEn": "Canned Tuna"
+        },
+        {
+          "id": "sardinas",
+          "nameEn": "Sardines"
+        },
+        {
+          "id": "bacalao",
+          "nameEn": "Bacalao"
+        },
+        {
+          "id": "langosta",
+          "nameEn": "Lobster"
+        },
+        {
+          "id": "trucha",
+          "nameEn": "Trout"
+        },
+        {
+          "id": "caracol",
+          "nameEn": "Caracol"
+        }
+      ]
+    },
+    {
+      "key": "Dairy & Eggs",
+      "nameEn": "Dairy & Eggs",
+      "emoji": "🥛",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "leche",
+          "nameEn": "Milk"
+        },
+        {
+          "id": "leche-deslactosada",
+          "nameEn": "Lactose-Free Milk"
+        },
+        {
+          "id": "crema-mexicana",
+          "nameEn": "Mexican Crema"
+        },
+        {
+          "id": "queso-fresco",
+          "nameEn": "Queso Fresco"
+        },
+        {
+          "id": "queso-oaxaca",
+          "nameEn": "Queso Oaxaca"
+        },
+        {
+          "id": "queso-panela",
+          "nameEn": "Queso Panela"
+        },
+        {
+          "id": "queso-manchego",
+          "nameEn": "Queso Manchego"
+        },
+        {
+          "id": "queso-cotija",
+          "nameEn": "Cotija Cheese"
+        },
+        {
+          "id": "queso-crema",
+          "nameEn": "Cream Cheese"
+        },
+        {
+          "id": "queso-amarillo",
+          "nameEn": "Queso Amarillo"
+        },
+        {
+          "id": "requeson",
+          "nameEn": "Requesón"
+        },
+        {
+          "id": "yogurt",
+          "nameEn": "Yogurt"
+        },
+        {
+          "id": "mantequilla",
+          "nameEn": "Butter"
+        },
+        {
+          "id": "huevos",
+          "nameEn": "Eggs"
+        },
+        {
+          "id": "leche-condensada",
+          "nameEn": "Condensed Milk"
+        },
+        {
+          "id": "leche-evaporada",
+          "nameEn": "Evaporated Milk"
+        },
+        {
+          "id": "media-crema",
+          "nameEn": "Media Crema"
+        },
+        {
+          "id": "nata",
+          "nameEn": "Nata"
+        }
+      ]
+    },
+    {
+      "key": "Chiles, Spices, Salsas & Oils",
+      "nameEn": "Chiles, Spices, Salsas & Oils",
+      "emoji": "🌶️",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "sal",
+          "nameEn": "Salt"
+        },
+        {
+          "id": "azucar",
+          "nameEn": "Sugar"
+        },
+        {
+          "id": "piloncillo",
+          "nameEn": "Piloncillo"
+        },
+        {
+          "id": "pimienta-negra",
+          "nameEn": "Black Pepper"
+        },
+        {
+          "id": "comino",
+          "nameEn": "Cumin"
+        },
+        {
+          "id": "oregano",
+          "nameEn": "Mexican Oregano"
+        },
+        {
+          "id": "canela",
+          "nameEn": "Cinnamon"
+        },
+        {
+          "id": "chile-guajillo",
+          "nameEn": "Guajillo Chile"
+        },
+        {
+          "id": "chile-ancho",
+          "nameEn": "Ancho Chile"
+        },
+        {
+          "id": "chile-pasilla",
+          "nameEn": "Pasilla Chile"
+        },
+        {
+          "id": "chile-chipotle",
+          "nameEn": "Chipotle Chile"
+        },
+        {
+          "id": "chile-de-arbol",
+          "nameEn": "Chile de Árbol"
+        },
+        {
+          "id": "salsa-valentina",
+          "nameEn": "Valentina Salsa"
+        },
+        {
+          "id": "salsa-tapatio",
+          "nameEn": "Tapatío Salsa"
+        },
+        {
+          "id": "salsa-verde",
+          "nameEn": "Salsa Verde"
+        },
+        {
+          "id": "salsa-roja",
+          "nameEn": "Salsa Roja"
+        },
+        {
+          "id": "consome-de-pollo",
+          "nameEn": "Chicken Bouillon"
+        },
+        {
+          "id": "vinagre",
+          "nameEn": "Vinegar"
+        },
+        {
+          "id": "aceite-vegetal",
+          "nameEn": "Vegetable Oil"
+        },
+        {
+          "id": "aceite-de-maiz",
+          "nameEn": "Corn Oil"
+        },
+        {
+          "id": "manteca-de-cerdo",
+          "nameEn": "Lard"
+        }
+      ]
+    },
+    {
+      "key": "Snacks & Sweets",
+      "nameEn": "Snacks & Sweets",
+      "emoji": "🍬",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "papas-fritas",
+          "nameEn": "Potato Chips"
+        },
+        {
+          "id": "frituras-de-maiz",
+          "nameEn": "Corn Chips"
+        },
+        {
+          "id": "cacahuates-japoneses",
+          "nameEn": "Japanese Peanuts"
+        },
+        {
+          "id": "cacahuates",
+          "nameEn": "Peanuts"
+        },
+        {
+          "id": "nueces",
+          "nameEn": "Walnuts"
+        },
+        {
+          "id": "almendras",
+          "nameEn": "Almonds"
+        },
+        {
+          "id": "pepitas",
+          "nameEn": "Pepitas"
+        },
+        {
+          "id": "galletas-marias",
+          "nameEn": "Maria Cookies"
+        },
+        {
+          "id": "chocolate-abuelita",
+          "nameEn": "Abuelita Chocolate"
+        },
+        {
+          "id": "chocolate",
+          "nameEn": "Chocolate"
+        },
+        {
+          "id": "paletas",
+          "nameEn": "Paletas"
+        },
+        {
+          "id": "pulparindo",
+          "nameEn": "Pulparindo"
+        },
+        {
+          "id": "mazapan",
+          "nameEn": "Mazapán"
+        },
+        {
+          "id": "gansito",
+          "nameEn": "Gansito"
+        },
+        {
+          "id": "palomitas",
+          "nameEn": "Popcorn"
+        },
+        {
+          "id": "churros",
+          "nameEn": "Churros"
+        },
+        {
+          "id": "cajeta",
+          "nameEn": "Cajeta"
+        },
+        {
+          "id": "chamoy",
+          "nameEn": "Chamoy"
+        },
+        {
+          "id": "tajin",
+          "nameEn": "Tajín"
+        }
+      ]
+    },
+    {
+      "key": "Beverages",
+      "nameEn": "Beverages",
+      "emoji": "☕",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "agua",
+          "nameEn": "Drinking Water"
+        },
+        {
+          "id": "agua-mineral",
+          "nameEn": "Sparkling Mineral Water"
+        },
+        {
+          "id": "jarritos",
+          "nameEn": "Jarritos"
+        },
+        {
+          "id": "coca-cola",
+          "nameEn": "Coca-Cola"
+        },
+        {
+          "id": "refresco",
+          "nameEn": "Soft Drink"
+        },
+        {
+          "id": "horchata",
+          "nameEn": "Horchata"
+        },
+        {
+          "id": "agua-de-jamaica",
+          "nameEn": "Agua de Jamaica"
+        },
+        {
+          "id": "agua-de-tamarindo",
+          "nameEn": "Agua de Tamarindo"
+        },
+        {
+          "id": "cafe",
+          "nameEn": "Coffee"
+        },
+        {
+          "id": "cafe-de-olla",
+          "nameEn": "Café de Olla"
+        },
+        {
+          "id": "nescafe",
+          "nameEn": "Nescafé"
+        },
+        {
+          "id": "te",
+          "nameEn": "Tea"
+        },
+        {
+          "id": "chocolate-caliente",
+          "nameEn": "Hot Chocolate"
+        },
+        {
+          "id": "jugo-de-naranja",
+          "nameEn": "Orange Juice"
+        },
+        {
+          "id": "jugo-del-valle",
+          "nameEn": "Del Valle Juice"
+        },
+        {
+          "id": "cerveza",
+          "nameEn": "Beer"
+        },
+        {
+          "id": "tequila",
+          "nameEn": "Tequila"
+        },
+        {
+          "id": "mezcal",
+          "nameEn": "Mezcal"
+        },
+        {
+          "id": "vino",
+          "nameEn": "Wine"
+        }
+      ]
+    },
+    {
+      "key": "Frozen & Canned",
+      "nameEn": "Frozen & Canned",
+      "emoji": "🥫",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "verduras-congeladas",
+          "nameEn": "Frozen Vegetables"
+        },
+        {
+          "id": "helado",
+          "nameEn": "Ice Cream"
+        },
+        {
+          "id": "chiles-en-lata",
+          "nameEn": "Canned Chiles"
+        },
+        {
+          "id": "frijoles-enlatados",
+          "nameEn": "Canned Beans"
+        },
+        {
+          "id": "elote-enlatado",
+          "nameEn": "Canned Corn"
+        },
+        {
+          "id": "pure-de-tomate",
+          "nameEn": "Tomato Puree"
+        },
+        {
+          "id": "rajas-enlatadas",
+          "nameEn": "Canned Rajas"
+        },
+        {
+          "id": "chipotles-adobados",
+          "nameEn": "Chipotles in Adobo"
+        },
+        {
+          "id": "fruta-en-almibar",
+          "nameEn": "Canned Fruit in Syrup"
+        },
+        {
+          "id": "nopales-en-lata",
+          "nameEn": "Canned Nopales"
+        },
+        {
+          "id": "elote-en-crema",
+          "nameEn": "Creamed Corn"
+        },
+        {
+          "id": "sopa-instantanea",
+          "nameEn": "Instant Soup"
+        },
+        {
+          "id": "pizza-congelada",
+          "nameEn": "Frozen Pizza"
+        },
+        {
+          "id": "nuggets-congelados",
+          "nameEn": "Frozen Chicken Nuggets"
+        },
+        {
+          "id": "hielo",
+          "nameEn": "Ice"
+        }
+      ]
+    },
+    {
+      "key": "Household & Cleaning",
+      "nameEn": "Household & Cleaning",
+      "emoji": "🧹",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "jabon-para-trastes",
+          "nameEn": "Dish Soap"
+        },
+        {
+          "id": "detergente-para-ropa",
+          "nameEn": "Laundry Detergent"
+        },
+        {
+          "id": "suavizante-de-telas",
+          "nameEn": "Fabric Softener"
+        },
+        {
+          "id": "cloro",
+          "nameEn": "Bleach"
+        },
+        {
+          "id": "papel-higienico",
+          "nameEn": "Toilet Paper"
+        },
+        {
+          "id": "toallas-de-papel",
+          "nameEn": "Paper Towels"
+        },
+        {
+          "id": "bolsas-de-basura",
+          "nameEn": "Trash Bags"
+        },
+        {
+          "id": "fibras-para-trastes",
+          "nameEn": "Scouring Pads"
+        },
+        {
+          "id": "limpiador-multiusos",
+          "nameEn": "All-Purpose Cleaner"
+        },
+        {
+          "id": "pinol",
+          "nameEn": "Pinol Cleaner"
+        },
+        {
+          "id": "cerillos",
+          "nameEn": "Matches"
+        },
+        {
+          "id": "velas",
+          "nameEn": "Candles"
+        },
+        {
+          "id": "pilas",
+          "nameEn": "Batteries"
+        },
+        {
+          "id": "papel-aluminio",
+          "nameEn": "Aluminum Foil"
+        },
+        {
+          "id": "pastillas-para-lavavajillas",
+          "nameEn": "Dishwasher Tablets"
+        },
+        {
+          "id": "ambientador",
+          "nameEn": "Air Freshener"
+        }
+      ]
+    },
+    {
+      "key": "Personal Care",
+      "nameEn": "Personal Care",
+      "emoji": "🧴",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "jabon-de-bano",
+          "nameEn": "Bath Soap"
+        },
+        {
+          "id": "shampoo",
+          "nameEn": "Shampoo"
+        },
+        {
+          "id": "acondicionador",
+          "nameEn": "Conditioner"
+        },
+        {
+          "id": "pasta-dental",
+          "nameEn": "Toothpaste"
+        },
+        {
+          "id": "cepillo-de-dientes",
+          "nameEn": "Toothbrush"
+        },
+        {
+          "id": "enjuague-bucal",
+          "nameEn": "Mouthwash"
+        },
+        {
+          "id": "hilo-dental",
+          "nameEn": "Dental Floss"
+        },
+        {
+          "id": "desodorante",
+          "nameEn": "Deodorant"
+        },
+        {
+          "id": "rastrillo",
+          "nameEn": "Razor"
+        },
+        {
+          "id": "crema-de-afeitar",
+          "nameEn": "Shaving Cream"
+        },
+        {
+          "id": "toallas-sanitarias",
+          "nameEn": "Sanitary Pads"
+        },
+        {
+          "id": "crema-corporal",
+          "nameEn": "Body Lotion"
+        },
+        {
+          "id": "protector-solar",
+          "nameEn": "Sunscreen"
+        },
+        {
+          "id": "cotonetes",
+          "nameEn": "Cotton Swabs"
+        },
+        {
+          "id": "algodon",
+          "nameEn": "Cotton Balls"
+        },
+        {
+          "id": "peine",
+          "nameEn": "Comb"
+        },
+        {
+          "id": "cepillo-para-cabello",
+          "nameEn": "Hairbrush"
+        },
+        {
+          "id": "gel-para-cabello",
+          "nameEn": "Hair Gel"
+        },
+        {
+          "id": "talco",
+          "nameEn": "Talcum Powder"
+        },
+        {
+          "id": "papel-facial",
+          "nameEn": "Facial Tissue"
+        }
+      ]
+    },
+    {
+      "key": "Baby Care",
+      "nameEn": "Baby Care",
+      "emoji": "👶",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "panales",
+          "nameEn": "Diapers"
+        },
+        {
+          "id": "toallitas-humedas",
+          "nameEn": "Baby Wipes"
+        },
+        {
+          "id": "formula-infantil",
+          "nameEn": "Infant Formula"
+        },
+        {
+          "id": "papilla-para-bebe",
+          "nameEn": "Baby Food"
+        },
+        {
+          "id": "shampoo-de-bebe",
+          "nameEn": "Baby Shampoo"
+        },
+        {
+          "id": "jabon-de-bebe",
+          "nameEn": "Baby Soap"
+        },
+        {
+          "id": "crema-para-rozaduras",
+          "nameEn": "Diaper Rash Cream"
+        },
+        {
+          "id": "aceite-para-bebe",
+          "nameEn": "Baby Oil"
+        },
+        {
+          "id": "talco-para-bebe",
+          "nameEn": "Baby Powder"
+        },
+        {
+          "id": "chupon",
+          "nameEn": "Pacifier"
+        },
+        {
+          "id": "mamila",
+          "nameEn": "Baby Bottle"
+        },
+        {
+          "id": "cereal-para-bebe",
+          "nameEn": "Baby Cereal"
+        },
+        {
+          "id": "compotas",
+          "nameEn": "Baby Fruit Puree"
+        },
+        {
+          "id": "galletas-para-bebe",
+          "nameEn": "Baby Teething Cookies"
+        },
+        {
+          "id": "vaselina",
+          "nameEn": "Petroleum Jelly"
+        }
+      ]
+    }
+  ]
+}

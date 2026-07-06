@@ -1,0 +1,1175 @@
+{
+  "version": 2,
+  "countryCode": "ID",
+  "countryDisplayName": "Indonesia",
+  "categories": [
+    {
+      "key": "Vegetables",
+      "nameEn": "Vegetables",
+      "emoji": "🥬",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "onion",
+          "nameEn": "Onion"
+        },
+        {
+          "id": "shallot",
+          "nameEn": "Shallot"
+        },
+        {
+          "id": "garlic",
+          "nameEn": "Garlic"
+        },
+        {
+          "id": "ginger",
+          "nameEn": "Ginger"
+        },
+        {
+          "id": "tomato",
+          "nameEn": "Tomato"
+        },
+        {
+          "id": "potato",
+          "nameEn": "Potato"
+        },
+        {
+          "id": "cabbage",
+          "nameEn": "Cabbage"
+        },
+        {
+          "id": "kangkung",
+          "nameEn": "Kangkung"
+        },
+        {
+          "id": "spinach",
+          "nameEn": "Spinach"
+        },
+        {
+          "id": "mustard-greens",
+          "nameEn": "Mustard Greens"
+        },
+        {
+          "id": "terong",
+          "nameEn": "Terong"
+        },
+        {
+          "id": "ketimun",
+          "nameEn": "Ketimun"
+        },
+        {
+          "id": "long-beans",
+          "nameEn": "Long Beans"
+        },
+        {
+          "id": "bean-sprouts",
+          "nameEn": "Bean Sprouts"
+        },
+        {
+          "id": "carrot",
+          "nameEn": "Carrot"
+        },
+        {
+          "id": "corn",
+          "nameEn": "Corn"
+        },
+        {
+          "id": "red-chili",
+          "nameEn": "Red Chili"
+        },
+        {
+          "id": "birds-eye-chili",
+          "nameEn": "Bird's Eye Chili"
+        },
+        {
+          "id": "spring-onion",
+          "nameEn": "Spring Onion"
+        },
+        {
+          "id": "petai",
+          "nameEn": "Petai"
+        },
+        {
+          "id": "jengkol",
+          "nameEn": "Jengkol"
+        },
+        {
+          "id": "chayote",
+          "nameEn": "Chayote"
+        }
+      ]
+    },
+    {
+      "key": "Fruits",
+      "nameEn": "Fruits",
+      "emoji": "🥭",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "banana",
+          "nameEn": "Banana"
+        },
+        {
+          "id": "mango",
+          "nameEn": "Mango"
+        },
+        {
+          "id": "papaya",
+          "nameEn": "Papaya"
+        },
+        {
+          "id": "pineapple",
+          "nameEn": "Pineapple"
+        },
+        {
+          "id": "watermelon",
+          "nameEn": "Watermelon"
+        },
+        {
+          "id": "melon",
+          "nameEn": "Melon"
+        },
+        {
+          "id": "rambutan",
+          "nameEn": "Rambutan"
+        },
+        {
+          "id": "mangosteen",
+          "nameEn": "Mangosteen"
+        },
+        {
+          "id": "salak",
+          "nameEn": "Salak"
+        },
+        {
+          "id": "durian",
+          "nameEn": "Durian"
+        },
+        {
+          "id": "jackfruit",
+          "nameEn": "Jackfruit"
+        },
+        {
+          "id": "soursop",
+          "nameEn": "Soursop"
+        },
+        {
+          "id": "guava",
+          "nameEn": "Guava"
+        },
+        {
+          "id": "starfruit",
+          "nameEn": "Starfruit"
+        },
+        {
+          "id": "orange",
+          "nameEn": "Orange"
+        },
+        {
+          "id": "lime",
+          "nameEn": "Lime"
+        },
+        {
+          "id": "apple",
+          "nameEn": "Apple"
+        },
+        {
+          "id": "grapes",
+          "nameEn": "Grapes"
+        },
+        {
+          "id": "avocado",
+          "nameEn": "Avocado"
+        },
+        {
+          "id": "coconut",
+          "nameEn": "Coconut"
+        }
+      ]
+    },
+    {
+      "key": "Rice, Grains & Noodles",
+      "nameEn": "Rice, Grains & Noodles",
+      "emoji": "🍚",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "rice",
+          "nameEn": "Rice"
+        },
+        {
+          "id": "glutinous-rice",
+          "nameEn": "Glutinous Rice"
+        },
+        {
+          "id": "red-rice",
+          "nameEn": "Red Rice"
+        },
+        {
+          "id": "indomie",
+          "nameEn": "Indomie"
+        },
+        {
+          "id": "bihun",
+          "nameEn": "Bihun"
+        },
+        {
+          "id": "kwetiau",
+          "nameEn": "Kwetiau"
+        },
+        {
+          "id": "mi-telur",
+          "nameEn": "Mi Telur"
+        },
+        {
+          "id": "soun",
+          "nameEn": "Soun"
+        },
+        {
+          "id": "wheat-flour",
+          "nameEn": "Wheat Flour"
+        },
+        {
+          "id": "rice-flour",
+          "nameEn": "Rice Flour"
+        },
+        {
+          "id": "tapioca-flour",
+          "nameEn": "Tapioca Flour"
+        },
+        {
+          "id": "cornstarch",
+          "nameEn": "Cornstarch"
+        },
+        {
+          "id": "sago",
+          "nameEn": "Sago Flour"
+        },
+        {
+          "id": "breadcrumbs",
+          "nameEn": "Breadcrumbs"
+        },
+        {
+          "id": "oats",
+          "nameEn": "Oats"
+        }
+      ]
+    },
+    {
+      "key": "Tofu, Tempeh, Eggs & Beans",
+      "nameEn": "Tofu, Tempeh, Eggs & Beans",
+      "emoji": "🍢",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "tofu",
+          "nameEn": "Tofu"
+        },
+        {
+          "id": "firm-tofu",
+          "nameEn": "Firm Tofu"
+        },
+        {
+          "id": "silken-tofu",
+          "nameEn": "Silken Tofu"
+        },
+        {
+          "id": "fried-tofu",
+          "nameEn": "Fried Tofu"
+        },
+        {
+          "id": "tempeh",
+          "nameEn": "Tempeh"
+        },
+        {
+          "id": "fried-tempeh",
+          "nameEn": "Fried Tempeh"
+        },
+        {
+          "id": "oncom",
+          "nameEn": "Oncom"
+        },
+        {
+          "id": "chicken-eggs",
+          "nameEn": "Chicken Eggs"
+        },
+        {
+          "id": "duck-eggs",
+          "nameEn": "Duck Eggs"
+        },
+        {
+          "id": "salted-eggs",
+          "nameEn": "Salted Eggs"
+        },
+        {
+          "id": "quail-eggs",
+          "nameEn": "Quail Eggs"
+        },
+        {
+          "id": "soybeans",
+          "nameEn": "Soybeans"
+        },
+        {
+          "id": "tauco",
+          "nameEn": "Tauco"
+        },
+        {
+          "id": "peanuts",
+          "nameEn": "Peanuts"
+        },
+        {
+          "id": "mung-beans",
+          "nameEn": "Mung Beans"
+        }
+      ]
+    },
+    {
+      "key": "Meat & Poultry",
+      "nameEn": "Meat & Poultry",
+      "emoji": "🥩",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "chicken",
+          "nameEn": "Chicken"
+        },
+        {
+          "id": "chicken-thigh",
+          "nameEn": "Chicken Thigh"
+        },
+        {
+          "id": "chicken-breast",
+          "nameEn": "Chicken Breast"
+        },
+        {
+          "id": "chicken-wings",
+          "nameEn": "Chicken Wings"
+        },
+        {
+          "id": "whole-chicken",
+          "nameEn": "Whole Chicken"
+        },
+        {
+          "id": "chicken-liver",
+          "nameEn": "Chicken Liver"
+        },
+        {
+          "id": "beef",
+          "nameEn": "Beef"
+        },
+        {
+          "id": "ground-beef",
+          "nameEn": "Ground Beef"
+        },
+        {
+          "id": "beef-liver",
+          "nameEn": "Beef Liver"
+        },
+        {
+          "id": "beef-ribs",
+          "nameEn": "Beef Ribs"
+        },
+        {
+          "id": "jeroan",
+          "nameEn": "Jeroan"
+        },
+        {
+          "id": "goat-meat",
+          "nameEn": "Goat Meat"
+        },
+        {
+          "id": "duck",
+          "nameEn": "Duck"
+        },
+        {
+          "id": "bakso",
+          "nameEn": "Bakso"
+        },
+        {
+          "id": "chicken-sausage",
+          "nameEn": "Chicken Sausage"
+        },
+        {
+          "id": "ayam-kampung",
+          "nameEn": "Kampung Chicken"
+        }
+      ]
+    },
+    {
+      "key": "Fish & Seafood",
+      "nameEn": "Fish & Seafood",
+      "emoji": "🐟",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "bandeng",
+          "nameEn": "Bandeng"
+        },
+        {
+          "id": "lele",
+          "nameEn": "Lele"
+        },
+        {
+          "id": "nila",
+          "nameEn": "Nila"
+        },
+        {
+          "id": "kembung",
+          "nameEn": "Kembung"
+        },
+        {
+          "id": "bawal",
+          "nameEn": "Bawal"
+        },
+        {
+          "id": "gurame",
+          "nameEn": "Gurame"
+        },
+        {
+          "id": "tuna",
+          "nameEn": "Tuna"
+        },
+        {
+          "id": "cakalang",
+          "nameEn": "Cakalang"
+        },
+        {
+          "id": "teri",
+          "nameEn": "Teri"
+        },
+        {
+          "id": "ikan-asin",
+          "nameEn": "Ikan Asin"
+        },
+        {
+          "id": "shrimp",
+          "nameEn": "Shrimp"
+        },
+        {
+          "id": "crab",
+          "nameEn": "Crab"
+        },
+        {
+          "id": "cumi",
+          "nameEn": "Cumi"
+        },
+        {
+          "id": "kerang",
+          "nameEn": "Kerang"
+        },
+        {
+          "id": "kakap",
+          "nameEn": "Kakap"
+        }
+      ]
+    },
+    {
+      "key": "Oils & Coconut Milk",
+      "nameEn": "Oils & Coconut Milk",
+      "emoji": "🥥",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "cooking-oil",
+          "nameEn": "Cooking Oil"
+        },
+        {
+          "id": "bimoli",
+          "nameEn": "Bimoli"
+        },
+        {
+          "id": "filma",
+          "nameEn": "Filma"
+        },
+        {
+          "id": "tropical",
+          "nameEn": "Tropical"
+        },
+        {
+          "id": "sunco",
+          "nameEn": "Sunco"
+        },
+        {
+          "id": "coconut-oil",
+          "nameEn": "Coconut Oil"
+        },
+        {
+          "id": "santan",
+          "nameEn": "Santan"
+        },
+        {
+          "id": "kara",
+          "nameEn": "Kara"
+        },
+        {
+          "id": "santan-kental",
+          "nameEn": "Thick Coconut Milk"
+        },
+        {
+          "id": "santan-cair",
+          "nameEn": "Thin Coconut Milk"
+        },
+        {
+          "id": "blue-band",
+          "nameEn": "Blue Band"
+        },
+        {
+          "id": "butter",
+          "nameEn": "Butter"
+        },
+        {
+          "id": "ghee",
+          "nameEn": "Ghee"
+        },
+        {
+          "id": "sesame-oil",
+          "nameEn": "Sesame Oil"
+        },
+        {
+          "id": "olive-oil",
+          "nameEn": "Olive Oil"
+        }
+      ]
+    },
+    {
+      "key": "Spices, Sambal & Seasonings",
+      "nameEn": "Spices, Sambal & Seasonings",
+      "emoji": "🌶️",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "salt",
+          "nameEn": "Salt"
+        },
+        {
+          "id": "sugar",
+          "nameEn": "Sugar"
+        },
+        {
+          "id": "gula-merah",
+          "nameEn": "Palm Sugar"
+        },
+        {
+          "id": "terasi",
+          "nameEn": "Terasi"
+        },
+        {
+          "id": "sambal-terasi",
+          "nameEn": "Sambal Terasi"
+        },
+        {
+          "id": "sambal-oelek",
+          "nameEn": "Sambal Oelek"
+        },
+        {
+          "id": "kecap-manis",
+          "nameEn": "Kecap Manis"
+        },
+        {
+          "id": "bango-kecap-manis",
+          "nameEn": "Bango Kecap Manis"
+        },
+        {
+          "id": "abc-kecap-manis",
+          "nameEn": "ABC Kecap Manis"
+        },
+        {
+          "id": "oyster-sauce",
+          "nameEn": "Oyster Sauce"
+        },
+        {
+          "id": "kunyit",
+          "nameEn": "Turmeric"
+        },
+        {
+          "id": "kemiri",
+          "nameEn": "Candlenut"
+        },
+        {
+          "id": "ketumbar",
+          "nameEn": "Coriander Seeds"
+        },
+        {
+          "id": "daun-salam",
+          "nameEn": "Bay Leaves"
+        },
+        {
+          "id": "daun-jeruk",
+          "nameEn": "Kaffir Lime Leaves"
+        },
+        {
+          "id": "sereh",
+          "nameEn": "Lemongrass"
+        },
+        {
+          "id": "lengkuas",
+          "nameEn": "Galangal"
+        },
+        {
+          "id": "asam-jawa",
+          "nameEn": "Tamarind"
+        },
+        {
+          "id": "royco",
+          "nameEn": "Royco"
+        },
+        {
+          "id": "masako",
+          "nameEn": "Masako"
+        }
+      ]
+    },
+    {
+      "key": "Snacks & Biscuits",
+      "nameEn": "Snacks & Biscuits",
+      "emoji": "🍿",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "kerupuk",
+          "nameEn": "Kerupuk"
+        },
+        {
+          "id": "kerupuk-udang",
+          "nameEn": "Shrimp Crackers"
+        },
+        {
+          "id": "emping",
+          "nameEn": "Emping"
+        },
+        {
+          "id": "keripik-singkong",
+          "nameEn": "Cassava Chips"
+        },
+        {
+          "id": "keripik-tempe",
+          "nameEn": "Tempeh Chips"
+        },
+        {
+          "id": "keripik-pisang",
+          "nameEn": "Banana Chips"
+        },
+        {
+          "id": "roma-biscuits",
+          "nameEn": "Roma Biscuits"
+        },
+        {
+          "id": "khong-guan-biscuits",
+          "nameEn": "Khong Guan Biscuits"
+        },
+        {
+          "id": "chitato",
+          "nameEn": "Chitato"
+        },
+        {
+          "id": "taro-snack",
+          "nameEn": "Taro Snack"
+        },
+        {
+          "id": "chiki",
+          "nameEn": "Chiki"
+        },
+        {
+          "id": "tango-wafer",
+          "nameEn": "Tango Wafer"
+        },
+        {
+          "id": "silverqueen",
+          "nameEn": "SilverQueen"
+        },
+        {
+          "id": "beng-beng",
+          "nameEn": "Beng-Beng"
+        },
+        {
+          "id": "kopiko",
+          "nameEn": "Kopiko"
+        },
+        {
+          "id": "kacang-bawang",
+          "nameEn": "Fried Peanuts"
+        }
+      ]
+    },
+    {
+      "key": "Beverages",
+      "nameEn": "Beverages",
+      "emoji": "☕",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "air-mineral",
+          "nameEn": "Drinking Water"
+        },
+        {
+          "id": "aqua",
+          "nameEn": "Aqua"
+        },
+        {
+          "id": "teh-botol-sosro",
+          "nameEn": "Teh Botol Sosro"
+        },
+        {
+          "id": "teh-celup",
+          "nameEn": "Tea Bags"
+        },
+        {
+          "id": "kopi-bubuk",
+          "nameEn": "Ground Coffee"
+        },
+        {
+          "id": "kapal-api",
+          "nameEn": "Kapal Api Coffee"
+        },
+        {
+          "id": "good-day",
+          "nameEn": "Good Day Coffee"
+        },
+        {
+          "id": "kopiko-78c",
+          "nameEn": "Kopiko 78°C"
+        },
+        {
+          "id": "nutrisari",
+          "nameEn": "Nutrisari"
+        },
+        {
+          "id": "pocari-sweat",
+          "nameEn": "Pocari Sweat"
+        },
+        {
+          "id": "milo",
+          "nameEn": "Milo"
+        },
+        {
+          "id": "minuman-bersoda",
+          "nameEn": "Soft Drinks"
+        },
+        {
+          "id": "bintang-beer",
+          "nameEn": "Bintang Beer"
+        },
+        {
+          "id": "jamu",
+          "nameEn": "Jamu"
+        },
+        {
+          "id": "jus-jeruk",
+          "nameEn": "Orange Juice"
+        },
+        {
+          "id": "marjan",
+          "nameEn": "Marjan Syrup"
+        }
+      ]
+    },
+    {
+      "key": "Dairy & Milk Products",
+      "nameEn": "Dairy & Milk Products",
+      "emoji": "🥛",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "fresh-milk",
+          "nameEn": "Fresh Milk"
+        },
+        {
+          "id": "uht-milk",
+          "nameEn": "UHT Milk"
+        },
+        {
+          "id": "frisian-flag",
+          "nameEn": "Frisian Flag Milk"
+        },
+        {
+          "id": "ultra-milk",
+          "nameEn": "Ultra Milk"
+        },
+        {
+          "id": "indomilk",
+          "nameEn": "Indomilk"
+        },
+        {
+          "id": "dancow",
+          "nameEn": "Dancow Powdered Milk"
+        },
+        {
+          "id": "susu-kental-manis",
+          "nameEn": "Sweetened Condensed Milk"
+        },
+        {
+          "id": "cheese",
+          "nameEn": "Cheese"
+        },
+        {
+          "id": "kraft-cheddar",
+          "nameEn": "Kraft Cheddar Cheese"
+        },
+        {
+          "id": "keju-lembaran",
+          "nameEn": "Cheese Slices"
+        },
+        {
+          "id": "mozzarella",
+          "nameEn": "Mozzarella Cheese"
+        },
+        {
+          "id": "yogurt",
+          "nameEn": "Yogurt"
+        },
+        {
+          "id": "cimory",
+          "nameEn": "Cimory Yogurt Drink"
+        },
+        {
+          "id": "coffee-creamer",
+          "nameEn": "Coffee Creamer"
+        },
+        {
+          "id": "chocolate-milk",
+          "nameEn": "Chocolate Milk"
+        }
+      ]
+    },
+    {
+      "key": "Frozen & Canned",
+      "nameEn": "Frozen & Canned",
+      "emoji": "🧊",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "chicken-nuggets",
+          "nameEn": "Chicken Nuggets"
+        },
+        {
+          "id": "so-good",
+          "nameEn": "So Good Nuggets"
+        },
+        {
+          "id": "fiesta",
+          "nameEn": "Fiesta Sausage"
+        },
+        {
+          "id": "bakso-beku",
+          "nameEn": "Frozen Meatballs"
+        },
+        {
+          "id": "siomay-beku",
+          "nameEn": "Frozen Siomay"
+        },
+        {
+          "id": "lumpia-beku",
+          "nameEn": "Frozen Spring Rolls"
+        },
+        {
+          "id": "otak-otak",
+          "nameEn": "Otak-Otak"
+        },
+        {
+          "id": "sayur-beku",
+          "nameEn": "Frozen Vegetables"
+        },
+        {
+          "id": "es-krim",
+          "nameEn": "Ice Cream"
+        },
+        {
+          "id": "walls",
+          "nameEn": "Wall's Ice Cream"
+        },
+        {
+          "id": "sarden-kaleng",
+          "nameEn": "Canned Sardines"
+        },
+        {
+          "id": "abc-sarden",
+          "nameEn": "ABC Sardines"
+        },
+        {
+          "id": "jagung-kaleng",
+          "nameEn": "Canned Corn"
+        },
+        {
+          "id": "buah-kaleng",
+          "nameEn": "Canned Fruit Cocktail"
+        },
+        {
+          "id": "kornet",
+          "nameEn": "Kornet"
+        }
+      ]
+    },
+    {
+      "key": "Household & Cleaning",
+      "nameEn": "Household & Cleaning",
+      "emoji": "🧹",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "rinso",
+          "nameEn": "Rinso"
+        },
+        {
+          "id": "attack",
+          "nameEn": "Attack"
+        },
+        {
+          "id": "soklin",
+          "nameEn": "SoKlin"
+        },
+        {
+          "id": "molto",
+          "nameEn": "Molto"
+        },
+        {
+          "id": "sunlight",
+          "nameEn": "Sunlight"
+        },
+        {
+          "id": "mama-lemon",
+          "nameEn": "Mama Lemon"
+        },
+        {
+          "id": "wipol",
+          "nameEn": "Wipol"
+        },
+        {
+          "id": "bayclin",
+          "nameEn": "Bayclin"
+        },
+        {
+          "id": "trash-bags",
+          "nameEn": "Trash Bags"
+        },
+        {
+          "id": "toilet-paper",
+          "nameEn": "Toilet Paper"
+        },
+        {
+          "id": "hit",
+          "nameEn": "HIT"
+        },
+        {
+          "id": "baygon",
+          "nameEn": "Baygon"
+        },
+        {
+          "id": "obat-nyamuk-bakar",
+          "nameEn": "Mosquito Coil"
+        },
+        {
+          "id": "tabung-gas-lpg",
+          "nameEn": "LPG Gas Canister"
+        },
+        {
+          "id": "pengharum-ruangan",
+          "nameEn": "Air Freshener"
+        }
+      ]
+    },
+    {
+      "key": "Personal Care",
+      "nameEn": "Personal Care",
+      "emoji": "🧴",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "lifebuoy",
+          "nameEn": "Lifebuoy"
+        },
+        {
+          "id": "lux",
+          "nameEn": "Lux"
+        },
+        {
+          "id": "pepsodent",
+          "nameEn": "Pepsodent"
+        },
+        {
+          "id": "toothbrush",
+          "nameEn": "Toothbrush"
+        },
+        {
+          "id": "sunsilk",
+          "nameEn": "Sunsilk"
+        },
+        {
+          "id": "clear-shampoo",
+          "nameEn": "Clear Shampoo"
+        },
+        {
+          "id": "pantene",
+          "nameEn": "Pantene"
+        },
+        {
+          "id": "citra",
+          "nameEn": "Citra"
+        },
+        {
+          "id": "vaseline",
+          "nameEn": "Vaseline"
+        },
+        {
+          "id": "rexona",
+          "nameEn": "Rexona"
+        },
+        {
+          "id": "gatsby",
+          "nameEn": "Gatsby"
+        },
+        {
+          "id": "wardah",
+          "nameEn": "Wardah"
+        },
+        {
+          "id": "charm",
+          "nameEn": "Charm"
+        },
+        {
+          "id": "sunscreen",
+          "nameEn": "Sunscreen"
+        },
+        {
+          "id": "shaving-razor",
+          "nameEn": "Shaving Razor"
+        }
+      ]
+    },
+    {
+      "key": "Baby Care",
+      "nameEn": "Baby Care",
+      "emoji": "👶",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "pampers",
+          "nameEn": "Pampers"
+        },
+        {
+          "id": "merries",
+          "nameEn": "Merries"
+        },
+        {
+          "id": "sweety",
+          "nameEn": "Sweety"
+        },
+        {
+          "id": "baby-wipes",
+          "nameEn": "Baby Wipes"
+        },
+        {
+          "id": "sgm",
+          "nameEn": "SGM Formula Milk"
+        },
+        {
+          "id": "bebelac",
+          "nameEn": "Bebelac Formula Milk"
+        },
+        {
+          "id": "baby-powder",
+          "nameEn": "Baby Powder"
+        },
+        {
+          "id": "johnsons-baby-oil",
+          "nameEn": "Johnson's Baby Oil"
+        },
+        {
+          "id": "baby-shampoo",
+          "nameEn": "Baby Shampoo"
+        },
+        {
+          "id": "baby-soap",
+          "nameEn": "Baby Soap"
+        },
+        {
+          "id": "promina",
+          "nameEn": "Promina Baby Porridge"
+        },
+        {
+          "id": "baby-lotion",
+          "nameEn": "Baby Lotion"
+        },
+        {
+          "id": "diaper-rash-cream",
+          "nameEn": "Diaper Rash Cream"
+        },
+        {
+          "id": "minyak-telon",
+          "nameEn": "Minyak Telon"
+        },
+        {
+          "id": "baby-cotton-buds",
+          "nameEn": "Baby Cotton Buds"
+        }
+      ]
+    },
+    {
+      "key": "Bakery & Bread",
+      "nameEn": "Bakery & Bread",
+      "emoji": "🍞",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "sari-roti",
+          "nameEn": "Sari Roti"
+        },
+        {
+          "id": "roti-manis",
+          "nameEn": "Roti Manis"
+        },
+        {
+          "id": "roti-sobek",
+          "nameEn": "Roti Sobek"
+        },
+        {
+          "id": "bagelen",
+          "nameEn": "Bagelen"
+        },
+        {
+          "id": "donat",
+          "nameEn": "Donat"
+        },
+        {
+          "id": "bolu",
+          "nameEn": "Bolu Cake"
+        },
+        {
+          "id": "kue-lapis",
+          "nameEn": "Kue Lapis"
+        },
+        {
+          "id": "bolu-kukus",
+          "nameEn": "Bolu Kukus"
+        },
+        {
+          "id": "croissant",
+          "nameEn": "Croissant"
+        },
+        {
+          "id": "muffin",
+          "nameEn": "Muffin"
+        },
+        {
+          "id": "baguette",
+          "nameEn": "Baguette"
+        },
+        {
+          "id": "roti-gandum",
+          "nameEn": "Wheat Bread"
+        },
+        {
+          "id": "roti-burger",
+          "nameEn": "Burger Buns"
+        },
+        {
+          "id": "roti-hotdog",
+          "nameEn": "Hot Dog Buns"
+        },
+        {
+          "id": "klepon",
+          "nameEn": "Klepon"
+        }
+      ]
+    }
+  ]
+}

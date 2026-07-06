@@ -1,0 +1,1171 @@
+{
+  "version": 2,
+  "countryCode": "TH",
+  "countryDisplayName": "Thailand",
+  "categories": [
+    {
+      "key": "Vegetables & Herbs",
+      "nameEn": "Vegetables & Herbs",
+      "emoji": "🥬",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "thai-basil",
+          "nameEn": "Thai Basil (Bai Horapha)"
+        },
+        {
+          "id": "holy-basil",
+          "nameEn": "Holy Basil (Bai Kaphrao)"
+        },
+        {
+          "id": "kaffir-lime-leaves",
+          "nameEn": "Kaffir Lime Leaves (Bai Makrut)"
+        },
+        {
+          "id": "kaffir-lime",
+          "nameEn": "Kaffir Lime (Makrut)"
+        },
+        {
+          "id": "lemongrass",
+          "nameEn": "Lemongrass (Takrai)"
+        },
+        {
+          "id": "galangal",
+          "nameEn": "Galangal (Kha)"
+        },
+        {
+          "id": "thai-chilies",
+          "nameEn": "Thai Chilies (Prik Kee Noo)"
+        },
+        {
+          "id": "spur-chili",
+          "nameEn": "Spur Chili (Prik Chee Fah)"
+        },
+        {
+          "id": "cilantro",
+          "nameEn": "Cilantro / Coriander (Pak Chee)"
+        },
+        {
+          "id": "garlic",
+          "nameEn": "Garlic (Kratiem)"
+        },
+        {
+          "id": "shallots",
+          "nameEn": "Shallots (Hom Daeng)"
+        },
+        {
+          "id": "spring-onion",
+          "nameEn": "Spring Onion (Ton Hom)"
+        },
+        {
+          "id": "morning-glory",
+          "nameEn": "Morning Glory / Water Spinach (Pak Boong)"
+        },
+        {
+          "id": "thai-eggplant",
+          "nameEn": "Thai Eggplant (Makheua Proh)"
+        },
+        {
+          "id": "chinese-kale",
+          "nameEn": "Chinese Kale (Kana)"
+        },
+        {
+          "id": "bok-choy",
+          "nameEn": "Bok Choy (Pak Kwang Tung)"
+        },
+        {
+          "id": "napa-cabbage",
+          "nameEn": "Napa Cabbage (Kalum Plee Jeen)"
+        },
+        {
+          "id": "cabbage",
+          "nameEn": "Cabbage (Kalum Plee)"
+        },
+        {
+          "id": "bean-sprouts",
+          "nameEn": "Bean Sprouts (Thua Ngok)"
+        },
+        {
+          "id": "cucumber",
+          "nameEn": "Cucumber (Taeng Kwa)"
+        },
+        {
+          "id": "yardlong-beans",
+          "nameEn": "Yardlong Beans (Thua Fak Yao)"
+        },
+        {
+          "id": "bitter-gourd",
+          "nameEn": "Bitter Gourd (Mara)"
+        },
+        {
+          "id": "winter-melon",
+          "nameEn": "Winter Melon (Fak)"
+        },
+        {
+          "id": "green-papaya",
+          "nameEn": "Green Papaya, for Som Tam (Malakor Din)"
+        },
+        {
+          "id": "tomato",
+          "nameEn": "Tomato (Makhuea Thet)"
+        },
+        {
+          "id": "carrot",
+          "nameEn": "Carrot"
+        },
+        {
+          "id": "bamboo-shoots",
+          "nameEn": "Bamboo Shoots (Naw Mai)"
+        }
+      ]
+    },
+    {
+      "key": "Fruits",
+      "nameEn": "Fruits",
+      "emoji": "🥭",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "mango",
+          "nameEn": "Mango (Mamuang)"
+        },
+        {
+          "id": "pineapple",
+          "nameEn": "Pineapple (Sapparot)"
+        },
+        {
+          "id": "papaya",
+          "nameEn": "Papaya, Ripe (Malakor)"
+        },
+        {
+          "id": "banana",
+          "nameEn": "Banana (Kluay)"
+        },
+        {
+          "id": "durian",
+          "nameEn": "Durian (Thurian)"
+        },
+        {
+          "id": "mangosteen",
+          "nameEn": "Mangosteen (Mangkhut)"
+        },
+        {
+          "id": "rambutan",
+          "nameEn": "Rambutan (Ngo)"
+        },
+        {
+          "id": "longan",
+          "nameEn": "Longan (Lamyai)"
+        },
+        {
+          "id": "lychee",
+          "nameEn": "Lychee (Linchi)"
+        },
+        {
+          "id": "rose-apple",
+          "nameEn": "Rose Apple (Chomphu)"
+        },
+        {
+          "id": "guava",
+          "nameEn": "Guava (Farang)"
+        },
+        {
+          "id": "pomelo",
+          "nameEn": "Pomelo (Som O)"
+        },
+        {
+          "id": "custard-apple",
+          "nameEn": "Custard Apple (Noi Na)"
+        },
+        {
+          "id": "jackfruit",
+          "nameEn": "Jackfruit (Khanun)"
+        },
+        {
+          "id": "star-fruit",
+          "nameEn": "Star Fruit (Mafueang)"
+        },
+        {
+          "id": "sapodilla",
+          "nameEn": "Sapodilla (Lamut)"
+        },
+        {
+          "id": "watermelon",
+          "nameEn": "Watermelon (Taeng Mo)"
+        },
+        {
+          "id": "dragon-fruit",
+          "nameEn": "Dragon Fruit (Kaeo Mangkon)"
+        },
+        {
+          "id": "tamarind-fresh",
+          "nameEn": "Fresh Tamarind (Makham Sod)"
+        },
+        {
+          "id": "coconut",
+          "nameEn": "Coconut (Maprao)"
+        },
+        {
+          "id": "lime",
+          "nameEn": "Thai Lime (Manao)"
+        }
+      ]
+    },
+    {
+      "key": "Rice & Noodles",
+      "nameEn": "Rice & Noodles",
+      "emoji": "🍚",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "jasmine-rice",
+          "nameEn": "Jasmine Rice (Khao Hom Mali)"
+        },
+        {
+          "id": "sticky-rice",
+          "nameEn": "Sticky Rice (Khao Niao)"
+        },
+        {
+          "id": "brown-rice",
+          "nameEn": "Brown Rice (Khao Klong)"
+        },
+        {
+          "id": "rice-vermicelli",
+          "nameEn": "Rice Vermicelli (Sen Mee)"
+        },
+        {
+          "id": "flat-rice-noodles-sen-lek",
+          "nameEn": "Flat Rice Noodles (Sen Lek)"
+        },
+        {
+          "id": "wide-rice-noodles-sen-yai",
+          "nameEn": "Wide Rice Noodles (Sen Yai)"
+        },
+        {
+          "id": "glass-noodles",
+          "nameEn": "Glass Noodles (Woon Sen)"
+        },
+        {
+          "id": "egg-noodles",
+          "nameEn": "Egg Noodles (Ba Mee)"
+        },
+        {
+          "id": "khanom-jeen",
+          "nameEn": "Fermented Rice Noodles (Khanom Jeen)"
+        },
+        {
+          "id": "pad-thai-noodles",
+          "nameEn": "Pad Thai Noodles"
+        },
+        {
+          "id": "rice-flour",
+          "nameEn": "Rice Flour (Pang Khao Jao)"
+        },
+        {
+          "id": "glutinous-rice-flour",
+          "nameEn": "Glutinous Rice Flour (Pang Khao Niao)"
+        },
+        {
+          "id": "tapioca-flour",
+          "nameEn": "Tapioca Flour (Pang Man)"
+        },
+        {
+          "id": "wheat-flour",
+          "nameEn": "Wheat Flour (Pang Sali)"
+        },
+        {
+          "id": "mama-instant-noodles",
+          "nameEn": "Instant Noodles (Mama)"
+        },
+        {
+          "id": "bread",
+          "nameEn": "Bread (Khanom Pang)"
+        }
+      ]
+    },
+    {
+      "key": "Meat & Poultry",
+      "nameEn": "Meat & Poultry",
+      "emoji": "🥩",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "chicken-breast",
+          "nameEn": "Chicken Breast (Ok Gai)"
+        },
+        {
+          "id": "chicken-thigh",
+          "nameEn": "Chicken Thigh (Nong Gai)"
+        },
+        {
+          "id": "whole-chicken",
+          "nameEn": "Whole Chicken (Gai Tua)"
+        },
+        {
+          "id": "chicken-wings",
+          "nameEn": "Chicken Wings (Peek Gai)"
+        },
+        {
+          "id": "chicken-feet",
+          "nameEn": "Chicken Feet (Teen Gai)"
+        },
+        {
+          "id": "pork-belly",
+          "nameEn": "Pork Belly (Moo Sam Chan)"
+        },
+        {
+          "id": "ground-pork",
+          "nameEn": "Ground Pork (Moo Sap)"
+        },
+        {
+          "id": "pork-ribs",
+          "nameEn": "Pork Ribs (Kraduk Moo)"
+        },
+        {
+          "id": "pork-neck",
+          "nameEn": "Pork Neck, Grilling Cut (Kor Moo Yang)"
+        },
+        {
+          "id": "pork-leg",
+          "nameEn": "Pork Leg, Stew Cut (Khao Kha Moo)"
+        },
+        {
+          "id": "beef",
+          "nameEn": "Beef (Neua)"
+        },
+        {
+          "id": "ground-beef",
+          "nameEn": "Ground Beef (Neua Sap)"
+        },
+        {
+          "id": "thai-sausage-isan",
+          "nameEn": "Isaan Fermented Sausage (Sai Krok Isan)"
+        },
+        {
+          "id": "chinese-sausage",
+          "nameEn": "Chinese Sausage (Kun Chiang)"
+        },
+        {
+          "id": "duck",
+          "nameEn": "Duck (Ped)"
+        },
+        {
+          "id": "pork-crackling",
+          "nameEn": "Pork Crackling (Kaeb Moo)"
+        }
+      ]
+    },
+    {
+      "key": "Fish & Seafood",
+      "nameEn": "Fish & Seafood",
+      "emoji": "🐟",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "tilapia",
+          "nameEn": "Tilapia (Pla Nin)"
+        },
+        {
+          "id": "snakehead-fish",
+          "nameEn": "Snakehead Fish (Pla Chon)"
+        },
+        {
+          "id": "catfish",
+          "nameEn": "Catfish (Pla Duk)"
+        },
+        {
+          "id": "mackerel",
+          "nameEn": "Mackerel (Pla Tu)"
+        },
+        {
+          "id": "sea-bass",
+          "nameEn": "Sea Bass (Pla Kapong)"
+        },
+        {
+          "id": "shrimp",
+          "nameEn": "Shrimp / Prawns (Kung)"
+        },
+        {
+          "id": "river-prawns",
+          "nameEn": "Giant River Prawns (Kung Mae Nam)"
+        },
+        {
+          "id": "squid",
+          "nameEn": "Squid (Pla Muek)"
+        },
+        {
+          "id": "crab",
+          "nameEn": "Crab (Poo)"
+        },
+        {
+          "id": "blue-swimmer-crab",
+          "nameEn": "Blue Swimmer Crab (Poo Ma)"
+        },
+        {
+          "id": "mussels",
+          "nameEn": "Mussels (Hoi Malaeng Phu)"
+        },
+        {
+          "id": "cockles",
+          "nameEn": "Cockles (Hoi Krang)"
+        },
+        {
+          "id": "oysters",
+          "nameEn": "Oysters (Hoi Nang Rom)"
+        },
+        {
+          "id": "dried-shrimp",
+          "nameEn": "Dried Shrimp (Kung Haeng)"
+        },
+        {
+          "id": "salted-fish",
+          "nameEn": "Salted Fish (Pla Kem)"
+        },
+        {
+          "id": "fish-balls",
+          "nameEn": "Fish Balls (Look Chin Pla)"
+        }
+      ]
+    },
+    {
+      "key": "Dairy & Eggs",
+      "nameEn": "Dairy & Eggs",
+      "emoji": "🥚",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "chicken-eggs",
+          "nameEn": "Chicken Eggs (Khai Kai)"
+        },
+        {
+          "id": "duck-eggs",
+          "nameEn": "Duck Eggs (Khai Ped)"
+        },
+        {
+          "id": "salted-eggs",
+          "nameEn": "Salted Eggs (Khai Kem)"
+        },
+        {
+          "id": "fresh-milk",
+          "nameEn": "Fresh Milk (Nom Sod)"
+        },
+        {
+          "id": "uht-milk",
+          "nameEn": "UHT Milk"
+        },
+        {
+          "id": "foremost-milk",
+          "nameEn": "Foremost Milk"
+        },
+        {
+          "id": "condensed-milk",
+          "nameEn": "Sweetened Condensed Milk (Nom Khon Wan)"
+        },
+        {
+          "id": "evaporated-milk",
+          "nameEn": "Evaporated Milk (Carnation)"
+        },
+        {
+          "id": "butter",
+          "nameEn": "Butter (Neuy)"
+        },
+        {
+          "id": "cheese",
+          "nameEn": "Cheese"
+        },
+        {
+          "id": "yogurt",
+          "nameEn": "Yogurt (Dutch Mill)"
+        },
+        {
+          "id": "yakult",
+          "nameEn": "Yakult"
+        },
+        {
+          "id": "whipping-cream",
+          "nameEn": "Whipping Cream"
+        },
+        {
+          "id": "milk-powder",
+          "nameEn": "Milk Powder (Nom Pong)"
+        }
+      ]
+    },
+    {
+      "key": "Oils & Fats",
+      "nameEn": "Oils & Fats",
+      "emoji": "🫒",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "soybean-oil",
+          "nameEn": "Soybean Oil (Nam Man Thua Leuang)"
+        },
+        {
+          "id": "palm-oil",
+          "nameEn": "Palm Oil (Nam Man Palm)"
+        },
+        {
+          "id": "vegetable-oil",
+          "nameEn": "Vegetable Oil (Nam Man Puet)"
+        },
+        {
+          "id": "rice-bran-oil",
+          "nameEn": "Rice Bran Oil (Nam Man Rum Khao)"
+        },
+        {
+          "id": "sesame-oil",
+          "nameEn": "Sesame Oil (Nam Man Nga)"
+        },
+        {
+          "id": "coconut-oil",
+          "nameEn": "Coconut Oil (Nam Man Maprao)"
+        },
+        {
+          "id": "lard",
+          "nameEn": "Lard (Nam Man Moo)"
+        },
+        {
+          "id": "olive-oil",
+          "nameEn": "Olive Oil"
+        },
+        {
+          "id": "sunflower-oil",
+          "nameEn": "Sunflower Oil (Nam Man Dok Tantawan)"
+        },
+        {
+          "id": "margarine",
+          "nameEn": "Margarine"
+        }
+      ]
+    },
+    {
+      "key": "Curry Pastes, Sauces & Seasonings",
+      "nameEn": "Curry Pastes, Sauces & Seasonings",
+      "emoji": "🌶️",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "fish-sauce",
+          "nameEn": "Fish Sauce (Nam Pla)"
+        },
+        {
+          "id": "soy-sauce",
+          "nameEn": "Soy Sauce (See Ew)"
+        },
+        {
+          "id": "light-soy-sauce",
+          "nameEn": "Light Soy Sauce (See Ew Khao)"
+        },
+        {
+          "id": "dark-soy-sauce",
+          "nameEn": "Dark Soy Sauce (See Ew Dam)"
+        },
+        {
+          "id": "sweet-soy-sauce",
+          "nameEn": "Sweet Soy Sauce (See Ew Wan)"
+        },
+        {
+          "id": "oyster-sauce",
+          "nameEn": "Oyster Sauce (Nam Man Hoi)"
+        },
+        {
+          "id": "shrimp-paste",
+          "nameEn": "Shrimp Paste (Kapi)"
+        },
+        {
+          "id": "tamarind-paste",
+          "nameEn": "Tamarind Paste (Nam Makham Piak)"
+        },
+        {
+          "id": "palm-sugar",
+          "nameEn": "Palm Sugar (Nam Tan Peep)"
+        },
+        {
+          "id": "green-curry-paste",
+          "nameEn": "Green Curry Paste (Kreung Gaeng Keow Wan)"
+        },
+        {
+          "id": "red-curry-paste",
+          "nameEn": "Red Curry Paste (Kreung Gaeng Phed)"
+        },
+        {
+          "id": "massaman-curry-paste",
+          "nameEn": "Massaman Curry Paste"
+        },
+        {
+          "id": "panang-curry-paste",
+          "nameEn": "Panang Curry Paste"
+        },
+        {
+          "id": "yellow-curry-paste",
+          "nameEn": "Yellow Curry Paste (Kreung Gaeng Kari)"
+        },
+        {
+          "id": "tom-yum-paste",
+          "nameEn": "Tom Yum Paste (Nam Prik Tom Yum)"
+        },
+        {
+          "id": "nam-prik-pao",
+          "nameEn": "Roasted Chili Paste (Nam Prik Pao)"
+        },
+        {
+          "id": "nam-prik-kapi",
+          "nameEn": "Shrimp Paste Chili Dip (Nam Prik Kapi)"
+        },
+        {
+          "id": "sriracha-sauce",
+          "nameEn": "Sriracha Chili Sauce"
+        },
+        {
+          "id": "sweet-chili-sauce",
+          "nameEn": "Sweet Chili Sauce (Nam Chim Gai)"
+        },
+        {
+          "id": "coconut-milk",
+          "nameEn": "Coconut Milk (Kati)"
+        },
+        {
+          "id": "coconut-cream",
+          "nameEn": "Coconut Cream (Hua Kati)"
+        },
+        {
+          "id": "roasted-chili-flakes",
+          "nameEn": "Roasted Chili Flakes (Prik Pon)"
+        },
+        {
+          "id": "msg",
+          "nameEn": "Seasoning Powder / MSG (Phong Chu Rot)"
+        },
+        {
+          "id": "seasoning-powder",
+          "nameEn": "All-Purpose Seasoning Powder (Rot Dee)"
+        },
+        {
+          "id": "maggi-sauce",
+          "nameEn": "Maggi Seasoning Sauce"
+        },
+        {
+          "id": "vinegar",
+          "nameEn": "Vinegar (Nam Som Sai Chu)"
+        }
+      ]
+    },
+    {
+      "key": "Spices & Dried Herbs",
+      "nameEn": "Spices & Dried Herbs",
+      "emoji": "🧂",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "salt",
+          "nameEn": "Salt (Kluea)"
+        },
+        {
+          "id": "white-pepper",
+          "nameEn": "White Pepper (Prik Thai Khao)"
+        },
+        {
+          "id": "black-pepper",
+          "nameEn": "Black Pepper (Prik Thai Dam)"
+        },
+        {
+          "id": "coriander-seeds",
+          "nameEn": "Coriander Seeds (Look Pak Chee)"
+        },
+        {
+          "id": "cumin-seeds",
+          "nameEn": "Cumin Seeds (Yeera)"
+        },
+        {
+          "id": "turmeric-powder",
+          "nameEn": "Turmeric Powder (Kamin)"
+        },
+        {
+          "id": "star-anise",
+          "nameEn": "Star Anise (Poy Kak Bua)"
+        },
+        {
+          "id": "cinnamon",
+          "nameEn": "Cinnamon (Op Choey)"
+        },
+        {
+          "id": "cardamom",
+          "nameEn": "Cardamom (Krawan)"
+        },
+        {
+          "id": "bay-leaves",
+          "nameEn": "Bay Leaves (Bai Kreua)"
+        },
+        {
+          "id": "dried-chilies",
+          "nameEn": "Dried Chilies (Prik Haeng)"
+        },
+        {
+          "id": "curry-powder",
+          "nameEn": "Curry Powder (Pong Kari)"
+        },
+        {
+          "id": "five-spice-powder",
+          "nameEn": "Five-Spice Powder (Pong Palo)"
+        },
+        {
+          "id": "white-sugar",
+          "nameEn": "White Sugar (Nam Tan Sai)"
+        },
+        {
+          "id": "rock-sugar",
+          "nameEn": "Rock Sugar (Nam Tan Kruat)"
+        },
+        {
+          "id": "sesame-seeds",
+          "nameEn": "Sesame Seeds (Nga)"
+        }
+      ]
+    },
+    {
+      "key": "Snacks & Biscuits",
+      "nameEn": "Snacks & Biscuits",
+      "emoji": "🍿",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "seaweed-snacks",
+          "nameEn": "Seaweed Snacks (Tao Kae Noi)"
+        },
+        {
+          "id": "shrimp-chips",
+          "nameEn": "Shrimp Chips (Khao Kriap Kung)"
+        },
+        {
+          "id": "kaeb-moo-snack",
+          "nameEn": "Crispy Pork Rind Snack (Kaeb Moo)"
+        },
+        {
+          "id": "potato-chips",
+          "nameEn": "Potato Chips (Lay's)"
+        },
+        {
+          "id": "tamarind-candy",
+          "nameEn": "Tamarind Candy (Makham Waan)"
+        },
+        {
+          "id": "dried-mango",
+          "nameEn": "Dried Mango (Mamuang Uob)"
+        },
+        {
+          "id": "banana-chips",
+          "nameEn": "Banana Chips (Kluay Krob)"
+        },
+        {
+          "id": "coconut-chips",
+          "nameEn": "Coconut Chips (Maprao Krob)"
+        },
+        {
+          "id": "roasted-cashews",
+          "nameEn": "Roasted Cashews (Med Mamuang Himmaphan)"
+        },
+        {
+          "id": "fried-peanuts",
+          "nameEn": "Fried Peanuts (Thua Tod)"
+        },
+        {
+          "id": "bento-squid-snack",
+          "nameEn": "Seasoned Squid Snack (Bento)"
+        },
+        {
+          "id": "marie-biscuits",
+          "nameEn": "Marie Biscuits"
+        },
+        {
+          "id": "wafer-biscuits",
+          "nameEn": "Wafer Biscuits"
+        },
+        {
+          "id": "chocolate",
+          "nameEn": "Chocolate"
+        },
+        {
+          "id": "candy",
+          "nameEn": "Candy / Toffee (Look Om)"
+        },
+        {
+          "id": "cup-jelly",
+          "nameEn": "Instant Cup Jelly (Woon Kwan)"
+        },
+        {
+          "id": "roti-sai-mai",
+          "nameEn": "Cotton Candy Roti (Roti Sai Mai)"
+        },
+        {
+          "id": "pretzels",
+          "nameEn": "Pretzels"
+        },
+        {
+          "id": "popcorn",
+          "nameEn": "Popcorn (Khao Pod Kua)"
+        },
+        {
+          "id": "crackers",
+          "nameEn": "Crackers"
+        }
+      ]
+    },
+    {
+      "key": "Beverages",
+      "nameEn": "Beverages",
+      "emoji": "☕",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "drinking-water",
+          "nameEn": "Drinking Water (Nam Deum)"
+        },
+        {
+          "id": "thai-tea-mix",
+          "nameEn": "Thai Tea Mix (Cha Thai)"
+        },
+        {
+          "id": "thai-milk-tea",
+          "nameEn": "Thai Milk Tea, Bottled (Cha Yen)"
+        },
+        {
+          "id": "oliang-coffee",
+          "nameEn": "Thai Iced Black Coffee (Oliang)"
+        },
+        {
+          "id": "instant-coffee",
+          "nameEn": "Instant Coffee (Nescafe)"
+        },
+        {
+          "id": "coffee-mix-3in1",
+          "nameEn": "3-in-1 Coffee Mix"
+        },
+        {
+          "id": "green-tea-oishi",
+          "nameEn": "Green Tea (Oishi)"
+        },
+        {
+          "id": "chrysanthemum-tea",
+          "nameEn": "Chrysanthemum Tea (Cha Kek Hua Chai)"
+        },
+        {
+          "id": "roselle-juice",
+          "nameEn": "Roselle Juice (Nam Kra Jiap)"
+        },
+        {
+          "id": "sugarcane-juice",
+          "nameEn": "Sugarcane Juice (Nam Oi)"
+        },
+        {
+          "id": "coconut-water",
+          "nameEn": "Coconut Water (Nam Maprao)"
+        },
+        {
+          "id": "orange-juice",
+          "nameEn": "Orange Juice (Nam Som)"
+        },
+        {
+          "id": "soft-drinks",
+          "nameEn": "Soft Drinks (Est/Fanta)"
+        },
+        {
+          "id": "singha-beer",
+          "nameEn": "Singha Beer"
+        },
+        {
+          "id": "chang-beer",
+          "nameEn": "Chang Beer"
+        },
+        {
+          "id": "leo-beer",
+          "nameEn": "Leo Beer"
+        },
+        {
+          "id": "thai-whisky-sangsom",
+          "nameEn": "Thai Whisky (SangSom)"
+        },
+        {
+          "id": "m150-energy-drink",
+          "nameEn": "Energy Drink (M-150)"
+        },
+        {
+          "id": "soda-water",
+          "nameEn": "Soda Water (Nam Soda)"
+        }
+      ]
+    },
+    {
+      "key": "Frozen & Canned",
+      "nameEn": "Frozen & Canned",
+      "emoji": "🥫",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "frozen-dumplings",
+          "nameEn": "Frozen Dumplings / Dim Sum"
+        },
+        {
+          "id": "frozen-shrimp",
+          "nameEn": "Frozen Shrimp (Kung Chae Kaeng)"
+        },
+        {
+          "id": "frozen-squid",
+          "nameEn": "Frozen Squid (Pla Muek Chae Kaeng)"
+        },
+        {
+          "id": "ice-cream",
+          "nameEn": "Ice Cream (Wall's)"
+        },
+        {
+          "id": "frozen-vegetables",
+          "nameEn": "Frozen Mixed Vegetables"
+        },
+        {
+          "id": "canned-tuna",
+          "nameEn": "Canned Tuna"
+        },
+        {
+          "id": "canned-sardines",
+          "nameEn": "Canned Sardines in Tomato Sauce (Roza)"
+        },
+        {
+          "id": "canned-coconut-milk",
+          "nameEn": "Canned Coconut Milk (Kati Kra Pong)"
+        },
+        {
+          "id": "canned-corn",
+          "nameEn": "Canned Sweet Corn"
+        },
+        {
+          "id": "canned-lychee",
+          "nameEn": "Canned Lychee in Syrup"
+        },
+        {
+          "id": "instant-congee",
+          "nameEn": "Instant Rice Congee Cup (Khao Tom Kuay)"
+        },
+        {
+          "id": "frozen-roti",
+          "nameEn": "Frozen Roti / Paratha"
+        },
+        {
+          "id": "frozen-spring-rolls",
+          "nameEn": "Frozen Spring Rolls (Poh Pia)"
+        },
+        {
+          "id": "frozen-fish-balls",
+          "nameEn": "Frozen Fish Balls (Look Chin Pla)"
+        },
+        {
+          "id": "frozen-fish-fillet",
+          "nameEn": "Frozen Fish Fillet"
+        },
+        {
+          "id": "canned-pineapple",
+          "nameEn": "Canned Pineapple"
+        }
+      ]
+    },
+    {
+      "key": "Household & Cleaning",
+      "nameEn": "Household & Cleaning",
+      "emoji": "🧹",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "dish-soap",
+          "nameEn": "Dish Soap (Sunlight)"
+        },
+        {
+          "id": "laundry-detergent",
+          "nameEn": "Laundry Detergent (Breeze)"
+        },
+        {
+          "id": "fabric-softener",
+          "nameEn": "Fabric Softener (Comfort)"
+        },
+        {
+          "id": "toilet-paper",
+          "nameEn": "Toilet Paper"
+        },
+        {
+          "id": "paper-towels",
+          "nameEn": "Paper Towels"
+        },
+        {
+          "id": "tissue-paper",
+          "nameEn": "Facial Tissue"
+        },
+        {
+          "id": "trash-bags",
+          "nameEn": "Trash Bags"
+        },
+        {
+          "id": "all-purpose-cleaner",
+          "nameEn": "All-Purpose Cleaner"
+        },
+        {
+          "id": "floor-cleaner",
+          "nameEn": "Floor Cleaner"
+        },
+        {
+          "id": "toilet-cleaner",
+          "nameEn": "Toilet Bowl Cleaner"
+        },
+        {
+          "id": "bleach",
+          "nameEn": "Bleach (Haiter)"
+        },
+        {
+          "id": "mosquito-coil",
+          "nameEn": "Mosquito Coil (Baygon)"
+        },
+        {
+          "id": "insect-repellent-spray",
+          "nameEn": "Insect Repellent Spray"
+        },
+        {
+          "id": "sponges",
+          "nameEn": "Sponges & Scrubbers"
+        },
+        {
+          "id": "matches",
+          "nameEn": "Matches"
+        },
+        {
+          "id": "air-freshener",
+          "nameEn": "Air Freshener"
+        },
+        {
+          "id": "rubber-gloves",
+          "nameEn": "Rubber Gloves"
+        }
+      ]
+    },
+    {
+      "key": "Personal Care",
+      "nameEn": "Personal Care",
+      "emoji": "🧴",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "shampoo",
+          "nameEn": "Shampoo (Sunsilk)"
+        },
+        {
+          "id": "conditioner",
+          "nameEn": "Conditioner"
+        },
+        {
+          "id": "shower-gel",
+          "nameEn": "Shower Gel (Dove)"
+        },
+        {
+          "id": "bar-soap",
+          "nameEn": "Bar Soap"
+        },
+        {
+          "id": "toothpaste",
+          "nameEn": "Toothpaste"
+        },
+        {
+          "id": "toothbrush",
+          "nameEn": "Toothbrush"
+        },
+        {
+          "id": "mouthwash",
+          "nameEn": "Mouthwash"
+        },
+        {
+          "id": "facial-wash",
+          "nameEn": "Facial Wash"
+        },
+        {
+          "id": "sunscreen",
+          "nameEn": "Sunscreen"
+        },
+        {
+          "id": "prickly-heat-powder",
+          "nameEn": "Prickly Heat Powder (Snake Brand)"
+        },
+        {
+          "id": "deodorant",
+          "nameEn": "Deodorant"
+        },
+        {
+          "id": "razor",
+          "nameEn": "Razor"
+        },
+        {
+          "id": "sanitary-pads",
+          "nameEn": "Sanitary Pads"
+        },
+        {
+          "id": "wet-wipes",
+          "nameEn": "Wet Wipes"
+        },
+        {
+          "id": "hair-oil",
+          "nameEn": "Hair Oil"
+        },
+        {
+          "id": "lotion",
+          "nameEn": "Body Lotion"
+        },
+        {
+          "id": "cotton-buds",
+          "nameEn": "Cotton Buds"
+        }
+      ]
+    },
+    {
+      "key": "Baby Care",
+      "nameEn": "Baby Care",
+      "emoji": "👶",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "diapers",
+          "nameEn": "Diapers (Mamy Poko)"
+        },
+        {
+          "id": "baby-wipes",
+          "nameEn": "Baby Wipes"
+        },
+        {
+          "id": "baby-formula",
+          "nameEn": "Baby Formula (S-26)"
+        },
+        {
+          "id": "baby-powder",
+          "nameEn": "Baby Powder"
+        },
+        {
+          "id": "baby-lotion",
+          "nameEn": "Baby Lotion"
+        },
+        {
+          "id": "baby-shampoo",
+          "nameEn": "Baby Shampoo"
+        },
+        {
+          "id": "baby-food",
+          "nameEn": "Baby Food (Cerelac)"
+        },
+        {
+          "id": "baby-oil",
+          "nameEn": "Baby Oil"
+        },
+        {
+          "id": "cotton-wool",
+          "nameEn": "Cotton Wool"
+        },
+        {
+          "id": "pacifier",
+          "nameEn": "Pacifier"
+        }
+      ]
+    }
+  ]
+}

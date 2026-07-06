@@ -94,6 +94,87 @@
       }
     },
     {
+      "code": "BR",
+      "displayName": "Brazil",
+      "flag": "🇧🇷",
+      "fileName": "brazil_catalog_v1.json",
+      "dialCode": "+55",
+      "currencyCode": "BRL",
+      "version": 1,
+      "l10n": {
+        "pt": 1
+      }
+    },
+    {
+      "code": "ID",
+      "displayName": "Indonesia",
+      "flag": "🇮🇩",
+      "fileName": "indonesia_catalog_v1.json",
+      "dialCode": "+62",
+      "currencyCode": "IDR",
+      "version": 1,
+      "l10n": {
+        "id": 1
+      }
+    },
+    {
+      "code": "MX",
+      "displayName": "Mexico",
+      "flag": "🇲🇽",
+      "fileName": "mexico_catalog_v1.json",
+      "dialCode": "+52",
+      "currencyCode": "MXN",
+      "version": 1,
+      "l10n": {
+        "es": 1
+      }
+    },
+    {
+      "code": "PH",
+      "displayName": "Philippines",
+      "flag": "🇵🇭",
+      "fileName": "philippines_catalog_v1.json",
+      "dialCode": "+63",
+      "currencyCode": "PHP",
+      "version": 1
+    },
+    {
+      "code": "VN",
+      "displayName": "Vietnam",
+      "flag": "🇻🇳",
+      "fileName": "vietnam_catalog_v1.json",
+      "dialCode": "+84",
+      "currencyCode": "VND",
+      "version": 1,
+      "l10n": {
+        "vi": 1
+      }
+    },
+    {
+      "code": "TH",
+      "displayName": "Thailand",
+      "flag": "🇹🇭",
+      "fileName": "thailand_catalog_v1.json",
+      "dialCode": "+66",
+      "currencyCode": "THB",
+      "version": 1,
+      "l10n": {
+        "th": 1
+      }
+    },
+    {
+      "code": "FR",
+      "displayName": "France",
+      "flag": "🇫🇷",
+      "fileName": "france_catalog_v1.json",
+      "dialCode": "+33",
+      "currencyCode": "EUR",
+      "version": 1,
+      "l10n": {
+        "fr": 1
+      }
+    },
+    {
       "code": "GLOBAL",
       "displayName": "Global",
       "flag": "🌍",

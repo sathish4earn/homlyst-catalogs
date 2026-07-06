@@ -1,0 +1,1171 @@
+{
+  "version": 2,
+  "countryCode": "VN",
+  "countryDisplayName": "Vietnam",
+  "categories": [
+    {
+      "key": "Vegetables & Herbs",
+      "nameEn": "Vegetables & Herbs",
+      "emoji": "🥬",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "rau-muong",
+          "nameEn": "Water Spinach"
+        },
+        {
+          "id": "cai-thia",
+          "nameEn": "Bok Choy"
+        },
+        {
+          "id": "cai-ngot",
+          "nameEn": "Vietnamese Mustard Greens"
+        },
+        {
+          "id": "bap-cai",
+          "nameEn": "Cabbage"
+        },
+        {
+          "id": "xa-lach",
+          "nameEn": "Lettuce"
+        },
+        {
+          "id": "gia-do",
+          "nameEn": "Bean Sprouts"
+        },
+        {
+          "id": "dau-bap",
+          "nameEn": "Okra"
+        },
+        {
+          "id": "muop",
+          "nameEn": "Luffa Squash"
+        },
+        {
+          "id": "bi-dao",
+          "nameEn": "Winter Melon"
+        },
+        {
+          "id": "bi-do",
+          "nameEn": "Pumpkin"
+        },
+        {
+          "id": "kho-qua",
+          "nameEn": "Bitter Melon"
+        },
+        {
+          "id": "ca-tim",
+          "nameEn": "Eggplant"
+        },
+        {
+          "id": "ca-chua",
+          "nameEn": "Tomato"
+        },
+        {
+          "id": "dua-leo",
+          "nameEn": "Cucumber"
+        },
+        {
+          "id": "ca-rot",
+          "nameEn": "Carrot"
+        },
+        {
+          "id": "khoai-tay",
+          "nameEn": "Potato"
+        },
+        {
+          "id": "khoai-lang",
+          "nameEn": "Sweet Potato"
+        },
+        {
+          "id": "khoai-mon",
+          "nameEn": "Taro"
+        },
+        {
+          "id": "hanh-tay",
+          "nameEn": "Onion"
+        },
+        {
+          "id": "hanh-la",
+          "nameEn": "Scallion"
+        },
+        {
+          "id": "toi",
+          "nameEn": "Garlic"
+        },
+        {
+          "id": "gung",
+          "nameEn": "Ginger"
+        },
+        {
+          "id": "sa",
+          "nameEn": "Lemongrass"
+        },
+        {
+          "id": "ot",
+          "nameEn": "Chili Pepper"
+        },
+        {
+          "id": "nam-rom",
+          "nameEn": "Straw Mushroom"
+        },
+        {
+          "id": "hung-que",
+          "nameEn": "Thai Basil"
+        },
+        {
+          "id": "rau-ram",
+          "nameEn": "Vietnamese Coriander"
+        },
+        {
+          "id": "tia-to",
+          "nameEn": "Perilla Leaf"
+        },
+        {
+          "id": "ngo-ri",
+          "nameEn": "Cilantro"
+        },
+        {
+          "id": "bap",
+          "nameEn": "Corn"
+        }
+      ]
+    },
+    {
+      "key": "Fruits",
+      "nameEn": "Fruits",
+      "emoji": "🍎",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "chuoi",
+          "nameEn": "Banana"
+        },
+        {
+          "id": "xoai",
+          "nameEn": "Mango"
+        },
+        {
+          "id": "du-du",
+          "nameEn": "Papaya"
+        },
+        {
+          "id": "thanh-long",
+          "nameEn": "Dragon Fruit"
+        },
+        {
+          "id": "oi",
+          "nameEn": "Guava"
+        },
+        {
+          "id": "man",
+          "nameEn": "Plum"
+        },
+        {
+          "id": "vai",
+          "nameEn": "Lychee"
+        },
+        {
+          "id": "nhan",
+          "nameEn": "Longan"
+        },
+        {
+          "id": "chom-chom",
+          "nameEn": "Rambutan"
+        },
+        {
+          "id": "sau-rieng",
+          "nameEn": "Durian"
+        },
+        {
+          "id": "mit",
+          "nameEn": "Jackfruit"
+        },
+        {
+          "id": "dua-hau",
+          "nameEn": "Watermelon"
+        },
+        {
+          "id": "dua-luoi",
+          "nameEn": "Cantaloupe"
+        },
+        {
+          "id": "buoi",
+          "nameEn": "Pomelo"
+        },
+        {
+          "id": "cam",
+          "nameEn": "Orange"
+        },
+        {
+          "id": "quyt",
+          "nameEn": "Mandarin"
+        },
+        {
+          "id": "chanh",
+          "nameEn": "Lime"
+        },
+        {
+          "id": "chanh-day",
+          "nameEn": "Passion Fruit"
+        },
+        {
+          "id": "me",
+          "nameEn": "Tamarind"
+        },
+        {
+          "id": "coc",
+          "nameEn": "Ambarella"
+        },
+        {
+          "id": "khe",
+          "nameEn": "Star Fruit"
+        },
+        {
+          "id": "na",
+          "nameEn": "Custard Apple"
+        },
+        {
+          "id": "dua",
+          "nameEn": "Coconut"
+        },
+        {
+          "id": "tao",
+          "nameEn": "Apple"
+        },
+        {
+          "id": "nho",
+          "nameEn": "Grapes"
+        },
+        {
+          "id": "le",
+          "nameEn": "Pear"
+        },
+        {
+          "id": "bo",
+          "nameEn": "Avocado"
+        },
+        {
+          "id": "dau-tay",
+          "nameEn": "Strawberry"
+        }
+      ]
+    },
+    {
+      "key": "Rice, Noodles & Bread",
+      "nameEn": "Rice, Noodles & Bread",
+      "emoji": "🍚",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "gao",
+          "nameEn": "Rice"
+        },
+        {
+          "id": "gao-nep",
+          "nameEn": "Glutinous Rice"
+        },
+        {
+          "id": "bun",
+          "nameEn": "Rice Vermicelli"
+        },
+        {
+          "id": "banh-pho",
+          "nameEn": "Pho Noodles"
+        },
+        {
+          "id": "bun-kho",
+          "nameEn": "Dried Rice Vermicelli"
+        },
+        {
+          "id": "mien",
+          "nameEn": "Glass Noodles"
+        },
+        {
+          "id": "banh-hoi",
+          "nameEn": "Fine Rice Vermicelli"
+        },
+        {
+          "id": "bot-mi",
+          "nameEn": "Wheat Flour"
+        },
+        {
+          "id": "bot-gao",
+          "nameEn": "Rice Flour"
+        },
+        {
+          "id": "bot-nang",
+          "nameEn": "Tapioca Starch"
+        },
+        {
+          "id": "bot-nep",
+          "nameEn": "Glutinous Rice Flour"
+        },
+        {
+          "id": "bot-chien-gion",
+          "nameEn": "Crispy Frying Flour"
+        },
+        {
+          "id": "banh-mi",
+          "nameEn": "Baguette (Banh Mi)"
+        },
+        {
+          "id": "banh-trang",
+          "nameEn": "Rice Paper"
+        },
+        {
+          "id": "mi-goi",
+          "nameEn": "Instant Noodles"
+        },
+        {
+          "id": "mi-hao-hao",
+          "nameEn": "Hao Hao Instant Noodles"
+        },
+        {
+          "id": "yen-mach",
+          "nameEn": "Oats"
+        },
+        {
+          "id": "ngu-coc",
+          "nameEn": "Breakfast Cereal"
+        }
+      ]
+    },
+    {
+      "key": "Meat & Poultry",
+      "nameEn": "Meat & Poultry",
+      "emoji": "🥩",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "thit-heo",
+          "nameEn": "Pork"
+        },
+        {
+          "id": "thit-ba-chi",
+          "nameEn": "Pork Belly"
+        },
+        {
+          "id": "suon-heo",
+          "nameEn": "Pork Ribs"
+        },
+        {
+          "id": "thit-heo-xay",
+          "nameEn": "Ground Pork"
+        },
+        {
+          "id": "thit-bo",
+          "nameEn": "Beef"
+        },
+        {
+          "id": "thit-bo-xay",
+          "nameEn": "Ground Beef"
+        },
+        {
+          "id": "thit-ga",
+          "nameEn": "Chicken"
+        },
+        {
+          "id": "ga-nguyen-con",
+          "nameEn": "Whole Chicken"
+        },
+        {
+          "id": "canh-ga",
+          "nameEn": "Chicken Wings"
+        },
+        {
+          "id": "dui-ga",
+          "nameEn": "Chicken Thighs"
+        },
+        {
+          "id": "thit-vit",
+          "nameEn": "Duck"
+        },
+        {
+          "id": "thit-xong-khoi",
+          "nameEn": "Bacon"
+        },
+        {
+          "id": "cha-lua",
+          "nameEn": "Vietnamese Pork Sausage"
+        },
+        {
+          "id": "gio-thu",
+          "nameEn": "Pork Head Cheese"
+        },
+        {
+          "id": "xuc-xich",
+          "nameEn": "Sausage"
+        },
+        {
+          "id": "thit-nguoi",
+          "nameEn": "Cold Cuts"
+        },
+        {
+          "id": "lap-xuong",
+          "nameEn": "Vietnamese Cured Sausage"
+        },
+        {
+          "id": "nem-chua",
+          "nameEn": "Fermented Pork Roll"
+        },
+        {
+          "id": "long-heo",
+          "nameEn": "Pork Intestines"
+        },
+        {
+          "id": "gan-heo",
+          "nameEn": "Pork Liver"
+        }
+      ]
+    },
+    {
+      "key": "Fish & Seafood",
+      "nameEn": "Fish & Seafood",
+      "emoji": "🐟",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "ca-basa",
+          "nameEn": "Basa Fish"
+        },
+        {
+          "id": "ca-loc",
+          "nameEn": "Snakehead Fish"
+        },
+        {
+          "id": "ca-dieu-hong",
+          "nameEn": "Red Tilapia"
+        },
+        {
+          "id": "ca-thu",
+          "nameEn": "Mackerel"
+        },
+        {
+          "id": "ca-hoi",
+          "nameEn": "Salmon"
+        },
+        {
+          "id": "ca-tra",
+          "nameEn": "Pangasius"
+        },
+        {
+          "id": "ca-ngu",
+          "nameEn": "Tuna"
+        },
+        {
+          "id": "tom",
+          "nameEn": "Shrimp"
+        },
+        {
+          "id": "tom-su",
+          "nameEn": "Tiger Prawn"
+        },
+        {
+          "id": "tom-kho",
+          "nameEn": "Dried Shrimp"
+        },
+        {
+          "id": "muc",
+          "nameEn": "Squid"
+        },
+        {
+          "id": "cua",
+          "nameEn": "Crab"
+        },
+        {
+          "id": "ghe",
+          "nameEn": "Sea Crab"
+        },
+        {
+          "id": "ngheu",
+          "nameEn": "Clams"
+        },
+        {
+          "id": "oc",
+          "nameEn": "Snails"
+        },
+        {
+          "id": "cha-ca",
+          "nameEn": "Fish Cake"
+        },
+        {
+          "id": "ca-kho",
+          "nameEn": "Dried Fish"
+        },
+        {
+          "id": "ca-com",
+          "nameEn": "Anchovy"
+        }
+      ]
+    },
+    {
+      "key": "Dairy & Eggs",
+      "nameEn": "Dairy & Eggs",
+      "emoji": "🥛",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "sua-tuoi",
+          "nameEn": "Fresh Milk"
+        },
+        {
+          "id": "sua-dac",
+          "nameEn": "Condensed Milk"
+        },
+        {
+          "id": "sua-chua",
+          "nameEn": "Yogurt"
+        },
+        {
+          "id": "sua-dau-nanh",
+          "nameEn": "Soy Milk"
+        },
+        {
+          "id": "sua-vinamilk",
+          "nameEn": "Vinamilk Milk"
+        },
+        {
+          "id": "pho-mai",
+          "nameEn": "Cheese"
+        },
+        {
+          "id": "pho-mai-con-bo-cuoi",
+          "nameEn": "Laughing Cow Cheese"
+        },
+        {
+          "id": "bo-lat",
+          "nameEn": "Butter"
+        },
+        {
+          "id": "trung-ga",
+          "nameEn": "Chicken Eggs"
+        },
+        {
+          "id": "trung-vit",
+          "nameEn": "Duck Eggs"
+        },
+        {
+          "id": "trung-cut",
+          "nameEn": "Quail Eggs"
+        },
+        {
+          "id": "trung-vit-lon",
+          "nameEn": "Balut (Fertilized Duck Egg)"
+        },
+        {
+          "id": "trung-vit-muoi",
+          "nameEn": "Salted Duck Egg"
+        },
+        {
+          "id": "kem-tuoi",
+          "nameEn": "Fresh Cream"
+        },
+        {
+          "id": "sua-chua-uong",
+          "nameEn": "Drinking Yogurt"
+        }
+      ]
+    },
+    {
+      "key": "Beans, Tofu & Dried Goods",
+      "nameEn": "Beans, Tofu & Dried Goods",
+      "emoji": "🫘",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "dau-hu",
+          "nameEn": "Tofu"
+        },
+        {
+          "id": "dau-hu-chien",
+          "nameEn": "Fried Tofu"
+        },
+        {
+          "id": "dau-phu-non",
+          "nameEn": "Silken Tofu"
+        },
+        {
+          "id": "dau-xanh",
+          "nameEn": "Mung Beans"
+        },
+        {
+          "id": "dau-den",
+          "nameEn": "Black Beans"
+        },
+        {
+          "id": "dau-do",
+          "nameEn": "Red Beans"
+        },
+        {
+          "id": "dau-phong",
+          "nameEn": "Peanuts"
+        },
+        {
+          "id": "dau-nanh-hat",
+          "nameEn": "Dried Soybeans"
+        },
+        {
+          "id": "mang-kho",
+          "nameEn": "Dried Bamboo Shoots"
+        },
+        {
+          "id": "nam-huong-kho",
+          "nameEn": "Dried Shiitake Mushrooms"
+        },
+        {
+          "id": "moc-nhi",
+          "nameEn": "Wood Ear Mushroom"
+        },
+        {
+          "id": "hat-sen",
+          "nameEn": "Lotus Seeds"
+        },
+        {
+          "id": "muc-kho",
+          "nameEn": "Dried Squid"
+        }
+      ]
+    },
+    {
+      "key": "Sauces, Condiments & Oils",
+      "nameEn": "Sauces, Condiments & Oils",
+      "emoji": "🧂",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "nuoc-mam",
+          "nameEn": "Fish Sauce"
+        },
+        {
+          "id": "nuoc-mam-chinsu",
+          "nameEn": "Chin-Su Fish Sauce"
+        },
+        {
+          "id": "nuoc-tuong",
+          "nameEn": "Soy Sauce"
+        },
+        {
+          "id": "maggi-seasoning",
+          "nameEn": "Maggi Seasoning Sauce"
+        },
+        {
+          "id": "tuong-ot",
+          "nameEn": "Chili Sauce"
+        },
+        {
+          "id": "tuong-ca",
+          "nameEn": "Ketchup"
+        },
+        {
+          "id": "mam-tom",
+          "nameEn": "Shrimp Paste"
+        },
+        {
+          "id": "mam-ruoc",
+          "nameEn": "Fermented Krill Paste"
+        },
+        {
+          "id": "mam-nem",
+          "nameEn": "Fermented Anchovy Sauce"
+        },
+        {
+          "id": "tuong-ban",
+          "nameEn": "Fermented Soybean Paste"
+        },
+        {
+          "id": "dau-hao",
+          "nameEn": "Oyster Sauce"
+        },
+        {
+          "id": "muoi",
+          "nameEn": "Salt"
+        },
+        {
+          "id": "duong",
+          "nameEn": "Sugar"
+        },
+        {
+          "id": "hat-nem",
+          "nameEn": "Seasoning Granules"
+        },
+        {
+          "id": "bot-ngot",
+          "nameEn": "MSG"
+        },
+        {
+          "id": "tieu",
+          "nameEn": "Black Pepper"
+        },
+        {
+          "id": "ot-bot",
+          "nameEn": "Chili Powder"
+        },
+        {
+          "id": "nghe-bot",
+          "nameEn": "Turmeric Powder"
+        },
+        {
+          "id": "sa-te",
+          "nameEn": "Chili Satay Oil"
+        },
+        {
+          "id": "giam",
+          "nameEn": "Vinegar"
+        },
+        {
+          "id": "mat-ong",
+          "nameEn": "Honey"
+        },
+        {
+          "id": "dau-an",
+          "nameEn": "Cooking Oil"
+        },
+        {
+          "id": "dau-dua",
+          "nameEn": "Coconut Oil"
+        },
+        {
+          "id": "dau-me",
+          "nameEn": "Sesame Oil"
+        },
+        {
+          "id": "dau-olive",
+          "nameEn": "Olive Oil"
+        },
+        {
+          "id": "dau-huong-duong",
+          "nameEn": "Sunflower Oil"
+        }
+      ]
+    },
+    {
+      "key": "Snacks & Biscuits",
+      "nameEn": "Snacks & Biscuits",
+      "emoji": "🍿",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "banh-oreo",
+          "nameEn": "Oreo Cookies"
+        },
+        {
+          "id": "banh-quy",
+          "nameEn": "Biscuits"
+        },
+        {
+          "id": "banh-cosy",
+          "nameEn": "Cosy Biscuits"
+        },
+        {
+          "id": "banh-chocopie",
+          "nameEn": "Chocopie"
+        },
+        {
+          "id": "keo-deo",
+          "nameEn": "Gummy Candy"
+        },
+        {
+          "id": "socola",
+          "nameEn": "Chocolate"
+        },
+        {
+          "id": "khoai-tay-chien",
+          "nameEn": "Potato Chips"
+        },
+        {
+          "id": "snack-oishi",
+          "nameEn": "Oishi Snacks"
+        },
+        {
+          "id": "banh-trang-tron",
+          "nameEn": "Rice Paper Salad Snack"
+        },
+        {
+          "id": "banh-phong-tom",
+          "nameEn": "Shrimp Chips"
+        },
+        {
+          "id": "hat-dieu",
+          "nameEn": "Cashews"
+        },
+        {
+          "id": "hat-huong-duong",
+          "nameEn": "Sunflower Seeds"
+        },
+        {
+          "id": "dau-phong-rang",
+          "nameEn": "Roasted Peanuts"
+        },
+        {
+          "id": "mut",
+          "nameEn": "Candied Fruit"
+        },
+        {
+          "id": "o-mai",
+          "nameEn": "Preserved Fruit (O Mai)"
+        },
+        {
+          "id": "thach-rau-cau",
+          "nameEn": "Jelly"
+        },
+        {
+          "id": "banh-gao",
+          "nameEn": "Rice Crackers"
+        },
+        {
+          "id": "bap-rang-bo",
+          "nameEn": "Butter Popcorn"
+        }
+      ]
+    },
+    {
+      "key": "Beverages",
+      "nameEn": "Beverages",
+      "emoji": "☕",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "nuoc-loc",
+          "nameEn": "Drinking Water"
+        },
+        {
+          "id": "nuoc-suoi",
+          "nameEn": "Bottled Mineral Water"
+        },
+        {
+          "id": "tra-xanh",
+          "nameEn": "Green Tea"
+        },
+        {
+          "id": "tra-atiso",
+          "nameEn": "Artichoke Tea"
+        },
+        {
+          "id": "ca-phe-phin",
+          "nameEn": "Vietnamese Filter Coffee"
+        },
+        {
+          "id": "ca-phe-g7",
+          "nameEn": "G7 Instant Coffee"
+        },
+        {
+          "id": "ca-phe-trung-nguyen",
+          "nameEn": "Trung Nguyen Coffee"
+        },
+        {
+          "id": "nuoc-mia",
+          "nameEn": "Sugarcane Juice"
+        },
+        {
+          "id": "nuoc-dua",
+          "nameEn": "Coconut Water"
+        },
+        {
+          "id": "nuoc-cam",
+          "nameEn": "Orange Juice"
+        },
+        {
+          "id": "nuoc-ngot",
+          "nameEn": "Soft Drinks"
+        },
+        {
+          "id": "coca-cola",
+          "nameEn": "Coca-Cola"
+        },
+        {
+          "id": "pepsi",
+          "nameEn": "Pepsi"
+        },
+        {
+          "id": "number-one",
+          "nameEn": "Number 1 Energy Drink"
+        },
+        {
+          "id": "bia-saigon",
+          "nameEn": "Saigon Beer"
+        },
+        {
+          "id": "bia-333",
+          "nameEn": "333 Beer"
+        },
+        {
+          "id": "ruou-de",
+          "nameEn": "Rice Wine (Ruou De)"
+        },
+        {
+          "id": "tra-sua",
+          "nameEn": "Milk Tea"
+        },
+        {
+          "id": "nuoc-yen",
+          "nameEn": "Bird's Nest Drink"
+        }
+      ]
+    },
+    {
+      "key": "Frozen & Canned",
+      "nameEn": "Frozen & Canned",
+      "emoji": "🥫",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "ca-vien",
+          "nameEn": "Fish Balls"
+        },
+        {
+          "id": "bo-vien",
+          "nameEn": "Beef Balls"
+        },
+        {
+          "id": "tom-vien",
+          "nameEn": "Shrimp Balls"
+        },
+        {
+          "id": "cha-gio-dong-lanh",
+          "nameEn": "Frozen Spring Rolls"
+        },
+        {
+          "id": "ha-cao",
+          "nameEn": "Shrimp Dumplings"
+        },
+        {
+          "id": "sui-cao",
+          "nameEn": "Dumplings"
+        },
+        {
+          "id": "kem-oc-que",
+          "nameEn": "Ice Cream Cone"
+        },
+        {
+          "id": "kem-hop",
+          "nameEn": "Ice Cream Tub"
+        },
+        {
+          "id": "rau-cu-dong-lanh",
+          "nameEn": "Frozen Vegetables"
+        },
+        {
+          "id": "ca-hop",
+          "nameEn": "Canned Fish"
+        },
+        {
+          "id": "thit-hop",
+          "nameEn": "Canned Meat"
+        },
+        {
+          "id": "ngo-hop",
+          "nameEn": "Canned Corn"
+        },
+        {
+          "id": "dau-hop",
+          "nameEn": "Canned Beans"
+        },
+        {
+          "id": "pate",
+          "nameEn": "Liver Pate"
+        },
+        {
+          "id": "banh-bao-dong-lanh",
+          "nameEn": "Frozen Steamed Buns"
+        }
+      ]
+    },
+    {
+      "key": "Household & Cleaning",
+      "nameEn": "Household & Cleaning",
+      "emoji": "🧹",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "nuoc-rua-chen",
+          "nameEn": "Dish Soap"
+        },
+        {
+          "id": "bot-giat",
+          "nameEn": "Laundry Powder"
+        },
+        {
+          "id": "nuoc-giat",
+          "nameEn": "Laundry Liquid"
+        },
+        {
+          "id": "nuoc-xa-vai",
+          "nameEn": "Fabric Softener"
+        },
+        {
+          "id": "giay-ve-sinh",
+          "nameEn": "Toilet Paper"
+        },
+        {
+          "id": "khan-giay",
+          "nameEn": "Paper Towels"
+        },
+        {
+          "id": "tui-rac",
+          "nameEn": "Trash Bags"
+        },
+        {
+          "id": "nuoc-lau-san",
+          "nameEn": "Floor Cleaner"
+        },
+        {
+          "id": "nuoc-tay-bon-cau",
+          "nameEn": "Toilet Cleaner"
+        },
+        {
+          "id": "mieng-rua-chen",
+          "nameEn": "Dish Sponge"
+        },
+        {
+          "id": "gang-tay-cao-su",
+          "nameEn": "Rubber Gloves"
+        },
+        {
+          "id": "diem-quet",
+          "nameEn": "Matches"
+        },
+        {
+          "id": "nen",
+          "nameEn": "Candles"
+        },
+        {
+          "id": "pin",
+          "nameEn": "Batteries"
+        },
+        {
+          "id": "xit-phong",
+          "nameEn": "Air Freshener"
+        },
+        {
+          "id": "mang-boc-thuc-pham",
+          "nameEn": "Plastic Cling Wrap"
+        },
+        {
+          "id": "giay-bac",
+          "nameEn": "Aluminum Foil"
+        }
+      ]
+    },
+    {
+      "key": "Personal Care",
+      "nameEn": "Personal Care",
+      "emoji": "🧴",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "dau-goi",
+          "nameEn": "Shampoo"
+        },
+        {
+          "id": "dau-xa",
+          "nameEn": "Conditioner"
+        },
+        {
+          "id": "sua-tam",
+          "nameEn": "Body Wash"
+        },
+        {
+          "id": "xa-phong",
+          "nameEn": "Soap Bar"
+        },
+        {
+          "id": "kem-danh-rang",
+          "nameEn": "Toothpaste"
+        },
+        {
+          "id": "ban-chai-danh-rang",
+          "nameEn": "Toothbrush"
+        },
+        {
+          "id": "nuoc-suc-mieng",
+          "nameEn": "Mouthwash"
+        },
+        {
+          "id": "dao-cao-rau",
+          "nameEn": "Razor"
+        },
+        {
+          "id": "bang-ve-sinh",
+          "nameEn": "Sanitary Pads"
+        },
+        {
+          "id": "kem-duong-da",
+          "nameEn": "Body Lotion"
+        },
+        {
+          "id": "kem-chong-nang",
+          "nameEn": "Sunscreen"
+        },
+        {
+          "id": "lan-khu-mui",
+          "nameEn": "Deodorant"
+        },
+        {
+          "id": "luoc",
+          "nameEn": "Comb"
+        },
+        {
+          "id": "tam-bong",
+          "nameEn": "Cotton Swabs"
+        },
+        {
+          "id": "khan-giay-uot",
+          "nameEn": "Wet Wipes"
+        }
+      ]
+    },
+    {
+      "key": "Baby Care",
+      "nameEn": "Baby Care",
+      "emoji": "👶",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "ta-em-be",
+          "nameEn": "Diapers"
+        },
+        {
+          "id": "khan-uot-em-be",
+          "nameEn": "Baby Wet Wipes"
+        },
+        {
+          "id": "sua-bot",
+          "nameEn": "Baby Formula"
+        },
+        {
+          "id": "phan-rom",
+          "nameEn": "Baby Powder"
+        },
+        {
+          "id": "dau-goi-em-be",
+          "nameEn": "Baby Shampoo"
+        },
+        {
+          "id": "sua-tam-em-be",
+          "nameEn": "Baby Body Wash"
+        },
+        {
+          "id": "bot-an-dam",
+          "nameEn": "Weaning Cereal"
+        },
+        {
+          "id": "binh-sua",
+          "nameEn": "Baby Bottle"
+        },
+        {
+          "id": "nuoc-muoi-sinh-ly",
+          "nameEn": "Saline Solution"
+        },
+        {
+          "id": "khan-xo",
+          "nameEn": "Muslin Cloth"
+        },
+        {
+          "id": "yem-em-be",
+          "nameEn": "Baby Bib"
+        }
+      ]
+    }
+  ]
+}
