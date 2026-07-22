@@ -47,6 +47,10 @@ re-downloads a catalog when its manifest version increases. A device that's alre
 an older version will otherwise never see your edit — this is the one sharp edge of the
 "content-only, no app release" model, so don't forget it.
 
+For the full step-by-step (adding/removing/renaming items, adding a category, the JSON
+formatting gotcha, syncing the app's bundled fallback copies, and verifying it's actually
+live on the CDN), see [EDITING_CATALOGS.md](EDITING_CATALOGS.md).
+
 ## Adding a language (translating a catalog's items and categories)
 
 1. Create `catalogs/l10n/<CODE>_<lang>.json`:
