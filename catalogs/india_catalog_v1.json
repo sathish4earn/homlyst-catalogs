@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "countryCode": "IN",
   "countryDisplayName": "India",
   "categories": [
@@ -12,20 +12,20 @@
         "Curry Leaves","Spinach","Capsicum","Spring Onion","Raw Banana","Yam","Sweet Potato",
         "Snake Gourd","Ridge Gourd","Ash Gourd","Chow Chow","Cluster Beans","Broad Beans",
         "Turnip","Mushroom","Lemon","Coconut","Tender Coconut","Plantain Stem","Plantain Flower",
-        "Colocasia","Green Mango"]
+        "Colocasia","Green Mango","Mushroom Button","Broccoli","Baby Corn","Sweet Corn","Grown Ridge Gourd","Capsicum Green","English Cucumber","Pointed Gourd (Parwal)","Fenugreek Leaves","Grown Spinach","Gongura Leaves","Sambar Onion","Sprouts"]
     },
     {
       "key": "Fruits", "nameEn": "Fruits", "nameResKey": "cat_fruits",
       "emoji": "🍎", "unitType": "WEIGHT",
       "items": ["Banana","Apple","Orange","Pomegranate","Papaya","Watermelon","Muskmelon",
         "Mango","Guava","Pineapple","Grapes","Sweet Lime","Kiwi","Custard Apple","Jackfruit",
-        "Dragon Fruit","Pear","Strawberry","Litchi"]
+        "Dragon Fruit","Pear","Strawberry","Litchi","Avocado","Gooseberry (Amla)","Jamun","Cherry"]
     },
     {
       "key": "Snacks", "nameEn": "Snacks", "nameResKey": "cat_snacks",
       "emoji": "🍿", "unitType": "PIECES",
       "items": ["Biscuits","Chips","Mixture","Murukku","Peanuts","Popcorn","Cake","Rusk",
-        "Chocolate","Cookies","Namkeen","Khakhra"]
+        "Chocolate","Cookies","Namkeen","Khakhra","Moong Dal","Lays Chips","Boondi","Veg Puff","Egg Puff","Samosa","Masala Puri","Bhel Puri"]
     },
     {
       "key": "Ice Cream", "nameEn": "Ice Cream", "nameResKey": "cat_ice_cream",
@@ -37,7 +37,7 @@
       "key": "Beverages", "nameEn": "Beverages", "nameResKey": "cat_beverages",
       "emoji": "☕", "unitType": "LITRES",
       "items": ["Tea Powder","Coffee Powder","Green Tea","Boost","Horlicks","Bournvita",
-        "Fruit Juice","Soft Drinks","Rose Milk","Badam Mix"]
+        "Fruit Juice","Soft Drinks","Rose Milk","Badam Mix","Water Bottle","Water Can 20L","Coca-Cola","Pepsi","Thums Up","Soda","Energy Drink"]
     },
     {
       "key": "Dairy", "nameEn": "Dairy", "nameResKey": "cat_dairy",
@@ -192,6 +192,22 @@
         "Highlighter",
         "Envelopes",
         "A4 Paper"
+      ]
+    },
+    {
+      "key": "Flowers",
+      "nameEn": "Flowers",
+      "nameResKey": "cat_flowers",
+      "emoji": "🌸",
+      "unitType": "PIECES",
+      "items": [
+        "Roses",
+        "Marigold Yellow",
+        "Marigold Orange Flower",
+        "Chrysanthemum Yellow",
+        "Jasmine",
+        "Banana Leaves",
+        "Lotus"
       ]
     }
   ]
