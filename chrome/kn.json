@@ -109,6 +109,9 @@
     "add": "ಸೇರಿಸಿ",
     "remove_item_title": "ವಸ್ತುವನ್ನು ತೆಗೆದುಹಾಕುವುದೇ?",
     "remove_item_message": "\"%1$s\" ಅನ್ನು ಈ ವರ್ಗದಿಂದ ತೆಗೆದುಹಾಕುವುದೇ?",
-    "remove": "ತೆಗೆದುಹಾಕಿ"
+    "remove": "ತೆಗೆದುಹಾಕಿ",
+    "cat_health_pharmacy": "ಆರೋಗ್ಯ ಮತ್ತು ಔಷಧಿ",
+    "cat_pet_supplies": "ಸಾಕುಪ್ರಾಣಿ ಸಾಮಗ್ರಿ",
+    "cat_stationery_school": "ಸ್ಟೇಷನರಿ ಮತ್ತು ಶಾಲಾ"
   }
 }

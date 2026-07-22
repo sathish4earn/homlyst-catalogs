@@ -109,6 +109,9 @@
     "add": "జోడించు",
     "remove_item_title": "వస్తువును తీసివేయాలా?",
     "remove_item_message": "\"%1$s\" ను ఈ వర్గం నుండి తీసివేయాలా?",
-    "remove": "తీసివేయి"
+    "remove": "తీసివేయి",
+    "cat_health_pharmacy": "ఆరోగ్యం & ఫార్మసీ",
+    "cat_pet_supplies": "పెంపుడు జంతువుల సామాగ్రి",
+    "cat_stationery_school": "స్టేషనరీ & స్కూల్"
   }
 }

@@ -109,6 +109,9 @@
     "add": "जोड़ें",
     "remove_item_title": "आइटम हटाएं?",
     "remove_item_message": "\"%1$s\" को इस श्रेणी से हटाएं?",
-    "remove": "हटाएं"
+    "remove": "हटाएं",
+    "cat_health_pharmacy": "स्वास्थ्य और फार्मेसी",
+    "cat_pet_supplies": "पालतू जानवरों का सामान",
+    "cat_stationery_school": "स्टेशनरी और स्कूल"
   }
 }

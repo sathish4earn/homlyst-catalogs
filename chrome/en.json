@@ -110,6 +110,9 @@
     "add": "Add",
     "remove_item_title": "Remove Item?",
     "remove_item_message": "Remove \"%1$s\" from this category?",
-    "remove": "Remove"
+    "remove": "Remove",
+    "cat_health_pharmacy": "Health & Pharmacy",
+    "cat_pet_supplies": "Pet Supplies",
+    "cat_stationery_school": "Stationery & School"
   }
 }

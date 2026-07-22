@@ -110,6 +110,9 @@
     "add": "Thêm",
     "remove_item_title": "Xóa Mặt Hàng?",
     "remove_item_message": "Xóa \"%1$s\" khỏi danh mục này?",
-    "remove": "Xóa"
+    "remove": "Xóa",
+    "cat_health_pharmacy": "Sức Khỏe & Dược Phẩm",
+    "cat_pet_supplies": "Đồ Dùng Cho Thú Cưng",
+    "cat_stationery_school": "Văn Phòng Phẩm & Học Tập"
   }
 }

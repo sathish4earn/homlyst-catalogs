@@ -110,6 +110,9 @@
     "add": "Tambah",
     "remove_item_title": "Hapus Item?",
     "remove_item_message": "Hapus \"%1$s\" dari kategori ini?",
-    "remove": "Hapus"
+    "remove": "Hapus",
+    "cat_health_pharmacy": "Kesehatan & Apotek",
+    "cat_pet_supplies": "Perlengkapan Hewan Peliharaan",
+    "cat_stationery_school": "Alat Tulis & Sekolah"
   }
 }

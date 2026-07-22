@@ -109,6 +109,9 @@
     "add": "जोडा",
     "remove_item_title": "आयटम काढायचा?",
     "remove_item_message": "\"%1$s\" या श्रेणीतून काढायचा?",
-    "remove": "काढा"
+    "remove": "काढा",
+    "cat_health_pharmacy": "आरोग्य आणि औषध",
+    "cat_pet_supplies": "पाळीव प्राण्यांचे साहित्य",
+    "cat_stationery_school": "स्टेशनरी आणि शाळा"
   }
 }

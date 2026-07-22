@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "countryCode": "MX",
   "countryDisplayName": "Mexico",
   "categories": [
@@ -1149,6 +1149,77 @@
           "id": "vaselina",
           "nameEn": "Petroleum Jelly"
         }
+      ]
+    },
+    {
+      "key": "Health & Pharmacy",
+      "nameEn": "Health & Pharmacy",
+      "nameResKey": "cat_health_pharmacy",
+      "emoji": "💊",
+      "unitType": "PIECES",
+      "items": [
+        "Paracetamol Tablets",
+        "Cough Syrup",
+        "Antiseptic Cream",
+        "Band-Aids",
+        "Cotton Wool",
+        "Hand Sanitizer",
+        "Face Masks",
+        "Digital Thermometer",
+        "Vitamin C Tablets",
+        "Multivitamin Tablets",
+        "ORS Sachets",
+        "Antacid Tablets",
+        "Allergy Tablets",
+        "First Aid Spray",
+        "Sanitary Pads"
+      ]
+    },
+    {
+      "key": "Pet Supplies",
+      "nameEn": "Pet Supplies",
+      "nameResKey": "cat_pet_supplies",
+      "emoji": "🐾",
+      "unitType": "PIECES",
+      "items": [
+        "Dog Food",
+        "Cat Food",
+        "Pet Treats",
+        "Cat Litter",
+        "Pet Shampoo",
+        "Pet Toys",
+        "Pet Leash",
+        "Pet Bowl",
+        "Bird Feed",
+        "Fish Food",
+        "Pet Deworming Tablets",
+        "Flea & Tick Spray",
+        "Pet Waste Bags",
+        "Pet Bed"
+      ]
+    },
+    {
+      "key": "Stationery & School",
+      "nameEn": "Stationery & School",
+      "nameResKey": "cat_stationery_school",
+      "emoji": "✏️",
+      "unitType": "PIECES",
+      "items": [
+        "Notebooks",
+        "Pens",
+        "Pencils",
+        "Eraser",
+        "Sharpener",
+        "Ruler",
+        "Sticky Notes",
+        "Stapler",
+        "Staple Pins",
+        "Glue Stick",
+        "Scissors",
+        "Crayons",
+        "Highlighter",
+        "Envelopes",
+        "A4 Paper"
       ]
     }
   ]

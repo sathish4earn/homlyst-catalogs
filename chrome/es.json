@@ -110,6 +110,9 @@
     "add": "Agregar",
     "remove_item_title": "¿Eliminar Artículo?",
     "remove_item_message": "¿Eliminar \"%1$s\" de esta categoría?",
-    "remove": "Eliminar"
+    "remove": "Eliminar",
+    "cat_health_pharmacy": "Salud y Farmacia",
+    "cat_pet_supplies": "Productos para Mascotas",
+    "cat_stationery_school": "Papelería y Escuela"
   }
 }

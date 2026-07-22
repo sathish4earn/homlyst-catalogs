@@ -109,6 +109,9 @@
     "add": "சேர்",
     "remove_item_title": "பொருளை அகற்றவா?",
     "remove_item_message": "\"%1$s\" ஐ இந்தப் பிரிவிலிருந்து அகற்றவா?",
-    "remove": "அகற்று"
+    "remove": "அகற்று",
+    "cat_health_pharmacy": "சுகாதாரம் & மருந்தகம்",
+    "cat_pet_supplies": "செல்லப்பிராணி பொருட்கள்",
+    "cat_stationery_school": "எழுதுபொருட்கள் & பள்ளி"
   }
 }

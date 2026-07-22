@@ -110,6 +110,9 @@
     "add": "เพิ่ม",
     "remove_item_title": "ลบสินค้า?",
     "remove_item_message": "ลบ \"%1$s\" ออกจากหมวดหมู่นี้หรือไม่?",
-    "remove": "ลบ"
+    "remove": "ลบ",
+    "cat_health_pharmacy": "สุขภาพและร้านขายยา",
+    "cat_pet_supplies": "อุปกรณ์สัตว์เลี้ยง",
+    "cat_stationery_school": "เครื่องเขียนและอุปกรณ์การเรียน"
   }
 }

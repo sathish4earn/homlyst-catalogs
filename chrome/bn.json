@@ -109,6 +109,9 @@
     "add": "যোগ করুন",
     "remove_item_title": "আইটেম সরাবেন?",
     "remove_item_message": "\"%1$s\" কি এই বিভাগ থেকে সরাতে চান?",
-    "remove": "সরান"
+    "remove": "সরান",
+    "cat_health_pharmacy": "স্বাস্থ্য ও ফার্মেসি",
+    "cat_pet_supplies": "পোষা প্রাণীর সামগ্রী",
+    "cat_stationery_school": "স্টেশনারি ও স্কুল"
   }
 }

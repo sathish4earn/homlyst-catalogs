@@ -8,7 +8,7 @@
       "fileName": "india_catalog_v1.json",
       "dialCode": "+91",
       "currencyCode": "INR",
-      "version": 1,
+      "version": 2,
       "l10n": {
         "hi": 1,
         "ta": 1,
@@ -25,7 +25,7 @@
       "fileName": "usa_catalog_v1.json",
       "dialCode": "+1",
       "currencyCode": "USD",
-      "version": 1
+      "version": 2
     },
     {
       "code": "GB",
@@ -34,7 +34,7 @@
       "fileName": "uk_catalog_v1.json",
       "dialCode": "+44",
       "currencyCode": "GBP",
-      "version": 1
+      "version": 2
     },
     {
       "code": "AU",
@@ -43,7 +43,7 @@
       "fileName": "australia_catalog_v1.json",
       "dialCode": "+61",
       "currencyCode": "AUD",
-      "version": 1
+      "version": 2
     },
     {
       "code": "CA",
@@ -52,7 +52,7 @@
       "fileName": "canada_catalog_v1.json",
       "dialCode": "+1",
       "currencyCode": "CAD",
-      "version": 1
+      "version": 2
     },
     {
       "code": "IE",
@@ -61,7 +61,7 @@
       "fileName": "ireland_catalog_v1.json",
       "dialCode": "+353",
       "currencyCode": "EUR",
-      "version": 1
+      "version": 2
     },
     {
       "code": "NZ",
@@ -70,7 +70,7 @@
       "fileName": "newzealand_catalog_v1.json",
       "dialCode": "+64",
       "currencyCode": "NZD",
-      "version": 1
+      "version": 2
     },
     {
       "code": "DE",
@@ -79,7 +79,7 @@
       "fileName": "germany_catalog_v1.json",
       "dialCode": "+49",
       "currencyCode": "EUR",
-      "version": 1
+      "version": 2
     },
     {
       "code": "CN",
@@ -88,7 +88,7 @@
       "fileName": "china_catalog_v1.json",
       "dialCode": "+86",
       "currencyCode": "CNY",
-      "version": 1,
+      "version": 2,
       "l10n": {
         "zh": 1
       }
@@ -100,7 +100,7 @@
       "fileName": "brazil_catalog_v1.json",
       "dialCode": "+55",
       "currencyCode": "BRL",
-      "version": 1,
+      "version": 3,
       "l10n": {
         "pt": 1
       }
@@ -112,7 +112,7 @@
       "fileName": "indonesia_catalog_v1.json",
       "dialCode": "+62",
       "currencyCode": "IDR",
-      "version": 1,
+      "version": 3,
       "l10n": {
         "id": 1
       }
@@ -124,7 +124,7 @@
       "fileName": "mexico_catalog_v1.json",
       "dialCode": "+52",
       "currencyCode": "MXN",
-      "version": 1,
+      "version": 3,
       "l10n": {
         "es": 1
       }
@@ -136,7 +136,7 @@
       "fileName": "philippines_catalog_v1.json",
       "dialCode": "+63",
       "currencyCode": "PHP",
-      "version": 1
+      "version": 3
     },
     {
       "code": "VN",
@@ -145,7 +145,7 @@
       "fileName": "vietnam_catalog_v1.json",
       "dialCode": "+84",
       "currencyCode": "VND",
-      "version": 1,
+      "version": 3,
       "l10n": {
         "vi": 1
       }
@@ -157,7 +157,7 @@
       "fileName": "thailand_catalog_v1.json",
       "dialCode": "+66",
       "currencyCode": "THB",
-      "version": 1,
+      "version": 3,
       "l10n": {
         "th": 1
       }
@@ -169,7 +169,7 @@
       "fileName": "france_catalog_v1.json",
       "dialCode": "+33",
       "currencyCode": "EUR",
-      "version": 1,
+      "version": 3,
       "l10n": {
         "fr": 1
       }
@@ -181,7 +181,7 @@
       "fileName": "malaysia_catalog_v1.json",
       "dialCode": "+60",
       "currencyCode": "MYR",
-      "version": 1,
+      "version": 3,
       "l10n": {
         "ms": 1
       }
@@ -193,7 +193,7 @@
       "fileName": "global_catalog_v1.json",
       "dialCode": "",
       "currencyCode": "USD",
-      "version": 1
+      "version": 3
     }
   ]
 }
