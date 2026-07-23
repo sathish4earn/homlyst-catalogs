@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -113,6 +113,7 @@
     "cat_health_pharmacy": "स्वास्थ्य और फार्मेसी",
     "cat_pet_supplies": "पालतू जानवरों का सामान",
     "cat_stationery_school": "स्टेशनरी और स्कूल",
-    "cat_flowers": "फूल"
+    "cat_flowers": "फूल",
+    "items_added_to_cart": "आइटम कार्ट में जोड़ दिए गए!"
   }
 }

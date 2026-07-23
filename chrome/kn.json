@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -113,6 +113,7 @@
     "cat_health_pharmacy": "ಆರೋಗ್ಯ ಮತ್ತು ಔಷಧಿ",
     "cat_pet_supplies": "ಸಾಕುಪ್ರಾಣಿ ಸಾಮಗ್ರಿ",
     "cat_stationery_school": "ಸ್ಟೇಷನರಿ ಮತ್ತು ಶಾಲಾ",
-    "cat_flowers": "ಹೂಗಳು"
+    "cat_flowers": "ಹೂಗಳು",
+    "items_added_to_cart": "ವಸ್ತುಗಳನ್ನು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ!"
   }
 }

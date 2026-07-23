@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -113,6 +113,7 @@
     "cat_health_pharmacy": "சுகாதாரம் & மருந்தகம்",
     "cat_pet_supplies": "செல்லப்பிராணி பொருட்கள்",
     "cat_stationery_school": "எழுதுபொருட்கள் & பள்ளி",
-    "cat_flowers": "பூக்கள்"
+    "cat_flowers": "பூக்கள்",
+    "items_added_to_cart": "பொருட்கள் கார்ட்டில் சேர்க்கப்பட்டன!"
   }
 }

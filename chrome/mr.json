@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -113,6 +113,7 @@
     "cat_health_pharmacy": "आरोग्य आणि औषध",
     "cat_pet_supplies": "पाळीव प्राण्यांचे साहित्य",
     "cat_stationery_school": "स्टेशनरी आणि शाळा",
-    "cat_flowers": "फुले"
+    "cat_flowers": "फुले",
+    "items_added_to_cart": "वस्तू कार्टमध्ये जोडल्या गेल्या!"
   }
 }

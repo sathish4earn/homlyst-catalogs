@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -113,6 +113,7 @@
     "cat_health_pharmacy": "ఆరోగ్యం & ఫార్మసీ",
     "cat_pet_supplies": "పెంపుడు జంతువుల సామాగ్రి",
     "cat_stationery_school": "స్టేషనరీ & స్కూల్",
-    "cat_flowers": "పువ్వులు"
+    "cat_flowers": "పువ్వులు",
+    "items_added_to_cart": "వస్తువులు కార్ట్‌కు జోడించబడ్డాయి!"
   }
 }
