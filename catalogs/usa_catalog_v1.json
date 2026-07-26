@@ -13,7 +13,11 @@
         "Radish","Turnip","Leek","Scallions","Cilantro","Parsley","Basil","Mint",
         "Lemon","Lime","Banana","Apple","Orange","Grapes","Strawberries","Blueberries",
         "Raspberries","Blackberries","Watermelon","Cantaloupe","Honeydew","Mango","Peach",
-        "Plum","Pear","Pineapple","Kiwi","Pomegranate","Cherries","Cranberries"]
+        "Plum","Pear","Pineapple","Kiwi","Pomegranate","Cherries","Cranberries",
+        "Grapefruit","Green Onions","Roma Tomatoes","Russet Potatoes","Red Potatoes",
+        "Green Bell Pepper","Red Bell Pepper","Artichoke","Eggplant","Arugula",
+        "Romaine Lettuce","Iceberg Lettuce"
+      ]
     },
     {
       "key": "Meat & Poultry", "nameEn": "Meat & Poultry",
@@ -21,14 +25,20 @@
       "items": ["Chicken Breast","Chicken Thighs","Whole Chicken","Ground Chicken",
         "Ground Beef","Beef Steak","Beef Ribeye","Beef Sirloin","Chuck Roast","Beef Ribs",
         "Ground Turkey","Turkey Breast","Whole Turkey","Pork Chops","Pork Tenderloin",
-        "Bacon","Ham","Sausage","Hot Dogs","Lamb Chops","Veal"]
+        "Bacon","Ham","Sausage","Hot Dogs","Lamb Chops","Veal",
+        "Chicken Wings","Chicken Drumsticks","Ground Pork","Pork Ribs","Pork Shoulder",
+        "Turkey Bacon","Deli Turkey","Deli Ham","Meatballs","Brisket"
+      ]
     },
     {
       "key": "Seafood", "nameEn": "Seafood",
       "emoji": "🐟", "unitType": "WEIGHT",
       "items": ["Salmon","Tilapia","Cod","Tuna","Shrimp","Crab","Lobster","Clams",
         "Oysters","Scallops","Mahi-Mahi","Catfish","Trout","Halibut","Swordfish",
-        "Canned Tuna","Canned Salmon","Sardines","Anchovies"]
+        "Canned Tuna","Canned Salmon","Sardines","Anchovies",
+        "Haddock","Sea Bass","Snapper","Pollock","Mussels",
+        "Crawfish","Smoked Salmon"
+      ]
     },
     {
       "key": "Dairy & Eggs", "nameEn": "Dairy & Eggs",
@@ -36,14 +46,20 @@
       "items": ["Whole Milk","2% Milk","Skim Milk","Almond Milk","Oat Milk","Soy Milk",
         "Butter","Margarine","Cream Cheese","Cheddar Cheese","Mozzarella","Swiss Cheese",
         "Parmesan","Colby Jack","Provolone","American Cheese","Sour Cream","Whipping Cream",
-        "Half and Half","Greek Yogurt","Regular Yogurt","Eggs","Egg Whites","Cottage Cheese"]
+        "Half and Half","Greek Yogurt","Regular Yogurt","Eggs","Egg Whites","Cottage Cheese",
+        "Heavy Cream","Evaporated Milk","Lactose-Free Milk","Chocolate Milk","String Cheese",
+        "Ricotta Cheese","Feta Cheese","Shredded Cheese"
+      ]
     },
     {
       "key": "Bakery & Bread", "nameEn": "Bakery & Bread",
       "emoji": "🍞", "unitType": "PIECES",
       "items": ["White Bread","Whole Wheat Bread","Sourdough","Multigrain Bread","Rye Bread",
         "Bagels","English Muffins","Croissants","Buns","Dinner Rolls","Pita Bread",
-        "Tortillas","Flour Tortillas","Corn Tortillas","Naan","Muffins","Donuts","Biscuits"]
+        "Tortillas","Flour Tortillas","Corn Tortillas","Naan","Muffins","Donuts","Biscuits",
+        "Hamburger Buns","Hot Dog Buns","Garlic Bread","French Bread","Ciabatta",
+        "Cinnamon Rolls","Cake","Cupcakes"
+      ]
     },
     {
       "key": "Pantry & Grains", "nameEn": "Pantry & Grains",
@@ -54,7 +70,10 @@
         "Canned Beans","Black Beans","Pinto Beans","Chickpeas","Kidney Beans","Breadcrumbs",
         "Crackers","Granola","Cereal","Corn Flakes","Cheerios","Pancake Mix","Baking Soda",
         "Baking Powder","Yeast","Sugar","Brown Sugar","Powdered Sugar","Honey","Maple Syrup",
-        "Corn Syrup","Vanilla Extract","Cocoa Powder","Chocolate Chips"]
+        "Corn Syrup","Vanilla Extract","Cocoa Powder","Chocolate Chips",
+        "Long-Grain Rice","Instant Rice","Self-Rising Flour","Tortilla Flour/Masa Harina","Couscous",
+        "Instant Oatmeal","Cooking Oil","Canola Oil"
+      ]
     },
     {
       "key": "Canned & Jarred", "nameEn": "Canned & Jarred",
@@ -64,7 +83,11 @@
         "Canned Mushrooms","Peanut Butter","Almond Butter","Jelly","Jam","Pickles",
         "Olives","Salsa","Pasta Sauce","Mayonnaise","Mustard","Ketchup","Ranch Dressing",
         "Italian Dressing","Soy Sauce","Hot Sauce","BBQ Sauce","Worcestershire Sauce",
-        "Apple Cider Vinegar","Olive Oil","Vegetable Oil","Coconut Oil","Cooking Spray"]
+        "Apple Cider Vinegar","Olive Oil","Vegetable Oil","Coconut Oil","Cooking Spray",
+        "Canned Black Beans","Canned Kidney Beans","Canned Chickpeas","Canned Refried Beans","Canned Soup",
+        "Canned Chicken","Canned Fruit","Applesauce","Pasta Alfredo Sauce","Relish",
+        "Honey Mustard"
+      ]
     },
     {
       "key": "Frozen Foods", "nameEn": "Frozen Foods",
@@ -72,7 +95,10 @@
       "items": ["Frozen Pizza","Frozen Burritos","Frozen Waffles","Frozen Pancakes",
         "Frozen Vegetables","Frozen Corn","Frozen Peas","Frozen Broccoli","Frozen Edamame",
         "Frozen Fruit","Ice Cream","Frozen Yogurt","Popsicles","Frozen Fish Sticks",
-        "Frozen Chicken Nuggets","Frozen French Fries","Frozen Tater Tots","Frozen Pot Pie"]
+        "Frozen Chicken Nuggets","Frozen French Fries","Frozen Tater Tots","Frozen Pot Pie",
+        "Frozen Berries","Frozen Spinach","Frozen Mixed Vegetables","Frozen Meatballs","Frozen Shrimp",
+        "Frozen Bread","Frozen Desserts","Frozen Breakfast Sandwiches","Frozen Garlic Bread"
+      ]
     },
     {
       "key": "Beverages", "nameEn": "Beverages",
@@ -80,7 +106,10 @@
       "items": ["Coffee","Ground Coffee","Coffee Pods","Tea Bags","Green Tea","Herbal Tea",
         "Orange Juice","Apple Juice","Grape Juice","Cranberry Juice","Lemonade",
         "Sparkling Water","Soda","Diet Soda","Sports Drinks","Energy Drinks","Beer","Wine",
-        "White Wine","Red Wine","Rosé","Spirits","Vodka","Whiskey","Rum"]
+        "White Wine","Red Wine","Rosé","Spirits","Vodka","Whiskey","Rum",
+        "Bottled Water","Still Water","Cola","Iced Tea","Cold Brew Coffee",
+        "Hot Chocolate","Coconut Water","Electrolyte Drinks","Milkshake Mix"
+      ]
     },
     {
       "key": "Snacks", "nameEn": "Snacks",
@@ -89,7 +118,10 @@
         "Trail Mix","Granola Bars","Protein Bars","Nuts","Almonds","Cashews","Peanuts",
         "Walnuts","Pistachios","Sunflower Seeds","Pumpkin Seeds","Beef Jerky","Cheese Sticks",
         "Rice Cakes","Dark Chocolate","Candy","Gummy Bears","Fruit Snacks","Cookies",
-        "Oreos","Graham Crackers","Animal Crackers"]
+        "Oreos","Graham Crackers","Animal Crackers",
+        "Mixed Nuts","Corn Chips","Nacho Chips","Snack Mix","Peanut Butter Crackers",
+        "Cheese Crackers","Applesauce Cups","Pudding Cups"
+      ]
     },
     {
       "key": "Personal Care", "nameEn": "Personal Care",
@@ -97,13 +129,19 @@
       "items": ["Shampoo","Conditioner","Body Wash","Bar Soap","Face Wash","Moisturizer",
         "Sunscreen","Toothpaste","Toothbrush","Mouthwash","Floss","Deodorant","Antiperspirant",
         "Shaving Cream","Razor","Razor Blades","Lip Balm","Hand Lotion","Hair Gel",
-        "Hair Spray","Dry Shampoo","Cotton Swabs","Cotton Balls"]
+        "Hair Spray","Dry Shampoo","Cotton Swabs","Cotton Balls",
+        "Hand Soap","Face Cream","Body Lotion","Feminine Wash","Nail Clippers",
+        "Nail Polish Remover","Tissues"
+      ]
     },
     {
       "key": "Baby Care", "nameEn": "Baby Care",
       "emoji": "👶", "unitType": "PIECES",
       "items": ["Diapers","Baby Wipes","Baby Shampoo","Baby Body Wash","Baby Lotion",
-        "Baby Powder","Baby Food","Baby Formula","Pacifier","Baby Bottle","Diaper Cream"]
+        "Baby Powder","Baby Food","Baby Formula","Pacifier","Baby Bottle","Diaper Cream",
+        "Baby Cereal","Baby Snacks","Baby Oil","Training Pants","Bottle Nipples",
+        "Diaper Bags"
+      ]
     },
     {
       "key": "Cleaning Supplies", "nameEn": "Cleaning Supplies",
@@ -112,7 +150,10 @@
         "Dryer Sheets","All-Purpose Cleaner","Bathroom Cleaner","Toilet Bowl Cleaner",
         "Glass Cleaner","Floor Cleaner","Mop","Broom","Dustpan","Sponges","Scrub Brush",
         "Paper Towels","Toilet Paper","Facial Tissue","Garbage Bags","Ziploc Bags",
-        "Aluminum Foil","Plastic Wrap","Parchment Paper","Wax Paper"]
+        "Aluminum Foil","Plastic Wrap","Parchment Paper","Wax Paper",
+        "Disinfectant Spray","Disinfecting Wipes","Bleach","Hand Soap","Oven Cleaner",
+        "Drain Cleaner","Microfiber Cloths","Rubber Gloves"
+      ]
     },
     {
       "key": "Condiments & Spices", "nameEn": "Condiments & Spices",
@@ -120,7 +161,10 @@
       "items": ["Salt","Black Pepper","Garlic Powder","Onion Powder","Paprika","Chili Powder",
         "Cumin","Oregano","Basil","Thyme","Rosemary","Bay Leaves","Cinnamon","Nutmeg",
         "Cayenne Pepper","Red Pepper Flakes","Italian Seasoning","Taco Seasoning",
-        "Cajun Seasoning","Ranch Seasoning","Everything Bagel Seasoning","Parsley","Dill"]
+        "Cajun Seasoning","Ranch Seasoning","Everything Bagel Seasoning","Parsley","Dill",
+        "Yellow Mustard","Dijon Mustard","Buffalo Sauce","Teriyaki Sauce","Vinegar",
+        "White Vinegar","Balsamic Vinegar","Sesame Oil"
+      ]
     },
     {
       "key": "Health & Pharmacy",
@@ -143,7 +187,10 @@
         "Antacid Tablets",
         "Allergy Tablets",
         "First Aid Spray",
-        "Sanitary Pads"
+        "Sanitary Pads",
+        "Ibuprofen","Acetaminophen","Aspirin","Cold Medicine","Flu Medicine",
+        "Nasal Spray","Cough Drops","Allergy Medicine","Antibiotic Ointment","Hydrogen Peroxide",
+        "Rubbing Alcohol","Gauze","Medical Tape","Thermometer Covers"
       ]
     },
     {
@@ -166,7 +213,9 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dog Treats","Cat Treats","Dog Waste Bags","Pet Food Cans","Cat Litter Bags",
+        "Pet Dental Treats"
       ]
     },
     {
