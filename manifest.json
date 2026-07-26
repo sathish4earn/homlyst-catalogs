@@ -116,9 +116,9 @@
       "fileName": "indonesia_catalog_v1.json",
       "dialCode": "+62",
       "currencyCode": "IDR",
-      "version": 3,
+      "version": 4,
       "l10n": {
-        "id": 1
+        "id": 2
       }
     },
     {

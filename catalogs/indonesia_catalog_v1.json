@@ -39,7 +39,7 @@
         },
         {
           "id": "kangkung",
-          "nameEn": "Kangkung"
+          "nameEn": "Water Spinach"
         },
         {
           "id": "spinach",
@@ -51,11 +51,11 @@
         },
         {
           "id": "terong",
-          "nameEn": "Terong"
+          "nameEn": "Eggplant"
         },
         {
           "id": "ketimun",
-          "nameEn": "Ketimun"
+          "nameEn": "Cucumber"
         },
         {
           "id": "long-beans",
@@ -96,7 +96,24 @@
         {
           "id": "chayote",
           "nameEn": "Chayote"
-        }
+        },
+        "Broccoli",
+        "Cauliflower",
+        "Bok Choy",
+        "Chinese Cabbage",
+        "Green Mustard",
+        "Cassava Leaves",
+        "Papaya Leaves",
+        "Melinjo Leaves",
+        "Bitter Melon",
+        "Green Eggplant",
+        "Pumpkin",
+        "Bottle Gourd",
+        "Green Beans",
+        "Bamboo Shoots",
+        "Sweet Potato",
+        "Cassava",
+        "Taro"
       ]
     },
     {
@@ -184,7 +201,17 @@
         {
           "id": "coconut",
           "nameEn": "Coconut"
-        }
+        },
+        "Water Apple",
+        "Duku",
+        "Longan",
+        "Sapodilla",
+        "Breadfruit",
+        "Dragon Fruit",
+        "Passion Fruit",
+        "Kedondong",
+        "Pomelo",
+        "Mandarin Orange"
       ]
     },
     {
@@ -252,7 +279,26 @@
         {
           "id": "oats",
           "nameEn": "Oats"
-        }
+        },
+        "Instant Noodles",
+        "Instant Fried Noodles",
+        "Instant Soup Noodles",
+        "Cup Noodles",
+        "Instant Vermicelli",
+        "Instant Porridge",
+        "Instant Rice",
+        "Cereal",
+        "Granola",
+        "Instant Oatmeal",
+        "Porridge",
+        "White Rice",
+        "Premium Rice",
+        "Medium Rice",
+        "Brown Rice",
+        "Black Rice",
+        "White Glutinous Rice",
+        "Black Glutinous Rice",
+        "Glutinous Rice Flour"
       ]
     },
     {
@@ -371,7 +417,7 @@
         },
         {
           "id": "jeroan",
-          "nameEn": "Jeroan"
+          "nameEn": "Offal"
         },
         {
           "id": "goat-meat",
@@ -383,7 +429,7 @@
         },
         {
           "id": "bakso",
-          "nameEn": "Bakso"
+          "nameEn": "Meatballs"
         },
         {
           "id": "chicken-sausage",
@@ -392,7 +438,8 @@
         {
           "id": "ayam-kampung",
           "nameEn": "Kampung Chicken"
-        }
+        },
+        "Chicken Gizzard"
       ]
     },
     {
@@ -403,27 +450,27 @@
       "items": [
         {
           "id": "bandeng",
-          "nameEn": "Bandeng"
+          "nameEn": "Milkfish"
         },
         {
           "id": "lele",
-          "nameEn": "Lele"
+          "nameEn": "Catfish"
         },
         {
           "id": "nila",
-          "nameEn": "Nila"
+          "nameEn": "Tilapia"
         },
         {
           "id": "kembung",
-          "nameEn": "Kembung"
+          "nameEn": "Mackerel"
         },
         {
           "id": "bawal",
-          "nameEn": "Bawal"
+          "nameEn": "Pomfret"
         },
         {
           "id": "gurame",
-          "nameEn": "Gurame"
+          "nameEn": "Gourami"
         },
         {
           "id": "tuna",
@@ -431,15 +478,15 @@
         },
         {
           "id": "cakalang",
-          "nameEn": "Cakalang"
+          "nameEn": "Skipjack Tuna"
         },
         {
           "id": "teri",
-          "nameEn": "Teri"
+          "nameEn": "Anchovies"
         },
         {
           "id": "ikan-asin",
-          "nameEn": "Ikan Asin"
+          "nameEn": "Salted Fish"
         },
         {
           "id": "shrimp",
@@ -451,15 +498,15 @@
         },
         {
           "id": "cumi",
-          "nameEn": "Cumi"
+          "nameEn": "Squid"
         },
         {
           "id": "kerang",
-          "nameEn": "Kerang"
+          "nameEn": "Clams"
         },
         {
           "id": "kakap",
-          "nameEn": "Kakap"
+          "nameEn": "Snapper"
         }
       ]
     },
@@ -495,7 +542,7 @@
         },
         {
           "id": "santan",
-          "nameEn": "Santan"
+          "nameEn": "Coconut Milk"
         },
         {
           "id": "kara",
@@ -528,7 +575,8 @@
         {
           "id": "olive-oil",
           "nameEn": "Olive Oil"
-        }
+        },
+        "Margarine"
       ]
     },
     {
@@ -551,7 +599,7 @@
         },
         {
           "id": "terasi",
-          "nameEn": "Terasi"
+          "nameEn": "Shrimp Paste"
         },
         {
           "id": "sambal-terasi",
@@ -563,7 +611,7 @@
         },
         {
           "id": "kecap-manis",
-          "nameEn": "Kecap Manis"
+          "nameEn": "Sweet Soy Sauce"
         },
         {
           "id": "bango-kecap-manis",
@@ -616,7 +664,30 @@
         {
           "id": "masako",
           "nameEn": "Masako"
-        }
+        },
+        "Cumin",
+        "White Pepper",
+        "Black Pepper",
+        "Pandan Leaves",
+        "Basil Leaves",
+        "Aren Palm Sugar",
+        "MSG",
+        "Seasoning Powder",
+        "Chicken Stock Powder",
+        "Beef Stock Powder",
+        "Chili Sambal",
+        "Green Sambal",
+        "Sambal Matah",
+        "Sambal Bajak",
+        "Sambal Roa",
+        "Salty Soy Sauce",
+        "Soy Sauce",
+        "Chili Sauce",
+        "Tomato Sauce",
+        "Fish Sauce",
+        "Teriyaki Sauce",
+        "Mayonnaise",
+        "Vinegar"
       ]
     },
     {
@@ -688,7 +759,14 @@
         {
           "id": "kacang-bawang",
           "nameEn": "Fried Peanuts"
-        }
+        },
+        "Fish Crackers",
+        "Garlic Crackers",
+        "White Crackers",
+        "Skin Crackers",
+        "Taro Chips",
+        "Potato Chips",
+        "Sweet Potato Chips"
       ]
     },
     {
@@ -760,7 +838,26 @@
         {
           "id": "marjan",
           "nameEn": "Marjan Syrup"
-        }
+        },
+        "Bottled Water",
+        "Tea",
+        "Sweet Tea",
+        "Iced Tea",
+        "Jasmine Tea",
+        "Green Tea",
+        "Black Tea",
+        "Coffee",
+        "Instant Coffee",
+        "Black Coffee",
+        "Milk Coffee",
+        "Ginger Drink",
+        "Tamarind Turmeric Drink",
+        "Beras Kencur Drink",
+        "Coconut Water",
+        "Syrup",
+        "Fruit Juice",
+        "Soy Milk",
+        "Isotonic Drink"
       ]
     },
     {
@@ -896,7 +993,14 @@
         {
           "id": "kornet",
           "nameEn": "Kornet"
-        }
+        },
+        "Frozen Fried Rice",
+        "Frozen Rendang",
+        "Frozen Pempek",
+        "Frozen Samosa",
+        "Frozen Sausage",
+        "Canned Tuna",
+        "Canned Mackerel"
       ]
     },
     {
@@ -946,25 +1050,39 @@
           "nameEn": "Toilet Paper"
         },
         {
-          "id": "hit",
-          "nameEn": "HIT"
-        },
-        {
-          "id": "baygon",
-          "nameEn": "Baygon"
-        },
-        {
-          "id": "obat-nyamuk-bakar",
-          "nameEn": "Mosquito Coil"
-        },
-        {
-          "id": "tabung-gas-lpg",
-          "nameEn": "LPG Gas Canister"
-        },
-        {
           "id": "pengharum-ruangan",
           "nameEn": "Air Freshener"
-        }
+        },
+        "Laundry Detergent",
+        "Laundry Powder",
+        "Liquid Laundry Detergent",
+        "Fabric Softener",
+        "Dishwashing Liquid",
+        "Floor Cleaner",
+        "Toilet Cleaner",
+        "Bathroom Cleaner",
+        "Glass Cleaner",
+        "Multipurpose Cleaner",
+        "Bleach",
+        "Disinfectant",
+        "Facial Tissue",
+        "Kitchen Tissue",
+        "Sponge",
+        "Cleaning Cloth",
+        "Broom",
+        "Mop",
+        "Bucket",
+        "Dustpan",
+        "Rubber Gloves",
+        "Aluminium Foil",
+        "Plastic Wrap",
+        "Baking Paper",
+        "Food Storage Bags",
+        "Toothpicks",
+        "Bamboo Skewers",
+        "Drinking Straws",
+        "Disposable Cups",
+        "Disposable Plates"
       ]
     },
     {
@@ -1032,7 +1150,27 @@
         {
           "id": "shaving-razor",
           "nameEn": "Shaving Razor"
-        }
+        },
+        "Shampoo",
+        "Conditioner",
+        "Body Wash",
+        "Bar Soap",
+        "Facial Cleanser",
+        "Toothpaste",
+        "Mouthwash",
+        "Dental Floss",
+        "Deodorant",
+        "Body Lotion",
+        "Moisturizer",
+        "Hand Cream",
+        "Shaving Cream",
+        "Cotton Buds",
+        "Cotton Balls",
+        "Panty Liners",
+        "Hair Gel",
+        "Hair Oil",
+        "Hair Serum",
+        "Face Mask"
       ]
     },
     {
@@ -1100,7 +1238,16 @@
         {
           "id": "baby-cotton-buds",
           "nameEn": "Baby Cotton Buds"
-        }
+        },
+        "Diapers",
+        "Baby Body Wash",
+        "Baby Oil",
+        "Baby Formula",
+        "Baby Porridge",
+        "Baby Food",
+        "Baby Bottle",
+        "Bottle Nipple",
+        "Pacifier"
       ]
     },
     {
@@ -1168,7 +1315,12 @@
         {
           "id": "klepon",
           "nameEn": "Klepon"
-        }
+        },
+        "White Bread",
+        "Peanut Butter",
+        "Chocolate Spread",
+        "Fruit Jam",
+        "Chocolate Sprinkles"
       ]
     },
     {
@@ -1192,7 +1344,17 @@
         "Antacid Tablets",
         "Allergy Tablets",
         "First Aid Spray",
-        "Sanitary Pads"
+        "Sanitary Pads",
+        "First Aid Kit",
+        "Gauze",
+        "Medical Tape",
+        "Antiseptic Liquid",
+        "Saline Solution",
+        "Cough Drops",
+        "Insect Bite Cream",
+        "Disposable Gloves",
+        "Hot Compress Bag",
+        "Cold Pack"
       ]
     },
     {
@@ -1215,7 +1377,13 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dry Cat Food",
+        "Wet Cat Food",
+        "Dry Dog Food",
+        "Wet Dog Food",
+        "Cat Treats",
+        "Dog Treats"
       ]
     },
     {
@@ -1240,6 +1408,136 @@
         "Highlighter",
         "Envelopes",
         "A4 Paper"
+      ]
+    },
+    {
+      "key": "Indonesian Ready Meals",
+      "nameEn": "Indonesian Ready Meals",
+      "emoji": "🍛",
+      "unitType": "PIECES",
+      "items": [
+        "Rawon",
+        "Soto",
+        "Soto Ayam",
+        "Opor Ayam",
+        "Gudeg",
+        "Gado-Gado",
+        "Pecel",
+        "Satay",
+        "Chicken Satay",
+        "Goat Satay",
+        "Fried Rice",
+        "Yellow Rice",
+        "Uduk Rice",
+        "Lontong",
+        "Ketupat",
+        "Pempek",
+        "Siomay",
+        "Batagor",
+        "Martabak",
+        "Chicken Porridge"
+      ]
+    },
+    {
+      "key": "Traditional Snacks & Cakes",
+      "nameEn": "Traditional Snacks & Cakes",
+      "emoji": "🍡",
+      "unitType": "PIECES",
+      "items": [
+        "Onde-Onde",
+        "Lemper",
+        "Risoles",
+        "Pastel",
+        "Dadar Gulung",
+        "Putu Cake",
+        "Serabi",
+        "Nagasari",
+        "Getuk",
+        "Wingko",
+        "Bakpia",
+        "Bika Ambon",
+        "Lapis Legit",
+        "Dodol",
+        "Wajik",
+        "Kue Cubit",
+        "Pisang Goreng",
+        "Tahu Isi",
+        "Tempe Mendoan"
+      ]
+    },
+    {
+      "key": "Mosquito & Pest Control",
+      "nameEn": "Mosquito & Pest Control",
+      "emoji": "🦟",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "hit",
+          "nameEn": "HIT"
+        },
+        {
+          "id": "baygon",
+          "nameEn": "Baygon"
+        },
+        {
+          "id": "obat-nyamuk-bakar",
+          "nameEn": "Mosquito Coil"
+        },
+        "Mosquito Spray",
+        "Insecticide Spray",
+        "Electric Mosquito Repellent",
+        "Mosquito Repellent Lotion",
+        "Mosquito Net",
+        "Cockroach Spray",
+        "Ant Killer",
+        "Rat Trap",
+        "Rat Poison",
+        "Fly Trap"
+      ]
+    },
+    {
+      "key": "Home Essentials",
+      "nameEn": "Home Essentials",
+      "emoji": "🏠",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "tabung-gas-lpg",
+          "nameEn": "LPG Gas Canister"
+        },
+        "AA Batteries",
+        "AAA Batteries",
+        "Light Bulb",
+        "LED Bulb",
+        "Flashlight",
+        "Extension Cord",
+        "Power Strip",
+        "Matches",
+        "Gas Lighter",
+        "Candles",
+        "LPG Regulator",
+        "Water Gallon",
+        "Water Dispenser Refill",
+        "Food Containers",
+        "Clothes Hangers",
+        "Clothes Pegs",
+        "Umbrella"
+      ]
+    },
+    {
+      "key": "Ramadan & Eid Essentials",
+      "nameEn": "Ramadan & Eid Essentials",
+      "emoji": "🌙",
+      "unitType": "PIECES",
+      "items": [
+        "Dates",
+        "Ketupat Wrappers",
+        "Rendang Seasoning",
+        "Opor Seasoning",
+        "Fried Onion",
+        "Nastar Cookies",
+        "Kastengel",
+        "Putri Salju Cookies"
       ]
     }
   ]
