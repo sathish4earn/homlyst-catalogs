@@ -71,7 +71,7 @@
         },
         {
           "id": "bok-choy",
-          "nameEn": "Bok Choy (Pak Kwang Tung)"
+          "nameEn": "Choy Sum (Pak Kwang Tung)"
         },
         {
           "id": "napa-cabbage",
@@ -116,7 +116,28 @@
         {
           "id": "bamboo-shoots",
           "nameEn": "Bamboo Shoots (Naw Mai)"
-        }
+        },
+        "Cauliflower",
+        "Broccoli",
+        "Lettuce",
+        "Winged Beans",
+        "Pumpkin",
+        "Chayote",
+        "Okra",
+        "Pea Eggplant",
+        "Eggplant",
+        "Potato",
+        "Sweet Potato",
+        "Taro",
+        "Corn",
+        "Lemon Basil",
+        "Culantro",
+        "Mint",
+        "Ginger",
+        "Turmeric",
+        "Fingerroot",
+        "Pandan Leaves",
+        "Fresh Peppercorns"
       ]
     },
     {
@@ -208,7 +229,12 @@
         {
           "id": "lime",
           "nameEn": "Thai Lime (Manao)"
-        }
+        },
+        "Orange",
+        "Passion Fruit",
+        "Young Coconut",
+        "Young Mango",
+        "Green Banana"
       ]
     },
     {
@@ -277,10 +303,13 @@
           "id": "mama-instant-noodles",
           "nameEn": "Instant Noodles (Mama)"
         },
-        {
-          "id": "bread",
-          "nameEn": "Bread (Khanom Pang)"
-        }
+        "White Rice",
+        "Riceberry Rice",
+        "Broken Rice",
+        "Red Cargo Rice",
+        "Instant Noodles",
+        "Breakfast Cereal",
+        "Oats"
       ]
     },
     {
@@ -338,21 +367,17 @@
           "nameEn": "Ground Beef (Neua Sap)"
         },
         {
-          "id": "thai-sausage-isan",
-          "nameEn": "Isaan Fermented Sausage (Sai Krok Isan)"
-        },
-        {
-          "id": "chinese-sausage",
-          "nameEn": "Chinese Sausage (Kun Chiang)"
-        },
-        {
           "id": "duck",
           "nameEn": "Duck (Ped)"
         },
-        {
-          "id": "pork-crackling",
-          "nameEn": "Pork Crackling (Kaeb Moo)"
-        }
+        "Pork",
+        "Pork Liver",
+        "Pork Intestines",
+        "Chicken",
+        "Chicken Drumstick",
+        "Chicken Liver",
+        "Beef Brisket",
+        "Beef Shank"
       ]
     },
     {
@@ -424,27 +449,22 @@
         {
           "id": "fish-balls",
           "nameEn": "Fish Balls (Look Chin Pla)"
-        }
+        },
+        "Gourami",
+        "Threadfin",
+        "Tuna",
+        "Salmon",
+        "Mud Crab",
+        "Clams",
+        "Dried Fish"
       ]
     },
     {
       "key": "Dairy & Eggs",
-      "nameEn": "Dairy & Eggs",
-      "emoji": "🥚",
+      "nameEn": "Dairy & Milk Products",
+      "emoji": "🥛",
       "unitType": "PIECES",
       "items": [
-        {
-          "id": "chicken-eggs",
-          "nameEn": "Chicken Eggs (Khai Kai)"
-        },
-        {
-          "id": "duck-eggs",
-          "nameEn": "Duck Eggs (Khai Ped)"
-        },
-        {
-          "id": "salted-eggs",
-          "nameEn": "Salted Eggs (Khai Kem)"
-        },
         {
           "id": "fresh-milk",
           "nameEn": "Fresh Milk (Nom Sod)"
@@ -475,7 +495,7 @@
         },
         {
           "id": "yogurt",
-          "nameEn": "Yogurt (Dutch Mill)"
+          "nameEn": "Yogurt"
         },
         {
           "id": "yakult",
@@ -488,7 +508,10 @@
         {
           "id": "milk-powder",
           "nameEn": "Milk Powder (Nom Pong)"
-        }
+        },
+        "Drinking Yogurt",
+        "Cream Cheese",
+        "Dutch Mill Yogurt"
       ]
     },
     {
@@ -536,7 +559,8 @@
         {
           "id": "margarine",
           "nameEn": "Margarine"
-        }
+        },
+        "Canola Oil"
       ]
     },
     {
@@ -606,20 +630,8 @@
           "nameEn": "Tom Yum Paste (Nam Prik Tom Yum)"
         },
         {
-          "id": "nam-prik-pao",
-          "nameEn": "Roasted Chili Paste (Nam Prik Pao)"
-        },
-        {
-          "id": "nam-prik-kapi",
-          "nameEn": "Shrimp Paste Chili Dip (Nam Prik Kapi)"
-        },
-        {
           "id": "sriracha-sauce",
           "nameEn": "Sriracha Chili Sauce"
-        },
-        {
-          "id": "sweet-chili-sauce",
-          "nameEn": "Sweet Chili Sauce (Nam Chim Gai)"
         },
         {
           "id": "coconut-milk",
@@ -648,7 +660,11 @@
         {
           "id": "vinegar",
           "nameEn": "Vinegar (Nam Som Sai Chu)"
-        }
+        },
+        "Chili Sauce",
+        "Seasoning Sauce",
+        "Sour Curry Paste",
+        "Jungle Curry Paste"
       ]
     },
     {
@@ -720,7 +736,8 @@
         {
           "id": "sesame-seeds",
           "nameEn": "Sesame Seeds (Nga)"
-        }
+        },
+        "Brown Sugar"
       ]
     },
     {
@@ -731,7 +748,7 @@
       "items": [
         {
           "id": "seaweed-snacks",
-          "nameEn": "Seaweed Snacks (Tao Kae Noi)"
+          "nameEn": "Seaweed Snacks"
         },
         {
           "id": "shrimp-chips",
@@ -743,7 +760,7 @@
         },
         {
           "id": "potato-chips",
-          "nameEn": "Potato Chips (Lay's)"
+          "nameEn": "Potato Chips"
         },
         {
           "id": "tamarind-candy",
@@ -808,7 +825,15 @@
         {
           "id": "crackers",
           "nameEn": "Crackers"
-        }
+        },
+        "Taro Chips",
+        "Sweet Potato Chips",
+        "Roasted Peanuts",
+        "Sunflower Seeds",
+        "Biscuits",
+        "Jelly",
+        "Tao Kae Noi Seaweed Snacks",
+        "Lay's Potato Chips"
       ]
     },
     {
@@ -835,7 +860,7 @@
         },
         {
           "id": "instant-coffee",
-          "nameEn": "Instant Coffee (Nescafe)"
+          "nameEn": "Instant Coffee"
         },
         {
           "id": "coffee-mix-3in1",
@@ -892,7 +917,15 @@
         {
           "id": "soda-water",
           "nameEn": "Soda Water (Nam Soda)"
-        }
+        },
+        "Mineral Water",
+        "Butterfly Pea Drink",
+        "Pandan Drink",
+        "Green Tea",
+        "Coffee",
+        "Energy Drink",
+        "Beer",
+        "Nescafe Instant Coffee"
       ]
     },
     {
@@ -915,7 +948,7 @@
         },
         {
           "id": "ice-cream",
-          "nameEn": "Ice Cream (Wall's)"
+          "nameEn": "Ice Cream"
         },
         {
           "id": "frozen-vegetables",
@@ -964,7 +997,15 @@
         {
           "id": "canned-pineapple",
           "nameEn": "Canned Pineapple"
-        }
+        },
+        "Frozen Fish",
+        "Frozen Pork Balls",
+        "Frozen Beef Balls",
+        "Frozen French Fries",
+        "Chicken Nuggets",
+        "Canned Mackerel",
+        "Canned Longan",
+        "Wall's Ice Cream"
       ]
     },
     {
@@ -975,15 +1016,15 @@
       "items": [
         {
           "id": "dish-soap",
-          "nameEn": "Dish Soap (Sunlight)"
+          "nameEn": "Dish Soap"
         },
         {
           "id": "laundry-detergent",
-          "nameEn": "Laundry Detergent (Breeze)"
+          "nameEn": "Laundry Detergent"
         },
         {
           "id": "fabric-softener",
-          "nameEn": "Fabric Softener (Comfort)"
+          "nameEn": "Fabric Softener"
         },
         {
           "id": "toilet-paper",
@@ -1015,11 +1056,11 @@
         },
         {
           "id": "bleach",
-          "nameEn": "Bleach (Haiter)"
+          "nameEn": "Bleach"
         },
         {
           "id": "mosquito-coil",
-          "nameEn": "Mosquito Coil (Baygon)"
+          "nameEn": "Mosquito Coil"
         },
         {
           "id": "insect-repellent-spray",
@@ -1030,17 +1071,20 @@
           "nameEn": "Sponges & Scrubbers"
         },
         {
-          "id": "matches",
-          "nameEn": "Matches"
-        },
-        {
           "id": "air-freshener",
           "nameEn": "Air Freshener"
         },
         {
           "id": "rubber-gloves",
           "nameEn": "Rubber Gloves"
-        }
+        },
+        "Glass Cleaner",
+        "Disinfectant",
+        "Breeze Laundry Detergent",
+        "Comfort Fabric Softener",
+        "Haiter Bleach",
+        "Baygon Mosquito Coil",
+        "Sunlight Dishwashing Liquid"
       ]
     },
     {
@@ -1051,7 +1095,7 @@
       "items": [
         {
           "id": "shampoo",
-          "nameEn": "Shampoo (Sunsilk)"
+          "nameEn": "Shampoo"
         },
         {
           "id": "conditioner",
@@ -1059,7 +1103,7 @@
         },
         {
           "id": "shower-gel",
-          "nameEn": "Shower Gel (Dove)"
+          "nameEn": "Shower Gel"
         },
         {
           "id": "bar-soap",
@@ -1087,7 +1131,7 @@
         },
         {
           "id": "prickly-heat-powder",
-          "nameEn": "Prickly Heat Powder (Snake Brand)"
+          "nameEn": "Prickly Heat Powder"
         },
         {
           "id": "deodorant",
@@ -1116,7 +1160,13 @@
         {
           "id": "cotton-buds",
           "nameEn": "Cotton Buds"
-        }
+        },
+        "Dental Floss",
+        "Shaving Cream",
+        "Cotton Pads",
+        "Sunsilk Shampoo",
+        "Snake Brand Prickly Heat Powder",
+        "Dove Shower Gel"
       ]
     },
     {
@@ -1127,7 +1177,7 @@
       "items": [
         {
           "id": "diapers",
-          "nameEn": "Diapers (Mamy Poko)"
+          "nameEn": "Diapers"
         },
         {
           "id": "baby-wipes",
@@ -1135,7 +1185,7 @@
         },
         {
           "id": "baby-formula",
-          "nameEn": "Baby Formula (S-26)"
+          "nameEn": "Baby Formula"
         },
         {
           "id": "baby-powder",
@@ -1151,7 +1201,7 @@
         },
         {
           "id": "baby-food",
-          "nameEn": "Baby Food (Cerelac)"
+          "nameEn": "Baby Food"
         },
         {
           "id": "baby-oil",
@@ -1164,7 +1214,17 @@
         {
           "id": "pacifier",
           "nameEn": "Pacifier"
-        }
+        },
+        "Baby Body Wash",
+        "Baby Soap",
+        "Diaper Rash Cream",
+        "Baby Cereal",
+        "Baby Bottle",
+        "Bottle Nipple",
+        "Baby Cotton Buds",
+        "Mamy Poko Diapers",
+        "S-26 Baby Formula",
+        "Cerelac Baby Food"
       ]
     },
     {
@@ -1188,7 +1248,13 @@
         "Antacid Tablets",
         "Allergy Tablets",
         "First Aid Spray",
-        "Sanitary Pads"
+        "Sanitary Pads",
+        "Gauze",
+        "Medical Tape",
+        "Antiseptic Solution",
+        "First Aid Kit",
+        "Saline Solution",
+        "Cough Lozenges"
       ]
     },
     {
@@ -1211,7 +1277,9 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dog Treats",
+        "Cat Treats"
       ]
     },
     {
@@ -1236,6 +1304,213 @@
         "Highlighter",
         "Envelopes",
         "A4 Paper"
+      ]
+    },
+    {
+      "key": "Processed Meat & Sausages",
+      "nameEn": "Processed Meat & Sausages",
+      "emoji": "🌭",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "thai-sausage-isan",
+          "nameEn": "Isaan Fermented Sausage (Sai Krok Isan)"
+        },
+        {
+          "id": "chinese-sausage",
+          "nameEn": "Chinese Sausage (Kun Chiang)"
+        },
+        {
+          "id": "pork-crackling",
+          "nameEn": "Pork Crackling (Kaeb Moo)"
+        },
+        "Northern Thai Sausage",
+        "Pork Sausage",
+        "Chicken Sausage",
+        "Fermented Pork",
+        "Pork Balls",
+        "Beef Balls",
+        "Pork Floss",
+        "Bacon",
+        "Ham"
+      ]
+    },
+    {
+      "key": "Nam Prik & Dipping Sauces",
+      "nameEn": "Nam Prik & Dipping Sauces",
+      "emoji": "🥣",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "nam-prik-pao",
+          "nameEn": "Roasted Chili Paste (Nam Prik Pao)"
+        },
+        {
+          "id": "nam-prik-kapi",
+          "nameEn": "Shrimp Paste Chili Dip (Nam Prik Kapi)"
+        },
+        {
+          "id": "sweet-chili-sauce",
+          "nameEn": "Sweet Chili Sauce (Nam Chim Gai)"
+        },
+        "Northern Thai Chili Dip",
+        "Pork & Tomato Chili Dip",
+        "Chili Fish Sauce",
+        "Seafood Dipping Sauce",
+        "Sukiyaki Sauce",
+        "Jaew Dipping Sauce",
+        "Plum Sauce"
+      ]
+    },
+    {
+      "key": "Eggs, Tofu & Soy Products",
+      "nameEn": "Eggs, Tofu & Soy Products",
+      "emoji": "🥚",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "chicken-eggs",
+          "nameEn": "Chicken Eggs (Khai Kai)"
+        },
+        {
+          "id": "duck-eggs",
+          "nameEn": "Duck Eggs (Khai Ped)"
+        },
+        {
+          "id": "salted-eggs",
+          "nameEn": "Salted Eggs (Khai Kem)"
+        },
+        "Century Eggs",
+        "Quail Eggs",
+        "Tofu",
+        "Firm Tofu",
+        "Soft Tofu",
+        "Egg Tofu",
+        "Fried Tofu",
+        "Tofu Puffs",
+        "Soybeans",
+        "Soy Milk"
+      ]
+    },
+    {
+      "key": "Bakery & Bread",
+      "nameEn": "Bakery & Bread",
+      "emoji": "🍞",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "bread",
+          "nameEn": "Bread (Khanom Pang)"
+        },
+        "White Bread",
+        "Whole Wheat Bread",
+        "Milk Bread",
+        "Sweet Bread",
+        "Bread Rolls",
+        "Baguette",
+        "Croissant",
+        "Cake",
+        "Sponge Cake",
+        "Muffin",
+        "Donut",
+        "Roti"
+      ]
+    },
+    {
+      "key": "Thai Desserts",
+      "nameEn": "Thai Desserts",
+      "emoji": "🍡",
+      "unitType": "PIECES",
+      "items": [
+        "Mango Sticky Rice",
+        "Coconut Sticky Rice",
+        "Banana in Coconut Milk",
+        "Sticky Rice with Banana",
+        "Coconut Pancakes",
+        "Thai Layer Cake",
+        "Pandan Custard",
+        "Golden Threads",
+        "Golden Drops",
+        "Sweet Egg Yolk Drops",
+        "Coconut Jelly",
+        "Grass Jelly",
+        "Lod Chong",
+        "Tub Tim Grob",
+        "Khanom Mo Kaeng"
+      ]
+    },
+    {
+      "key": "Dessert & Baking Ingredients",
+      "nameEn": "Dessert & Baking Ingredients",
+      "emoji": "🧁",
+      "unitType": "WEIGHT",
+      "items": [
+        "Coconut Sugar",
+        "Agar Powder",
+        "Tapioca Pearls",
+        "Mung Beans",
+        "Black Beans",
+        "Shredded Coconut"
+      ]
+    },
+    {
+      "key": "Kitchen & Food Storage",
+      "nameEn": "Kitchen & Food Storage",
+      "emoji": "🍽️",
+      "unitType": "PIECES",
+      "items": [
+        "Aluminum Foil",
+        "Plastic Wrap",
+        "Food Storage Bags",
+        "Resealable Bags",
+        "Food Containers",
+        "Baking Paper",
+        "Napkins",
+        "Toothpicks",
+        "Bamboo Skewers",
+        "Drinking Straws",
+        "Disposable Cups",
+        "Disposable Plates",
+        "Disposable Spoons"
+      ]
+    },
+    {
+      "key": "Home Essentials",
+      "nameEn": "Home Essentials",
+      "emoji": "🏠",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "matches",
+          "nameEn": "Matches"
+        },
+        "Batteries",
+        "AA Batteries",
+        "AAA Batteries",
+        "Light Bulb",
+        "LED Bulb",
+        "Flashlight",
+        "Extension Cord",
+        "Power Strip",
+        "Candles",
+        "Lighter",
+        "Broom",
+        "Mop",
+        "Bucket",
+        "Clothes Hangers",
+        "Clothes Pins"
+      ]
+    },
+    {
+      "key": "Thai Festival & Seasonal Foods",
+      "nameEn": "Thai Festival & Seasonal Foods",
+      "emoji": "🎊",
+      "unitType": "PIECES",
+      "items": [
+        "Fresh Fruits",
+        "Dried Mushrooms",
+        "Mushrooms",
+        "Vegetarian Seasoning Sauce"
       ]
     }
   ]

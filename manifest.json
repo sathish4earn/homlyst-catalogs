@@ -164,9 +164,9 @@
       "fileName": "thailand_catalog_v1.json",
       "dialCode": "+66",
       "currencyCode": "THB",
-      "version": 3,
+      "version": 4,
       "l10n": {
-        "th": 1
+        "th": 2
       }
     },
     {
