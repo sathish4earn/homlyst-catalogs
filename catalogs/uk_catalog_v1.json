@@ -4,126 +4,760 @@
   "countryDisplayName": "United Kingdom",
   "categories": [
     {
-      "key": "Fruit & Vegetables", "nameEn": "Fruit & Vegetables",
-      "emoji": "🥦", "unitType": "WEIGHT",
-      "items": ["Broccoli","Spinach","Lettuce","Rocket","Kale","Cabbage","Cauliflower",
-        "Brussels Sprouts","Celery","Carrots","Parsnip","Swede","Bell Peppers","Courgette",
-        "Aubergine","Cucumber","Asparagus","Green Beans","Runner Beans","Mangetout",
-        "Leek","Onion","Red Onion","Shallots","Garlic","Ginger","Spring Onions","Chilli",
-        "Tomato","Cherry Tomatoes","Mushrooms","Potatoes","Sweet Potatoes","New Potatoes",
-        "Beets","Radish","Turnip","Celeriac","Fennel","Coriander","Parsley","Basil","Mint",
-        "Lemon","Lime","Banana","Apple","Orange","Grapes","Strawberries","Raspberries",
-        "Blueberries","Blackberries","Blackcurrants","Gooseberries","Watermelon","Melon",
-        "Mango","Peach","Nectarine","Plum","Pear","Pineapple","Kiwi","Cherries","Avocado"]
+      "key": "Fruit & Vegetables",
+      "nameEn": "Fruit & Vegetables",
+      "emoji": "🥦",
+      "unitType": "WEIGHT",
+      "items": [
+        "Broccoli",
+        "Spinach",
+        "Lettuce",
+        "Rocket",
+        "Kale",
+        "Cabbage",
+        "Cauliflower",
+        "Brussels Sprouts",
+        "Celery",
+        "Carrots",
+        "Parsnip",
+        "Swede",
+        "Bell Peppers",
+        "Courgette",
+        "Aubergine",
+        "Cucumber",
+        "Asparagus",
+        "Green Beans",
+        "Runner Beans",
+        "Mangetout",
+        "Leek",
+        "Onion",
+        "Red Onion",
+        "Shallots",
+        "Garlic",
+        "Ginger",
+        "Spring Onions",
+        "Chilli",
+        "Tomato",
+        "Cherry Tomatoes",
+        "Mushrooms",
+        "Potatoes",
+        "Sweet Potatoes",
+        "New Potatoes",
+        "Beets",
+        "Radish",
+        "Turnip",
+        "Celeriac",
+        "Fennel",
+        "Coriander",
+        "Parsley",
+        "Basil",
+        "Mint",
+        "Lemon",
+        "Lime",
+        "Banana",
+        "Apple",
+        "Orange",
+        "Grapes",
+        "Strawberries",
+        "Raspberries",
+        "Blueberries",
+        "Blackberries",
+        "Blackcurrants",
+        "Gooseberries",
+        "Watermelon",
+        "Melon",
+        "Mango",
+        "Peach",
+        "Nectarine",
+        "Plum",
+        "Pear",
+        "Pineapple",
+        "Kiwi",
+        "Cherries",
+        "Avocado",
+        "Grapefruit",
+        "Clementines",
+        "Satsumas",
+        "Mandarins",
+        "Rhubarb",
+        "Butternut Squash",
+        "Pumpkin",
+        "Sweetcorn on the Cob",
+        "Tenderstem Broccoli",
+        "Pak Choi",
+        "Watercress",
+        "Mixed Salad Leaves"
+      ]
     },
     {
-      "key": "Meat & Poultry", "nameEn": "Meat & Poultry",
-      "emoji": "🥩", "unitType": "WEIGHT",
-      "items": ["Chicken Breast","Chicken Thighs","Whole Chicken","Chicken Drumsticks",
-        "Minced Beef","Beef Steak","Beef Mince","Rump Steak","Sirloin Steak","Beef Joint",
-        "Lamb Chops","Lamb Mince","Lamb Leg","Shoulder of Lamb","Pork Chops","Pork Mince",
-        "Bacon Rashers","Gammon","Sausages","Chorizo","Salami","Black Pudding"]
+      "key": "Meat & Poultry",
+      "nameEn": "Meat & Poultry",
+      "emoji": "🥩",
+      "unitType": "WEIGHT",
+      "items": [
+        "Chicken Breast",
+        "Chicken Thighs",
+        "Whole Chicken",
+        "Chicken Drumsticks",
+        "Minced Beef",
+        "Beef Steak",
+        "Beef Mince",
+        "Rump Steak",
+        "Sirloin Steak",
+        "Beef Joint",
+        "Lamb Chops",
+        "Lamb Mince",
+        "Lamb Leg",
+        "Shoulder of Lamb",
+        "Pork Chops",
+        "Pork Mince",
+        "Bacon Rashers",
+        "Gammon",
+        "Sausages",
+        "Chorizo",
+        "Salami",
+        "Black Pudding",
+        "Chicken Wings",
+        "Chicken Mince",
+        "Turkey Mince",
+        "Turkey Breast",
+        "Pork Belly",
+        "Pork Shoulder",
+        "Pork Loin",
+        "Beef Burgers",
+        "Meatballs",
+        {
+          "id": "steak-pie",
+          "nameEn": "Steak Pie",
+          "unitType": "PIECES"
+        },
+        "Corned Beef"
+      ]
     },
     {
-      "key": "Fish & Seafood", "nameEn": "Fish & Seafood",
-      "emoji": "🐟", "unitType": "WEIGHT",
-      "items": ["Salmon","Cod","Haddock","Tuna","Mackerel","Plaice","Sea Bass","Sea Bream",
-        "Prawns","King Prawns","Crab","Lobster","Mussels","Scallops","Oysters","Squid",
-        "Smoked Salmon","Smoked Haddock","Kippers","Canned Tuna","Sardines","Anchovies"]
+      "key": "Fish & Seafood",
+      "nameEn": "Fish & Seafood",
+      "emoji": "🐟",
+      "unitType": "WEIGHT",
+      "items": [
+        "Salmon",
+        "Cod",
+        "Haddock",
+        "Tuna",
+        "Mackerel",
+        "Plaice",
+        "Sea Bass",
+        "Sea Bream",
+        "Prawns",
+        "King Prawns",
+        "Crab",
+        "Lobster",
+        "Mussels",
+        "Scallops",
+        "Oysters",
+        "Squid",
+        "Smoked Salmon",
+        "Smoked Haddock",
+        "Kippers",
+        "Canned Tuna",
+        "Sardines",
+        "Anchovies",
+        "Pollock",
+        "Hake",
+        "Monkfish",
+        "Trout",
+        "Cod Fillets",
+        "Salmon Fillets",
+        "Tuna Steaks",
+        {
+          "id": "prawn-cocktail",
+          "nameEn": "Prawn Cocktail",
+          "unitType": "PIECES"
+        }
+      ]
     },
     {
-      "key": "Dairy & Eggs", "nameEn": "Dairy & Eggs",
-      "emoji": "🥛", "unitType": "LITRES",
-      "items": ["Whole Milk","Semi-Skimmed Milk","Skimmed Milk","Oat Milk","Almond Milk",
-        "Soya Milk","Butter","Clotted Cream","Double Cream","Single Cream","Crème Fraîche",
-        "Cheddar","Stilton","Brie","Camembert","Red Leicester","Wensleydale","Edam",
-        "Parmesan","Cream Cheese","Cottage Cheese","Greek Yogurt","Natural Yogurt",
-        "Flavoured Yogurt","Eggs","Free-Range Eggs","Duck Eggs"]
+      "key": "Dairy & Eggs",
+      "nameEn": "Dairy & Eggs",
+      "emoji": "🥛",
+      "unitType": "LITRES",
+      "items": [
+        "Whole Milk",
+        "Semi-Skimmed Milk",
+        "Skimmed Milk",
+        "Oat Milk",
+        "Almond Milk",
+        "Soya Milk",
+        {
+          "id": "butter",
+          "nameEn": "Butter",
+          "unitType": "WEIGHT"
+        },
+        "Clotted Cream",
+        "Double Cream",
+        "Single Cream",
+        {
+          "id": "creme-fraiche",
+          "nameEn": "Crème Fraîche",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "cheddar",
+          "nameEn": "Cheddar",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "stilton",
+          "nameEn": "Stilton",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "brie",
+          "nameEn": "Brie",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "camembert",
+          "nameEn": "Camembert",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "red-leicester",
+          "nameEn": "Red Leicester",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "wensleydale",
+          "nameEn": "Wensleydale",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "edam",
+          "nameEn": "Edam",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "parmesan",
+          "nameEn": "Parmesan",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "cream-cheese",
+          "nameEn": "Cream Cheese",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "cottage-cheese",
+          "nameEn": "Cottage Cheese",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "greek-yogurt",
+          "nameEn": "Greek Yogurt",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "natural-yogurt",
+          "nameEn": "Natural Yogurt",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "flavoured-yogurt",
+          "nameEn": "Flavoured Yogurt",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "eggs",
+          "nameEn": "Eggs",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "free-range-eggs",
+          "nameEn": "Free-Range Eggs",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "duck-eggs",
+          "nameEn": "Duck Eggs",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "mozzarella",
+          "nameEn": "Mozzarella",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "feta",
+          "nameEn": "Feta",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "halloumi",
+          "nameEn": "Halloumi",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "mature-cheddar",
+          "nameEn": "Mature Cheddar",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "grated-cheese",
+          "nameEn": "Grated Cheese",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "cheese-slices",
+          "nameEn": "Cheese Slices",
+          "unitType": "PIECES"
+        },
+        "Lactose-Free Milk",
+        "Chocolate Milk",
+        "Buttermilk"
+      ]
     },
     {
-      "key": "Bakery & Bread", "nameEn": "Bakery & Bread",
-      "emoji": "🍞", "unitType": "PIECES",
-      "items": ["White Bread","Wholemeal Bread","Seeded Bread","Sourdough","Rye Bread",
-        "Baguette","Ciabatta","Focaccia","Rolls","Burger Buns","Crumpets","Muffins",
-        "English Muffins","Teacakes","Scones","Croissants","Pain au Chocolat","Brioche",
-        "Bagels","Pitta Bread","Naan","Flatbreads","Wraps","Crackers","Oatcakes","Cream Crackers"]
+      "key": "Bakery & Bread",
+      "nameEn": "Bakery & Bread",
+      "emoji": "🍞",
+      "unitType": "PIECES",
+      "items": [
+        "White Bread",
+        "Wholemeal Bread",
+        "Seeded Bread",
+        "Sourdough",
+        "Rye Bread",
+        "Baguette",
+        "Ciabatta",
+        "Focaccia",
+        "Rolls",
+        "Burger Buns",
+        "Crumpets",
+        "Muffins",
+        "English Muffins",
+        "Teacakes",
+        "Scones",
+        "Croissants",
+        "Pain au Chocolat",
+        "Brioche",
+        "Bagels",
+        "Pitta Bread",
+        "Naan",
+        "Flatbreads",
+        "Wraps",
+        "Crackers",
+        "Oatcakes",
+        "Cream Crackers",
+        "Sandwich Thins",
+        "Hot Dog Rolls",
+        "Garlic Bread",
+        "Tiger Bread",
+        "Bloomer",
+        "Breadsticks",
+        "Pancakes",
+        "Scotch Pancakes",
+        "Waffles"
+      ]
     },
     {
-      "key": "Cupboard Staples", "nameEn": "Cupboard Staples",
-      "emoji": "🌾", "unitType": "WEIGHT",
-      "items": ["Plain Flour","Self-Raising Flour","Wholemeal Flour","Cornflour","Porridge Oats",
-        "Long Grain Rice","Basmati Rice","Brown Rice","Risotto Rice","Pasta","Spaghetti",
-        "Penne","Fusilli","Tagliatelle","Egg Noodles","Quinoa","Couscous","Lentils",
-        "Tinned Tomatoes","Baked Beans","Kidney Beans","Chickpeas","Black Beans",
-        "Tinned Sweetcorn","Tinned Peas","Coconut Milk","Sugar","Caster Sugar",
-        "Icing Sugar","Golden Syrup","Treacle","Honey","Vanilla Extract","Cocoa Powder",
-        "Baking Powder","Bicarbonate of Soda","Yeast","Breadcrumbs","Semolina"]
+      "key": "Cupboard Staples",
+      "nameEn": "Cupboard Staples",
+      "emoji": "🌾",
+      "unitType": "WEIGHT",
+      "items": [
+        "Long Grain Rice",
+        "Basmati Rice",
+        "Brown Rice",
+        "Risotto Rice",
+        "Pasta",
+        "Spaghetti",
+        "Penne",
+        "Fusilli",
+        "Tagliatelle",
+        "Egg Noodles",
+        "Quinoa",
+        "Couscous",
+        "Lentils",
+        {
+          "id": "tinned-tomatoes",
+          "nameEn": "Tinned Tomatoes",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "baked-beans",
+          "nameEn": "Baked Beans",
+          "unitType": "PIECES"
+        },
+        "Kidney Beans",
+        "Chickpeas",
+        "Black Beans",
+        {
+          "id": "tinned-sweetcorn",
+          "nameEn": "Tinned Sweetcorn",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "tinned-peas",
+          "nameEn": "Tinned Peas",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "coconut-milk",
+          "nameEn": "Coconut Milk",
+          "unitType": "PIECES"
+        },
+        "Sugar",
+        "Honey",
+        "Breadcrumbs",
+        {
+          "id": "tinned-chickpeas",
+          "nameEn": "Tinned Chickpeas",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "tinned-kidney-beans",
+          "nameEn": "Tinned Kidney Beans",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "tinned-lentils",
+          "nameEn": "Tinned Lentils",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "tinned-soup",
+          "nameEn": "Tinned Soup",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "tinned-fruit",
+          "nameEn": "Tinned Fruit",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "stock-cubes",
+          "nameEn": "Stock Cubes",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "chicken-stock",
+          "nameEn": "Chicken Stock",
+          "unitType": "LITRES"
+        },
+        {
+          "id": "vegetable-stock",
+          "nameEn": "Vegetable Stock",
+          "unitType": "LITRES"
+        },
+        {
+          "id": "beef-stock",
+          "nameEn": "Beef Stock",
+          "unitType": "LITRES"
+        },
+        {
+          "id": "instant-noodles",
+          "nameEn": "Instant Noodles",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "microwave-rice",
+          "nameEn": "Microwave Rice",
+          "unitType": "PIECES"
+        },
+        "Stuffing Mix",
+        "Custard Powder"
+      ]
     },
     {
-      "key": "Condiments & Sauces", "nameEn": "Condiments & Sauces",
-      "emoji": "🥫", "unitType": "PIECES",
-      "items": ["Tomato Ketchup","Brown Sauce","HP Sauce","Worcestershire Sauce","Soy Sauce",
-        "Mayonnaise","Salad Cream","Mustard","English Mustard","Wholegrain Mustard",
-        "Horseradish Sauce","Mint Sauce","Apple Sauce","Cranberry Sauce","Gravy Granules",
-        "Pasta Sauce","Pesto","Salsa","Tartare Sauce","Tzatziki","Hummus","Pickle","Chutney",
-        "Marmite","Peanut Butter","Jam","Marmalade","Lemon Curd","Olive Oil","Vegetable Oil",
-        "Sunflower Oil","Rapeseed Oil","Red Wine Vinegar","White Wine Vinegar","Malt Vinegar"]
+      "key": "Condiments & Sauces",
+      "nameEn": "Condiments & Sauces",
+      "emoji": "🥫",
+      "unitType": "PIECES",
+      "items": [
+        "Tomato Ketchup",
+        "Brown Sauce",
+        "HP Sauce",
+        "Worcestershire Sauce",
+        "Soy Sauce",
+        "Mayonnaise",
+        "Salad Cream",
+        "Mustard",
+        "English Mustard",
+        "Wholegrain Mustard",
+        "Horseradish Sauce",
+        "Mint Sauce",
+        "Apple Sauce",
+        "Cranberry Sauce",
+        "Gravy Granules",
+        "Pasta Sauce",
+        "Pesto",
+        "Salsa",
+        "Tartare Sauce",
+        "Tzatziki",
+        "Hummus",
+        "Pickle",
+        "Chutney",
+        "Marmite",
+        "Peanut Butter",
+        "Jam",
+        "Marmalade",
+        "Lemon Curd",
+        "Olive Oil",
+        "Vegetable Oil",
+        "Sunflower Oil",
+        "Rapeseed Oil",
+        "Red Wine Vinegar",
+        "White Wine Vinegar",
+        "Malt Vinegar",
+        "BBQ Sauce",
+        "Hot Sauce",
+        "Sweet Chilli Sauce",
+        "Garlic Mayo",
+        "Burger Sauce",
+        "Caesar Dressing",
+        "Salad Dressing",
+        "Balsamic Vinegar",
+        "Cider Vinegar",
+        "Sesame Oil",
+        "Teriyaki Sauce"
+      ]
     },
     {
-      "key": "Frozen Foods", "nameEn": "Frozen Foods",
-      "emoji": "🧊", "unitType": "PIECES",
-      "items": ["Frozen Peas","Frozen Sweetcorn","Frozen Broccoli","Frozen Spinach",
-        "Frozen Mixed Vegetables","Frozen Chips","Frozen Wedges","Oven Chips",
-        "Fish Fingers","Fish Cakes","Frozen Pizza","Frozen Lasagne","Frozen Ready Meals",
-        "Ice Cream","Sorbet","Frozen Berries","Frozen Edamame"]
+      "key": "Frozen Foods",
+      "nameEn": "Frozen Foods",
+      "emoji": "🧊",
+      "unitType": "PIECES",
+      "items": [
+        "Frozen Peas",
+        "Frozen Sweetcorn",
+        "Frozen Broccoli",
+        "Frozen Spinach",
+        "Frozen Mixed Vegetables",
+        "Frozen Chips",
+        "Frozen Wedges",
+        "Oven Chips",
+        "Fish Fingers",
+        "Fish Cakes",
+        "Frozen Pizza",
+        "Frozen Lasagne",
+        "Frozen Ready Meals",
+        "Ice Cream",
+        "Sorbet",
+        "Frozen Berries",
+        "Frozen Edamame",
+        "Frozen Chicken Nuggets",
+        "Frozen Chicken Breast",
+        "Frozen Burgers",
+        "Frozen Sausages",
+        "Frozen Garlic Bread",
+        "Frozen Onion Rings",
+        "Frozen Yorkshire Puddings",
+        "Frozen Roast Potatoes",
+        "Frozen Prawns",
+        "Frozen Desserts"
+      ]
     },
     {
-      "key": "Beverages", "nameEn": "Beverages",
-      "emoji": "☕", "unitType": "LITRES",
-      "items": ["PG Tips","Yorkshire Tea","Twinings Tea","Green Tea","Herbal Tea","Coffee",
-        "Instant Coffee","Ground Coffee","Coffee Pods","Orange Juice","Apple Juice",
-        "Cranberry Juice","Squash","Lemonade","Sparkling Water","Still Water","Fizzy Drinks",
-        "Diet Coke","Lucozade","Ribena","Vimto","Bovril","Ovaltine","Hot Chocolate","Beer","Wine"]
+      "key": "Beverages",
+      "nameEn": "Beverages",
+      "emoji": "☕",
+      "unitType": "LITRES",
+      "items": [
+        "Orange Juice",
+        "Apple Juice",
+        "Cranberry Juice",
+        "Squash",
+        "Lemonade",
+        "Sparkling Water",
+        "Still Water",
+        "Fizzy Drinks",
+        "Diet Coke",
+        "Lucozade",
+        "Ribena",
+        "Vimto",
+        "Bovril",
+        "Cola",
+        "Tonic Water",
+        "Soda Water",
+        "Coconut Water",
+        "Elderflower Cordial",
+        "Blackcurrant Squash"
+      ]
     },
     {
-      "key": "Snacks & Biscuits", "nameEn": "Snacks & Biscuits",
-      "emoji": "🍿", "unitType": "PIECES",
-      "items": ["Crisps","Popcorn","Pretzels","Rice Cakes","Digestives","Hobnobs","Rich Tea",
-        "Shortbread","Bourbon Biscuits","Custard Creams","Ginger Nuts","Jaffa Cakes",
-        "Chocolate Fingers","Trail Mix","Nuts","Almonds","Cashews","Peanuts","Walnuts",
-        "Pistachios","Dried Fruit","Cereal Bars","Chocolate","Crisps Multipacks"]
+      "key": "Snacks & Biscuits",
+      "nameEn": "Snacks & Biscuits",
+      "emoji": "🍿",
+      "unitType": "PIECES",
+      "items": [
+        "Crisps",
+        "Popcorn",
+        "Pretzels",
+        "Rice Cakes",
+        "Digestives",
+        "Hobnobs",
+        "Rich Tea",
+        "Shortbread",
+        "Bourbon Biscuits",
+        "Custard Creams",
+        "Ginger Nuts",
+        "Jaffa Cakes",
+        "Chocolate Fingers",
+        "Trail Mix",
+        "Nuts",
+        "Almonds",
+        "Cashews",
+        "Peanuts",
+        "Walnuts",
+        "Pistachios",
+        "Dried Fruit",
+        "Cereal Bars",
+        "Chocolate",
+        "Crisps Multipacks",
+        "Chocolate Digestives",
+        "Malted Milk Biscuits",
+        "Nice Biscuits",
+        "Viennese Whirls",
+        "Wafers",
+        "Mini Cheddars",
+        "Cheese Crackers",
+        "Popcorn Multipack",
+        "Snack Bars"
+      ]
     },
     {
-      "key": "Personal Care", "nameEn": "Personal Care",
-      "emoji": "🧴", "unitType": "PIECES",
-      "items": ["Shampoo","Conditioner","Shower Gel","Bar Soap","Face Wash","Moisturiser",
-        "Sun Cream","Toothpaste","Toothbrush","Mouthwash","Dental Floss","Deodorant",
-        "Shaving Foam","Razor","Razor Blades","Lip Balm","Hand Cream","Hair Gel",
-        "Hairspray","Dry Shampoo","Cotton Wool","Cotton Buds","Feminine Hygiene Products"]
+      "key": "Personal Care",
+      "nameEn": "Personal Care",
+      "emoji": "🧴",
+      "unitType": "PIECES",
+      "items": [
+        "Shampoo",
+        "Conditioner",
+        "Shower Gel",
+        "Bar Soap",
+        "Face Wash",
+        "Moisturiser",
+        "Sun Cream",
+        "Deodorant",
+        "Shaving Foam",
+        "Razor",
+        "Razor Blades",
+        "Lip Balm",
+        "Hand Cream",
+        "Hair Gel",
+        "Hairspray",
+        "Dry Shampoo",
+        "Cotton Wool",
+        "Cotton Buds",
+        "Hand Wash",
+        "Body Lotion",
+        "Face Cream",
+        "Hand Sanitiser",
+        "Nail Clippers",
+        "Nail Polish Remover",
+        "Hair Dye",
+        "Hair Brush",
+        "Comb",
+        "Toilet Wipes",
+        "Wet Wipes",
+        "Contact Lens Solution"
+      ]
     },
     {
-      "key": "Baby Care", "nameEn": "Baby Care",
-      "emoji": "👶", "unitType": "PIECES",
-      "items": ["Nappies","Baby Wipes","Baby Shampoo","Baby Bath","Baby Lotion",
-        "Baby Powder","Baby Food","Baby Formula","Teething Gel","Sudocrem","Calpol"]
+      "key": "Baby Care",
+      "nameEn": "Baby Care",
+      "emoji": "👶",
+      "unitType": "PIECES",
+      "items": [
+        "Nappies",
+        "Baby Wipes",
+        "Baby Shampoo",
+        "Baby Bath",
+        "Baby Lotion",
+        "Baby Powder",
+        "Baby Food",
+        "Baby Formula",
+        "Teething Gel",
+        "Sudocrem",
+        "Calpol",
+        "Nappy Bags",
+        "Nappy Cream",
+        "Baby Oil",
+        "Baby Wash",
+        "Baby Soap",
+        "Baby Toothpaste",
+        "Baby Toothbrush",
+        "Baby Cereal",
+        "Baby Snacks",
+        "Baby Pouches",
+        "Baby Bottles",
+        "Bottle Teats",
+        "Dummies",
+        "Training Pants",
+        "Toddler Milk"
+      ]
     },
     {
-      "key": "Cleaning & Household", "nameEn": "Cleaning & Household",
-      "emoji": "🧹", "unitType": "PIECES",
-      "items": ["Washing Up Liquid","Dishwasher Tablets","Washing Powder","Washing Liquid",
-        "Fabric Conditioner","Tumble Dryer Sheets","Bleach","Bathroom Cleaner",
-        "Toilet Cleaner","Kitchen Cleaner","Floor Cleaner","Window Cleaner","Mould Remover",
-        "Air Freshener","Kitchen Roll","Toilet Roll","Tissues","Bin Bags","Freezer Bags",
-        "Cling Film","Tin Foil","Baking Paper","Sponges","Scrubbing Brush","Rubber Gloves"]
+      "key": "Cleaning & Household",
+      "nameEn": "Cleaning & Household",
+      "emoji": "🧹",
+      "unitType": "PIECES",
+      "items": [
+        "Washing Up Liquid",
+        "Dishwasher Tablets",
+        "Bleach",
+        "Bathroom Cleaner",
+        "Toilet Cleaner",
+        "Kitchen Cleaner",
+        "Floor Cleaner",
+        "Window Cleaner",
+        "Mould Remover",
+        "Air Freshener",
+        "Toilet Roll",
+        "Tissues",
+        "Bin Bags",
+        "Freezer Bags",
+        "Scrubbing Brush",
+        "Rubber Gloves"
+      ]
     },
     {
-      "key": "Herbs & Spices", "nameEn": "Herbs & Spices",
-      "emoji": "🌶️", "unitType": "WEIGHT",
-      "items": ["Salt","Black Pepper","White Pepper","Garlic Powder","Onion Granules",
-        "Paprika","Smoked Paprika","Chilli Powder","Cumin","Coriander","Turmeric",
-        "Garam Masala","Curry Powder","Mixed Spice","Cinnamon","Nutmeg","Oregano",
-        "Basil","Thyme","Rosemary","Bay Leaves","Sage","Parsley","Dill","Fennel Seeds",
-        "Caraway Seeds","Cardamom","Cloves","Star Anise","Chinese Five Spice"]
+      "key": "Herbs & Spices",
+      "nameEn": "Herbs & Spices",
+      "emoji": "🌶️",
+      "unitType": "WEIGHT",
+      "items": [
+        "Salt",
+        "Black Pepper",
+        "White Pepper",
+        "Garlic Powder",
+        "Onion Granules",
+        "Paprika",
+        "Smoked Paprika",
+        "Chilli Powder",
+        "Cumin",
+        "Coriander",
+        "Turmeric",
+        "Garam Masala",
+        "Curry Powder",
+        "Mixed Spice",
+        "Cinnamon",
+        "Nutmeg",
+        "Oregano",
+        "Basil",
+        "Thyme",
+        "Rosemary",
+        "Bay Leaves",
+        "Sage",
+        "Parsley",
+        "Dill",
+        "Fennel Seeds",
+        "Caraway Seeds",
+        "Cardamom",
+        "Cloves",
+        "Star Anise",
+        "Chinese Five Spice"
+      ]
     },
     {
       "key": "Health & Pharmacy",
@@ -145,8 +779,7 @@
         "ORS Sachets",
         "Antacid Tablets",
         "Allergy Tablets",
-        "First Aid Spray",
-        "Sanitary Pads"
+        "First Aid Spray"
       ]
     },
     {
@@ -169,7 +802,20 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dog Treats",
+        "Cat Treats",
+        "Dog Biscuits",
+        "Wet Dog Food",
+        "Dry Dog Food",
+        "Wet Cat Food",
+        "Dry Cat Food",
+        "Puppy Food",
+        "Kitten Food",
+        "Dog Poo Bags",
+        "Pet Dental Treats",
+        "Flea Treatment",
+        "Worming Treatment"
       ]
     },
     {
@@ -194,6 +840,274 @@
         "Highlighter",
         "Envelopes",
         "A4 Paper"
+      ]
+    },
+    {
+      "key": "Breakfast & Cereals",
+      "nameEn": "Breakfast & Cereals",
+      "emoji": "🥣",
+      "unitType": "WEIGHT",
+      "items": [
+        "Porridge Oats",
+        "Cornflakes",
+        "Weetabix",
+        "Bran Flakes",
+        "Shreddies",
+        "Rice Krispies",
+        "Muesli",
+        "Granola",
+        "Instant Porridge",
+        "Breakfast Cereal",
+        "Pancake Mix",
+        {
+          "id": "maple-syrup",
+          "nameEn": "Maple Syrup",
+          "unitType": "LITRES"
+        }
+      ]
+    },
+    {
+      "key": "Tea, Coffee & Hot Drinks",
+      "nameEn": "Tea, Coffee & Hot Drinks",
+      "emoji": "🍵",
+      "unitType": "PIECES",
+      "items": [
+        "PG Tips",
+        "Yorkshire Tea",
+        "Twinings Tea",
+        "Green Tea",
+        "Herbal Tea",
+        {
+          "id": "coffee",
+          "nameEn": "Coffee",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "instant-coffee",
+          "nameEn": "Instant Coffee",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "ground-coffee",
+          "nameEn": "Ground Coffee",
+          "unitType": "WEIGHT"
+        },
+        "Coffee Pods",
+        {
+          "id": "ovaltine",
+          "nameEn": "Ovaltine",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "hot-chocolate",
+          "nameEn": "Hot Chocolate",
+          "unitType": "WEIGHT"
+        },
+        "English Breakfast Tea",
+        "Earl Grey Tea",
+        "Decaf Tea",
+        "Tea Bags",
+        {
+          "id": "decaf-coffee",
+          "nameEn": "Decaf Coffee",
+          "unitType": "WEIGHT"
+        }
+      ]
+    },
+    {
+      "key": "Alcoholic Drinks",
+      "nameEn": "Alcoholic Drinks",
+      "emoji": "🍷",
+      "unitType": "LITRES",
+      "items": [
+        "Beer",
+        "Wine",
+        "Lager",
+        "Ale",
+        "Stout",
+        "Cider",
+        "Craft Beer",
+        "Alcohol-Free Beer",
+        "Red Wine",
+        "White Wine",
+        "Rosé Wine",
+        "Sparkling Wine",
+        "Prosecco",
+        "Champagne",
+        "Port",
+        "Sherry",
+        "Gin",
+        "Vodka",
+        "Whisky",
+        "Rum",
+        "Brandy",
+        "Tequila",
+        "Liqueur",
+        "Ready-to-Drink Cocktails"
+      ]
+    },
+    {
+      "key": "Deli & Chilled Foods",
+      "nameEn": "Deli & Chilled Foods",
+      "emoji": "🥪",
+      "unitType": "PIECES",
+      "items": [
+        "Cooked Ham",
+        "Sliced Ham",
+        "Turkey Slices",
+        "Chicken Slices",
+        "Pepperoni",
+        "Smoked Ham",
+        "Coleslaw",
+        "Potato Salad",
+        "Dips",
+        "Olives",
+        "Pork Pies",
+        "Sausage Rolls",
+        "Scotch Eggs",
+        "Quiche"
+      ]
+    },
+    {
+      "key": "Ready Meals",
+      "nameEn": "Ready Meals",
+      "emoji": "🍱",
+      "unitType": "PIECES",
+      "items": [
+        "Lasagne",
+        "Cottage Pie",
+        "Shepherd’s Pie",
+        "Macaroni Cheese",
+        "Chicken Tikka Masala",
+        "Fish Pie",
+        "Beef Stew",
+        "Curry Ready Meal",
+        "Pizza",
+        "Pasta Ready Meal",
+        "Microwave Meal"
+      ]
+    },
+    {
+      "key": "Baking",
+      "nameEn": "Baking",
+      "emoji": "🎂",
+      "unitType": "WEIGHT",
+      "items": [
+        "Plain Flour",
+        "Self-Raising Flour",
+        "Wholemeal Flour",
+        "Cornflour",
+        "Caster Sugar",
+        "Icing Sugar",
+        "Golden Syrup",
+        "Treacle",
+        {
+          "id": "vanilla-extract",
+          "nameEn": "Vanilla Extract",
+          "unitType": "LITRES"
+        },
+        "Cocoa Powder",
+        "Baking Powder",
+        "Bicarbonate of Soda",
+        "Yeast",
+        "Semolina",
+        "Strong White Bread Flour",
+        "Brown Sugar",
+        "Chocolate Chips",
+        "Cake Mix",
+        {
+          "id": "food-colouring",
+          "nameEn": "Food Colouring",
+          "unitType": "PIECES"
+        },
+        "Cake Decorations",
+        "Desiccated Coconut"
+      ]
+    },
+    {
+      "key": "Household Essentials",
+      "nameEn": "Household Essentials",
+      "emoji": "🏠",
+      "unitType": "PIECES",
+      "items": [
+        "AA Batteries",
+        "AAA Batteries",
+        "Light Bulbs",
+        "Matches",
+        "Candles",
+        "Extension Lead",
+        "Food Storage Containers",
+        "Kitchen Bags",
+        "Disposable Gloves",
+        "Clothes Pegs",
+        "Shoe Polish",
+        "Lint Roller"
+      ]
+    },
+    {
+      "key": "Kitchen Essentials",
+      "nameEn": "Kitchen Essentials",
+      "emoji": "🍽️",
+      "unitType": "PIECES",
+      "items": [
+        "Kitchen Roll",
+        "Cling Film",
+        "Tin Foil",
+        "Baking Paper",
+        "Sponges",
+        "Scouring Pads",
+        "Tea Towels",
+        "Dish Cloths",
+        "Food Bags",
+        "Sandwich Bags"
+      ]
+    },
+    {
+      "key": "Laundry",
+      "nameEn": "Laundry",
+      "emoji": "🧺",
+      "unitType": "PIECES",
+      "items": [
+        "Washing Powder",
+        "Washing Liquid",
+        "Fabric Conditioner",
+        "Tumble Dryer Sheets",
+        "Washing Capsules",
+        "Stain Remover",
+        "Colour Catcher",
+        "Laundry Sanitiser"
+      ]
+    },
+    {
+      "key": "Dental Care",
+      "nameEn": "Dental Care",
+      "emoji": "🦷",
+      "unitType": "PIECES",
+      "items": [
+        "Toothpaste",
+        "Toothbrush",
+        "Mouthwash",
+        "Dental Floss",
+        "Electric Toothbrush Heads",
+        "Interdental Brushes",
+        "Denture Tablets",
+        "Sensitive Toothpaste",
+        "Kids Toothpaste",
+        "Kids Toothbrush"
+      ]
+    },
+    {
+      "key": "Women's Care",
+      "nameEn": "Women's Care",
+      "emoji": "🌸",
+      "unitType": "PIECES",
+      "items": [
+        "Feminine Hygiene Products",
+        "Sanitary Pads",
+        "Tampons",
+        "Panty Liners",
+        "Period Pants",
+        "Maternity Pads"
       ]
     }
   ]

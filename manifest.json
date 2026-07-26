@@ -29,7 +29,7 @@
       "fileName": "usa_catalog_v1.json",
       "dialCode": "+1",
       "currencyCode": "USD",
-      "version": 2
+      "version": 3
     },
     {
       "code": "GB",
@@ -38,7 +38,7 @@
       "fileName": "uk_catalog_v1.json",
       "dialCode": "+44",
       "currencyCode": "GBP",
-      "version": 2
+      "version": 3
     },
     {
       "code": "AU",
