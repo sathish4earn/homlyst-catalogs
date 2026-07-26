@@ -92,9 +92,9 @@
       "fileName": "china_catalog_v1.json",
       "dialCode": "+86",
       "currencyCode": "CNY",
-      "version": 2,
+      "version": 3,
       "l10n": {
-        "zh": 1
+        "zh": 2
       }
     },
     {
