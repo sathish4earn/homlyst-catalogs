@@ -104,9 +104,9 @@
       "fileName": "brazil_catalog_v1.json",
       "dialCode": "+55",
       "currencyCode": "BRL",
-      "version": 3,
+      "version": 4,
       "l10n": {
-        "pt": 1
+        "pt": 2
       }
     },
     {

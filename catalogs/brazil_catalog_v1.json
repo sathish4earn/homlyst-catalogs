@@ -96,7 +96,19 @@
         {
           "id": "cilantro",
           "nameEn": "Cilantro"
-        }
+        },
+        "Beetroot",
+        "Zucchini",
+        "Broccoli",
+        "Cauliflower",
+        "Spinach",
+        "Arugula",
+        "Watercress",
+        "Jiló",
+        "Gherkin",
+        "Parsley and Spring Onion Mix",
+        "Corn",
+        "Hearts of Palm"
       ]
     },
     {
@@ -192,7 +204,13 @@
         {
           "id": "coconut",
           "nameEn": "Coconut"
-        }
+        },
+        "Pitaya",
+        "Jabuticaba",
+        "Cupuaçu",
+        "Cajá",
+        "Carambola",
+        "Pitanga"
       ]
     },
     {
@@ -296,7 +314,15 @@
         {
           "id": "sweet-cassava-starch",
           "nameEn": "Sweet Cassava Starch"
-        }
+        },
+        "Toasted Cassava Flour",
+        "Flaked Cassava Flour",
+        "Corn Flakes for Couscous",
+        "Hominy Corn",
+        "Tapioca Pearls",
+        "Black-Eyed Peas",
+        "White Beans",
+        "Couscous"
       ]
     },
     {
@@ -326,22 +352,6 @@
           "nameEn": "Ground Beef"
         },
         {
-          "id": "picanha",
-          "nameEn": "Picanha"
-        },
-        {
-          "id": "alcatra",
-          "nameEn": "Alcatra"
-        },
-        {
-          "id": "fraldinha",
-          "nameEn": "Fraldinha"
-        },
-        {
-          "id": "beef-ribs",
-          "nameEn": "Beef Ribs"
-        },
-        {
           "id": "filet-mignon",
           "nameEn": "Filet Mignon"
         },
@@ -364,14 +374,6 @@
         {
           "id": "bacon",
           "nameEn": "Bacon"
-        },
-        {
-          "id": "brazilian-pork-sausage",
-          "nameEn": "Brazilian Pork Sausage"
-        },
-        {
-          "id": "calabresa-sausage",
-          "nameEn": "Calabresa Sausage"
         },
         {
           "id": "ham",
@@ -490,10 +492,6 @@
           "nameEn": "Mozzarella"
         },
         {
-          "id": "coalho-cheese",
-          "nameEn": "Coalho Cheese"
-        },
-        {
           "id": "parmesan-cheese",
           "nameEn": "Parmesan Cheese"
         },
@@ -516,7 +514,18 @@
         {
           "id": "fresh-cheese",
           "nameEn": "Fresh Cheese"
-        }
+        },
+        "Free-Range Eggs",
+        "Quail Eggs",
+        "Semi-Skimmed Milk",
+        "Lactose-Free Milk",
+        "Fermented Milk",
+        "Natural Yogurt",
+        "Greek Yogurt",
+        "Provolone",
+        "Prato Cheese",
+        "Catupiry-Style Cream Cheese",
+        "Cheese"
       ]
     },
     {
@@ -584,7 +593,8 @@
         {
           "id": "little-corn-cakes",
           "nameEn": "Little Corn Cakes"
-        }
+        },
+        "Tapioca (Prepared)"
       ]
     },
     {
@@ -732,7 +742,9 @@
         {
           "id": "coconut-milk",
           "nameEn": "Coconut Milk"
-        }
+        },
+        "Jam",
+        "Honey"
       ]
     },
     {
@@ -782,14 +794,6 @@
           "nameEn": "Peanut Brittle"
         },
         {
-          "id": "pacoca",
-          "nameEn": "Paçoca"
-        },
-        {
-          "id": "brigadeiro-candy",
-          "nameEn": "Brigadeiro Candy"
-        },
-        {
           "id": "chocolate-bar",
           "nameEn": "Chocolate Bar"
         },
@@ -798,32 +802,22 @@
           "nameEn": "Chocolate Wafer"
         },
         {
-          "id": "guava-paste",
-          "nameEn": "Guava Paste"
-        },
-        {
           "id": "dulce-de-leite-bar",
           "nameEn": "Dulce de Leite Bar"
         },
-        {
-          "id": "rapadura",
-          "nameEn": "Rapadura"
-        }
+        "Granola",
+        "Breakfast Cereal"
       ]
     },
     {
       "key": "Beverages",
       "nameEn": "Beverages",
-      "emoji": "☕",
+      "emoji": "🥤",
       "unitType": "LITRES",
       "items": [
         {
           "id": "drinking-water",
           "nameEn": "Drinking Water"
-        },
-        {
-          "id": "coffee",
-          "nameEn": "Coffee"
         },
         {
           "id": "guarana-antarctica",
@@ -842,14 +836,6 @@
           "nameEn": "Orange Juice"
         },
         {
-          "id": "mate-tea",
-          "nameEn": "Mate Tea"
-        },
-        {
-          "id": "yerba-mate",
-          "nameEn": "Yerba Mate"
-        },
-        {
           "id": "nescau",
           "nameEn": "Nescau"
         },
@@ -864,14 +850,6 @@
         {
           "id": "sugarcane-juice",
           "nameEn": "Sugarcane Juice"
-        },
-        {
-          "id": "beer",
-          "nameEn": "Beer"
-        },
-        {
-          "id": "cachaca",
-          "nameEn": "Cachaça"
         },
         {
           "id": "passion-fruit-juice",
@@ -956,7 +934,14 @@
         {
           "id": "frozen-french-fries",
           "nameEn": "Frozen French Fries"
-        }
+        },
+        "Frozen Cheese Bread",
+        "Frozen Hamburger",
+        "Frozen Chicken Nuggets",
+        "Frozen Cassava",
+        "Ready Feijoada",
+        "Ready Beans",
+        "Ready Rice"
       ]
     },
     {
@@ -1014,17 +999,30 @@
           "nameEn": "Floor Cleaner"
         },
         {
-          "id": "mosquito-repellent",
-          "nameEn": "Mosquito Repellent"
-        },
-        {
-          "id": "matches",
-          "nameEn": "Matches"
-        },
-        {
           "id": "aluminum-foil",
           "nameEn": "Aluminum Foil"
-        }
+        },
+        "Disinfectant",
+        "Alcohol Cleaner",
+        "Glass Cleaner",
+        "Bathroom Cleaner",
+        "Toilet Cleaner",
+        "Oven Cleaner",
+        "Degreaser",
+        "Furniture Polish",
+        "Stain Remover",
+        "Liquid Laundry Detergent",
+        "Dishwasher Detergent",
+        "Rubber Gloves",
+        "Cleaning Cloths",
+        "Broom",
+        "Mop",
+        "Squeegee",
+        "Bucket",
+        "Dustpan",
+        "Food Storage Bags",
+        "Plastic Wrap",
+        "Baking Paper"
       ]
     },
     {
@@ -1092,7 +1090,24 @@
         {
           "id": "mouthwash",
           "nameEn": "Mouthwash"
-        }
+        },
+        "Body Wash",
+        "Liquid Hand Soap",
+        "Body Lotion",
+        "Face Wash",
+        "Face Cream",
+        "Lip Balm",
+        "Hair Gel",
+        "Hair Cream",
+        "Hair Mask",
+        "Hair Dye",
+        "Nail Clippers",
+        "Nail Polish Remover",
+        "Tampons",
+        "Panty Liners",
+        "Toilet Wipes",
+        "Perfume",
+        "Cologne"
       ]
     },
     {
@@ -1160,7 +1175,17 @@
         {
           "id": "baby-oil",
           "nameEn": "Baby Oil"
-        }
+        },
+        "Baby Body Wash",
+        "Baby Sunscreen",
+        "Baby Toothbrush",
+        "Baby Toothpaste",
+        "Bottle Brush",
+        "Bottle Nipples",
+        "Baby Bibs",
+        "Sippy Cup",
+        "Baby Laundry Detergent",
+        "Breast Milk Storage Bags"
       ]
     },
     {
@@ -1184,7 +1209,19 @@
         "Antacid Tablets",
         "Allergy Tablets",
         "First Aid Spray",
-        "Sanitary Pads"
+        "Sanitary Pads",
+        "First Aid Kit",
+        "Gauze",
+        "Medical Tape",
+        "Disposable Gloves",
+        "Antiseptic",
+        "Saline Solution",
+        "Nasal Saline Spray",
+        "Eye Drops",
+        "Cough Drops",
+        "Insect Bite Cream",
+        "Ice Pack",
+        "Heating Pad"
       ]
     },
     {
@@ -1207,7 +1244,17 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dry Dog Food",
+        "Wet Dog Food",
+        "Dry Cat Food",
+        "Wet Cat Food",
+        "Puppy Food",
+        "Kitten Food",
+        "Training Pads",
+        "Pet Grooming Brush",
+        "Pet Stain Remover",
+        "Pet Odor Remover"
       ]
     },
     {
@@ -1232,6 +1279,253 @@
         "Highlighter",
         "Envelopes",
         "A4 Paper"
+      ]
+    },
+    {
+      "key": "Coffee & Tea",
+      "nameEn": "Coffee & Tea",
+      "emoji": "☕",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "coffee",
+          "nameEn": "Coffee"
+        },
+        {
+          "id": "mate-tea",
+          "nameEn": "Mate Tea"
+        },
+        {
+          "id": "yerba-mate",
+          "nameEn": "Yerba Mate",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "coffee-beans",
+          "nameEn": "Coffee Beans",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "ground-coffee",
+          "nameEn": "Ground Coffee",
+          "unitType": "WEIGHT"
+        },
+        "Instant Coffee",
+        "Coffee Capsules",
+        {
+          "id": "decaffeinated-coffee",
+          "nameEn": "Decaffeinated Coffee",
+          "unitType": "WEIGHT"
+        },
+        "Coffee Filter",
+        "Herbal Tea",
+        "Chamomile Tea",
+        "Green Tea",
+        "Black Tea"
+      ]
+    },
+    {
+      "key": "Churrasco",
+      "nameEn": "Churrasco",
+      "emoji": "🍖",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "picanha",
+          "nameEn": "Picanha"
+        },
+        {
+          "id": "alcatra",
+          "nameEn": "Alcatra"
+        },
+        {
+          "id": "fraldinha",
+          "nameEn": "Fraldinha"
+        },
+        {
+          "id": "beef-ribs",
+          "nameEn": "Beef Ribs"
+        },
+        {
+          "id": "brazilian-pork-sausage",
+          "nameEn": "Brazilian Pork Sausage"
+        },
+        {
+          "id": "calabresa-sausage",
+          "nameEn": "Calabresa Sausage"
+        },
+        {
+          "id": "coalho-cheese",
+          "nameEn": "Coalho Cheese",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "contra-filé",
+          "nameEn": "Contra Filé",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "maminha",
+          "nameEn": "Maminha",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "chicken-hearts",
+          "nameEn": "Chicken Hearts",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "garlic-bread",
+          "nameEn": "Garlic Bread",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "coarse-salt",
+          "nameEn": "Coarse Salt",
+          "unitType": "WEIGHT"
+        },
+        {
+          "id": "farofa",
+          "nameEn": "Farofa",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "vinaigrette-salsa",
+          "nameEn": "Vinaigrette Salsa",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "charcoal",
+          "nameEn": "Charcoal",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "barbecue-skewers",
+          "nameEn": "Barbecue Skewers",
+          "unitType": "PIECES"
+        },
+        {
+          "id": "firelighter",
+          "nameEn": "Firelighter",
+          "unitType": "PIECES"
+        }
+      ]
+    },
+    {
+      "key": "Sweets & Desserts",
+      "nameEn": "Sweets & Desserts",
+      "emoji": "🍬",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "pacoca",
+          "nameEn": "Paçoca"
+        },
+        {
+          "id": "brigadeiro-candy",
+          "nameEn": "Brigadeiro Candy"
+        },
+        {
+          "id": "guava-paste",
+          "nameEn": "Guava Paste"
+        },
+        {
+          "id": "rapadura",
+          "nameEn": "Rapadura"
+        },
+        "Beijinho",
+        "Pé de Moleque",
+        "Cocada",
+        "Guava Paste with Cheese",
+        "Quindim",
+        "Pudding Mix",
+        "Gelatin",
+        "Chocolate Sprinkles",
+        "Cocoa Powder",
+        "Popsicles"
+      ]
+    },
+    {
+      "key": "Beer, Wine & Spirits",
+      "nameEn": "Beer, Wine & Spirits",
+      "emoji": "🍻",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "beer",
+          "nameEn": "Beer"
+        },
+        {
+          "id": "cachaca",
+          "nameEn": "Cachaça"
+        },
+        "Lager",
+        "Pilsner",
+        "Craft Beer",
+        "Non-Alcoholic Beer",
+        "Red Wine",
+        "White Wine",
+        "Rosé Wine",
+        "Sparkling Wine",
+        "Aged Cachaça",
+        "Vodka",
+        "Gin",
+        "Whisky",
+        "Rum",
+        "Tequila",
+        "Liqueur"
+      ]
+    },
+    {
+      "key": "Home Essentials",
+      "nameEn": "Home Essentials",
+      "emoji": "🏠",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "mosquito-repellent",
+          "nameEn": "Mosquito Repellent"
+        },
+        {
+          "id": "matches",
+          "nameEn": "Matches"
+        },
+        "AA Batteries",
+        "AAA Batteries",
+        "9V Battery",
+        "Light Bulbs",
+        "LED Bulbs",
+        "Extension Cord",
+        "Power Strip",
+        "Flashlight",
+        "Lighter",
+        "Candles",
+        "Food Storage Containers",
+        "Water Filter Refill",
+        "Clothes Pegs",
+        "Clothesline",
+        "Insecticide Spray"
+      ]
+    },
+    {
+      "key": "Party & Celebration",
+      "nameEn": "Party & Celebration",
+      "emoji": "🎉",
+      "unitType": "PIECES",
+      "items": [
+        "Birthday Candles",
+        "Disposable Plates",
+        "Disposable Cups",
+        "Disposable Cutlery",
+        "Napkins",
+        "Balloons",
+        "Birthday Cake",
+        "Cake Candles",
+        "Party Snacks",
+        "Coxinhas (Party Tray)",
+        "Cheese Balls",
+        "Kibes",
+        "Mini Esfihas (Party Tray)"
       ]
     }
   ]
