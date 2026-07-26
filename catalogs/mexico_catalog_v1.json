@@ -47,15 +47,15 @@
         },
         {
           "id": "nopales",
-          "nameEn": "Nopales"
+          "nameEn": "Nopal Cactus Pads"
         },
         {
           "id": "calabacita",
-          "nameEn": "Calabacita"
+          "nameEn": "Zucchini"
         },
         {
           "id": "elote",
-          "nameEn": "Elote"
+          "nameEn": "Corn on the Cob"
         },
         {
           "id": "potato",
@@ -71,7 +71,7 @@
         },
         {
           "id": "jicama",
-          "nameEn": "Jícama"
+          "nameEn": "Jicama"
         },
         {
           "id": "chayote",
@@ -95,8 +95,25 @@
         },
         {
           "id": "ejotes",
-          "nameEn": "Ejotes"
-        }
+          "nameEn": "Green Beans"
+        },
+        "White Onion",
+        "Green Onion",
+        "Parsley",
+        "Broccoli",
+        "Cauliflower",
+        "Cabbage",
+        "Purple Cabbage",
+        "Pumpkin",
+        "Sweet Potato",
+        "Celery",
+        "Radish",
+        "Beets",
+        "Chard",
+        "Purslane",
+        "Huauzontle",
+        "Mushrooms",
+        "Corn Kernels"
       ]
     },
     {
@@ -184,7 +201,20 @@
         {
           "id": "peach",
           "nameEn": "Peach"
-        }
+        },
+        "Mandarin",
+        "Grapefruit",
+        "Pear",
+        "Plum",
+        "Cherry",
+        "Blueberries",
+        "Raspberries",
+        "Blackberries",
+        "Pomegranate",
+        "Coconut",
+        "Tamarind",
+        "Sapodilla",
+        "Tejocote"
       ]
     },
     {
@@ -272,7 +302,31 @@
         {
           "id": "garbanzo-beans",
           "nameEn": "Garbanzo Beans"
-        }
+        },
+        "White Corn",
+        "Yellow Corn",
+        "Pozole Corn",
+        "Dried Corn",
+        "Corn Flour",
+        "Fresh Masa",
+        "Blue Corn Tortillas",
+        "Peruano Beans",
+        "Flor de Mayo Beans",
+        "Flor de Junio Beans",
+        "Whole Beans",
+        "White Rice",
+        "Brown Rice",
+        "Long-Grain Rice",
+        "Mexican Rice Mix",
+        "Spaghetti",
+        "Macaroni",
+        "Soup Pasta",
+        "Fideo",
+        "Vermicelli",
+        "All-Purpose Flour",
+        "Breadcrumbs",
+        "Granola",
+        "Pancake Mix"
       ]
     },
     {
@@ -340,7 +394,21 @@
         {
           "id": "rosca-de-reyes",
           "nameEn": "Rosca de Reyes"
-        }
+        },
+        "Pancake Syrup",
+        "Honey",
+        "Jam",
+        "Strawberry Jam",
+        "Peanut Butter",
+        "Chocolate Spread",
+        "Empanada",
+        "Dona",
+        "Garibaldi",
+        "Mantecada",
+        "Campechana",
+        "Pan de Elote",
+        "Pastel",
+        "Tres Leches Cake"
       ]
     },
     {
@@ -367,7 +435,7 @@
         },
         {
           "id": "bistec",
-          "nameEn": "Bistec"
+          "nameEn": "Beef Steak"
         },
         {
           "id": "carne-molida",
@@ -375,7 +443,7 @@
         },
         {
           "id": "arrachera",
-          "nameEn": "Arrachera"
+          "nameEn": "Skirt Steak"
         },
         {
           "id": "milanesa",
@@ -419,12 +487,18 @@
         },
         {
           "id": "cabrito",
-          "nameEn": "Cabrito"
+          "nameEn": "Young Goat Meat"
         },
         {
           "id": "pavo",
           "nameEn": "Turkey"
-        }
+        },
+        "Beef Ribs",
+        "Pork",
+        "Pork Loin",
+        "Chicken Thigh",
+        "Chicken Drumsticks",
+        "Chicken Wings"
       ]
     },
     {
@@ -443,7 +517,7 @@
         },
         {
           "id": "huachinango",
-          "nameEn": "Huachinango"
+          "nameEn": "Red Snapper"
         },
         {
           "id": "mojarra",
@@ -467,7 +541,7 @@
         },
         {
           "id": "jaiba",
-          "nameEn": "Jaiba"
+          "nameEn": "Blue Crab"
         },
         {
           "id": "cangrejo",
@@ -499,7 +573,7 @@
         },
         {
           "id": "bacalao",
-          "nameEn": "Bacalao"
+          "nameEn": "Cod"
         },
         {
           "id": "langosta",
@@ -511,7 +585,7 @@
         },
         {
           "id": "caracol",
-          "nameEn": "Caracol"
+          "nameEn": "Sea Snail"
         }
       ]
     },
@@ -535,15 +609,15 @@
         },
         {
           "id": "queso-fresco",
-          "nameEn": "Queso Fresco"
+          "nameEn": "Fresh Cheese"
         },
         {
           "id": "queso-oaxaca",
-          "nameEn": "Queso Oaxaca"
+          "nameEn": "Oaxaca Cheese"
         },
         {
           "id": "queso-panela",
-          "nameEn": "Queso Panela"
+          "nameEn": "Panela Cheese"
         },
         {
           "id": "queso-manchego",
@@ -563,7 +637,7 @@
         },
         {
           "id": "requeson",
-          "nameEn": "Requesón"
+          "nameEn": "Mexican Ricotta-Style Cheese"
         },
         {
           "id": "yogurt",
@@ -592,7 +666,14 @@
         {
           "id": "nata",
           "nameEn": "Nata"
-        }
+        },
+        "Whole Milk",
+        "Low-Fat Milk",
+        "Skim Milk",
+        "Powdered Milk",
+        "Natural Yogurt",
+        "Greek Yogurt",
+        "Margarine"
       ]
     },
     {
@@ -611,7 +692,7 @@
         },
         {
           "id": "piloncillo",
-          "nameEn": "Piloncillo"
+          "nameEn": "Unrefined Cane Sugar"
         },
         {
           "id": "pimienta-negra",
@@ -684,7 +765,51 @@
         {
           "id": "manteca-de-cerdo",
           "nameEn": "Lard"
-        }
+        },
+        "Bay Leaves",
+        "Thyme",
+        "Whole Pepper",
+        "Cinnamon Sticks",
+        "Cloves",
+        "Annatto",
+        "Sea Salt",
+        "Brown Sugar",
+        "Baking Soda",
+        "Baking Powder",
+        "Vanilla Extract",
+        "Mexican Vanilla",
+        "Beef Bouillon",
+        "Morita Chile",
+        "Mulato Chile",
+        "Cascabel Chile",
+        "Pickled Jalapeños",
+        "Salsa Taquera",
+        "Salsa Ranchera",
+        "Salsa Macha",
+        "Pico de Gallo",
+        "Guacamole",
+        "Mole Poblano",
+        "Mole Negro",
+        "Mole Verde",
+        "Mole Paste",
+        "Adobo Sauce",
+        "Hot Sauce",
+        "Tomato Sauce",
+        "Tomato Paste",
+        "Mayonnaise",
+        "Mustard",
+        "Ketchup",
+        "Soy Sauce",
+        "Worcestershire Sauce",
+        "Apple Cider Vinegar",
+        "Chili-Lime Seasoning",
+        "Canola Oil",
+        "Olive Oil",
+        "Extra Virgin Olive Oil",
+        "Avocado Oil",
+        "Coconut Oil",
+        "Cooking Spray",
+        "Vegetable Shortening"
       ]
     },
     {
@@ -768,7 +893,17 @@
         {
           "id": "tajin",
           "nameEn": "Tajín"
-        }
+        },
+        "Chili Peanuts",
+        "Sunflower Seeds",
+        "Tamarind Candy",
+        "Lollipop",
+        "Ate",
+        "Cocada",
+        "Glorias",
+        "Obleas",
+        "Mexican Table Chocolate",
+        "Chocolate-Covered Snack Cake"
       ]
     },
     {
@@ -803,7 +938,7 @@
         },
         {
           "id": "agua-de-jamaica",
-          "nameEn": "Agua de Jamaica"
+          "nameEn": "Hibiscus Drink"
         },
         {
           "id": "agua-de-tamarindo",
@@ -815,7 +950,7 @@
         },
         {
           "id": "cafe-de-olla",
-          "nameEn": "Café de Olla"
+          "nameEn": "Mexican Spiced Coffee"
         },
         {
           "id": "nescafe",
@@ -852,7 +987,24 @@
         {
           "id": "vino",
           "nameEn": "Wine"
-        }
+        },
+        "Bottled Water",
+        "Mineral Water",
+        "Cola",
+        "Orange Soda",
+        "Lemon-Lime Soda",
+        "Apple Juice",
+        "Pineapple Juice",
+        "Tomato Juice",
+        "Lime Water",
+        "Instant Coffee",
+        "Lager Beer",
+        "Dark Beer",
+        "Red Wine",
+        "White Wine",
+        "Rosé Wine",
+        "Flavored Soft Drink",
+        "Fruit Juice"
       ]
     },
     {
@@ -970,18 +1122,6 @@
           "nameEn": "Pinol Cleaner"
         },
         {
-          "id": "cerillos",
-          "nameEn": "Matches"
-        },
-        {
-          "id": "velas",
-          "nameEn": "Candles"
-        },
-        {
-          "id": "pilas",
-          "nameEn": "Batteries"
-        },
-        {
           "id": "papel-aluminio",
           "nameEn": "Aluminum Foil"
         },
@@ -992,7 +1132,17 @@
         {
           "id": "ambientador",
           "nameEn": "Air Freshener"
-        }
+        },
+        "Liquid Detergent",
+        "Powder Detergent",
+        "Floor Cleaner",
+        "Bathroom Cleaner",
+        "Toilet Cleaner",
+        "Glass Cleaner",
+        "Disinfectant",
+        "Disinfecting Wipes",
+        "Sponges",
+        "Rubber Gloves"
       ]
     },
     {
@@ -1080,7 +1230,10 @@
         {
           "id": "papel-facial",
           "nameEn": "Facial Tissue"
-        }
+        },
+        "Body Wash",
+        "Moisturizer",
+        "Panty Liners"
       ]
     },
     {
@@ -1148,7 +1301,11 @@
         {
           "id": "vaselina",
           "nameEn": "Petroleum Jelly"
-        }
+        },
+        "Training Pants",
+        "Baby Body Wash",
+        "Baby Lotion",
+        "Bottle Nipple"
       ]
     },
     {
@@ -1172,7 +1329,15 @@
         "Antacid Tablets",
         "Allergy Tablets",
         "First Aid Spray",
-        "Sanitary Pads"
+        "Sanitary Pads",
+        "First Aid Kit",
+        "Gauze",
+        "Medical Tape",
+        "Antiseptic",
+        "Hydrogen Peroxide",
+        "Rubbing Alcohol",
+        "Electrolyte Solution",
+        "Cough Drops"
       ]
     },
     {
@@ -1195,7 +1360,13 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dry Dog Food",
+        "Wet Dog Food",
+        "Dry Cat Food",
+        "Wet Cat Food",
+        "Dog Treats",
+        "Cat Treats"
       ]
     },
     {
@@ -1220,6 +1391,98 @@
         "Highlighter",
         "Envelopes",
         "A4 Paper"
+      ]
+    },
+    {
+      "key": "Mexican Ready Foods",
+      "nameEn": "Mexican Ready Foods",
+      "emoji": "🌮",
+      "unitType": "PIECES",
+      "items": [
+        "Tamales",
+        "Chicken Tamales",
+        "Pork Tamales",
+        "Pozole",
+        "Red Pozole",
+        "Green Pozole",
+        "Menudo",
+        "Birria",
+        "Barbacoa",
+        "Chilorio",
+        "Cochinita Pibil",
+        "Chile Relleno",
+        "Enchiladas",
+        "Chilaquiles",
+        "Quesadillas",
+        "Flautas"
+      ]
+    },
+    {
+      "key": "Kitchen & Food Storage",
+      "nameEn": "Kitchen & Food Storage",
+      "emoji": "🍽️",
+      "unitType": "PIECES",
+      "items": [
+        "Plastic Wrap",
+        "Baking Paper",
+        "Food Storage Bags",
+        "Resealable Bags",
+        "Food Containers",
+        "Disposable Plates",
+        "Disposable Cups",
+        "Napkins",
+        "Drinking Straws",
+        "Toothpicks",
+        "Skewers"
+      ]
+    },
+    {
+      "key": "Home Essentials",
+      "nameEn": "Home Essentials",
+      "emoji": "🏠",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "cerillos",
+          "nameEn": "Matches"
+        },
+        {
+          "id": "velas",
+          "nameEn": "Candles"
+        },
+        {
+          "id": "pilas",
+          "nameEn": "Batteries"
+        },
+        "AA Batteries",
+        "AAA Batteries",
+        "Light Bulb",
+        "LED Bulb",
+        "Flashlight",
+        "Extension Cord",
+        "Power Strip",
+        "Lighter",
+        "Clothes Hangers",
+        "Clothes Pegs",
+        "Bucket",
+        "Broom",
+        "Mop",
+        "Dustpan"
+      ]
+    },
+    {
+      "key": "Mexican Celebrations & Seasonal",
+      "nameEn": "Mexican Celebrations & Seasonal",
+      "emoji": "🎉",
+      "unitType": "PIECES",
+      "items": [
+        "Sugar Skulls",
+        "Ceremonial Candles",
+        "Marigolds",
+        "Romeritos",
+        "Ponche Ingredients",
+        "Dried Hibiscus",
+        "Atole"
       ]
     }
   ]

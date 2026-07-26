@@ -128,9 +128,9 @@
       "fileName": "mexico_catalog_v1.json",
       "dialCode": "+52",
       "currencyCode": "MXN",
-      "version": 3,
+      "version": 4,
       "l10n": {
-        "es": 1
+        "es": 2
       }
     },
     {
