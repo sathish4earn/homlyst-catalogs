@@ -9,26 +9,105 @@
       "emoji": "🥬",
       "unitType": "WEIGHT",
       "items": [
-        {"id": "oignon", "nameEn": "Oignon"},
-        {"id": "ail", "nameEn": "Ail"},
-        {"id": "echalote", "nameEn": "Échalote"},
-        {"id": "poireau", "nameEn": "Poireau"},
-        {"id": "carotte", "nameEn": "Carotte"},
-        {"id": "pomme-de-terre", "nameEn": "Pomme de Terre"},
-        {"id": "tomate", "nameEn": "Tomate"},
-        {"id": "tomates-cerises", "nameEn": "Tomates Cerises"},
-        {"id": "courgette", "nameEn": "Courgette"},
-        {"id": "aubergine", "nameEn": "Aubergine"},
-        {"id": "poivron", "nameEn": "Poivron"},
-        {"id": "champignons-de-paris", "nameEn": "Champignons de Paris"},
-        {"id": "endive", "nameEn": "Endive"},
-        {"id": "salade-verte", "nameEn": "Salade Verte"},
-        {"id": "mache", "nameEn": "Mâche"},
-        {"id": "haricots-verts", "nameEn": "Haricots Verts"},
-        {"id": "chou-fleur", "nameEn": "Chou-fleur"},
-        {"id": "radis", "nameEn": "Radis"},
-        {"id": "fenouil", "nameEn": "Fenouil"},
-        {"id": "artichaut", "nameEn": "Artichaut"}
+        {
+          "id": "oignon",
+          "nameEn": "Onion"
+        },
+        {
+          "id": "ail",
+          "nameEn": "Garlic"
+        },
+        {
+          "id": "echalote",
+          "nameEn": "Shallot"
+        },
+        {
+          "id": "poireau",
+          "nameEn": "Leek"
+        },
+        {
+          "id": "carotte",
+          "nameEn": "Carrot"
+        },
+        {
+          "id": "pomme-de-terre",
+          "nameEn": "Potato"
+        },
+        {
+          "id": "tomate",
+          "nameEn": "Tomato"
+        },
+        {
+          "id": "tomates-cerises",
+          "nameEn": "Cherry Tomatoes"
+        },
+        {
+          "id": "courgette",
+          "nameEn": "Zucchini"
+        },
+        {
+          "id": "aubergine",
+          "nameEn": "Eggplant"
+        },
+        {
+          "id": "poivron",
+          "nameEn": "Bell Pepper"
+        },
+        {
+          "id": "champignons-de-paris",
+          "nameEn": "Button Mushrooms"
+        },
+        {
+          "id": "endive",
+          "nameEn": "Endive"
+        },
+        {
+          "id": "salade-verte",
+          "nameEn": "Green Salad"
+        },
+        {
+          "id": "mache",
+          "nameEn": "Lamb's Lettuce"
+        },
+        {
+          "id": "haricots-verts",
+          "nameEn": "Green Beans"
+        },
+        {
+          "id": "chou-fleur",
+          "nameEn": "Cauliflower"
+        },
+        {
+          "id": "radis",
+          "nameEn": "Radish"
+        },
+        {
+          "id": "fenouil",
+          "nameEn": "Fennel"
+        },
+        {
+          "id": "artichaut",
+          "nameEn": "Artichoke"
+        },
+        "Broccoli",
+        "Spinach",
+        "Cabbage",
+        "Red Cabbage",
+        "Savoy Cabbage",
+        "Brussels Sprouts",
+        "Lettuce",
+        "Romaine Lettuce",
+        "Cucumber",
+        "Celery",
+        "Celery Root",
+        "Turnip",
+        "Beetroot",
+        "Pumpkin",
+        "Butternut Squash",
+        "Sweet Potato",
+        "Asparagus",
+        "Peas",
+        "Red Onion"
       ]
     },
     {
@@ -37,22 +116,85 @@
       "emoji": "🍎",
       "unitType": "WEIGHT",
       "items": [
-        {"id": "pomme", "nameEn": "Pomme"},
-        {"id": "poire", "nameEn": "Poire"},
-        {"id": "banane", "nameEn": "Banane"},
-        {"id": "orange", "nameEn": "Orange"},
-        {"id": "citron", "nameEn": "Citron"},
-        {"id": "clementine", "nameEn": "Clémentine"},
-        {"id": "fraise", "nameEn": "Fraise"},
-        {"id": "framboise", "nameEn": "Framboise"},
-        {"id": "abricot", "nameEn": "Abricot"},
-        {"id": "peche", "nameEn": "Pêche"},
-        {"id": "cerise", "nameEn": "Cerise"},
-        {"id": "raisin", "nameEn": "Raisin"},
-        {"id": "melon", "nameEn": "Melon"},
-        {"id": "pasteque", "nameEn": "Pastèque"},
-        {"id": "figue", "nameEn": "Figue"},
-        {"id": "kiwi", "nameEn": "Kiwi"}
+        {
+          "id": "pomme",
+          "nameEn": "Apple"
+        },
+        {
+          "id": "poire",
+          "nameEn": "Pear"
+        },
+        {
+          "id": "banane",
+          "nameEn": "Banana"
+        },
+        {
+          "id": "orange",
+          "nameEn": "Orange"
+        },
+        {
+          "id": "citron",
+          "nameEn": "Lemon"
+        },
+        {
+          "id": "clementine",
+          "nameEn": "Clementine"
+        },
+        {
+          "id": "fraise",
+          "nameEn": "Strawberry"
+        },
+        {
+          "id": "framboise",
+          "nameEn": "Raspberry"
+        },
+        {
+          "id": "abricot",
+          "nameEn": "Apricot"
+        },
+        {
+          "id": "peche",
+          "nameEn": "Peach"
+        },
+        {
+          "id": "cerise",
+          "nameEn": "Cherry"
+        },
+        {
+          "id": "raisin",
+          "nameEn": "Grapes"
+        },
+        {
+          "id": "melon",
+          "nameEn": "Melon"
+        },
+        {
+          "id": "pasteque",
+          "nameEn": "Watermelon"
+        },
+        {
+          "id": "figue",
+          "nameEn": "Fig"
+        },
+        {
+          "id": "kiwi",
+          "nameEn": "Kiwi"
+        },
+        "Nectarine",
+        "Plum",
+        "Mirabelle Plum",
+        "Blueberries",
+        "Blackberries",
+        "Blackcurrants",
+        "Redcurrants",
+        "Grapefruit",
+        "Pineapple",
+        "Mango",
+        "Avocado",
+        "Pomegranate",
+        "Persimmon",
+        "Chestnuts",
+        "Rhubarb"
       ]
     },
     {
@@ -61,24 +203,87 @@
       "emoji": "🥐",
       "unitType": "PIECES",
       "items": [
-        {"id": "baguette", "nameEn": "Baguette"},
-        {"id": "pain-de-campagne", "nameEn": "Pain de Campagne"},
-        {"id": "pain-complet", "nameEn": "Pain Complet"},
-        {"id": "pain-de-mie", "nameEn": "Pain de Mie"},
-        {"id": "ficelle", "nameEn": "Ficelle"},
-        {"id": "croissant", "nameEn": "Croissant"},
-        {"id": "pain-au-chocolat", "nameEn": "Pain au Chocolat"},
-        {"id": "chausson-aux-pommes", "nameEn": "Chausson aux Pommes"},
-        {"id": "brioche", "nameEn": "Brioche"},
-        {"id": "pain-aux-raisins", "nameEn": "Pain aux Raisins"},
-        {"id": "chouquettes", "nameEn": "Chouquettes"},
-        {"id": "eclair", "nameEn": "Éclair"},
-        {"id": "tarte-aux-pommes", "nameEn": "Tarte aux Pommes"},
-        {"id": "mille-feuille", "nameEn": "Mille-feuille"},
-        {"id": "macarons", "nameEn": "Macarons"},
-        {"id": "fougasse", "nameEn": "Fougasse"},
-        {"id": "pain-depices", "nameEn": "Pain d'Épices"},
-        {"id": "galette-des-rois", "nameEn": "Galette des Rois"}
+        {
+          "id": "baguette",
+          "nameEn": "Baguette"
+        },
+        {
+          "id": "pain-de-campagne",
+          "nameEn": "Country Bread"
+        },
+        {
+          "id": "pain-complet",
+          "nameEn": "Whole Wheat Bread"
+        },
+        {
+          "id": "pain-de-mie",
+          "nameEn": "Sandwich Bread"
+        },
+        {
+          "id": "ficelle",
+          "nameEn": "Ficelle"
+        },
+        {
+          "id": "croissant",
+          "nameEn": "Croissant"
+        },
+        {
+          "id": "pain-au-chocolat",
+          "nameEn": "Pain au Chocolat"
+        },
+        {
+          "id": "chausson-aux-pommes",
+          "nameEn": "Apple Turnover"
+        },
+        {
+          "id": "brioche",
+          "nameEn": "Brioche"
+        },
+        {
+          "id": "pain-aux-raisins",
+          "nameEn": "Raisin Pastry"
+        },
+        {
+          "id": "chouquettes",
+          "nameEn": "Chouquettes"
+        },
+        {
+          "id": "eclair",
+          "nameEn": "Éclair"
+        },
+        {
+          "id": "tarte-aux-pommes",
+          "nameEn": "Apple Tart"
+        },
+        {
+          "id": "mille-feuille",
+          "nameEn": "Mille-feuille"
+        },
+        {
+          "id": "macarons",
+          "nameEn": "Macarons"
+        },
+        {
+          "id": "fougasse",
+          "nameEn": "Fougasse"
+        },
+        {
+          "id": "pain-depices",
+          "nameEn": "Gingerbread"
+        },
+        {
+          "id": "galette-des-rois",
+          "nameEn": "King Cake"
+        },
+        "Traditional Baguette",
+        "Cereal Bread",
+        "Rye Bread",
+        "Sourdough Bread",
+        "Walnut Bread",
+        "Multigrain Bread",
+        "Pain au Lait",
+        "Chocolate Brioche",
+        "Croissant with Butter"
       ]
     },
     {
@@ -87,26 +292,99 @@
       "emoji": "🧀",
       "unitType": "WEIGHT",
       "items": [
-        {"id": "comte", "nameEn": "Comté"},
-        {"id": "brie", "nameEn": "Brie"},
-        {"id": "camembert", "nameEn": "Camembert"},
-        {"id": "roquefort", "nameEn": "Roquefort"},
-        {"id": "reblochon", "nameEn": "Reblochon"},
-        {"id": "chevre", "nameEn": "Chèvre"},
-        {"id": "bleu-dauvergne", "nameEn": "Bleu d'Auvergne"},
-        {"id": "emmental", "nameEn": "Emmental"},
-        {"id": "beaufort", "nameEn": "Beaufort"},
-        {"id": "cantal", "nameEn": "Cantal"},
-        {"id": "munster", "nameEn": "Munster"},
-        {"id": "saint-nectaire", "nameEn": "Saint-Nectaire"},
-        {"id": "epoisses", "nameEn": "Époisses"},
-        {"id": "tomme-de-savoie", "nameEn": "Tomme de Savoie"},
-        {"id": "fromage-frais", "nameEn": "Fromage Frais"},
-        {"id": "mozzarella", "nameEn": "Mozzarella"},
-        {"id": "parmesan", "nameEn": "Parmesan"},
-        {"id": "crottin-de-chavignol", "nameEn": "Crottin de Chavignol"},
-        {"id": "pont-leveque", "nameEn": "Pont-l'Évêque"},
-        {"id": "livarot", "nameEn": "Livarot"}
+        {
+          "id": "comte",
+          "nameEn": "Comté"
+        },
+        {
+          "id": "brie",
+          "nameEn": "Brie"
+        },
+        {
+          "id": "camembert",
+          "nameEn": "Camembert"
+        },
+        {
+          "id": "roquefort",
+          "nameEn": "Roquefort"
+        },
+        {
+          "id": "reblochon",
+          "nameEn": "Reblochon"
+        },
+        {
+          "id": "chevre",
+          "nameEn": "Goat Cheese"
+        },
+        {
+          "id": "bleu-dauvergne",
+          "nameEn": "Bleu d'Auvergne"
+        },
+        {
+          "id": "emmental",
+          "nameEn": "Emmental"
+        },
+        {
+          "id": "beaufort",
+          "nameEn": "Beaufort"
+        },
+        {
+          "id": "cantal",
+          "nameEn": "Cantal"
+        },
+        {
+          "id": "munster",
+          "nameEn": "Munster"
+        },
+        {
+          "id": "saint-nectaire",
+          "nameEn": "Saint-Nectaire"
+        },
+        {
+          "id": "epoisses",
+          "nameEn": "Époisses"
+        },
+        {
+          "id": "tomme-de-savoie",
+          "nameEn": "Tomme de Savoie"
+        },
+        {
+          "id": "fromage-frais",
+          "nameEn": "Fresh Cheese"
+        },
+        {
+          "id": "mozzarella",
+          "nameEn": "Mozzarella"
+        },
+        {
+          "id": "parmesan",
+          "nameEn": "Parmesan"
+        },
+        {
+          "id": "crottin-de-chavignol",
+          "nameEn": "Crottin de Chavignol"
+        },
+        {
+          "id": "pont-leveque",
+          "nameEn": "Pont-l'Évêque"
+        },
+        {
+          "id": "livarot",
+          "nameEn": "Livarot"
+        },
+        "Raclette Cheese",
+        "Morbier",
+        "Fourme d'Ambert",
+        "Gruyère",
+        "Saint-Marcellin",
+        "Chaource",
+        "Ossau-Iraty",
+        "Neufchâtel",
+        "Goat Cheese Log",
+        "Fresh Goat Cheese",
+        "Cream Cheese",
+        "Grated Emmental",
+        "Grated Parmesan"
       ]
     },
     {
@@ -115,21 +393,77 @@
       "emoji": "🥛",
       "unitType": "PIECES",
       "items": [
-        {"id": "lait", "nameEn": "Lait"},
-        {"id": "lait-demi-ecreme", "nameEn": "Lait Demi-Écrémé"},
-        {"id": "lait-entier", "nameEn": "Lait Entier"},
-        {"id": "beurre", "nameEn": "Beurre"},
-        {"id": "beurre-demi-sel", "nameEn": "Beurre Demi-Sel"},
-        {"id": "creme-fraiche", "nameEn": "Crème Fraîche"},
-        {"id": "creme-fraiche-epaisse", "nameEn": "Crème Fraîche Épaisse"},
-        {"id": "yaourt-nature", "nameEn": "Yaourt Nature"},
-        {"id": "yaourt-aux-fruits", "nameEn": "Yaourt aux Fruits"},
-        {"id": "yaourt-yoplait", "nameEn": "Yaourt Yoplait"},
-        {"id": "petit-suisse", "nameEn": "Petit Suisse"},
-        {"id": "fromage-blanc", "nameEn": "Fromage Blanc"},
-        {"id": "oeufs", "nameEn": "Œufs"},
-        {"id": "oeufs-bio", "nameEn": "Œufs Bio"},
-        {"id": "babeurre", "nameEn": "Babeurre"}
+        {
+          "id": "lait",
+          "nameEn": "Milk"
+        },
+        {
+          "id": "lait-demi-ecreme",
+          "nameEn": "Semi-Skimmed Milk"
+        },
+        {
+          "id": "lait-entier",
+          "nameEn": "Whole Milk"
+        },
+        {
+          "id": "beurre",
+          "nameEn": "Butter"
+        },
+        {
+          "id": "beurre-demi-sel",
+          "nameEn": "Salted Butter"
+        },
+        {
+          "id": "creme-fraiche",
+          "nameEn": "Crème Fraîche"
+        },
+        {
+          "id": "creme-fraiche-epaisse",
+          "nameEn": "Thick Crème Fraîche"
+        },
+        {
+          "id": "yaourt-nature",
+          "nameEn": "Plain Yogurt"
+        },
+        {
+          "id": "yaourt-aux-fruits",
+          "nameEn": "Fruit Yogurt"
+        },
+        {
+          "id": "yaourt-yoplait",
+          "nameEn": "Yoplait Yogurt"
+        },
+        {
+          "id": "petit-suisse",
+          "nameEn": "Petit-Suisse"
+        },
+        {
+          "id": "fromage-blanc",
+          "nameEn": "Fromage Blanc"
+        },
+        {
+          "id": "oeufs",
+          "nameEn": "Eggs"
+        },
+        {
+          "id": "oeufs-bio",
+          "nameEn": "Organic Eggs"
+        },
+        {
+          "id": "babeurre",
+          "nameEn": "Buttermilk"
+        },
+        "Skimmed Milk",
+        "Lactose-Free Milk",
+        "Organic Milk",
+        "UHT Milk",
+        "Heavy Cream",
+        "Light Cream",
+        "Whipping Cream",
+        "Unsalted Butter",
+        "Greek Yogurt",
+        "Drinking Yogurt",
+        "Dessert Cream"
       ]
     },
     {
@@ -138,21 +472,81 @@
       "emoji": "🥩",
       "unitType": "WEIGHT",
       "items": [
-        {"id": "poulet-entier", "nameEn": "Poulet Entier"},
-        {"id": "blanc-de-poulet", "nameEn": "Blanc de Poulet"},
-        {"id": "cuisses-de-poulet", "nameEn": "Cuisses de Poulet"},
-        {"id": "boeuf-hache", "nameEn": "Bœuf Haché"},
-        {"id": "steak-hache", "nameEn": "Steak Haché"},
-        {"id": "entrecote", "nameEn": "Entrecôte"},
-        {"id": "roti-de-boeuf", "nameEn": "Rôti de Bœuf"},
-        {"id": "bavette", "nameEn": "Bavette"},
-        {"id": "cotes-de-porc", "nameEn": "Côtes de Porc"},
-        {"id": "roti-de-porc", "nameEn": "Rôti de Porc"},
-        {"id": "gigot-dagneau", "nameEn": "Gigot d'Agneau"},
-        {"id": "cotelettes-dagneau", "nameEn": "Côtelettes d'Agneau"},
-        {"id": "canard", "nameEn": "Canard"},
-        {"id": "magret-de-canard", "nameEn": "Magret de Canard"},
-        {"id": "dinde", "nameEn": "Dinde"}
+        {
+          "id": "poulet-entier",
+          "nameEn": "Whole Chicken"
+        },
+        {
+          "id": "blanc-de-poulet",
+          "nameEn": "Chicken Breast"
+        },
+        {
+          "id": "cuisses-de-poulet",
+          "nameEn": "Chicken Thighs"
+        },
+        {
+          "id": "boeuf-hache",
+          "nameEn": "Ground Beef"
+        },
+        {
+          "id": "steak-hache",
+          "nameEn": "Beef Patty"
+        },
+        {
+          "id": "entrecote",
+          "nameEn": "Rib Steak"
+        },
+        {
+          "id": "roti-de-boeuf",
+          "nameEn": "Roast Beef"
+        },
+        {
+          "id": "bavette",
+          "nameEn": "Flank Steak"
+        },
+        {
+          "id": "cotes-de-porc",
+          "nameEn": "Pork Chops"
+        },
+        {
+          "id": "roti-de-porc",
+          "nameEn": "Pork Roast"
+        },
+        {
+          "id": "gigot-dagneau",
+          "nameEn": "Leg of Lamb"
+        },
+        {
+          "id": "cotelettes-dagneau",
+          "nameEn": "Lamb Chops"
+        },
+        {
+          "id": "canard",
+          "nameEn": "Duck"
+        },
+        {
+          "id": "magret-de-canard",
+          "nameEn": "Duck Breast"
+        },
+        {
+          "id": "dinde",
+          "nameEn": "Turkey"
+        },
+        "Beef",
+        "Beef Steak",
+        "Beef Tenderloin",
+        "Beef Bourguignon Pieces",
+        "Veal",
+        "Veal Cutlet",
+        "Veal Roast",
+        "Pork",
+        "Pork Tenderloin",
+        "Pork Belly",
+        "Ground Pork",
+        "Chicken Drumsticks",
+        "Chicken Wings",
+        "Turkey Breast",
+        "Rabbit"
       ]
     },
     {
@@ -161,22 +555,82 @@
       "emoji": "🍖",
       "unitType": "WEIGHT",
       "items": [
-        {"id": "jambon-blanc", "nameEn": "Jambon Blanc"},
-        {"id": "jambon-de-bayonne", "nameEn": "Jambon de Bayonne"},
-        {"id": "jambon-cru", "nameEn": "Jambon Cru"},
-        {"id": "saucisson-sec", "nameEn": "Saucisson Sec"},
-        {"id": "saucisse-de-toulouse", "nameEn": "Saucisse de Toulouse"},
-        {"id": "chorizo", "nameEn": "Chorizo"},
-        {"id": "rillettes", "nameEn": "Rillettes"},
-        {"id": "pate-de-campagne", "nameEn": "Pâté de Campagne"},
-        {"id": "terrine", "nameEn": "Terrine"},
-        {"id": "boudin-noir", "nameEn": "Boudin Noir"},
-        {"id": "andouillette", "nameEn": "Andouillette"},
-        {"id": "confit-de-canard", "nameEn": "Confit de Canard"},
-        {"id": "merguez", "nameEn": "Merguez"},
-        {"id": "lardons", "nameEn": "Lardons"},
-        {"id": "foie-gras", "nameEn": "Foie Gras"},
-        {"id": "bacon", "nameEn": "Bacon"}
+        {
+          "id": "jambon-blanc",
+          "nameEn": "Cooked Ham"
+        },
+        {
+          "id": "jambon-de-bayonne",
+          "nameEn": "Bayonne Ham"
+        },
+        {
+          "id": "jambon-cru",
+          "nameEn": "Dry-Cured Ham"
+        },
+        {
+          "id": "saucisson-sec",
+          "nameEn": "Dry-Cured Sausage"
+        },
+        {
+          "id": "saucisse-de-toulouse",
+          "nameEn": "Toulouse Sausage"
+        },
+        {
+          "id": "chorizo",
+          "nameEn": "Chorizo"
+        },
+        {
+          "id": "rillettes",
+          "nameEn": "Rillettes"
+        },
+        {
+          "id": "pate-de-campagne",
+          "nameEn": "Country Pâté"
+        },
+        {
+          "id": "terrine",
+          "nameEn": "Terrine"
+        },
+        {
+          "id": "boudin-noir",
+          "nameEn": "Black Pudding"
+        },
+        {
+          "id": "andouillette",
+          "nameEn": "Andouillette Sausage"
+        },
+        {
+          "id": "confit-de-canard",
+          "nameEn": "Duck Confit"
+        },
+        {
+          "id": "merguez",
+          "nameEn": "Merguez Sausage"
+        },
+        {
+          "id": "lardons",
+          "nameEn": "Bacon Lardons"
+        },
+        {
+          "id": "foie-gras",
+          "nameEn": "Foie Gras"
+        },
+        {
+          "id": "bacon",
+          "nameEn": "Bacon"
+        },
+        "Rosette Sausage",
+        "Garlic Sausage",
+        "Lyon Sausage",
+        "Cooked Ham Slices",
+        "Smoked Ham",
+        "Chicken Ham",
+        "Turkey Ham",
+        "White Pudding",
+        "Pork Rillettes",
+        "Duck Rillettes",
+        "Chicken Liver Pâté",
+        "Head Cheese"
       ]
     },
     {
@@ -185,21 +639,80 @@
       "emoji": "🐟",
       "unitType": "WEIGHT",
       "items": [
-        {"id": "saumon", "nameEn": "Saumon"},
-        {"id": "cabillaud", "nameEn": "Cabillaud"},
-        {"id": "truite", "nameEn": "Truite"},
-        {"id": "sole", "nameEn": "Sole"},
-        {"id": "bar", "nameEn": "Bar"},
-        {"id": "thon", "nameEn": "Thon"},
-        {"id": "maquereau", "nameEn": "Maquereau"},
-        {"id": "moules", "nameEn": "Moules"},
-        {"id": "huitres", "nameEn": "Huîtres"},
-        {"id": "crevettes", "nameEn": "Crevettes"},
-        {"id": "coquilles-saint-jacques", "nameEn": "Coquilles Saint-Jacques"},
-        {"id": "langoustines", "nameEn": "Langoustines"},
-        {"id": "crabe", "nameEn": "Crabe"},
-        {"id": "calamars", "nameEn": "Calamars"},
-        {"id": "anchois", "nameEn": "Anchois"}
+        {
+          "id": "saumon",
+          "nameEn": "Salmon"
+        },
+        {
+          "id": "cabillaud",
+          "nameEn": "Cod"
+        },
+        {
+          "id": "truite",
+          "nameEn": "Trout"
+        },
+        {
+          "id": "sole",
+          "nameEn": "Sole"
+        },
+        {
+          "id": "bar",
+          "nameEn": "Sea Bass"
+        },
+        {
+          "id": "thon",
+          "nameEn": "Tuna"
+        },
+        {
+          "id": "maquereau",
+          "nameEn": "Mackerel"
+        },
+        {
+          "id": "moules",
+          "nameEn": "Mussels"
+        },
+        {
+          "id": "huitres",
+          "nameEn": "Oysters"
+        },
+        {
+          "id": "crevettes",
+          "nameEn": "Shrimp"
+        },
+        {
+          "id": "coquilles-saint-jacques",
+          "nameEn": "Scallops"
+        },
+        {
+          "id": "langoustines",
+          "nameEn": "Langoustines"
+        },
+        {
+          "id": "crabe",
+          "nameEn": "Crab"
+        },
+        {
+          "id": "calamars",
+          "nameEn": "Squid"
+        },
+        {
+          "id": "anchois",
+          "nameEn": "Anchovies"
+        },
+        "Sardines",
+        "Sea Bream",
+        "Hake",
+        "Monkfish",
+        "Pollock",
+        "Haddock",
+        "Smoked Salmon",
+        "Smoked Trout",
+        "Prawns",
+        "Whelks",
+        "Clams",
+        "Cockles",
+        "Octopus",
+        "Seafood Mix"
       ]
     },
     {
@@ -208,21 +721,68 @@
       "emoji": "🫒",
       "unitType": "LITRES",
       "items": [
-        {"id": "huile-dolive", "nameEn": "Huile d'Olive"},
-        {"id": "huile-de-tournesol", "nameEn": "Huile de Tournesol"},
-        {"id": "huile-de-colza", "nameEn": "Huile de Colza"},
-        {"id": "huile-de-noix", "nameEn": "Huile de Noix"},
-        {"id": "huile-darachide", "nameEn": "Huile d'Arachide"},
-        {"id": "vinaigre-de-vin-rouge", "nameEn": "Vinaigre de Vin Rouge"},
-        {"id": "vinaigre-balsamique", "nameEn": "Vinaigre Balsamique"},
-        {"id": "vinaigre-de-cidre", "nameEn": "Vinaigre de Cidre"},
-        {"id": "vinaigre-blanc", "nameEn": "Vinaigre Blanc"},
-        {"id": "graisse-de-canard", "nameEn": "Graisse de Canard"},
-        {"id": "saindoux", "nameEn": "Saindoux"},
-        {"id": "margarine", "nameEn": "Margarine"},
-        {"id": "huile-de-sesame", "nameEn": "Huile de Sésame"},
-        {"id": "huile-de-pepins-de-raisin", "nameEn": "Huile de Pépins de Raisin"},
-        {"id": "huile-de-noisette", "nameEn": "Huile de Noisette"}
+        {
+          "id": "huile-dolive",
+          "nameEn": "Olive Oil"
+        },
+        {
+          "id": "huile-de-tournesol",
+          "nameEn": "Sunflower Oil"
+        },
+        {
+          "id": "huile-de-colza",
+          "nameEn": "Rapeseed Oil"
+        },
+        {
+          "id": "huile-de-noix",
+          "nameEn": "Walnut Oil"
+        },
+        {
+          "id": "huile-darachide",
+          "nameEn": "Peanut Oil"
+        },
+        {
+          "id": "vinaigre-de-vin-rouge",
+          "nameEn": "Red Wine Vinegar"
+        },
+        {
+          "id": "vinaigre-balsamique",
+          "nameEn": "Balsamic Vinegar"
+        },
+        {
+          "id": "vinaigre-de-cidre",
+          "nameEn": "Apple Cider Vinegar"
+        },
+        {
+          "id": "vinaigre-blanc",
+          "nameEn": "White Vinegar"
+        },
+        {
+          "id": "graisse-de-canard",
+          "nameEn": "Duck Fat"
+        },
+        {
+          "id": "saindoux",
+          "nameEn": "Lard"
+        },
+        {
+          "id": "margarine",
+          "nameEn": "Margarine"
+        },
+        {
+          "id": "huile-de-sesame",
+          "nameEn": "Sesame Oil"
+        },
+        {
+          "id": "huile-de-pepins-de-raisin",
+          "nameEn": "Grapeseed Oil"
+        },
+        {
+          "id": "huile-de-noisette",
+          "nameEn": "Hazelnut Oil"
+        },
+        "Extra Virgin Olive Oil",
+        "White Wine Vinegar"
       ]
     },
     {
@@ -231,71 +791,250 @@
       "emoji": "🧂",
       "unitType": "PIECES",
       "items": [
-        {"id": "moutarde-de-dijon", "nameEn": "Moutarde de Dijon"},
-        {"id": "cornichons", "nameEn": "Cornichons"},
-        {"id": "mayonnaise", "nameEn": "Mayonnaise"},
-        {"id": "ketchup", "nameEn": "Ketchup"},
-        {"id": "sauce-bearnaise", "nameEn": "Sauce Béarnaise"},
-        {"id": "sauce-bordelaise", "nameEn": "Sauce Bordelaise"},
-        {"id": "herbes-de-provence", "nameEn": "Herbes de Provence"},
-        {"id": "sel", "nameEn": "Sel"},
-        {"id": "poivre", "nameEn": "Poivre"},
-        {"id": "persil", "nameEn": "Persil"},
-        {"id": "ciboulette", "nameEn": "Ciboulette"},
-        {"id": "thym", "nameEn": "Thym"},
-        {"id": "laurier", "nameEn": "Laurier"},
-        {"id": "muscade", "nameEn": "Muscade"},
-        {"id": "piment-despelette", "nameEn": "Piment d'Espelette"},
-        {"id": "vinaigrette", "nameEn": "Vinaigrette"},
-        {"id": "tapenade", "nameEn": "Tapenade"},
-        {"id": "sauce-soja", "nameEn": "Sauce Soja"}
+        {
+          "id": "moutarde-de-dijon",
+          "nameEn": "Dijon Mustard"
+        },
+        {
+          "id": "cornichons",
+          "nameEn": "Cornichons"
+        },
+        {
+          "id": "mayonnaise",
+          "nameEn": "Mayonnaise"
+        },
+        {
+          "id": "ketchup",
+          "nameEn": "Ketchup"
+        },
+        {
+          "id": "sauce-bearnaise",
+          "nameEn": "Béarnaise Sauce"
+        },
+        {
+          "id": "sauce-bordelaise",
+          "nameEn": "Bordelaise Sauce"
+        },
+        {
+          "id": "herbes-de-provence",
+          "nameEn": "Herbes de Provence"
+        },
+        {
+          "id": "sel",
+          "nameEn": "Salt"
+        },
+        {
+          "id": "poivre",
+          "nameEn": "Pepper"
+        },
+        {
+          "id": "muscade",
+          "nameEn": "Nutmeg"
+        },
+        {
+          "id": "piment-despelette",
+          "nameEn": "Espelette Pepper"
+        },
+        {
+          "id": "vinaigrette",
+          "nameEn": "Vinaigrette"
+        },
+        {
+          "id": "tapenade",
+          "nameEn": "Olive Tapenade"
+        },
+        {
+          "id": "sauce-soja",
+          "nameEn": "Soy Sauce"
+        },
+        "Whole-Grain Mustard",
+        "Yellow Mustard",
+        "Tomato Sauce",
+        "Tomato Paste",
+        "Pesto",
+        "Béchamel Sauce",
+        "Hot Sauce",
+        "Balsamic Glaze",
+        "Capers",
+        "Green Olives",
+        "Black Olives",
+        "Garlic Powder",
+        "Paprika",
+        "Cumin",
+        "Curry Powder",
+        "Cinnamon",
+        "Fleur de Sel",
+        "Coarse Salt"
       ]
     },
     {
       "key": "Rice, Pasta & Grains",
-      "nameEn": "Rice, Pasta & Grains",
+      "nameEn": "Rice, Pasta, Pulses & Grains",
       "emoji": "🍝",
       "unitType": "WEIGHT",
       "items": [
-        {"id": "riz", "nameEn": "Riz"},
-        {"id": "pates-panzani", "nameEn": "Pâtes Panzani"},
-        {"id": "spaghetti", "nameEn": "Spaghetti"},
-        {"id": "coquillettes", "nameEn": "Coquillettes"},
-        {"id": "farine", "nameEn": "Farine"},
-        {"id": "semoule", "nameEn": "Semoule"},
-        {"id": "couscous", "nameEn": "Couscous"},
-        {"id": "lentilles-vertes", "nameEn": "Lentilles Vertes"},
-        {"id": "lentilles-du-puy", "nameEn": "Lentilles du Puy"},
-        {"id": "quinoa", "nameEn": "Quinoa"},
-        {"id": "sucre", "nameEn": "Sucre"},
-        {"id": "sucre-vanille", "nameEn": "Sucre Vanillé"},
-        {"id": "levure-chimique", "nameEn": "Levure Chimique"},
-        {"id": "chapelure", "nameEn": "Chapelure"},
-        {"id": "cereales", "nameEn": "Céréales"}
+        {
+          "id": "riz",
+          "nameEn": "Rice"
+        },
+        {
+          "id": "pates-panzani",
+          "nameEn": "Panzani Pasta"
+        },
+        {
+          "id": "spaghetti",
+          "nameEn": "Spaghetti"
+        },
+        {
+          "id": "coquillettes",
+          "nameEn": "Coquillettes Pasta"
+        },
+        {
+          "id": "farine",
+          "nameEn": "Flour"
+        },
+        {
+          "id": "semoule",
+          "nameEn": "Semolina"
+        },
+        {
+          "id": "couscous",
+          "nameEn": "Couscous"
+        },
+        {
+          "id": "lentilles-vertes",
+          "nameEn": "Green Lentils"
+        },
+        {
+          "id": "lentilles-du-puy",
+          "nameEn": "Puy Lentils"
+        },
+        {
+          "id": "quinoa",
+          "nameEn": "Quinoa"
+        },
+        {
+          "id": "sucre",
+          "nameEn": "Sugar"
+        },
+        {
+          "id": "sucre-vanille",
+          "nameEn": "Vanilla Sugar"
+        },
+        {
+          "id": "levure-chimique",
+          "nameEn": "Baking Powder"
+        },
+        {
+          "id": "chapelure",
+          "nameEn": "Breadcrumbs"
+        },
+        {
+          "id": "cereales",
+          "nameEn": "Breakfast Cereal"
+        },
+        "Basmati Rice",
+        "Long-Grain Rice",
+        "Whole-Grain Rice",
+        "Arborio Rice",
+        "Penne",
+        "Fusilli",
+        "Tagliatelle",
+        "Lasagna Sheets",
+        "Chickpeas",
+        "White Beans",
+        "Red Kidney Beans",
+        "Flageolet Beans",
+        "Split Peas",
+        "Oats",
+        "Cornmeal",
+        "Wheat Flour",
+        "Whole Wheat Flour",
+        "Pasta"
       ]
     },
     {
       "key": "Snacks & Biscuits",
-      "nameEn": "Snacks & Biscuits",
+      "nameEn": "Snacks, Biscuits & Confectionery",
       "emoji": "🍪",
       "unitType": "PIECES",
       "items": [
-        {"id": "petit-ecolier", "nameEn": "Petit Écolier"},
-        {"id": "palmiers", "nameEn": "Palmiers"},
-        {"id": "madeleines", "nameEn": "Madeleines"},
-        {"id": "sables-bretons", "nameEn": "Sablés Bretons"},
-        {"id": "biscuits-st-michel", "nameEn": "Biscuits St Michel"},
-        {"id": "lu-petit-beurre", "nameEn": "LU Petit Beurre"},
-        {"id": "chips", "nameEn": "Chips"},
-        {"id": "cacahuetes", "nameEn": "Cacahuètes"},
-        {"id": "chocolat-noir", "nameEn": "Chocolat Noir"},
-        {"id": "chocolat-au-lait", "nameEn": "Chocolat au Lait"},
-        {"id": "nutella", "nameEn": "Nutella"},
-        {"id": "bonbons-haribo", "nameEn": "Bonbons Haribo"},
-        {"id": "papillotes", "nameEn": "Papillotes"},
-        {"id": "calissons", "nameEn": "Calissons"},
-        {"id": "nougat", "nameEn": "Nougat"},
-        {"id": "gavottes", "nameEn": "Gavottes"}
+        {
+          "id": "petit-ecolier",
+          "nameEn": "Petit Écolier"
+        },
+        {
+          "id": "palmiers",
+          "nameEn": "Palmiers"
+        },
+        {
+          "id": "madeleines",
+          "nameEn": "Madeleines"
+        },
+        {
+          "id": "sables-bretons",
+          "nameEn": "Breton Shortbread"
+        },
+        {
+          "id": "biscuits-st-michel",
+          "nameEn": "St Michel Biscuits"
+        },
+        {
+          "id": "lu-petit-beurre",
+          "nameEn": "LU Petit Beurre"
+        },
+        {
+          "id": "chips",
+          "nameEn": "Potato Chips"
+        },
+        {
+          "id": "cacahuetes",
+          "nameEn": "Peanuts"
+        },
+        {
+          "id": "chocolat-noir",
+          "nameEn": "Dark Chocolate"
+        },
+        {
+          "id": "chocolat-au-lait",
+          "nameEn": "Milk Chocolate"
+        },
+        {
+          "id": "nutella",
+          "nameEn": "Nutella"
+        },
+        {
+          "id": "bonbons-haribo",
+          "nameEn": "Haribo Candy"
+        },
+        {
+          "id": "papillotes",
+          "nameEn": "Papillotes"
+        },
+        {
+          "id": "calissons",
+          "nameEn": "Calissons"
+        },
+        {
+          "id": "nougat",
+          "nameEn": "Nougat"
+        },
+        {
+          "id": "gavottes",
+          "nameEn": "Gavottes"
+        },
+        "Butter Biscuits",
+        "Shortbread Biscuits",
+        "Crêpe Dentelle Biscuits",
+        "Wafers",
+        "Crackers",
+        "Almonds",
+        "Cashews",
+        "Walnuts",
+        "Pistachios",
+        "White Chocolate",
+        "Candy",
+        "Biscuits"
       ]
     },
     {
@@ -304,45 +1043,99 @@
       "emoji": "☕",
       "unitType": "LITRES",
       "items": [
-        {"id": "eau-minerale", "nameEn": "Eau Minérale"},
-        {"id": "eau-petillante", "nameEn": "Eau Pétillante"},
-        {"id": "vin-rouge", "nameEn": "Vin Rouge"},
-        {"id": "vin-blanc", "nameEn": "Vin Blanc"},
-        {"id": "vin-rose", "nameEn": "Vin Rosé"},
-        {"id": "champagne", "nameEn": "Champagne"},
-        {"id": "pastis", "nameEn": "Pastis"},
-        {"id": "cidre", "nameEn": "Cidre"},
-        {"id": "biere", "nameEn": "Bière"},
-        {"id": "jus-dorange", "nameEn": "Jus d'Orange"},
-        {"id": "jus-de-pomme", "nameEn": "Jus de Pomme"},
-        {"id": "orangina", "nameEn": "Orangina"},
-        {"id": "sirop-de-menthe", "nameEn": "Sirop de Menthe"},
-        {"id": "cafe", "nameEn": "Café"},
-        {"id": "cafe-moulu", "nameEn": "Café Moulu"},
-        {"id": "the", "nameEn": "Thé"}
+        {
+          "id": "eau-minerale",
+          "nameEn": "Mineral Water"
+        },
+        {
+          "id": "eau-petillante",
+          "nameEn": "Sparkling Water"
+        },
+        {
+          "id": "jus-dorange",
+          "nameEn": "Orange Juice"
+        },
+        {
+          "id": "jus-de-pomme",
+          "nameEn": "Apple Juice"
+        },
+        {
+          "id": "orangina",
+          "nameEn": "Orangina"
+        },
+        {
+          "id": "sirop-de-menthe",
+          "nameEn": "Mint Syrup"
+        },
+        {
+          "id": "cafe",
+          "nameEn": "Coffee"
+        },
+        {
+          "id": "cafe-moulu",
+          "nameEn": "Ground Coffee"
+        },
+        {
+          "id": "the",
+          "nameEn": "Tea"
+        },
+        "Still Water",
+        "Spring Water",
+        "Lemonade",
+        "Cola",
+        "Soft Drinks",
+        "Grape Juice",
+        "Pineapple Juice",
+        "Multifruit Juice",
+        "Espresso Coffee",
+        "Coffee Capsules",
+        "Instant Coffee",
+        "Herbal Tea",
+        "Hot Chocolate",
+        "Orange Soft Drink"
       ]
     },
     {
       "key": "Frozen & Canned",
-      "nameEn": "Frozen & Canned",
+      "nameEn": "Frozen Foods",
       "emoji": "🧊",
       "unitType": "PIECES",
       "items": [
-        {"id": "legumes-surgeles", "nameEn": "Légumes Surgelés"},
-        {"id": "frites-surgelees", "nameEn": "Frites Surgelées"},
-        {"id": "pizza-surgelee", "nameEn": "Pizza Surgelée"},
-        {"id": "poisson-pane", "nameEn": "Poisson Pané"},
-        {"id": "glace", "nameEn": "Glace"},
-        {"id": "sorbet", "nameEn": "Sorbet"},
-        {"id": "petits-pois-en-conserve", "nameEn": "Petits Pois en Conserve"},
-        {"id": "tomates-pelees", "nameEn": "Tomates Pelées"},
-        {"id": "haricots-verts-en-conserve", "nameEn": "Haricots Verts en Conserve"},
-        {"id": "thon-en-boite", "nameEn": "Thon en Boîte"},
-        {"id": "mais-en-boite", "nameEn": "Maïs en Boîte"},
-        {"id": "ratatouille-en-conserve", "nameEn": "Ratatouille en Conserve"},
-        {"id": "cassoulet-en-conserve", "nameEn": "Cassoulet en Conserve"},
-        {"id": "soupe-en-brique", "nameEn": "Soupe en Brique"},
-        {"id": "champignons-en-boite", "nameEn": "Champignons en Boîte"}
+        {
+          "id": "legumes-surgeles",
+          "nameEn": "Frozen Vegetables"
+        },
+        {
+          "id": "frites-surgelees",
+          "nameEn": "Frozen French Fries"
+        },
+        {
+          "id": "pizza-surgelee",
+          "nameEn": "Frozen Pizza"
+        },
+        {
+          "id": "poisson-pane",
+          "nameEn": "Breaded Fish"
+        },
+        {
+          "id": "glace",
+          "nameEn": "Ice Cream"
+        },
+        {
+          "id": "sorbet",
+          "nameEn": "Sorbet"
+        },
+        "Frozen Peas",
+        "Frozen Green Beans",
+        "Frozen Spinach",
+        "Frozen Mixed Vegetables",
+        "Frozen Berries",
+        "Frozen Seafood",
+        "Frozen Shrimp",
+        "Frozen Fish Fillets",
+        "Frozen Croissants",
+        "Frozen Pastries",
+        "Frozen Quiche"
       ]
     },
     {
@@ -351,21 +1144,77 @@
       "emoji": "🧹",
       "unitType": "PIECES",
       "items": [
-        {"id": "liquide-vaisselle", "nameEn": "Liquide Vaisselle"},
-        {"id": "lessive", "nameEn": "Lessive"},
-        {"id": "papier-toilette", "nameEn": "Papier Toilette"},
-        {"id": "essuie-tout", "nameEn": "Essuie-Tout"},
-        {"id": "sacs-poubelle", "nameEn": "Sacs Poubelle"},
-        {"id": "eponges", "nameEn": "Éponges"},
-        {"id": "nettoyant-multi-usage", "nameEn": "Nettoyant Multi-Usage"},
-        {"id": "javel", "nameEn": "Javel"},
-        {"id": "st-marc", "nameEn": "St Marc"},
-        {"id": "liquide-vitres", "nameEn": "Liquide Vitres"},
-        {"id": "allumettes", "nameEn": "Allumettes"},
-        {"id": "bougies", "nameEn": "Bougies"},
-        {"id": "piles", "nameEn": "Piles"},
-        {"id": "film-alimentaire", "nameEn": "Film Alimentaire"},
-        {"id": "papier-aluminium", "nameEn": "Papier Aluminium"}
+        {
+          "id": "liquide-vaisselle",
+          "nameEn": "Dishwashing Liquid"
+        },
+        {
+          "id": "lessive",
+          "nameEn": "Laundry Detergent"
+        },
+        {
+          "id": "papier-toilette",
+          "nameEn": "Toilet Paper"
+        },
+        {
+          "id": "essuie-tout",
+          "nameEn": "Paper Towels"
+        },
+        {
+          "id": "sacs-poubelle",
+          "nameEn": "Trash Bags"
+        },
+        {
+          "id": "eponges",
+          "nameEn": "Sponges"
+        },
+        {
+          "id": "nettoyant-multi-usage",
+          "nameEn": "All-Purpose Cleaner"
+        },
+        {
+          "id": "javel",
+          "nameEn": "Bleach"
+        },
+        {
+          "id": "st-marc",
+          "nameEn": "St Marc Cleaner"
+        },
+        {
+          "id": "liquide-vitres",
+          "nameEn": "Glass Cleaner"
+        },
+        {
+          "id": "allumettes",
+          "nameEn": "Matches"
+        },
+        {
+          "id": "bougies",
+          "nameEn": "Candles"
+        },
+        {
+          "id": "piles",
+          "nameEn": "Batteries"
+        },
+        {
+          "id": "film-alimentaire",
+          "nameEn": "Food Wrap"
+        },
+        {
+          "id": "papier-aluminium",
+          "nameEn": "Aluminum Foil"
+        },
+        "Dishwasher Tablets",
+        "Dishwasher Salt",
+        "Rinse Aid",
+        "Fabric Softener",
+        "Stain Remover",
+        "Floor Cleaner",
+        "Bathroom Cleaner",
+        "Toilet Cleaner",
+        "Disinfectant",
+        "Microfiber Cloths",
+        "Rubber Gloves"
       ]
     },
     {
@@ -374,21 +1223,79 @@
       "emoji": "🧴",
       "unitType": "PIECES",
       "items": [
-        {"id": "savon", "nameEn": "Savon"},
-        {"id": "gel-douche", "nameEn": "Gel Douche"},
-        {"id": "shampooing", "nameEn": "Shampooing"},
-        {"id": "apres-shampooing", "nameEn": "Après-Shampooing"},
-        {"id": "dentifrice", "nameEn": "Dentifrice"},
-        {"id": "brosse-a-dents", "nameEn": "Brosse à Dents"},
-        {"id": "fil-dentaire", "nameEn": "Fil Dentaire"},
-        {"id": "deodorant", "nameEn": "Déodorant"},
-        {"id": "rasoir", "nameEn": "Rasoir"},
-        {"id": "mousse-a-raser", "nameEn": "Mousse à Raser"},
-        {"id": "creme-hydratante", "nameEn": "Crème Hydratante"},
-        {"id": "coton-tiges", "nameEn": "Coton-Tiges"},
-        {"id": "coton-demaquillant", "nameEn": "Coton Démaquillant"},
-        {"id": "protections-hygieniques", "nameEn": "Protections Hygiéniques"},
-        {"id": "mouchoirs-en-papier", "nameEn": "Mouchoirs en Papier"}
+        {
+          "id": "savon",
+          "nameEn": "Soap"
+        },
+        {
+          "id": "gel-douche",
+          "nameEn": "Shower Gel"
+        },
+        {
+          "id": "shampooing",
+          "nameEn": "Shampoo"
+        },
+        {
+          "id": "apres-shampooing",
+          "nameEn": "Conditioner"
+        },
+        {
+          "id": "dentifrice",
+          "nameEn": "Toothpaste"
+        },
+        {
+          "id": "brosse-a-dents",
+          "nameEn": "Toothbrush"
+        },
+        {
+          "id": "fil-dentaire",
+          "nameEn": "Dental Floss"
+        },
+        {
+          "id": "deodorant",
+          "nameEn": "Deodorant"
+        },
+        {
+          "id": "rasoir",
+          "nameEn": "Razor"
+        },
+        {
+          "id": "mousse-a-raser",
+          "nameEn": "Shaving Foam"
+        },
+        {
+          "id": "creme-hydratante",
+          "nameEn": "Moisturizer"
+        },
+        {
+          "id": "coton-tiges",
+          "nameEn": "Cotton Swabs"
+        },
+        {
+          "id": "coton-demaquillant",
+          "nameEn": "Cotton Pads"
+        },
+        {
+          "id": "protections-hygieniques",
+          "nameEn": "Sanitary Protection"
+        },
+        {
+          "id": "mouchoirs-en-papier",
+          "nameEn": "Facial Tissues"
+        },
+        "Hand Soap",
+        "Face Wash",
+        "Body Lotion",
+        "Hand Cream",
+        "Sunscreen",
+        "Lip Balm",
+        "Mouthwash",
+        "Razor Blades",
+        "Hair Gel",
+        "Dry Shampoo",
+        "Tampons",
+        "Panty Liners",
+        "Toilet Wipes"
       ]
     },
     {
@@ -412,7 +1319,13 @@
         "Antacid Tablets",
         "Allergy Tablets",
         "First Aid Spray",
-        "Sanitary Pads"
+        "Sanitary Pads",
+        "Gauze Pads",
+        "Medical Tape",
+        "Antiseptic Solution",
+        "Nasal Spray",
+        "Cough Lozenges",
+        "First Aid Kit"
       ]
     },
     {
@@ -435,7 +1348,15 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dry Dog Food",
+        "Dry Cat Food",
+        "Wet Dog Food",
+        "Wet Cat Food",
+        "Dog Treats",
+        "Cat Treats",
+        "Cat Litter Bags",
+        "Pet Collar"
       ]
     },
     {
@@ -459,7 +1380,249 @@
         "Crayons",
         "Highlighter",
         "Envelopes",
-        "A4 Paper"
+        "A4 Paper",
+        "Ballpoint Pens",
+        "Fountain Pen",
+        "Correction Fluid",
+        "Markers",
+        "Colored Pencils",
+        "Printer Paper",
+        "School Glue",
+        "Pencil Case"
+      ]
+    },
+    {
+      "key": "Fresh Herbs",
+      "nameEn": "Fresh Herbs",
+      "emoji": "🌿",
+      "unitType": "WEIGHT",
+      "items": [
+        {
+          "id": "persil",
+          "nameEn": "Parsley"
+        },
+        {
+          "id": "ciboulette",
+          "nameEn": "Chives"
+        },
+        {
+          "id": "thym",
+          "nameEn": "Thyme"
+        },
+        {
+          "id": "laurier",
+          "nameEn": "Bay Leaves"
+        },
+        "Flat-Leaf Parsley",
+        "Curly Parsley",
+        "Basil",
+        "Rosemary",
+        "Tarragon",
+        "Mint",
+        "Coriander",
+        "Dill",
+        "Sage",
+        "Chervil"
+      ]
+    },
+    {
+      "key": "Breakfast & Spreads",
+      "nameEn": "Breakfast & Spreads",
+      "emoji": "🍯",
+      "unitType": "PIECES",
+      "items": [
+        "Jam",
+        "Strawberry Jam",
+        "Apricot Jam",
+        "Raspberry Jam",
+        "Honey",
+        "Hazelnut Spread",
+        "Peanut Butter",
+        "Chestnut Cream",
+        "Toast",
+        "Muesli",
+        "Granola",
+        "Corn Flakes",
+        "Hot Chocolate Powder"
+      ]
+    },
+    {
+      "key": "Canned, Jarred & Packaged",
+      "nameEn": "Canned, Jarred & Packaged",
+      "emoji": "🥫",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "petits-pois-en-conserve",
+          "nameEn": "Canned Peas"
+        },
+        {
+          "id": "tomates-pelees",
+          "nameEn": "Peeled Tomatoes"
+        },
+        {
+          "id": "haricots-verts-en-conserve",
+          "nameEn": "Canned Green Beans"
+        },
+        {
+          "id": "thon-en-boite",
+          "nameEn": "Canned Tuna"
+        },
+        {
+          "id": "mais-en-boite",
+          "nameEn": "Canned Corn"
+        },
+        {
+          "id": "ratatouille-en-conserve",
+          "nameEn": "Canned Ratatouille"
+        },
+        {
+          "id": "cassoulet-en-conserve",
+          "nameEn": "Canned Cassoulet"
+        },
+        {
+          "id": "soupe-en-brique",
+          "nameEn": "Soup Carton"
+        },
+        {
+          "id": "champignons-en-boite",
+          "nameEn": "Canned Mushrooms"
+        },
+        "Canned Sardines",
+        "Canned Mackerel",
+        "Tomato Pulp",
+        "Lentils"
+      ]
+    },
+    {
+      "key": "Ready Meals",
+      "nameEn": "Ready Meals",
+      "emoji": "🍽️",
+      "unitType": "PIECES",
+      "items": [
+        "Quiche Lorraine",
+        "Croque-Monsieur",
+        "Gratin Dauphinois",
+        "Hachis Parmentier",
+        "Beef Bourguignon",
+        "Blanquette de Veau",
+        "Cassoulet",
+        "Ratatouille",
+        "Lasagna",
+        "Couscous Meal",
+        "Paella",
+        "Ready Soup"
+      ]
+    },
+    {
+      "key": "Wine, Beer & Aperitifs",
+      "nameEn": "Wine, Beer & Aperitifs",
+      "emoji": "🍷",
+      "unitType": "LITRES",
+      "items": [
+        {
+          "id": "vin-rouge",
+          "nameEn": "Red Wine"
+        },
+        {
+          "id": "vin-blanc",
+          "nameEn": "White Wine"
+        },
+        {
+          "id": "vin-rose",
+          "nameEn": "Rosé Wine"
+        },
+        {
+          "id": "champagne",
+          "nameEn": "Champagne"
+        },
+        {
+          "id": "pastis",
+          "nameEn": "Pastis"
+        },
+        {
+          "id": "cidre",
+          "nameEn": "Cider"
+        },
+        {
+          "id": "biere",
+          "nameEn": "Beer"
+        },
+        "Sparkling Wine",
+        "Crémant",
+        "Blonde Beer",
+        "Amber Beer",
+        "Non-Alcoholic Beer"
+      ]
+    },
+    {
+      "key": "Kitchen & Food Storage",
+      "nameEn": "Kitchen & Food Storage",
+      "emoji": "🧺",
+      "unitType": "PIECES",
+      "items": [
+        "Baking Paper",
+        "Freezer Bags",
+        "Food Storage Bags",
+        "Food Containers",
+        "Napkins",
+        "Coffee Filters",
+        "Toothpicks",
+        "Resealable Bags"
+      ]
+    },
+    {
+      "key": "Baby Care",
+      "nameEn": "Baby Care",
+      "emoji": "👶",
+      "unitType": "PIECES",
+      "items": [
+        "Diapers",
+        "Training Pants",
+        "Baby Wipes",
+        "Baby Formula",
+        "Baby Cereal",
+        "Baby Food",
+        "Fruit Purée",
+        "Baby Bottle",
+        "Bottle Nipple",
+        "Pacifier",
+        "Baby Shampoo",
+        "Baby Body Wash",
+        "Baby Lotion",
+        "Diaper Cream",
+        "Baby Cotton Pads",
+        "Saline Solution"
+      ]
+    },
+    {
+      "key": "Apéritif",
+      "nameEn": "Apéritif",
+      "emoji": "🫒",
+      "unitType": "PIECES",
+      "items": [
+        "Salted Peanuts",
+        "Mini Sausages",
+        "Saucisson",
+        "Cheese Cubes",
+        "Breadsticks",
+        "Hummus",
+        "Tzatziki"
+      ]
+    },
+    {
+      "key": "Seasonal & Festive",
+      "nameEn": "Seasonal & Festive",
+      "emoji": "🎄",
+      "unitType": "PIECES",
+      "items": [
+        "Chocolates",
+        "Yule Log",
+        "Frangipane Galette",
+        "Crêpes",
+        "Chocolate Eggs",
+        "Easter Chocolate",
+        "Lamb"
       ]
     }
   ]

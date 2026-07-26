@@ -176,9 +176,9 @@
       "fileName": "france_catalog_v1.json",
       "dialCode": "+33",
       "currencyCode": "EUR",
-      "version": 3,
+      "version": 4,
       "l10n": {
-        "fr": 1
+        "fr": 2
       }
     },
     {
