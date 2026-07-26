@@ -140,7 +140,10 @@
       "fileName": "philippines_catalog_v1.json",
       "dialCode": "+63",
       "currencyCode": "PHP",
-      "version": 3
+      "version": 4,
+      "l10n": {
+        "fil": 1
+      }
     },
     {
       "code": "VN",
