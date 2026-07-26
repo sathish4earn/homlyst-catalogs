@@ -19,7 +19,7 @@
         },
         {
           "id": "cai-ngot",
-          "nameEn": "Vietnamese Mustard Greens"
+          "nameEn": "Choy Sum"
         },
         {
           "id": "bap-cai",
@@ -128,7 +128,27 @@
         {
           "id": "bap",
           "nameEn": "Corn"
-        }
+        },
+        "Mustard Greens",
+        "Chinese Cabbage",
+        "Malabar Spinach",
+        "Amaranth Greens",
+        "Sweet Potato Leaves",
+        "Chayote",
+        "Long Beans",
+        "Lotus Root",
+        "Cassava",
+        "Daikon Radish",
+        "Shallots",
+        "Mint",
+        "Fish Mint",
+        "Sawtooth Coriander",
+        "Chives",
+        "Turmeric",
+        "Galangal",
+        "Bird’s Eye Chili",
+        "Kaffir Lime Leaves",
+        "Pandan Leaves"
       ]
     },
     {
@@ -248,7 +268,12 @@
         {
           "id": "dau-tay",
           "nameEn": "Strawberry"
-        }
+        },
+        "Pineapple",
+        "Mangosteen",
+        "Soursop",
+        "Sapodilla",
+        "Rose Apple"
       ]
     },
     {
@@ -328,7 +353,33 @@
         {
           "id": "ngu-coc",
           "nameEn": "Breakfast Cereal"
-        }
+        },
+        "Jasmine Rice",
+        "Fragrant Rice",
+        "ST25 Rice",
+        "Brown Rice",
+        "Broken Rice",
+        "Japonica Rice",
+        "Fresh Pho Noodles",
+        "Dried Pho Noodles",
+        "Egg Noodles",
+        "Wheat Noodles",
+        "Rice Noodles",
+        "Thick Rice Noodles",
+        "Spring Roll Rice Paper",
+        "Sandwich Bread",
+        "Whole Wheat Bread",
+        "Milk Bread",
+        "Croissant",
+        "Sweet Bun",
+        "Cream Bun",
+        "Pork Floss Bun",
+        "Pâté Bread",
+        "Sponge Cake",
+        "Banana Cake",
+        "Mooncake",
+        "Instant Pho",
+        "Instant Congee"
       ]
     },
     {
@@ -416,7 +467,19 @@
         {
           "id": "gan-heo",
           "nameEn": "Pork Liver"
-        }
+        },
+        "Pork Shoulder",
+        "Pork Leg",
+        "Beef Brisket",
+        "Beef Shank",
+        "Beef Tendon",
+        "Chicken Breast",
+        "Chicken Feet",
+        "Goat Meat",
+        "Beef Sausage",
+        "Pork Skin Roll",
+        "Pork Floss",
+        "Chicken Floss"
       ]
     },
     {
@@ -496,7 +559,19 @@
         {
           "id": "ca-com",
           "nameEn": "Anchovy"
-        }
+        },
+        "Freshwater Fish",
+        "Sea Fish",
+        "Tilapia",
+        "Carp",
+        "Gourami",
+        "Catfish",
+        "Eel",
+        "Cuttlefish",
+        "Octopus",
+        "Freshwater Prawn",
+        "Blood Cockles",
+        "Oysters"
       ]
     },
     {
@@ -564,7 +639,11 @@
         {
           "id": "sua-chua-uong",
           "nameEn": "Drinking Yogurt"
-        }
+        },
+        "UHT Milk",
+        "Powdered Milk",
+        "Cream Cheese",
+        "Processed Cheese"
       ]
     },
     {
@@ -624,7 +703,9 @@
         {
           "id": "muc-kho",
           "nameEn": "Dried Squid"
-        }
+        },
+        "Dried Anchovies",
+        "Dried Seaweed"
       ]
     },
     {
@@ -736,7 +817,24 @@
         {
           "id": "dau-huong-duong",
           "nameEn": "Sunflower Oil"
-        }
+        },
+        "Premium Fish Sauce",
+        "Rice Vinegar",
+        "Hoisin Sauce",
+        "Soybean Oil",
+        "White Pepper",
+        "Seasoning Sauce",
+        "Star Anise",
+        "Cinnamon",
+        "Black Peppercorns",
+        "Dried Chili",
+        "Five Spice Powder",
+        "Curry Powder",
+        "Annatto Seeds",
+        "Rock Sugar",
+        "Palm Sugar",
+        "Brown Sugar",
+        "Sesame Seeds"
       ]
     },
     {
@@ -816,7 +914,13 @@
         {
           "id": "bap-rang-bo",
           "nameEn": "Butter Popcorn"
-        }
+        },
+        "Rice Paper Snack",
+        "Wafers",
+        "Candy",
+        "Banana Chips",
+        "Jackfruit Chips",
+        "Dried Fruit"
       ]
     },
     {
@@ -900,7 +1004,19 @@
         {
           "id": "nuoc-yen",
           "nameEn": "Bird's Nest Drink"
-        }
+        },
+        "Instant Coffee",
+        "Ground Coffee",
+        "Sparkling Water",
+        "Cola",
+        "Jasmine Tea",
+        "Lotus Tea",
+        "Iced Tea",
+        "Coffee",
+        "Black Coffee",
+        "Milk Coffee",
+        "Energy Drink",
+        "Beer"
       ]
     },
     {
@@ -968,7 +1084,13 @@
         {
           "id": "banh-bao-dong-lanh",
           "nameEn": "Frozen Steamed Buns"
-        }
+        },
+        "Pork Balls",
+        "Frozen Shrimp",
+        "Frozen Fish",
+        "Frozen Squid",
+        "Frozen French Fries",
+        "Frozen Chicken Nuggets"
       ]
     },
     {
@@ -1022,18 +1144,6 @@
           "nameEn": "Rubber Gloves"
         },
         {
-          "id": "diem-quet",
-          "nameEn": "Matches"
-        },
-        {
-          "id": "nen",
-          "nameEn": "Candles"
-        },
-        {
-          "id": "pin",
-          "nameEn": "Batteries"
-        },
-        {
           "id": "xit-phong",
           "nameEn": "Air Freshener"
         },
@@ -1044,7 +1154,14 @@
         {
           "id": "giay-bac",
           "nameEn": "Aluminum Foil"
-        }
+        },
+        "Glass Cleaner",
+        "All-Purpose Cleaner",
+        "Bleach",
+        "Disinfectant",
+        "Steel Wool",
+        "Mosquito Coil",
+        "Insect Spray"
       ]
     },
     {
@@ -1112,7 +1229,12 @@
         {
           "id": "khan-giay-uot",
           "nameEn": "Wet Wipes"
-        }
+        },
+        "Facial Cleanser",
+        "Dental Floss",
+        "Moisturizer",
+        "Shaving Cream",
+        "Cotton Pads"
       ]
     },
     {
@@ -1164,7 +1286,17 @@
         {
           "id": "yem-em-be",
           "nameEn": "Baby Bib"
-        }
+        },
+        "Newborn Diapers",
+        "Training Pants",
+        "Baby Soap",
+        "Baby Lotion",
+        "Baby Oil",
+        "Diaper Rash Cream",
+        "Baby Food",
+        "Bottle Nipple",
+        "Pacifier",
+        "Baby Cotton Swabs"
       ]
     },
     {
@@ -1188,7 +1320,12 @@
         "Antacid Tablets",
         "Allergy Tablets",
         "First Aid Spray",
-        "Sanitary Pads"
+        "Sanitary Pads",
+        "First Aid Kit",
+        "Gauze",
+        "Medical Tape",
+        "Antiseptic Solution",
+        "Cough Lozenges"
       ]
     },
     {
@@ -1211,7 +1348,13 @@
         "Pet Deworming Tablets",
         "Flea & Tick Spray",
         "Pet Waste Bags",
-        "Pet Bed"
+        "Pet Bed",
+        "Dry Dog Food",
+        "Wet Dog Food",
+        "Dry Cat Food",
+        "Wet Cat Food",
+        "Dog Treats",
+        "Cat Treats"
       ]
     },
     {
@@ -1236,6 +1379,105 @@
         "Highlighter",
         "Envelopes",
         "A4 Paper"
+      ]
+    },
+    {
+      "key": "Vietnamese Ready-to-Cook Foods",
+      "nameEn": "Vietnamese Ready-to-Cook Foods",
+      "emoji": "🍲",
+      "unitType": "PIECES",
+      "items": [
+        "Spring Rolls",
+        "Fresh Spring Roll Kit",
+        "Instant Rice Vermicelli",
+        "Instant Rice Noodles",
+        "Hot Pot Base",
+        "Pho Spice Mix",
+        "Bun Bo Hue Spice Mix"
+      ]
+    },
+    {
+      "key": "Vietnamese Dessert Ingredients",
+      "nameEn": "Vietnamese Dessert Ingredients",
+      "emoji": "🍨",
+      "unitType": "PIECES",
+      "items": [
+        "Tapioca Pearls",
+        "Sago Pearls",
+        "Agar Powder",
+        "Coconut Milk",
+        "Black Sesame",
+        "Shredded Coconut"
+      ]
+    },
+    {
+      "key": "Kitchen & Food Storage",
+      "nameEn": "Kitchen & Food Storage",
+      "emoji": "🍽️",
+      "unitType": "PIECES",
+      "items": [
+        "Food Storage Bags",
+        "Resealable Bags",
+        "Food Containers",
+        "Disposable Plates",
+        "Disposable Cups",
+        "Disposable Chopsticks",
+        "Drinking Straws",
+        "Napkins",
+        "Toothpicks",
+        "Bamboo Skewers",
+        "Baking Paper"
+      ]
+    },
+    {
+      "key": "Home Essentials",
+      "nameEn": "Home Essentials",
+      "emoji": "🏠",
+      "unitType": "PIECES",
+      "items": [
+        {
+          "id": "diem-quet",
+          "nameEn": "Matches"
+        },
+        {
+          "id": "nen",
+          "nameEn": "Candles"
+        },
+        {
+          "id": "pin",
+          "nameEn": "Batteries"
+        },
+        "AA Batteries",
+        "AAA Batteries",
+        "Light Bulb",
+        "LED Bulb",
+        "Flashlight",
+        "Extension Cord",
+        "Power Strip",
+        "Lighter",
+        "Broom",
+        "Mop",
+        "Bucket",
+        "Basin",
+        "Clothes Hangers",
+        "Clothes Pins"
+      ]
+    },
+    {
+      "key": "Vietnamese Seasonal & Celebration Foods",
+      "nameEn": "Vietnamese Seasonal & Celebration Foods",
+      "emoji": "🧧",
+      "unitType": "PIECES",
+      "items": [
+        "Bánh Chưng",
+        "Bánh Tét",
+        "Pickled Onions",
+        "Pickled Vegetables",
+        "Candied Fruits (Tết)",
+        "Watermelon Seeds",
+        "Tea",
+        "Lotus Seed Paste",
+        "Salted Egg Yolks"
       ]
     }
   ]

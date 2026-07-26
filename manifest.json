@@ -152,9 +152,9 @@
       "fileName": "vietnam_catalog_v1.json",
       "dialCode": "+84",
       "currencyCode": "VND",
-      "version": 3,
+      "version": 4,
       "l10n": {
-        "vi": 1
+        "vi": 2
       }
     },
     {
