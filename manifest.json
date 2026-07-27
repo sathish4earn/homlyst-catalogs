@@ -8,18 +8,18 @@
       "fileName": "india_catalog_v1.json",
       "dialCode": "+91",
       "currencyCode": "INR",
-      "version": 3,
+      "version": 4,
       "l10n": {
-        "hi": 3,
-        "ta": 3,
-        "te": 3,
-        "kn": 3,
-        "mr": 3,
-        "bn": 3,
-        "ml": 2,
-        "gu": 2,
-        "or": 2,
-        "pa": 2
+        "hi": 4,
+        "ta": 4,
+        "te": 4,
+        "kn": 4,
+        "mr": 4,
+        "bn": 4,
+        "ml": 3,
+        "gu": 3,
+        "or": 3,
+        "pa": 3
       }
     },
     {
