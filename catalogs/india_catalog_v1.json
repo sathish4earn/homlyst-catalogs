@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "countryCode": "IN",
   "countryDisplayName": "India",
   "categories": [
@@ -596,36 +596,6 @@
         "Baby Toothbrush",
         "Baby Moisturizer",
         "Training Pants"
-      ]
-    },
-    {
-      "key": "Puja Items",
-      "nameEn": "Puja Items",
-      "nameResKey": "cat_puja_items",
-      "emoji": "🪔",
-      "unitType": "PIECES",
-      "items": [
-        "Agarbathi",
-        "Camphor",
-        "Cotton Wicks",
-        "Sesame Oil",
-        "Ghee",
-        "Flowers",
-        "Turmeric",
-        "Kumkum",
-        "Coconut",
-        "Betel Leaves",
-        "Betel Nuts",
-        "Incense Cones",
-        "Dhoop",
-        "Sambrani",
-        "Sandalwood Powder",
-        "Vibhuti",
-        "Sacred Thread",
-        "Diya",
-        "Diya Oil",
-        "Rose Water",
-        "Gangajal"
       ]
     },
     {
