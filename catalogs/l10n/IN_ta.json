@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 6,
   "countryCode": "IN",
   "language": "ta",
   "categories": {
@@ -277,7 +277,7 @@
     "baby-corn": "பேபி கார்ன்",
     "sweet-corn": "இனிப்பு சோளம்",
     "english-cucumber": "இங்கிலீஷ் வெள்ளரி",
-    "pointed-gourd-parwal": "கோவைக்காய்",
+    "pointed-gourd-parwal": "பர்வல்",
     "fenugreek-leaves": "வெந்தய கீரை",
     "gongura-leaves": "கொங்குரா கீரை",
     "sambar-onion": "சாம்பார் வெங்காயம்",
