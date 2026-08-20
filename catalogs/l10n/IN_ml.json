@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 5,
   "countryCode": "IN",
   "language": "ml",
   "categories": {
@@ -50,7 +50,7 @@
     "coriander-leaves": "മല്ലിയില",
     "mint-leaves": "പുതിന ഇല",
     "curry-leaves": "കറിവേപ്പില",
-    "spinach": "ചീര",
+    "spinach": "സ്പിനാച്ച്",
     "capsicum": "ക്യാപ്സിക്കം",
     "spring-onion": "സ്പ്രിംഗ് ഉള്ളി",
     "raw-banana": "നേന്ത്രക്കായ",
