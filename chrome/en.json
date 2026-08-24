@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "Health & Pharmacy",
     "cat_pet_supplies": "Pet Supplies",
     "cat_stationery_school": "Stationery & School",
-    "cat_flowers": "Flowers"
+    "cat_flowers": "Flowers",
+    "voice_list_category_name": "Voice List",
+    "voice_quick_add_title": "What do you need?",
+    "voice_quick_add_subtitle": "Say everything at once, e.g. \"apple, tomato, lays chips, maggi noodles\"",
+    "voice_quick_add_type_hint": "Or type item(s)",
+    "voice_quick_add_tap_unit_hint": "Tap the unit if it's wrong",
+    "voice_quick_add_confirm_button": "Add %1$d to Cart",
+    "voice_quick_add_capacity_message": "You can review up to 20 items at a time — add these to your cart, then come back for more.",
+    "voice_unavailable": "Voice input isn't available on this device",
+    "delete_category_title": "Delete \"%1$s\"?",
+    "delete_category_message": "This deletes the category and all its items. This can't be undone.",
+    "delete": "Delete",
+    "remove_category_title": "Remove \"%1$s\"?",
+    "remove_category_message": "This hides it from your home screen. You can bring it back anytime from My Categories."
   }
 }

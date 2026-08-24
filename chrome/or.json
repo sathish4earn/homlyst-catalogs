@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "ସ୍ୱାସ୍ଥ୍ୟ ଓ ଫାର୍ମାସୀ",
     "cat_pet_supplies": "ପୋଷା ପ୍ରାଣୀ ସାମଗ୍ରୀ",
     "cat_stationery_school": "ଷ୍ଟେସନେରୀ ଓ ସ୍କୁଲ",
-    "cat_flowers": "ଫୁଲ"
+    "cat_flowers": "ଫୁଲ",
+    "voice_list_category_name": "ଭଏସ୍ ତାଲିକା",
+    "voice_quick_add_title": "ଆପଣଙ୍କୁ କଣ ଦରକାର?",
+    "voice_quick_add_subtitle": "ସବୁକିଛି ଏକାସାଙ୍ଗରେ କୁହନ୍ତୁ, ଯଥା \"ଆପେଲ, ଟମାଟୋ, ଲେସ୍ ଚିପ୍ସ, ମ୍ୟାଗି ନୁଡୁଲ୍ସ\"",
+    "voice_quick_add_type_hint": "କିମ୍ବା ଆଇଟମ ଟାଇପ୍ କରନ୍ତୁ",
+    "voice_quick_add_tap_unit_hint": "ୟୁନିଟ୍ ଭୁଲ୍ ହେଲେ ଟାପ୍ କରନ୍ତୁ",
+    "voice_quick_add_confirm_button": "%1$d କାର୍ଟକୁ ଯୋଡନ୍ତୁ",
+    "voice_quick_add_capacity_message": "ଆପଣ ଏକ ସମୟରେ ସର୍ବାଧିକ 20ଟି ଆଇଟମ୍ ଦେଖିପାରିବେ — ଏଗୁଡ଼ିକୁ କାର୍ଟକୁ ଯୋଡନ୍ତୁ, ତାପରେ ଆଉ ଯୋଡିବାକୁ ଫେରି ଆସନ୍ତୁ।",
+    "voice_unavailable": "ଏହି ଡିଭାଇସରେ ଭଏସ୍ ଇନପୁଟ୍ ଉପଲବ୍ଧ ନାହିଁ",
+    "delete_category_title": "\"%1$s\" ଡିଲିଟ୍ କରିବେ କି?",
+    "delete_category_message": "ଏହା ଏହି ବର୍ଗ ଏବଂ ଏହାର ସମସ୍ତ ଆଇଟମକୁ ଡିଲିଟ୍ କରିଦେବ। ଏହାକୁ ପୂର୍ବବତ୍ କରାଯାଇପାରିବ ନାହିଁ।",
+    "delete": "ଡିଲିଟ୍ କରନ୍ତୁ",
+    "remove_category_title": "\"%1$s\" କାଢ଼ିବେ କି?",
+    "remove_category_message": "ଏହା ଏହାକୁ ଆପଣଙ୍କ ହୋମ୍ ସ୍କ୍ରିନ୍‌ରୁ ଲୁଚାଇଦେବ। ଆପଣ ଏହାକୁ ଯେକୌଣସି ସମୟରେ 'ମୋ ବର୍ଗଗୁଡ଼ିକ' ରୁ ପୁଣି ଆଣିପାରିବେ।"
   }
 }

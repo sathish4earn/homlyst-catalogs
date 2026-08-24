@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "Sức Khỏe & Dược Phẩm",
     "cat_pet_supplies": "Đồ Dùng Cho Thú Cưng",
     "cat_stationery_school": "Văn Phòng Phẩm & Học Tập",
-    "cat_flowers": "Hoa"
+    "cat_flowers": "Hoa",
+    "voice_list_category_name": "Danh Sách Giọng Nói",
+    "voice_quick_add_title": "Bạn cần gì?",
+    "voice_quick_add_subtitle": "Nói tất cả cùng lúc, ví dụ \"táo, cà chua, khoai tây chiên, mì gói\"",
+    "voice_quick_add_type_hint": "Hoặc nhập mặt hàng",
+    "voice_quick_add_tap_unit_hint": "Chạm vào đơn vị nếu sai",
+    "voice_quick_add_confirm_button": "Thêm %1$d vào Giỏ",
+    "voice_quick_add_capacity_message": "Bạn chỉ có thể xem tối đa 20 mặt hàng cùng lúc — thêm những mặt hàng này vào giỏ rồi quay lại để thêm nữa.",
+    "voice_unavailable": "Thiết bị này không hỗ trợ nhập bằng giọng nói",
+    "delete_category_title": "Xóa \"%1$s\"?",
+    "delete_category_message": "Thao tác này sẽ xóa danh mục và tất cả mặt hàng trong đó. Không thể hoàn tác.",
+    "delete": "Xóa",
+    "remove_category_title": "Gỡ \"%1$s\"?",
+    "remove_category_message": "Thao tác này sẽ ẩn nó khỏi màn hình chính của bạn. Bạn có thể khôi phục bất cứ lúc nào từ Danh Mục Của Tôi."
   }
 }

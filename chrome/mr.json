@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -113,6 +113,19 @@
     "cat_pet_supplies": "पाळीव प्राण्यांचे साहित्य",
     "cat_stationery_school": "स्टेशनरी आणि शाळा",
     "cat_flowers": "फुले",
-    "items_added_to_cart": "वस्तू कार्टमध्ये जोडल्या गेल्या!"
+    "items_added_to_cart": "वस्तू कार्टमध्ये जोडल्या गेल्या!",
+    "voice_list_category_name": "व्हॉइस यादी",
+    "voice_quick_add_title": "तुम्हाला काय हवे आहे?",
+    "voice_quick_add_subtitle": "सर्व एकाच वेळी सांगा, उदा. \"सफरचंद, टोमॅटो, लेज चिप्स, मॅगी नूडल्स\"",
+    "voice_quick_add_type_hint": "किंवा वस्तू टाइप करा",
+    "voice_quick_add_tap_unit_hint": "युनिट चुकीचे असल्यास टॅप करा",
+    "voice_quick_add_confirm_button": "%1$d कार्टमध्ये जोडा",
+    "voice_quick_add_capacity_message": "तुम्ही एका वेळी जास्तीत जास्त 20 वस्तू पाहू शकता — या कार्टमध्ये जोडा, नंतर आणखी जोडण्यासाठी परत या.",
+    "voice_unavailable": "या डिव्हाइसवर व्हॉइस इनपुट उपलब्ध नाही",
+    "delete_category_title": "\"%1$s\" हटवायचे?",
+    "delete_category_message": "यामुळे ही श्रेणी आणि तिच्यातील सर्व वस्तू हटवल्या जातील. हे पूर्ववत करता येणार नाही.",
+    "delete": "हटवा",
+    "remove_category_title": "\"%1$s\" काढायचे?",
+    "remove_category_message": "हे तुमच्या होम स्क्रीनवरून लपवले जाईल. तुम्ही ते 'माझ्या श्रेणी' मधून केव्हाही परत आणू शकता."
   }
 }

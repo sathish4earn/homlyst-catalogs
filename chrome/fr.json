@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "Santé et Pharmacie",
     "cat_pet_supplies": "Fournitures pour Animaux",
     "cat_stationery_school": "Papeterie et École",
-    "cat_flowers": "Fleurs"
+    "cat_flowers": "Fleurs",
+    "voice_list_category_name": "Liste Vocale",
+    "voice_quick_add_title": "De quoi avez-vous besoin ?",
+    "voice_quick_add_subtitle": "Dites tout en une fois, ex. \"pomme, tomate, chips, pain\"",
+    "voice_quick_add_type_hint": "Ou saisissez des articles",
+    "voice_quick_add_tap_unit_hint": "Touchez l'unité si elle est incorrecte",
+    "voice_quick_add_confirm_button": "Ajouter %1$d au Panier",
+    "voice_quick_add_capacity_message": "Vous pouvez examiner jusqu'à 20 articles à la fois — ajoutez-les au panier, puis revenez pour en ajouter d'autres.",
+    "voice_unavailable": "La saisie vocale n'est pas disponible sur cet appareil",
+    "delete_category_title": "Supprimer « %1$s » ?",
+    "delete_category_message": "Cela supprime la catégorie et tous ses articles. Cette action est irréversible.",
+    "delete": "Supprimer",
+    "remove_category_title": "Retirer « %1$s » ?",
+    "remove_category_message": "Cela le masque de votre écran d'accueil. Vous pouvez le récupérer à tout moment depuis Mes Catégories."
   }
 }

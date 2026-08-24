@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -113,6 +113,19 @@
     "cat_pet_supplies": "পোষা প্রাণীর সামগ্রী",
     "cat_stationery_school": "স্টেশনারি ও স্কুল",
     "cat_flowers": "ফুল",
-    "items_added_to_cart": "আইটেমগুলি কার্টে যোগ করা হয়েছে!"
+    "items_added_to_cart": "আইটেমগুলি কার্টে যোগ করা হয়েছে!",
+    "voice_list_category_name": "ভয়েস তালিকা",
+    "voice_quick_add_title": "আপনার কী দরকার?",
+    "voice_quick_add_subtitle": "সব একসাথে বলুন, যেমন \"আপেল, টমেটো, লেজ চিপস, ম্যাগি নুডলস\"",
+    "voice_quick_add_type_hint": "অথবা আইটেম টাইপ করুন",
+    "voice_quick_add_tap_unit_hint": "ইউনিট ভুল হলে ট্যাপ করুন",
+    "voice_quick_add_confirm_button": "%1$d কার্টে যোগ করুন",
+    "voice_quick_add_capacity_message": "আপনি একবারে সর্বোচ্চ ২০টি আইটেম দেখতে পারবেন — এগুলো কার্টে যোগ করুন, তারপর আরও যোগ করতে ফিরে আসুন।",
+    "voice_unavailable": "এই ডিভাইসে ভয়েস ইনপুট উপলব্ধ নেই",
+    "delete_category_title": "\"%1$s\" মুছবেন?",
+    "delete_category_message": "এটি এই বিভাগ এবং এর সমস্ত আইটেম মুছে ফেলবে। এটি ফিরিয়ে আনা যাবে না।",
+    "delete": "মুছুন",
+    "remove_category_title": "\"%1$s\" সরাবেন?",
+    "remove_category_message": "এটি আপনার হোম স্ক্রিন থেকে এটি লুকিয়ে দেবে। আপনি এটি 'আমার বিভাগ' থেকে যেকোনো সময় ফিরিয়ে আনতে পারেন।"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "આરોગ્ય અને ફાર્મસી",
     "cat_pet_supplies": "પેટ સપ્લાય",
     "cat_stationery_school": "સ્ટેશનરી અને શાળા",
-    "cat_flowers": "ફૂલો"
+    "cat_flowers": "ફૂલો",
+    "voice_list_category_name": "વૉઇસ યાદી",
+    "voice_quick_add_title": "તમારે શું જોઈએ છે?",
+    "voice_quick_add_subtitle": "બધું એકસાથે બોલો, દા.ત. \"સફરજન, ટામેટા, લેઝ ચિપ્સ, મેગી નૂડલ્સ\"",
+    "voice_quick_add_type_hint": "અથવા વસ્તુઓ ટાઇપ કરો",
+    "voice_quick_add_tap_unit_hint": "એકમ ખોટું હોય તો ટેપ કરો",
+    "voice_quick_add_confirm_button": "%1$d કાર્ટમાં ઉમેરો",
+    "voice_quick_add_capacity_message": "તમે એક સમયે વધુમાં વધુ 20 વસ્તુઓ જોઈ શકો છો — આને કાર્ટમાં ઉમેરો, પછી વધુ ઉમેરવા પાછા આવો.",
+    "voice_unavailable": "આ ડિવાઇસ પર વૉઇસ ઇનપુટ ઉપલબ્ધ નથી",
+    "delete_category_title": "\"%1$s\" કાઢી નાખવું છે?",
+    "delete_category_message": "આ શ્રેણી અને તેની બધી વસ્તુઓ કાઢી નાખશે. આ પાછું લઈ શકાશે નહીં.",
+    "delete": "કાઢી નાખો",
+    "remove_category_title": "\"%1$s\" દૂર કરવું છે?",
+    "remove_category_message": "આ તેને તમારી હોમ સ્ક્રીનથી છુપાવશે. તમે તેને કોઈપણ સમયે 'મારી શ્રેણીઓ' માંથી પાછું લાવી શકો છો."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "ആരോഗ്യവും ഫാർമസിയും",
     "cat_pet_supplies": "വളർത്തുമൃഗ സാധനങ്ങൾ",
     "cat_stationery_school": "സ്റ്റേഷനറിയും സ്കൂളും",
-    "cat_flowers": "പൂക്കൾ"
+    "cat_flowers": "പൂക്കൾ",
+    "voice_list_category_name": "വോയ്സ് ലിസ്റ്റ്",
+    "voice_quick_add_title": "നിങ്ങൾക്ക് എന്താണ് വേണ്ടത്?",
+    "voice_quick_add_subtitle": "എല്ലാം ഒരുമിച്ച് പറയുക, ഉദാ. \"ആപ്പിൾ, തക്കാളി, ലേസ് ചിപ്സ്, മാഗി നൂഡിൽസ്\"",
+    "voice_quick_add_type_hint": "അല്ലെങ്കിൽ ഇനങ്ങൾ ടൈപ്പ് ചെയ്യുക",
+    "voice_quick_add_tap_unit_hint": "യൂണിറ്റ് തെറ്റാണെങ്കിൽ ടാപ്പ് ചെയ്യുക",
+    "voice_quick_add_confirm_button": "%1$d എണ്ണം കാർട്ടിലേക്ക് ചേർക്കുക",
+    "voice_quick_add_capacity_message": "നിങ്ങൾക്ക് ഒരു തവണ പരമാവധി 20 ഇനങ്ങൾ പരിശോധിക്കാം — ഇവ കാർട്ടിലേക്ക് ചേർത്ത ശേഷം, കൂടുതൽ ചേർക്കാൻ തിരികെ വരിക.",
+    "voice_unavailable": "ഈ ഉപകരണത്തിൽ വോയ്സ് ഇൻപുട്ട് ലഭ്യമല്ല",
+    "delete_category_title": "\"%1$s\" ഇല്ലാതാക്കണോ?",
+    "delete_category_message": "ഇത് ഈ വിഭാഗവും അതിലെ എല്ലാ ഇനങ്ങളും ഇല്ലാതാക്കും. ഇത് പഴയപടിയാക്കാൻ കഴിയില്ല.",
+    "delete": "ഇല്ലാതാക്കുക",
+    "remove_category_title": "\"%1$s\" നീക്കം ചെയ്യണോ?",
+    "remove_category_message": "ഇത് നിങ്ങളുടെ ഹോം സ്ക്രീനിൽ നിന്ന് ഇത് മറയ്ക്കും. നിങ്ങൾക്ക് 'എന്റെ വിഭാഗങ്ങൾ' എന്നതിൽ നിന്ന് എപ്പോൾ വേണമെങ്കിലും ഇത് തിരികെ കൊണ്ടുവരാം."
   }
 }

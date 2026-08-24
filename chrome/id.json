@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "Kesehatan & Apotek",
     "cat_pet_supplies": "Perlengkapan Hewan Peliharaan",
     "cat_stationery_school": "Alat Tulis & Sekolah",
-    "cat_flowers": "Bunga"
+    "cat_flowers": "Bunga",
+    "voice_list_category_name": "Daftar Suara",
+    "voice_quick_add_title": "Apa yang Anda butuhkan?",
+    "voice_quick_add_subtitle": "Ucapkan semuanya sekaligus, mis. \"apel, tomat, keripik, mi instan\"",
+    "voice_quick_add_type_hint": "Atau ketik item",
+    "voice_quick_add_tap_unit_hint": "Ketuk satuan jika salah",
+    "voice_quick_add_confirm_button": "Tambah %1$d ke Keranjang",
+    "voice_quick_add_capacity_message": "Anda dapat meninjau hingga 20 item sekaligus — tambahkan ini ke keranjang, lalu kembali untuk menambah lagi.",
+    "voice_unavailable": "Input suara tidak tersedia di perangkat ini",
+    "delete_category_title": "Hapus \"%1$s\"?",
+    "delete_category_message": "Ini akan menghapus kategori dan semua itemnya. Tindakan ini tidak dapat dibatalkan.",
+    "delete": "Hapus",
+    "remove_category_title": "Sembunyikan \"%1$s\"?",
+    "remove_category_message": "Ini akan menyembunyikannya dari layar utama Anda. Anda dapat mengembalikannya kapan saja dari Kategori Saya."
   }
 }

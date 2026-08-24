@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "ਸਿਹਤ ਅਤੇ ਫਾਰਮੇਸੀ",
     "cat_pet_supplies": "ਪਾਲਤੂ ਜਾਨਵਰਾਂ ਦਾ ਸਮਾਨ",
     "cat_stationery_school": "ਸਟੇਸ਼ਨਰੀ ਅਤੇ ਸਕੂਲ",
-    "cat_flowers": "ਫੁੱਲ"
+    "cat_flowers": "ਫੁੱਲ",
+    "voice_list_category_name": "ਵੌਇਸ ਸੂਚੀ",
+    "voice_quick_add_title": "ਤੁਹਾਨੂੰ ਕੀ ਚਾਹੀਦਾ ਹੈ?",
+    "voice_quick_add_subtitle": "ਸਭ ਕੁਝ ਇਕੱਠੇ ਬੋਲੋ, ਜਿਵੇਂ \"ਸੇਬ, ਟਮਾਟਰ, ਲੇਜ਼ ਚਿਪਸ, ਮੈਗੀ ਨੂਡਲਸ\"",
+    "voice_quick_add_type_hint": "ਜਾਂ ਵਸਤੂਆਂ ਟਾਈਪ ਕਰੋ",
+    "voice_quick_add_tap_unit_hint": "ਜੇ ਯੂਨਿਟ ਗਲਤ ਹੈ ਤਾਂ ਟੈਪ ਕਰੋ",
+    "voice_quick_add_confirm_button": "%1$d ਕਾਰਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ",
+    "voice_quick_add_capacity_message": "ਤੁਸੀਂ ਇੱਕ ਵਾਰ ਵਿੱਚ ਵੱਧ ਤੋਂ ਵੱਧ 20 ਵਸਤੂਆਂ ਦੇਖ ਸਕਦੇ ਹੋ — ਇਹਨਾਂ ਨੂੰ ਕਾਰਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ, ਫਿਰ ਹੋਰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਵਾਪਸ ਆਓ।",
+    "voice_unavailable": "ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਵੌਇਸ ਇਨਪੁੱਟ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
+    "delete_category_title": "ਕੀ \"%1$s\" ਮਿਟਾਉਣਾ ਹੈ?",
+    "delete_category_message": "ਇਹ ਇਸ ਸ਼੍ਰੇਣੀ ਅਤੇ ਇਸਦੀਆਂ ਸਾਰੀਆਂ ਵਸਤੂਆਂ ਨੂੰ ਮਿਟਾ ਦੇਵੇਗਾ। ਇਸਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ।",
+    "delete": "ਮਿਟਾਓ",
+    "remove_category_title": "ਕੀ \"%1$s\" ਹਟਾਉਣਾ ਹੈ?",
+    "remove_category_message": "ਇਹ ਇਸਨੂੰ ਤੁਹਾਡੀ ਹੋਮ ਸਕ੍ਰੀਨ ਤੋਂ ਲੁਕਾ ਦੇਵੇਗਾ। ਤੁਸੀਂ ਇਸਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ 'ਮੇਰੀਆਂ ਸ਼੍ਰੇਣੀਆਂ' ਤੋਂ ਵਾਪਸ ਲਿਆ ਸਕਦੇ ਹੋ।"
   }
 }

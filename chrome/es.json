@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "Salud y Farmacia",
     "cat_pet_supplies": "Productos para Mascotas",
     "cat_stationery_school": "Papelería y Escuela",
-    "cat_flowers": "Flores"
+    "cat_flowers": "Flores",
+    "voice_list_category_name": "Lista de Voz",
+    "voice_quick_add_title": "¿Qué necesitas?",
+    "voice_quick_add_subtitle": "Di todo de una vez, p. ej. \"manzana, tomate, papas fritas, pan\"",
+    "voice_quick_add_type_hint": "O escribe artículo(s)",
+    "voice_quick_add_tap_unit_hint": "Toca la unidad si está mal",
+    "voice_quick_add_confirm_button": "Agregar %1$d al Carrito",
+    "voice_quick_add_capacity_message": "Puedes revisar hasta 20 artículos a la vez — agrégalos al carrito y vuelve para agregar más.",
+    "voice_unavailable": "La entrada de voz no está disponible en este dispositivo",
+    "delete_category_title": "¿Eliminar \"%1$s\"?",
+    "delete_category_message": "Esto elimina la categoría y todos sus artículos. Esta acción no se puede deshacer.",
+    "delete": "Eliminar",
+    "remove_category_title": "¿Quitar \"%1$s\"?",
+    "remove_category_message": "Esto lo oculta de tu pantalla de inicio. Puedes recuperarlo en cualquier momento desde Mis Categorías."
   }
 }

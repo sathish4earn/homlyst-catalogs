@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -113,6 +113,19 @@
     "cat_pet_supplies": "ಸಾಕುಪ್ರಾಣಿ ಸಾಮಗ್ರಿ",
     "cat_stationery_school": "ಸ್ಟೇಷನರಿ ಮತ್ತು ಶಾಲಾ",
     "cat_flowers": "ಹೂಗಳು",
-    "items_added_to_cart": "ವಸ್ತುಗಳನ್ನು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ!"
+    "items_added_to_cart": "ವಸ್ತುಗಳನ್ನು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ!",
+    "voice_list_category_name": "ಧ್ವನಿ ಪಟ್ಟಿ",
+    "voice_quick_add_title": "ನಿಮಗೆ ಏನು ಬೇಕು?",
+    "voice_quick_add_subtitle": "ಎಲ್ಲವನ್ನೂ ಒಟ್ಟಿಗೆ ಹೇಳಿ, ಉದಾ. \"ಸೇಬು, ಟೊಮ್ಯಾಟೊ, ಲೇಸ್ ಚಿಪ್ಸ್, ಮ್ಯಾಗಿ ನೂಡಲ್ಸ್\"",
+    "voice_quick_add_type_hint": "ಅಥವಾ ವಸ್ತುಗಳನ್ನು ಟೈಪ್ ಮಾಡಿ",
+    "voice_quick_add_tap_unit_hint": "ಘಟಕ ತಪ್ಪಾಗಿದ್ದರೆ ಟ್ಯಾಪ್ ಮಾಡಿ",
+    "voice_quick_add_confirm_button": "%1$d ಅನ್ನು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಿ",
+    "voice_quick_add_capacity_message": "ನೀವು ಒಂದೇ ಬಾರಿಗೆ ಗರಿಷ್ಠ 20 ವಸ್ತುಗಳನ್ನು ಮಾತ್ರ ಪರಿಶೀಲಿಸಬಹುದು — ಇವುಗಳನ್ನು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಿ, ನಂತರ ಇನ್ನಷ್ಟು ಸೇರಿಸಲು ಹಿಂತಿರುಗಿ.",
+    "voice_unavailable": "ಈ ಸಾಧನದಲ್ಲಿ ಧ್ವನಿ ಇನ್‌ಪುಟ್ ಲಭ್ಯವಿಲ್ಲ",
+    "delete_category_title": "\"%1$s\" ಅನ್ನು ಅಳಿಸುವುದೇ?",
+    "delete_category_message": "ಇದು ಈ ವರ್ಗ ಮತ್ತು ಅದರ ಎಲ್ಲಾ ವಸ್ತುಗಳನ್ನು ಅಳಿಸುತ್ತದೆ. ಇದನ್ನು ಹಿಂಪಡೆಯಲಾಗುವುದಿಲ್ಲ.",
+    "delete": "ಅಳಿಸಿ",
+    "remove_category_title": "\"%1$s\" ಅನ್ನು ತೆಗೆದುಹಾಕುವುದೇ?",
+    "remove_category_message": "ಇದು ಇದನ್ನು ನಿಮ್ಮ ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ನಿಂದ ಮರೆಮಾಡುತ್ತದೆ. ನೀವು ಇದನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ 'ನನ್ನ ವರ್ಗಗಳು' ನಿಂದ ಹಿಂತಿರುಗಿಸಬಹುದು."
   }
 }
