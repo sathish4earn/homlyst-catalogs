@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "健康与药品",
     "cat_pet_supplies": "宠物用品",
     "cat_stationery_school": "文具与学习用品",
-    "cat_flowers": "鲜花"
+    "cat_flowers": "鲜花",
+    "voice_list_category_name": "语音清单",
+    "voice_quick_add_title": "您需要什么？",
+    "voice_quick_add_subtitle": "一次说完所有内容，例如“苹果、西红柿、薯片、方便面”",
+    "voice_quick_add_type_hint": "或输入商品",
+    "voice_quick_add_tap_unit_hint": "如果单位不对，请点击",
+    "voice_quick_add_confirm_button": "将%1$d件加入购物车",
+    "voice_quick_add_capacity_message": "您一次最多可查看20件商品 — 请先将这些加入购物车，然后再返回添加更多。",
+    "voice_unavailable": "此设备不支持语音输入",
+    "delete_category_title": "删除“%1$s”？",
+    "delete_category_message": "此操作将删除该分类及其所有商品，且无法撤销。",
+    "delete": "删除",
+    "remove_category_title": "移除“%1$s”？",
+    "remove_category_message": "这会将其从主屏幕隐藏。您可以随时从“我的分类”中恢复。"
   }
 }

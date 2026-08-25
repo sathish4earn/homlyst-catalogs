@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -113,6 +113,19 @@
     "cat_health_pharmacy": "สุขภาพและร้านขายยา",
     "cat_pet_supplies": "อุปกรณ์สัตว์เลี้ยง",
     "cat_stationery_school": "เครื่องเขียนและอุปกรณ์การเรียน",
-    "cat_flowers": "ดอกไม้"
+    "cat_flowers": "ดอกไม้",
+    "voice_list_category_name": "รายการเสียง",
+    "voice_quick_add_title": "คุณต้องการอะไร?",
+    "voice_quick_add_subtitle": "พูดทุกอย่างในครั้งเดียว เช่น \"แอปเปิ้ล มะเขือเทศ มันฝรั่งทอด บะหมี่กึ่งสำเร็จรูป\"",
+    "voice_quick_add_type_hint": "หรือพิมพ์รายการ",
+    "voice_quick_add_tap_unit_hint": "แตะหน่วยหากไม่ถูกต้อง",
+    "voice_quick_add_confirm_button": "เพิ่ม %1$d รายการลงตะกร้า",
+    "voice_quick_add_capacity_message": "คุณตรวจสอบได้สูงสุด 20 รายการต่อครั้ง — เพิ่มรายการเหล่านี้ลงตะกร้า แล้วกลับมาเพิ่มอีกครั้ง",
+    "voice_unavailable": "อุปกรณ์นี้ไม่รองรับการป้อนข้อมูลด้วยเสียง",
+    "delete_category_title": "ลบ \"%1$s\" หรือไม่?",
+    "delete_category_message": "การดำเนินการนี้จะลบหมวดหมู่และสินค้าทั้งหมดในนั้น และไม่สามารถย้อนกลับได้",
+    "delete": "ลบ",
+    "remove_category_title": "เอา \"%1$s\" ออกหรือไม่?",
+    "remove_category_message": "การดำเนินการนี้จะซ่อนไว้จากหน้าจอหลักของคุณ คุณสามารถนำกลับมาได้ทุกเมื่อจาก 'หมวดหมู่ของฉัน'"
   }
 }

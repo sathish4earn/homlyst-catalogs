@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -113,6 +113,19 @@
     "cat_pet_supplies": "పెంపుడు జంతువుల సామాగ్రి",
     "cat_stationery_school": "స్టేషనరీ & స్కూల్",
     "cat_flowers": "పువ్వులు",
-    "items_added_to_cart": "వస్తువులు కార్ట్‌కు జోడించబడ్డాయి!"
+    "items_added_to_cart": "వస్తువులు కార్ట్‌కు జోడించబడ్డాయి!",
+    "voice_list_category_name": "వాయిస్ జాబితా",
+    "voice_quick_add_title": "మీకు ఏమి కావాలి?",
+    "voice_quick_add_subtitle": "అన్నీ ఒకేసారి చెప్పండి, ఉదా. \"ఆపిల్, టమాటో, లేస్ చిప్స్, మ్యాగీ నూడుల్స్\"",
+    "voice_quick_add_type_hint": "లేదా వస్తువులను టైప్ చేయండి",
+    "voice_quick_add_tap_unit_hint": "యూనిట్ తప్పుగా ఉంటే నొక్కండి",
+    "voice_quick_add_confirm_button": "%1$d ను కార్ట్‌కు జోడించు",
+    "voice_quick_add_capacity_message": "మీరు ఒకేసారి గరిష్టంగా 20 వస్తువులను మాత్రమే చూడగలరు — వీటిని కార్ట్‌కు జోడించి, మరిన్ని జోడించడానికి తిరిగి రండి.",
+    "voice_unavailable": "ఈ పరికరంలో వాయిస్ ఇన్‌పుట్ అందుబాటులో లేదు",
+    "delete_category_title": "\"%1$s\" ను తొలగించాలా?",
+    "delete_category_message": "ఇది ఈ వర్గాన్ని మరియు దాని అన్ని వస్తువులను తొలగిస్తుంది. దీన్ని రద్దు చేయలేరు.",
+    "delete": "తొలగించు",
+    "remove_category_title": "\"%1$s\" ను తీసివేయాలా?",
+    "remove_category_message": "ఇది మీ హోమ్ స్క్రీన్ నుండి దీన్ని దాచేస్తుంది. మీరు దీన్ని ఎప్పుడైనా 'నా వర్గాలు' నుండి తిరిగి తీసుకురావచ్చు."
   }
 }
