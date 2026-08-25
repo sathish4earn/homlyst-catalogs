@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -116,7 +116,7 @@
     "cat_flowers": "Bunga",
     "voice_list_category_name": "Daftar Suara",
     "voice_quick_add_title": "Apa yang Anda butuhkan?",
-    "voice_quick_add_subtitle": "Ucapkan semuanya sekaligus, mis. \"apel, tomat, keripik, mi instan\"",
+    "voice_quick_add_subtitle": "Ucapkan satu item setiap kali, mis. \"apel\" — ketuk mikrofon lagi untuk item berikutnya",
     "voice_quick_add_type_hint": "Atau ketik item",
     "voice_quick_add_tap_unit_hint": "Ketuk satuan jika salah",
     "voice_quick_add_confirm_button": "Tambah %1$d ke Keranjang",

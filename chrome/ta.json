@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -116,7 +116,7 @@
     "items_added_to_cart": "பொருட்கள் கார்ட்டில் சேர்க்கப்பட்டன!",
     "voice_list_category_name": "குரல் பட்டியல்",
     "voice_quick_add_title": "உங்களுக்கு என்ன வேண்டும்?",
-    "voice_quick_add_subtitle": "எல்லாவற்றையும் ஒரே முறையில் சொல்லுங்கள், எ.கா. \"ஆப்பிள், தக்காளி, லேஸ் சிப்ஸ், மேகி நூடுல்ஸ்\"",
+    "voice_quick_add_subtitle": "ஒரு நேரத்தில் ஒரு பொருளை மட்டும் சொல்லுங்கள், எ.கா. \"ஆப்பிள்\" — அடுத்ததற்கு மீண்டும் மைக்கைத் தட்டவும்",
     "voice_quick_add_type_hint": "அல்லது பொருட்களை தட்டச்சு செய்யவும்",
     "voice_quick_add_tap_unit_hint": "அலகு தவறாக இருந்தால் தட்டவும்",
     "voice_quick_add_confirm_button": "%1$d ஐ கூடையில் சேர்",

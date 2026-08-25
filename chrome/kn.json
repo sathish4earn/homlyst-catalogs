@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -116,7 +116,7 @@
     "items_added_to_cart": "ವಸ್ತುಗಳನ್ನು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಲಾಗಿದೆ!",
     "voice_list_category_name": "ಧ್ವನಿ ಪಟ್ಟಿ",
     "voice_quick_add_title": "ನಿಮಗೆ ಏನು ಬೇಕು?",
-    "voice_quick_add_subtitle": "ಎಲ್ಲವನ್ನೂ ಒಟ್ಟಿಗೆ ಹೇಳಿ, ಉದಾ. \"ಸೇಬು, ಟೊಮ್ಯಾಟೊ, ಲೇಸ್ ಚಿಪ್ಸ್, ಮ್ಯಾಗಿ ನೂಡಲ್ಸ್\"",
+    "voice_quick_add_subtitle": "ಒಂದು ಬಾರಿಗೆ ಒಂದು ವಸ್ತುವನ್ನು ಮಾತ್ರ ಹೇಳಿ, ಉದಾ. \"ಸೇಬು\" — ಮುಂದಿನದಕ್ಕೆ ಮತ್ತೆ ಮೈಕ್ ಟ್ಯಾಪ್ ಮಾಡಿ",
     "voice_quick_add_type_hint": "ಅಥವಾ ವಸ್ತುಗಳನ್ನು ಟೈಪ್ ಮಾಡಿ",
     "voice_quick_add_tap_unit_hint": "ಘಟಕ ತಪ್ಪಾಗಿದ್ದರೆ ಟ್ಯಾಪ್ ಮಾಡಿ",
     "voice_quick_add_confirm_button": "%1$d ಅನ್ನು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿಸಿ",

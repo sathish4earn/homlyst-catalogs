@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -116,7 +116,7 @@
     "cat_flowers": "鲜花",
     "voice_list_category_name": "语音清单",
     "voice_quick_add_title": "您需要什么？",
-    "voice_quick_add_subtitle": "一次说完所有内容，例如“苹果、西红柿、薯片、方便面”",
+    "voice_quick_add_subtitle": "每次只说一件商品，例如“苹果” — 再次点击麦克风继续添加下一件",
     "voice_quick_add_type_hint": "或输入商品",
     "voice_quick_add_tap_unit_hint": "如果单位不对，请点击",
     "voice_quick_add_confirm_button": "将%1$d件加入购物车",

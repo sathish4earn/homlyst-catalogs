@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -116,7 +116,7 @@
     "cat_flowers": "ਫੁੱਲ",
     "voice_list_category_name": "ਵੌਇਸ ਸੂਚੀ",
     "voice_quick_add_title": "ਤੁਹਾਨੂੰ ਕੀ ਚਾਹੀਦਾ ਹੈ?",
-    "voice_quick_add_subtitle": "ਸਭ ਕੁਝ ਇਕੱਠੇ ਬੋਲੋ, ਜਿਵੇਂ \"ਸੇਬ, ਟਮਾਟਰ, ਲੇਜ਼ ਚਿਪਸ, ਮੈਗੀ ਨੂਡਲਸ\"",
+    "voice_quick_add_subtitle": "ਇੱਕ ਵਾਰ ਵਿੱਚ ਇੱਕ ਵਸਤੂ ਬੋਲੋ, ਜਿਵੇਂ \"ਸੇਬ\" — ਅਗਲੀ ਲਈ ਦੁਬਾਰਾ ਮਾਈਕ ਟੈਪ ਕਰੋ",
     "voice_quick_add_type_hint": "ਜਾਂ ਵਸਤੂਆਂ ਟਾਈਪ ਕਰੋ",
     "voice_quick_add_tap_unit_hint": "ਜੇ ਯੂਨਿਟ ਗਲਤ ਹੈ ਤਾਂ ਟੈਪ ਕਰੋ",
     "voice_quick_add_confirm_button": "%1$d ਕਾਰਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ",

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -116,7 +116,7 @@
     "cat_flowers": "Fleurs",
     "voice_list_category_name": "Liste Vocale",
     "voice_quick_add_title": "De quoi avez-vous besoin ?",
-    "voice_quick_add_subtitle": "Dites tout en une fois, ex. \"pomme, tomate, chips, pain\"",
+    "voice_quick_add_subtitle": "Dites un seul article à la fois, ex. \"pomme\" — appuyez à nouveau sur le micro pour le suivant",
     "voice_quick_add_type_hint": "Ou saisissez des articles",
     "voice_quick_add_tap_unit_hint": "Touchez l'unité si elle est incorrecte",
     "voice_quick_add_confirm_button": "Ajouter %1$d au Panier",

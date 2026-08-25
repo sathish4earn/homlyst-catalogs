@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -116,7 +116,7 @@
     "items_added_to_cart": "আইটেমগুলি কার্টে যোগ করা হয়েছে!",
     "voice_list_category_name": "ভয়েস তালিকা",
     "voice_quick_add_title": "আপনার কী দরকার?",
-    "voice_quick_add_subtitle": "সব একসাথে বলুন, যেমন \"আপেল, টমেটো, লেজ চিপস, ম্যাগি নুডলস\"",
+    "voice_quick_add_subtitle": "একবারে একটি আইটেম বলুন, যেমন \"আপেল\" — পরেরটির জন্য আবার মাইক ট্যাপ করুন",
     "voice_quick_add_type_hint": "অথবা আইটেম টাইপ করুন",
     "voice_quick_add_tap_unit_hint": "ইউনিট ভুল হলে ট্যাপ করুন",
     "voice_quick_add_confirm_button": "%1$d কার্টে যোগ করুন",

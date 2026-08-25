@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -116,7 +116,7 @@
     "cat_flowers": "പൂക്കൾ",
     "voice_list_category_name": "വോയ്സ് ലിസ്റ്റ്",
     "voice_quick_add_title": "നിങ്ങൾക്ക് എന്താണ് വേണ്ടത്?",
-    "voice_quick_add_subtitle": "എല്ലാം ഒരുമിച്ച് പറയുക, ഉദാ. \"ആപ്പിൾ, തക്കാളി, ലേസ് ചിപ്സ്, മാഗി നൂഡിൽസ്\"",
+    "voice_quick_add_subtitle": "ഒരു തവണ ഒരു ഇനം മാത്രം പറയുക, ഉദാ. \"ആപ്പിൾ\" — അടുത്തതിന് വീണ്ടും മൈക്ക് ടാപ്പ് ചെയ്യുക",
     "voice_quick_add_type_hint": "അല്ലെങ്കിൽ ഇനങ്ങൾ ടൈപ്പ് ചെയ്യുക",
     "voice_quick_add_tap_unit_hint": "യൂണിറ്റ് തെറ്റാണെങ്കിൽ ടാപ്പ് ചെയ്യുക",
     "voice_quick_add_confirm_button": "%1$d എണ്ണം കാർട്ടിലേക്ക് ചേർക്കുക",
