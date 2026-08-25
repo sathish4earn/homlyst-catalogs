@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -116,7 +116,7 @@
     "cat_flowers": "Hoa",
     "voice_list_category_name": "Danh Sách Giọng Nói",
     "voice_quick_add_title": "Bạn cần gì?",
-    "voice_quick_add_subtitle": "Nói tất cả cùng lúc, ví dụ \"táo, cà chua, khoai tây chiên, mì gói\"",
+    "voice_quick_add_subtitle": "Nói từng mặt hàng một, ví dụ \"táo\" — chạm lại vào micro để nói mặt hàng tiếp theo",
     "voice_quick_add_type_hint": "Hoặc nhập mặt hàng",
     "voice_quick_add_tap_unit_hint": "Chạm vào đơn vị nếu sai",
     "voice_quick_add_confirm_button": "Thêm %1$d vào Giỏ",

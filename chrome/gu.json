@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -116,7 +116,7 @@
     "cat_flowers": "ફૂલો",
     "voice_list_category_name": "વૉઇસ યાદી",
     "voice_quick_add_title": "તમારે શું જોઈએ છે?",
-    "voice_quick_add_subtitle": "બધું એકસાથે બોલો, દા.ત. \"સફરજન, ટામેટા, લેઝ ચિપ્સ, મેગી નૂડલ્સ\"",
+    "voice_quick_add_subtitle": "એક સમયે એક જ વસ્તુ બોલો, દા.ત. \"સફરજન\" — આગલી માટે ફરીથી માઇક ટેપ કરો",
     "voice_quick_add_type_hint": "અથવા વસ્તુઓ ટાઇપ કરો",
     "voice_quick_add_tap_unit_hint": "એકમ ખોટું હોય તો ટેપ કરો",
     "voice_quick_add_confirm_button": "%1$d કાર્ટમાં ઉમેરો",

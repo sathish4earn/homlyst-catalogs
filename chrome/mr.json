@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -116,7 +116,7 @@
     "items_added_to_cart": "वस्तू कार्टमध्ये जोडल्या गेल्या!",
     "voice_list_category_name": "व्हॉइस यादी",
     "voice_quick_add_title": "तुम्हाला काय हवे आहे?",
-    "voice_quick_add_subtitle": "सर्व एकाच वेळी सांगा, उदा. \"सफरचंद, टोमॅटो, लेज चिप्स, मॅगी नूडल्स\"",
+    "voice_quick_add_subtitle": "एका वेळी एकच वस्तू सांगा, उदा. \"सफरचंद\" — पुढील वस्तूसाठी पुन्हा माइक टॅप करा",
     "voice_quick_add_type_hint": "किंवा वस्तू टाइप करा",
     "voice_quick_add_tap_unit_hint": "युनिट चुकीचे असल्यास टॅप करा",
     "voice_quick_add_confirm_button": "%1$d कार्टमध्ये जोडा",

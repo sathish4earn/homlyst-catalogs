@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -116,7 +116,7 @@
     "items_added_to_cart": "వస్తువులు కార్ట్‌కు జోడించబడ్డాయి!",
     "voice_list_category_name": "వాయిస్ జాబితా",
     "voice_quick_add_title": "మీకు ఏమి కావాలి?",
-    "voice_quick_add_subtitle": "అన్నీ ఒకేసారి చెప్పండి, ఉదా. \"ఆపిల్, టమాటో, లేస్ చిప్స్, మ్యాగీ నూడుల్స్\"",
+    "voice_quick_add_subtitle": "ఒకసారి ఒక వస్తువు మాత్రమే చెప్పండి, ఉదా. \"ఆపిల్\" — తర్వాతి దాని కోసం మళ్లీ మైక్‌ను నొక్కండి",
     "voice_quick_add_type_hint": "లేదా వస్తువులను టైప్ చేయండి",
     "voice_quick_add_tap_unit_hint": "యూనిట్ తప్పుగా ఉంటే నొక్కండి",
     "voice_quick_add_confirm_button": "%1$d ను కార్ట్‌కు జోడించు",

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -116,7 +116,7 @@
     "cat_flowers": "ดอกไม้",
     "voice_list_category_name": "รายการเสียง",
     "voice_quick_add_title": "คุณต้องการอะไร?",
-    "voice_quick_add_subtitle": "พูดทุกอย่างในครั้งเดียว เช่น \"แอปเปิ้ล มะเขือเทศ มันฝรั่งทอด บะหมี่กึ่งสำเร็จรูป\"",
+    "voice_quick_add_subtitle": "พูดทีละรายการ เช่น \"แอปเปิ้ล\" — แตะไมโครโฟนอีกครั้งสำหรับรายการถัดไป",
     "voice_quick_add_type_hint": "หรือพิมพ์รายการ",
     "voice_quick_add_tap_unit_hint": "แตะหน่วยหากไม่ถูกต้อง",
     "voice_quick_add_confirm_button": "เพิ่ม %1$d รายการลงตะกร้า",

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -116,7 +116,7 @@
     "cat_flowers": "ଫୁଲ",
     "voice_list_category_name": "ଭଏସ୍ ତାଲିକା",
     "voice_quick_add_title": "ଆପଣଙ୍କୁ କଣ ଦରକାର?",
-    "voice_quick_add_subtitle": "ସବୁକିଛି ଏକାସାଙ୍ଗରେ କୁହନ୍ତୁ, ଯଥା \"ଆପେଲ, ଟମାଟୋ, ଲେସ୍ ଚିପ୍ସ, ମ୍ୟାଗି ନୁଡୁଲ୍ସ\"",
+    "voice_quick_add_subtitle": "ଏକ ସମୟରେ ଗୋଟିଏ ଆଇଟମ୍ କୁହନ୍ତୁ, ଯଥା \"ଆପେଲ\" — ପରବର୍ତ୍ତୀ ପାଇଁ ପୁଣି ମାଇକ୍ ଟାପ୍ କରନ୍ତୁ",
     "voice_quick_add_type_hint": "କିମ୍ବା ଆଇଟମ ଟାଇପ୍ କରନ୍ତୁ",
     "voice_quick_add_tap_unit_hint": "ୟୁନିଟ୍ ଭୁଲ୍ ହେଲେ ଟାପ୍ କରନ୍ତୁ",
     "voice_quick_add_confirm_button": "%1$d କାର୍ଟକୁ ଯୋଡନ୍ତୁ",
