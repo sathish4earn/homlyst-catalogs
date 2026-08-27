@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -126,6 +126,21 @@
     "delete_category_message": "यह श्रेणी और उसके सभी आइटम हटा देगा। इसे पूर्ववत नहीं किया जा सकता।",
     "delete": "हटाएं",
     "remove_category_title": "\"%1$s\" हटाएं?",
-    "remove_category_message": "यह इसे आपकी होम स्क्रीन से छुपा देगा। आप इसे कभी भी 'मेरी श्रेणियां' से वापस ला सकते हैं।"
+    "remove_category_message": "यह इसे आपकी होम स्क्रीन से छुपा देगा। आप इसे कभी भी 'मेरी श्रेणियां' से वापस ला सकते हैं।",
+    "nav_scan_qr": "QR स्कैन करें",
+    "nav_sent_history": "भेजा गया इतिहास",
+    "nav_buy_again": "फिर से खरीदें",
+    "nav_favourite_lists": "पसंदीदा सूचियां",
+    "nav_announcements": "घोषणाएं",
+    "nav_events": "इवेंट्स",
+    "nav_family_space": "फैमिली स्पेस",
+    "pill_list_options": "सूची विकल्प",
+    "pill_reset": "रीसेट",
+    "grid_view_mode": "ग्रिड व्यू",
+    "grid_view_mode_desc": "सूची की जगह श्रेणियों को रंगीन टाइल के रूप में दिखाएं",
+    "one_handed_shopping_mode": "एक हाथ से खरीदारी मोड",
+    "one_handed_shopping_mode_desc": "एक अंगूठे से आइटम चेक करने के लिए खरीदारी सूची को नीचे-बाएं कोने में छोटा कर देता है",
+    "fix_notifications_title": "नोटिफिकेशन नहीं मिल रहे हैं?",
+    "fix_notifications_desc": "रीफ़्रेश करने और खुद को एक परीक्षण नोटिफिकेशन भेजने के लिए टैप करें"
   }
 }

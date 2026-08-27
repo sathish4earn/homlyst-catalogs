@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -126,6 +126,21 @@
     "delete_category_message": "This deletes the category and all its items. This can't be undone.",
     "delete": "Delete",
     "remove_category_title": "Remove \"%1$s\"?",
-    "remove_category_message": "This hides it from your home screen. You can bring it back anytime from My Categories."
+    "remove_category_message": "This hides it from your home screen. You can bring it back anytime from My Categories.",
+    "nav_scan_qr": "Scan QR",
+    "nav_sent_history": "Sent History",
+    "nav_buy_again": "Buy Again",
+    "nav_favourite_lists": "Favourite lists",
+    "nav_announcements": "Announcements",
+    "nav_events": "Events",
+    "nav_family_space": "Family Space",
+    "pill_list_options": "List Options",
+    "pill_reset": "Reset",
+    "grid_view_mode": "Grid View",
+    "grid_view_mode_desc": "Show categories as colored tiles instead of a list",
+    "one_handed_shopping_mode": "One-Handed Shopping Mode",
+    "one_handed_shopping_mode_desc": "Shrinks the shopping checklist into the bottom-left corner so you can check off items with one thumb",
+    "fix_notifications_title": "Not receiving notifications?",
+    "fix_notifications_desc": "Tap to refresh and send yourself a test notification"
   }
 }
