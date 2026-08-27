@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -126,6 +126,21 @@
     "delete_category_message": "यामुळे ही श्रेणी आणि तिच्यातील सर्व वस्तू हटवल्या जातील. हे पूर्ववत करता येणार नाही.",
     "delete": "हटवा",
     "remove_category_title": "\"%1$s\" काढायचे?",
-    "remove_category_message": "हे तुमच्या होम स्क्रीनवरून लपवले जाईल. तुम्ही ते 'माझ्या श्रेणी' मधून केव्हाही परत आणू शकता."
+    "remove_category_message": "हे तुमच्या होम स्क्रीनवरून लपवले जाईल. तुम्ही ते 'माझ्या श्रेणी' मधून केव्हाही परत आणू शकता.",
+    "nav_scan_qr": "QR स्कॅन करा",
+    "nav_sent_history": "पाठवलेला इतिहास",
+    "nav_buy_again": "पुन्हा खरेदी करा",
+    "nav_favourite_lists": "आवडत्या याद्या",
+    "nav_announcements": "घोषणा",
+    "nav_events": "इव्हेंट्स",
+    "nav_family_space": "फॅमिली स्पेस",
+    "pill_list_options": "यादी पर्याय",
+    "pill_reset": "रीसेट",
+    "grid_view_mode": "ग्रिड व्ह्यू",
+    "grid_view_mode_desc": "यादीऐवजी श्रेणी रंगीत टाइल्स म्हणून दाखवा",
+    "one_handed_shopping_mode": "एका हाताने खरेदी मोड",
+    "one_handed_shopping_mode_desc": "एका अंगठ्याने वस्तू तपासण्यासाठी खरेदी यादी खालच्या-डाव्या कोपऱ्यात लहान करते",
+    "fix_notifications_title": "सूचना मिळत नाहीत का?",
+    "fix_notifications_desc": "रिफ्रेश करण्यासाठी आणि स्वतःला चाचणी सूचना पाठवण्यासाठी टॅप करा"
   }
 }
