@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "સૌથી વધુ ખરીદેલી તાજી વસ્તુઓ",
     "food_trend_trips": "%2$d માંથી %1$d ટ્રિપ",
     "food_trend_trips_one": "%2$d માંથી %1$d ટ્રિપ",
-    "food_trend_footnote": "ખરેખર ખરીદેલી વસ્તુઓ જ ગણાય છે, વજન કે કિંમત નહીં. ફક્ત HomLyst દ્વારા કરેલી ખરીદી."
+    "food_trend_footnote": "ખરેખર ખરીદેલી વસ્તુઓ જ ગણાય છે, વજન કે કિંમત નહીં. ફક્ત HomLyst દ્વારા કરેલી ખરીદી.",
+    "food_trend_see_trend": "તમારો ટ્રેન્ડ જુઓ ›",
+    "food_trend_your_month": "તમારો %1$s: %2$d% તાજું",
+    "food_trend_open": "તમારો માસિક તાજા ખોરાકનો ટ્રેન્ડ જુઓ"
   }
 }

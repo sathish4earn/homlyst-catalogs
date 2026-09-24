@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "ఎక్కువగా కొన్న తాజా వస్తువులు",
     "food_trend_trips": "%2$d లో %1$d ట్రిప్పులు",
     "food_trend_trips_one": "%2$d లో %1$d ట్రిప్",
-    "food_trend_footnote": "నిజంగా కొన్న వస్తువులు మాత్రమే లెక్కిస్తాం, బరువు లేదా ధర కాదు. HomLyst ద్వారా చేసిన షాపింగ్ మాత్రమే."
+    "food_trend_footnote": "నిజంగా కొన్న వస్తువులు మాత్రమే లెక్కిస్తాం, బరువు లేదా ధర కాదు. HomLyst ద్వారా చేసిన షాపింగ్ మాత్రమే.",
+    "food_trend_see_trend": "మీ ధోరణి చూడండి ›",
+    "food_trend_your_month": "మీ %1$s: %2$d% తాజా",
+    "food_trend_open": "మీ నెలవారీ తాజా ఆహార ధోరణి చూడండి"
   }
 }

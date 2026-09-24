@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "ਸਭ ਤੋਂ ਵੱਧ ਖਰੀਦੀਆਂ ਤਾਜ਼ਾ ਚੀਜ਼ਾਂ",
     "food_trend_trips": "%2$d ਵਿੱਚੋਂ %1$d ਟ੍ਰਿਪ",
     "food_trend_trips_one": "%2$d ਵਿੱਚੋਂ %1$d ਟ੍ਰਿਪ",
-    "food_trend_footnote": "ਸਿਰਫ਼ ਅਸਲ ਵਿੱਚ ਖਰੀਦੀਆਂ ਚੀਜ਼ਾਂ ਗਿਣੀਆਂ ਜਾਂਦੀਆਂ ਹਨ, ਭਾਰ ਜਾਂ ਕੀਮਤ ਨਹੀਂ। ਸਿਰਫ਼ HomLyst ਰਾਹੀਂ ਕੀਤੀ ਖਰੀਦਦਾਰੀ।"
+    "food_trend_footnote": "ਸਿਰਫ਼ ਅਸਲ ਵਿੱਚ ਖਰੀਦੀਆਂ ਚੀਜ਼ਾਂ ਗਿਣੀਆਂ ਜਾਂਦੀਆਂ ਹਨ, ਭਾਰ ਜਾਂ ਕੀਮਤ ਨਹੀਂ। ਸਿਰਫ਼ HomLyst ਰਾਹੀਂ ਕੀਤੀ ਖਰੀਦਦਾਰੀ।",
+    "food_trend_see_trend": "ਆਪਣਾ ਰੁਝਾਨ ਦੇਖੋ ›",
+    "food_trend_your_month": "ਤੁਹਾਡਾ %1$s: %2$d% ਤਾਜ਼ਾ",
+    "food_trend_open": "ਆਪਣਾ ਮਹੀਨਾਵਾਰ ਤਾਜ਼ਾ ਭੋਜਨ ਰੁਝਾਨ ਦੇਖੋ"
   }
 }

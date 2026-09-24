@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "Most bought fresh items",
     "food_trend_trips": "%1$d of %2$d trips",
     "food_trend_trips_one": "%1$d of %2$d trip",
-    "food_trend_footnote": "Counts items you actually bought, not weight or price. Only shopping done through HomLyst."
+    "food_trend_footnote": "Counts items you actually bought, not weight or price. Only shopping done through HomLyst.",
+    "food_trend_see_trend": "See your trend ›",
+    "food_trend_your_month": "Your %1$s: %2$d% fresh",
+    "food_trend_open": "See your monthly fresh food trend"
   }
 }

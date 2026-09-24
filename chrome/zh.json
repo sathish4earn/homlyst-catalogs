@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "最常购买的新鲜食品",
     "food_trend_trips": "%2$d 次购物中 %1$d 次",
     "food_trend_trips_one": "%2$d 次购物中 %1$d 次",
-    "food_trend_footnote": "只统计实际购买的商品，不按重量或价格计算。仅限通过 HomLyst 的购物。"
+    "food_trend_footnote": "只统计实际购买的商品，不按重量或价格计算。仅限通过 HomLyst 的购物。",
+    "food_trend_see_trend": "查看你的趋势 ›",
+    "food_trend_your_month": "你的%1$s：%2$d% 新鲜",
+    "food_trend_open": "查看每月新鲜食品趋势"
   }
 }
