@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "ಆರೋಗ್ಯ ಮೀಟರ್: ತಾಜಾ ಅಥವಾ ಸಂಸ್ಕರಿಸಿದ?",
     "health_not_food": "ಆಹಾರವಲ್ಲ",
     "health_section_fresh": "🥦 ತಾಜಾ (%1$d)",
-    "health_section_processed": "📦 ಸಂಸ್ಕರಿಸಿದ (%1$d)"
+    "health_section_processed": "📦 ಸಂಸ್ಕರಿಸಿದ (%1$d)",
+    "food_trend_title": "ತಾಜಾ ಆಹಾರ ಪ್ರವೃತ್ತಿ",
+    "food_trend_empty": "ಪ್ರತಿ ತಿಂಗಳು ನೀವು ಎಷ್ಟು ತಾಜಾ ಆಹಾರ ಖರೀದಿಸುತ್ತೀರಿ ಎಂದು ನೋಡಲು ಒಂದು ಶಾಪಿಂಗ್ ಟ್ರಿಪ್ ಮುಗಿಸಿ.",
+    "food_trend_items_fresh": "%2$s ರಲ್ಲಿ %1$s ವಸ್ತುಗಳು ತಾಜಾ",
+    "food_trend_up": "%2$s ಗಿಂತ %1$d ಅಂಕ ಹೆಚ್ಚು 🌱",
+    "food_trend_down": "%2$s ಗಿಂತ %1$d ಅಂಕ ಕಡಿಮೆ",
+    "food_trend_same": "%1$s ನಷ್ಟೇ",
+    "food_trend_percent_fresh": "%1$d% ತಾಜಾ",
+    "food_trend_not_enough": "ಸಾಕಷ್ಟು ಡೇಟಾ ಇಲ್ಲ",
+    "food_trend_progress": "%1$s: ಇದುವರೆಗೆ %3$d ರಲ್ಲಿ %2$d ಆಹಾರ ವಸ್ತುಗಳು. ಒಂದು ತಿಂಗಳಲ್ಲಿ %3$d ಆದಾಗ ನಿಮ್ಮ ಚಾರ್ಟ್ ಆರಂಭವಾಗುತ್ತದೆ.",
+    "food_trend_last_months": "ಕಳೆದ 6 ತಿಂಗಳು",
+    "food_trend_tap_hint": "ಏನು ಖರೀದಿಸಿದಿರಿ ಎಂದು ನೋಡಲು ತಿಂಗಳನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ. ಖಾಲಿ ಬಾರ್‌ಗಳಲ್ಲಿ 5 ಕ್ಕಿಂತ ಕಡಿಮೆ ಆಹಾರ ವಸ್ತುಗಳಿವೆ.",
+    "food_trend_best_month": "⭐ ಅತ್ಯುತ್ತಮ ತಿಂಗಳು: %1$s (%2$d% ತಾಜಾ)",
+    "food_trend_top_processed": "ಹೆಚ್ಚು ಖರೀದಿಸಿದ ಸಂಸ್ಕರಿಸಿದ ವಸ್ತುಗಳು",
+    "food_trend_top_fresh": "ಹೆಚ್ಚು ಖರೀದಿಸಿದ ತಾಜಾ ವಸ್ತುಗಳು",
+    "food_trend_trips": "%2$d ರಲ್ಲಿ %1$d ಟ್ರಿಪ್‌ಗಳು",
+    "food_trend_trips_one": "%2$d ರಲ್ಲಿ %1$d ಟ್ರಿಪ್",
+    "food_trend_footnote": "ನಿಜವಾಗಿ ಖರೀದಿಸಿದ ವಸ್ತುಗಳನ್ನು ಮಾತ್ರ ಎಣಿಸಲಾಗುತ್ತದೆ, ತೂಕ ಅಥವಾ ಬೆಲೆ ಅಲ್ಲ. HomLyst ಮೂಲಕ ಮಾಡಿದ ಶಾಪಿಂಗ್ ಮಾತ್ರ."
   }
 }

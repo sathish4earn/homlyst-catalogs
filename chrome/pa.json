@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "ਸਿਹਤ ਮੀਟਰ: ਤਾਜ਼ਾ ਜਾਂ ਪ੍ਰੋਸੈਸਡ?",
     "health_not_food": "ਭੋਜਨ ਨਹੀਂ",
     "health_section_fresh": "🥦 ਤਾਜ਼ਾ (%1$d)",
-    "health_section_processed": "📦 ਪ੍ਰੋਸੈਸਡ (%1$d)"
+    "health_section_processed": "📦 ਪ੍ਰੋਸੈਸਡ (%1$d)",
+    "food_trend_title": "ਤਾਜ਼ਾ ਭੋਜਨ ਰੁਝਾਨ",
+    "food_trend_empty": "ਹਰ ਮਹੀਨੇ ਤੁਸੀਂ ਕਿੰਨਾ ਤਾਜ਼ਾ ਭੋਜਨ ਖਰੀਦਦੇ ਹੋ, ਇਹ ਦੇਖਣ ਲਈ ਇੱਕ ਖਰੀਦਦਾਰੀ ਟ੍ਰਿਪ ਪੂਰੀ ਕਰੋ।",
+    "food_trend_items_fresh": "%2$s ਵਿੱਚੋਂ %1$s ਚੀਜ਼ਾਂ ਤਾਜ਼ਾ",
+    "food_trend_up": "%2$s ਨਾਲੋਂ %1$d ਅੰਕ ਵੱਧ 🌱",
+    "food_trend_down": "%2$s ਨਾਲੋਂ %1$d ਅੰਕ ਘੱਟ",
+    "food_trend_same": "%1$s ਜਿੰਨਾ ਹੀ",
+    "food_trend_percent_fresh": "%1$d% ਤਾਜ਼ਾ",
+    "food_trend_not_enough": "ਲੋੜੀਂਦਾ ਡੇਟਾ ਨਹੀਂ",
+    "food_trend_progress": "%1$s: ਹੁਣ ਤੱਕ %3$d ਵਿੱਚੋਂ %2$d ਖਾਣ ਵਾਲੀਆਂ ਚੀਜ਼ਾਂ। ਕਿਸੇ ਮਹੀਨੇ %3$d ਹੋਣ 'ਤੇ ਤੁਹਾਡਾ ਚਾਰਟ ਸ਼ੁਰੂ ਹੋਵੇਗਾ।",
+    "food_trend_last_months": "ਪਿਛਲੇ 6 ਮਹੀਨੇ",
+    "food_trend_tap_hint": "ਕੀ ਖਰੀਦਿਆ, ਦੇਖਣ ਲਈ ਕਿਸੇ ਮਹੀਨੇ 'ਤੇ ਟੈਪ ਕਰੋ। ਖਾਲੀ ਬਾਰਾਂ ਵਿੱਚ 5 ਤੋਂ ਘੱਟ ਖਾਣ ਵਾਲੀਆਂ ਚੀਜ਼ਾਂ ਹਨ।",
+    "food_trend_best_month": "⭐ ਸਭ ਤੋਂ ਵਧੀਆ ਮਹੀਨਾ: %1$s (%2$d% ਤਾਜ਼ਾ)",
+    "food_trend_top_processed": "ਸਭ ਤੋਂ ਵੱਧ ਖਰੀਦੀਆਂ ਪ੍ਰੋਸੈਸਡ ਚੀਜ਼ਾਂ",
+    "food_trend_top_fresh": "ਸਭ ਤੋਂ ਵੱਧ ਖਰੀਦੀਆਂ ਤਾਜ਼ਾ ਚੀਜ਼ਾਂ",
+    "food_trend_trips": "%2$d ਵਿੱਚੋਂ %1$d ਟ੍ਰਿਪ",
+    "food_trend_trips_one": "%2$d ਵਿੱਚੋਂ %1$d ਟ੍ਰਿਪ",
+    "food_trend_footnote": "ਸਿਰਫ਼ ਅਸਲ ਵਿੱਚ ਖਰੀਦੀਆਂ ਚੀਜ਼ਾਂ ਗਿਣੀਆਂ ਜਾਂਦੀਆਂ ਹਨ, ਭਾਰ ਜਾਂ ਕੀਮਤ ਨਹੀਂ। ਸਿਰਫ਼ HomLyst ਰਾਹੀਂ ਕੀਤੀ ਖਰੀਦਦਾਰੀ।"
   }
 }

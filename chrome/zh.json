@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "健康指数：新鲜还是加工？",
     "health_not_food": "非食品",
     "health_section_fresh": "🥦 新鲜（%1$d）",
-    "health_section_processed": "📦 加工（%1$d）"
+    "health_section_processed": "📦 加工（%1$d）",
+    "food_trend_title": "新鲜食品趋势",
+    "food_trend_empty": "完成一次购物，即可查看每月购买新鲜食品的比例。",
+    "food_trend_items_fresh": "%2$s 件中 %1$s 件新鲜",
+    "food_trend_up": "比%2$s上升 %1$d 个百分点 🌱",
+    "food_trend_down": "比%2$s下降 %1$d 个百分点",
+    "food_trend_same": "与%1$s持平",
+    "food_trend_percent_fresh": "%1$d% 新鲜",
+    "food_trend_not_enough": "数据不足",
+    "food_trend_progress": "%1$s：目前已有 %2$d/%3$d 件食品。某月达到 %3$d 件后即可生成图表。",
+    "food_trend_last_months": "最近 6 个月",
+    "food_trend_tap_hint": "点按某个月份查看购买内容。空白柱表示该月食品少于 5 件。",
+    "food_trend_best_month": "⭐ 最佳月份：%1$s（%2$d% 新鲜）",
+    "food_trend_top_processed": "最常购买的加工食品",
+    "food_trend_top_fresh": "最常购买的新鲜食品",
+    "food_trend_trips": "%2$d 次购物中 %1$d 次",
+    "food_trend_trips_one": "%2$d 次购物中 %1$d 次",
+    "food_trend_footnote": "只统计实际购买的商品，不按重量或价格计算。仅限通过 HomLyst 的购物。"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "हेल्थ मीटर: ताज़ा या प्रोसेस्ड?",
     "health_not_food": "खाना नहीं",
     "health_section_fresh": "🥦 ताज़ा (%1$d)",
-    "health_section_processed": "📦 प्रोसेस्ड (%1$d)"
+    "health_section_processed": "📦 प्रोसेस्ड (%1$d)",
+    "food_trend_title": "ताज़ा भोजन ट्रेंड",
+    "food_trend_empty": "हर महीने आप कितना ताज़ा खाना खरीदते हैं, यह देखने के लिए एक शॉपिंग ट्रिप पूरी करें।",
+    "food_trend_items_fresh": "%2$s में से %1$s आइटम ताज़ा",
+    "food_trend_up": "%2$s से %1$d अंक ऊपर 🌱",
+    "food_trend_down": "%2$s से %1$d अंक नीचे",
+    "food_trend_same": "%1$s जितना ही",
+    "food_trend_percent_fresh": "%1$d% ताज़ा",
+    "food_trend_not_enough": "पर्याप्त डेटा नहीं",
+    "food_trend_progress": "%1$s: अब तक %3$d में से %2$d खाने के आइटम। किसी महीने में %3$d होते ही आपका चार्ट शुरू होगा।",
+    "food_trend_last_months": "पिछले 6 महीने",
+    "food_trend_tap_hint": "क्या खरीदा, देखने के लिए किसी महीने पर टैप करें। खाली बार में 5 से कम खाने के आइटम हैं।",
+    "food_trend_best_month": "⭐ सबसे अच्छा महीना: %1$s (%2$d% ताज़ा)",
+    "food_trend_top_processed": "सबसे ज़्यादा खरीदे गए प्रोसेस्ड आइटम",
+    "food_trend_top_fresh": "सबसे ज़्यादा खरीदे गए ताज़ा आइटम",
+    "food_trend_trips": "%2$d में से %1$d ट्रिप",
+    "food_trend_trips_one": "%2$d में से %1$d ट्रिप",
+    "food_trend_footnote": "वास्तव में खरीदे गए आइटम गिने जाते हैं, वज़न या कीमत नहीं। केवल HomLyst से की गई खरीदारी।"
   }
 }

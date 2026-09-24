@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "Thước đo sức khỏe: tươi hay chế biến?",
     "health_not_food": "Không phải thực phẩm",
     "health_section_fresh": "🥦 Tươi (%1$d)",
-    "health_section_processed": "📦 Chế biến (%1$d)"
+    "health_section_processed": "📦 Chế biến (%1$d)",
+    "food_trend_title": "Xu hướng thực phẩm tươi",
+    "food_trend_empty": "Hoàn tất một lần đi chợ để xem mỗi tháng bạn mua bao nhiêu thực phẩm tươi.",
+    "food_trend_items_fresh": "%1$s trên %2$s món là đồ tươi",
+    "food_trend_up": "Tăng %1$d điểm so với %2$s 🌱",
+    "food_trend_down": "Giảm %1$d điểm so với %2$s",
+    "food_trend_same": "Bằng %1$s",
+    "food_trend_percent_fresh": "%1$d% tươi",
+    "food_trend_not_enough": "Chưa đủ dữ liệu",
+    "food_trend_progress": "%1$s: đến nay có %2$d trên %3$d món ăn. Biểu đồ bắt đầu khi một tháng có %3$d món.",
+    "food_trend_last_months": "6 tháng qua",
+    "food_trend_tap_hint": "Chạm vào một tháng để xem bạn đã mua gì. Cột trống có ít hơn 5 món ăn.",
+    "food_trend_best_month": "⭐ Tháng tốt nhất: %1$s (%2$d% tươi)",
+    "food_trend_top_processed": "Đồ chế biến mua nhiều nhất",
+    "food_trend_top_fresh": "Đồ tươi mua nhiều nhất",
+    "food_trend_trips": "%1$d trên %2$d lần mua",
+    "food_trend_trips_one": "%1$d trên %2$d lần mua",
+    "food_trend_footnote": "Chỉ tính các món bạn thực sự mua, không tính khối lượng hay giá. Chỉ các lần mua qua HomLyst."
   }
 }

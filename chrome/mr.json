@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "हेल्थ मीटर: ताजे की प्रक्रिया केलेले?",
     "health_not_food": "अन्न नाही",
     "health_section_fresh": "🥦 ताजे (%1$d)",
-    "health_section_processed": "📦 प्रक्रिया केलेले (%1$d)"
+    "health_section_processed": "📦 प्रक्रिया केलेले (%1$d)",
+    "food_trend_title": "ताज्या अन्नाचा ट्रेंड",
+    "food_trend_empty": "दर महिन्याला तुम्ही किती ताजे अन्न खरेदी करता हे पाहण्यासाठी एक खरेदी फेरी पूर्ण करा.",
+    "food_trend_items_fresh": "%2$s पैकी %1$s वस्तू ताज्या",
+    "food_trend_up": "%2$s पेक्षा %1$d गुण जास्त 🌱",
+    "food_trend_down": "%2$s पेक्षा %1$d गुण कमी",
+    "food_trend_same": "%1$s इतकेच",
+    "food_trend_percent_fresh": "%1$d% ताजे",
+    "food_trend_not_enough": "पुरेसा डेटा नाही",
+    "food_trend_progress": "%1$s: आतापर्यंत %3$d पैकी %2$d अन्नपदार्थ. एखाद्या महिन्यात %3$d झाले की तुमचा चार्ट सुरू होईल.",
+    "food_trend_last_months": "मागील 6 महिने",
+    "food_trend_tap_hint": "काय खरेदी केले ते पाहण्यासाठी महिन्यावर टॅप करा. रिकाम्या बारमध्ये 5 पेक्षा कमी अन्नपदार्थ आहेत.",
+    "food_trend_best_month": "⭐ सर्वोत्तम महिना: %1$s (%2$d% ताजे)",
+    "food_trend_top_processed": "सर्वाधिक खरेदी केलेल्या प्रक्रिया केलेल्या वस्तू",
+    "food_trend_top_fresh": "सर्वाधिक खरेदी केलेल्या ताज्या वस्तू",
+    "food_trend_trips": "%2$d पैकी %1$d फेऱ्या",
+    "food_trend_trips_one": "%2$d पैकी %1$d फेरी",
+    "food_trend_footnote": "प्रत्यक्ष खरेदी केलेल्या वस्तूच मोजल्या जातात, वजन किंवा किंमत नाही. फक्त HomLyst द्वारे केलेली खरेदी."
   }
 }

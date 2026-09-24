@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "มาตรวัดสุขภาพ: ของสดหรือแปรรูป?",
     "health_not_food": "ไม่ใช่อาหาร",
     "health_section_fresh": "🥦 สด (%1$d)",
-    "health_section_processed": "📦 แปรรูป (%1$d)"
+    "health_section_processed": "📦 แปรรูป (%1$d)",
+    "food_trend_title": "แนวโน้มอาหารสด",
+    "food_trend_empty": "ซื้อของให้เสร็จหนึ่งรอบ เพื่อดูว่าแต่ละเดือนคุณซื้ออาหารสดมากแค่ไหน",
+    "food_trend_items_fresh": "ของสด %1$s จาก %2$s รายการ",
+    "food_trend_up": "เพิ่มขึ้น %1$d จุดจาก%2$s 🌱",
+    "food_trend_down": "ลดลง %1$d จุดจาก%2$s",
+    "food_trend_same": "เท่ากับ%1$s",
+    "food_trend_percent_fresh": "สด %1$d%",
+    "food_trend_not_enough": "ข้อมูลยังไม่พอ",
+    "food_trend_progress": "%1$s: ตอนนี้มีอาหาร %2$d จาก %3$d รายการ กราฟจะเริ่มเมื่อเดือนใดครบ %3$d รายการ",
+    "food_trend_last_months": "6 เดือนที่ผ่านมา",
+    "food_trend_tap_hint": "แตะเดือนเพื่อดูสิ่งที่คุณซื้อ แท่งว่างมีอาหารน้อยกว่า 5 รายการ",
+    "food_trend_best_month": "⭐ เดือนที่ดีที่สุด: %1$s (สด %2$d%)",
+    "food_trend_top_processed": "ของแปรรูปที่ซื้อบ่อยที่สุด",
+    "food_trend_top_fresh": "ของสดที่ซื้อบ่อยที่สุด",
+    "food_trend_trips": "%1$d จาก %2$d รอบ",
+    "food_trend_trips_one": "%1$d จาก %2$d รอบ",
+    "food_trend_footnote": "นับเฉพาะของที่ซื้อจริง ไม่ใช่น้ำหนักหรือราคา และเฉพาะการซื้อผ่าน HomLyst เท่านั้น"
   }
 }

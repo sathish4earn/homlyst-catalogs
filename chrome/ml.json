@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "ഹെൽത്ത് മീറ്റർ: പുതിയതോ സംസ്കരിച്ചതോ?",
     "health_not_food": "ഭക്ഷണമല്ല",
     "health_section_fresh": "🥦 പുതിയത് (%1$d)",
-    "health_section_processed": "📦 സംസ്കരിച്ചത് (%1$d)"
+    "health_section_processed": "📦 സംസ്കരിച്ചത് (%1$d)",
+    "food_trend_title": "പുതിയ ഭക്ഷണ പ്രവണത",
+    "food_trend_empty": "ഓരോ മാസവും എത്ര പുതിയ ഭക്ഷണം വാങ്ങുന്നുവെന്ന് കാണാൻ ഒരു ഷോപ്പിംഗ് ട്രിപ്പ് പൂർത്തിയാക്കുക.",
+    "food_trend_items_fresh": "%2$s ൽ %1$s സാധനങ്ങൾ പുതിയത്",
+    "food_trend_up": "%2$s നെക്കാൾ %1$d പോയിന്റ് കൂടുതൽ 🌱",
+    "food_trend_down": "%2$s നെക്കാൾ %1$d പോയിന്റ് കുറവ്",
+    "food_trend_same": "%1$s പോലെ തന്നെ",
+    "food_trend_percent_fresh": "%1$d% പുതിയത്",
+    "food_trend_not_enough": "ആവശ്യത്തിന് ഡാറ്റയില്ല",
+    "food_trend_progress": "%1$s: ഇതുവരെ %3$d ൽ %2$d ഭക്ഷണ സാധനങ്ങൾ. ഒരു മാസത്തിൽ %3$d ആകുമ്പോൾ ചാർട്ട് തുടങ്ങും.",
+    "food_trend_last_months": "കഴിഞ്ഞ 6 മാസം",
+    "food_trend_tap_hint": "എന്ത് വാങ്ങിയെന്ന് കാണാൻ ഒരു മാസത്തിൽ ടാപ്പ് ചെയ്യുക. ശൂന്യമായ ബാറുകളിൽ 5 ൽ കുറവ് ഭക്ഷണ സാധനങ്ങൾ.",
+    "food_trend_best_month": "⭐ മികച്ച മാസം: %1$s (%2$d% പുതിയത്)",
+    "food_trend_top_processed": "കൂടുതൽ വാങ്ങിയ സംസ്കരിച്ച സാധനങ്ങൾ",
+    "food_trend_top_fresh": "കൂടുതൽ വാങ്ങിയ പുതിയ സാധനങ്ങൾ",
+    "food_trend_trips": "%2$d ൽ %1$d ട്രിപ്പുകൾ",
+    "food_trend_trips_one": "%2$d ൽ %1$d ട്രിപ്പ്",
+    "food_trend_footnote": "ശരിക്കും വാങ്ങിയ സാധനങ്ങൾ മാത്രം എണ്ണുന്നു, ഭാരമോ വിലയോ അല്ല. HomLyst വഴി നടത്തിയ ഷോപ്പിംഗ് മാത്രം."
   }
 }

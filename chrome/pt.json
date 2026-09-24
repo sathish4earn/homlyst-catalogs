@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "Medidor de Saúde: fresco ou processado?",
     "health_not_food": "Não é comida",
     "health_section_fresh": "🥦 Fresco (%1$d)",
-    "health_section_processed": "📦 Processado (%1$d)"
+    "health_section_processed": "📦 Processado (%1$d)",
+    "food_trend_title": "Tendência de comida fresca",
+    "food_trend_empty": "Conclua uma compra para ver quanto de comida fresca você compra por mês.",
+    "food_trend_items_fresh": "%1$s de %2$s itens frescos",
+    "food_trend_up": "%1$d pontos acima de %2$s 🌱",
+    "food_trend_down": "%1$d pontos abaixo de %2$s",
+    "food_trend_same": "Igual a %1$s",
+    "food_trend_percent_fresh": "%1$d% fresco",
+    "food_trend_not_enough": "Dados insuficientes",
+    "food_trend_progress": "%1$s: %2$d de %3$d alimentos até agora. Seu gráfico começa quando um mês tiver %3$d.",
+    "food_trend_last_months": "Últimos 6 meses",
+    "food_trend_tap_hint": "Toque em um mês para ver o que você comprou. Barras vazias têm menos de 5 alimentos.",
+    "food_trend_best_month": "⭐ Melhor mês: %1$s (%2$d% fresco)",
+    "food_trend_top_processed": "Processados mais comprados",
+    "food_trend_top_fresh": "Frescos mais comprados",
+    "food_trend_trips": "%1$d de %2$d compras",
+    "food_trend_trips_one": "%1$d de %2$d compra",
+    "food_trend_footnote": "Conta os itens que você realmente comprou, não peso nem preço. Só compras feitas pelo HomLyst."
   }
 }
