@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "ସବୁଠାରୁ ଅଧିକ କିଣାଯାଇଥିବା ତାଜା ଜିନିଷ",
     "food_trend_trips": "%2$d ମଧ୍ୟରୁ %1$d ଟ୍ରିପ୍",
     "food_trend_trips_one": "%2$d ମଧ୍ୟରୁ %1$d ଟ୍ରିପ୍",
-    "food_trend_footnote": "କେବଳ ପ୍ରକୃତରେ କିଣାଯାଇଥିବା ଜିନିଷ ଗଣାଯାଏ, ଓଜନ କିମ୍ବା ଦାମ ନୁହେଁ। କେବଳ HomLyst ଦ୍ୱାରା କରାଯାଇଥିବା ସପିଂ।"
+    "food_trend_footnote": "କେବଳ ପ୍ରକୃତରେ କିଣାଯାଇଥିବା ଜିନିଷ ଗଣାଯାଏ, ଓଜନ କିମ୍ବା ଦାମ ନୁହେଁ। କେବଳ HomLyst ଦ୍ୱାରା କରାଯାଇଥିବା ସପିଂ।",
+    "food_trend_see_trend": "ଆପଣଙ୍କ ଧାରା ଦେଖନ୍ତୁ ›",
+    "food_trend_your_month": "ଆପଣଙ୍କ %1$s: %2$d% ତାଜା",
+    "food_trend_open": "ଆପଣଙ୍କ ମାସିକ ତାଜା ଖାଦ୍ୟ ଧାରା ଦେଖନ୍ତୁ"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "সবচেয়ে বেশি কেনা তাজা জিনিস",
     "food_trend_trips": "%2$d টির মধ্যে %1$d টি ট্রিপ",
     "food_trend_trips_one": "%2$d টির মধ্যে %1$d টি ট্রিপ",
-    "food_trend_footnote": "শুধু আসলে কেনা জিনিস গোনা হয়, ওজন বা দাম নয়। শুধু HomLyst দিয়ে করা কেনাকাটা।"
+    "food_trend_footnote": "শুধু আসলে কেনা জিনিস গোনা হয়, ওজন বা দাম নয়। শুধু HomLyst দিয়ে করা কেনাকাটা।",
+    "food_trend_see_trend": "আপনার ধারা দেখুন ›",
+    "food_trend_your_month": "আপনার %1$s: %2$d% তাজা",
+    "food_trend_open": "আপনার মাসিক তাজা খাবারের ধারা দেখুন"
   }
 }

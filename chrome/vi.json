@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "Đồ tươi mua nhiều nhất",
     "food_trend_trips": "%1$d trên %2$d lần mua",
     "food_trend_trips_one": "%1$d trên %2$d lần mua",
-    "food_trend_footnote": "Chỉ tính các món bạn thực sự mua, không tính khối lượng hay giá. Chỉ các lần mua qua HomLyst."
+    "food_trend_footnote": "Chỉ tính các món bạn thực sự mua, không tính khối lượng hay giá. Chỉ các lần mua qua HomLyst.",
+    "food_trend_see_trend": "Xem xu hướng của bạn ›",
+    "food_trend_your_month": "%1$s của bạn: %2$d% tươi",
+    "food_trend_open": "Xem xu hướng thực phẩm tươi hằng tháng"
   }
 }

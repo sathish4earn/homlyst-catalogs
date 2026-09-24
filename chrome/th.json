@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "ของสดที่ซื้อบ่อยที่สุด",
     "food_trend_trips": "%1$d จาก %2$d รอบ",
     "food_trend_trips_one": "%1$d จาก %2$d รอบ",
-    "food_trend_footnote": "นับเฉพาะของที่ซื้อจริง ไม่ใช่น้ำหนักหรือราคา และเฉพาะการซื้อผ่าน HomLyst เท่านั้น"
+    "food_trend_footnote": "นับเฉพาะของที่ซื้อจริง ไม่ใช่น้ำหนักหรือราคา และเฉพาะการซื้อผ่าน HomLyst เท่านั้น",
+    "food_trend_see_trend": "ดูแนวโน้มของคุณ ›",
+    "food_trend_your_month": "%1$s ของคุณ: สด %2$d%",
+    "food_trend_open": "ดูแนวโน้มอาหารสดรายเดือนของคุณ"
   }
 }

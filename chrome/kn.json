@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "ಹೆಚ್ಚು ಖರೀದಿಸಿದ ತಾಜಾ ವಸ್ತುಗಳು",
     "food_trend_trips": "%2$d ರಲ್ಲಿ %1$d ಟ್ರಿಪ್‌ಗಳು",
     "food_trend_trips_one": "%2$d ರಲ್ಲಿ %1$d ಟ್ರಿಪ್",
-    "food_trend_footnote": "ನಿಜವಾಗಿ ಖರೀದಿಸಿದ ವಸ್ತುಗಳನ್ನು ಮಾತ್ರ ಎಣಿಸಲಾಗುತ್ತದೆ, ತೂಕ ಅಥವಾ ಬೆಲೆ ಅಲ್ಲ. HomLyst ಮೂಲಕ ಮಾಡಿದ ಶಾಪಿಂಗ್ ಮಾತ್ರ."
+    "food_trend_footnote": "ನಿಜವಾಗಿ ಖರೀದಿಸಿದ ವಸ್ತುಗಳನ್ನು ಮಾತ್ರ ಎಣಿಸಲಾಗುತ್ತದೆ, ತೂಕ ಅಥವಾ ಬೆಲೆ ಅಲ್ಲ. HomLyst ಮೂಲಕ ಮಾಡಿದ ಶಾಪಿಂಗ್ ಮಾತ್ರ.",
+    "food_trend_see_trend": "ನಿಮ್ಮ ಪ್ರವೃತ್ತಿ ನೋಡಿ ›",
+    "food_trend_your_month": "ನಿಮ್ಮ %1$s: %2$d% ತಾಜಾ",
+    "food_trend_open": "ನಿಮ್ಮ ಮಾಸಿಕ ತಾಜಾ ಆಹಾರ ಪ್ರವೃತ್ತಿ ನೋಡಿ"
   }
 }

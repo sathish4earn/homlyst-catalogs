@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "Barang segar paling sering dibeli",
     "food_trend_trips": "%1$d dari %2$d belanja",
     "food_trend_trips_one": "%1$d dari %2$d belanja",
-    "food_trend_footnote": "Menghitung barang yang benar-benar dibeli, bukan berat atau harga. Hanya belanja lewat HomLyst."
+    "food_trend_footnote": "Menghitung barang yang benar-benar dibeli, bukan berat atau harga. Hanya belanja lewat HomLyst.",
+    "food_trend_see_trend": "Lihat tren Anda ›",
+    "food_trend_your_month": "%1$s Anda: %2$d% segar",
+    "food_trend_open": "Lihat tren makanan segar bulanan Anda"
   }
 }

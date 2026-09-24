@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -752,6 +752,9 @@
     "food_trend_top_fresh": "കൂടുതൽ വാങ്ങിയ പുതിയ സാധനങ്ങൾ",
     "food_trend_trips": "%2$d ൽ %1$d ട്രിപ്പുകൾ",
     "food_trend_trips_one": "%2$d ൽ %1$d ട്രിപ്പ്",
-    "food_trend_footnote": "ശരിക്കും വാങ്ങിയ സാധനങ്ങൾ മാത്രം എണ്ണുന്നു, ഭാരമോ വിലയോ അല്ല. HomLyst വഴി നടത്തിയ ഷോപ്പിംഗ് മാത്രം."
+    "food_trend_footnote": "ശരിക്കും വാങ്ങിയ സാധനങ്ങൾ മാത്രം എണ്ണുന്നു, ഭാരമോ വിലയോ അല്ല. HomLyst വഴി നടത്തിയ ഷോപ്പിംഗ് മാത്രം.",
+    "food_trend_see_trend": "നിങ്ങളുടെ പ്രവണത കാണുക ›",
+    "food_trend_your_month": "നിങ്ങളുടെ %1$s: %2$d% പുതിയത്",
+    "food_trend_open": "നിങ്ങളുടെ പ്രതിമാസ പുതിയ ഭക്ഷണ പ്രവണത കാണുക"
   }
 }
