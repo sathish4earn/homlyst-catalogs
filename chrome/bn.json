@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "শুধু আসলে কেনা জিনিস গোনা হয়, ওজন বা দাম নয়। শুধু HomLyst দিয়ে করা কেনাকাটা।",
     "food_trend_see_trend": "আপনার ধারা দেখুন ›",
     "food_trend_your_month": "আপনার %1$s: %2$d% তাজা",
-    "food_trend_open": "আপনার মাসিক তাজা খাবারের ধারা দেখুন"
+    "food_trend_open": "আপনার মাসিক তাজা খাবারের ধারা দেখুন",
+    "insights_title": "পরিবারের খাবারের তথ্য",
+    "insights_open": "পরিবারের খাবারের তথ্য দেখুন",
+    "insights_running_low": "সম্ভবত ফুরিয়ে আসছে",
+    "insights_add_running_low": "লিস্টে যোগ করুন",
+    "insights_added": "আপনার লিস্টে যোগ হয়েছে",
+    "insights_due_soon": "শীঘ্রই লাগবে",
+    "insights_overdue_one": "1 দিন দেরি",
+    "insights_overdue": "%1$d দিন দেরি",
+    "insights_lasts": "%1$s সাধারণত ~%2$d দিন চলে · %3$d দিন আগে কেনা",
+    "insights_nothing_low": "এখন কিছুই ফুরিয়ে আসছে বলে মনে হচ্ছে না।",
+    "insights_low_needs_history": "কোনো জিনিস 3টি আলাদা দিনে কেনার পর অনুমান শুরু হবে।",
+    "insights_top_title": "সবচেয়ে বেশি কেনা (গত 60 দিন)",
+    "insights_top3_home": "আপনার সেরা 3 (গত 60 দিন)",
+    "insights_trips": "%1$d টি ট্রিপ",
+    "insights_trips_one": "1 টি ট্রিপ",
+    "insights_per_day": "দিনে ~%1$s",
+    "insights_every_days": "প্রতি ~%1$d দিনে 1",
+    "insights_fruitveg_title": "মাথাপিছু ফল ও সবজি",
+    "insights_household": "বাড়িতে যারা খান",
+    "insights_fruitveg_value": "প্রত্যেকে দিনে ~%1$d গ্রাম (%2$d জন)। WHO অন্তত %3$d গ্রাম পরামর্শ দেয়।",
+    "insights_fruitveg_set_household": "এটি দেখতে বাড়িতে কতজন খান তা ঠিক করুন।",
+    "insights_fruitveg_not_enough": "গত 30 দিনে ওজন করা ফল বা সবজি সহ 2 বা তার বেশি ট্রিপ দরকার।",
+    "insights_changes_title": "আগের 30 দিনের তুলনায় পরিবর্তন",
+    "insights_change_up": "%1$s: %2$d টি ট্রিপ, %3$d থেকে বেড়েছে",
+    "insights_change_down": "%1$s: %2$d টি ট্রিপ, %3$d থেকে কমেছে",
+    "insights_footnote": "HomLyst দিয়ে যা কেনা হয়েছে তার ভিত্তিতে, যা খাওয়া হয়েছে তার নয়। গুনে কেনা ফল-সবজি গ্রামে ধরা হয় না।",
+    "insights_premium_title": "আপনার পরিবারের খাবারের ধরন দেখুন",
+    "insights_premium_desc": "সবচেয়ে বেশি কেনা জিনিস, দৈনিক ব্যবহার, মাথাপিছু ফল-সবজি এবং সময়ের সাথে পরিবর্তন দেখতে আপগ্রেড করুন।"
   }
 }

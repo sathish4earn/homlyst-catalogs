@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "Counts items you actually bought, not weight or price. Only shopping done through HomLyst.",
     "food_trend_see_trend": "See your trend ›",
     "food_trend_your_month": "Your %1$s: %2$d% fresh",
-    "food_trend_open": "See your monthly fresh food trend"
+    "food_trend_open": "See your monthly fresh food trend",
+    "insights_title": "Family food insights",
+    "insights_open": "See family food insights",
+    "insights_running_low": "Probably running low",
+    "insights_add_running_low": "Add to list",
+    "insights_added": "Added to your list",
+    "insights_due_soon": "Due soon",
+    "insights_overdue_one": "1 day overdue",
+    "insights_overdue": "%1$d days overdue",
+    "insights_lasts": "%1$s usually lasts ~%2$d days · bought %3$d days ago",
+    "insights_nothing_low": "Nothing looks low right now.",
+    "insights_low_needs_history": "Predictions start once you've bought an item on 3 different days.",
+    "insights_top_title": "Most bought (last 60 days)",
+    "insights_top3_home": "Your top 3 (last 60 days)",
+    "insights_trips": "%1$d trips",
+    "insights_trips_one": "1 trip",
+    "insights_per_day": "~%1$s a day",
+    "insights_every_days": "~1 every %1$d days",
+    "insights_fruitveg_title": "Fruit and veg per person",
+    "insights_household": "People eating at home",
+    "insights_fruitveg_value": "~%1$d g a day each (%2$d people). The WHO suggests at least %3$d g.",
+    "insights_fruitveg_set_household": "Set how many people eat at home to see this.",
+    "insights_fruitveg_not_enough": "Needs 2 or more trips with weighed fruit or vegetables in the last 30 days.",
+    "insights_changes_title": "Changes vs the 30 days before",
+    "insights_change_up": "%1$s: %2$d trips, up from %3$d",
+    "insights_change_down": "%1$s: %2$d trips, down from %3$d",
+    "insights_footnote": "Based on what you bought through HomLyst, not what was eaten. Fruit and veg bought by the piece isn't counted in grams.",
+    "insights_premium_title": "See your family's food patterns",
+    "insights_premium_desc": "Upgrade to see your most bought items, daily use, fruit and veg per person, and changes over time."
   }
 }

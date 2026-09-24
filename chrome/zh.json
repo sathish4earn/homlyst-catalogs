@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "只统计实际购买的商品，不按重量或价格计算。仅限通过 HomLyst 的购物。",
     "food_trend_see_trend": "查看你的趋势 ›",
     "food_trend_your_month": "你的%1$s：%2$d% 新鲜",
-    "food_trend_open": "查看每月新鲜食品趋势"
+    "food_trend_open": "查看每月新鲜食品趋势",
+    "insights_title": "家庭饮食洞察",
+    "insights_open": "查看家庭饮食洞察",
+    "insights_running_low": "可能快用完了",
+    "insights_add_running_low": "加入清单",
+    "insights_added": "已加入你的清单",
+    "insights_due_soon": "即将需要",
+    "insights_overdue_one": "已超 1 天",
+    "insights_overdue": "已超 %1$d 天",
+    "insights_lasts": "%1$s 通常可用约 %2$d 天 · %3$d 天前购买",
+    "insights_nothing_low": "目前没有快用完的东西。",
+    "insights_low_needs_history": "某件商品在 3 个不同日子购买后，才会开始预测。",
+    "insights_top_title": "最常购买（最近 60 天）",
+    "insights_top3_home": "你的前三名（最近 60 天）",
+    "insights_trips": "%1$d 次购物",
+    "insights_trips_one": "1 次购物",
+    "insights_per_day": "每天约 %1$s",
+    "insights_every_days": "约每 %1$d 天 1 个",
+    "insights_fruitveg_title": "人均蔬果",
+    "insights_household": "在家吃饭的人数",
+    "insights_fruitveg_value": "每人每天约 %1$d 克（%2$d 人）。世卫组织建议至少 %3$d 克。",
+    "insights_fruitveg_set_household": "设置在家吃饭的人数即可查看。",
+    "insights_fruitveg_not_enough": "最近 30 天内需要有 2 次或以上购买称重蔬果。",
+    "insights_changes_title": "与前 30 天相比的变化",
+    "insights_change_up": "%1$s：%2$d 次购物，较之前 %3$d 次增加",
+    "insights_change_down": "%1$s：%2$d 次购物，较之前 %3$d 次减少",
+    "insights_footnote": "基于你通过 HomLyst 购买的商品，而非实际食用量。按个购买的蔬果不计入克数。",
+    "insights_premium_title": "了解你家的饮食习惯",
+    "insights_premium_desc": "升级即可查看最常购买的商品、每日用量、人均蔬果以及随时间的变化。"
   }
 }

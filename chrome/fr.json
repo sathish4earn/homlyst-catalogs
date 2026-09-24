@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "Compte les articles réellement achetés, pas le poids ni le prix. Uniquement les courses faites avec HomLyst.",
     "food_trend_see_trend": "Voir votre tendance ›",
     "food_trend_your_month": "Votre mois de %1$s : %2$d% frais",
-    "food_trend_open": "Voir votre tendance mensuelle de produits frais"
+    "food_trend_open": "Voir votre tendance mensuelle de produits frais",
+    "insights_title": "Alimentation de la famille",
+    "insights_open": "Voir l'alimentation de la famille",
+    "insights_running_low": "Bientôt épuisé",
+    "insights_add_running_low": "Ajouter à la liste",
+    "insights_added": "Ajouté à votre liste",
+    "insights_due_soon": "Bientôt",
+    "insights_overdue_one": "1 jour de retard",
+    "insights_overdue": "%1$d jours de retard",
+    "insights_lasts": "%1$s dure en général ~%2$d jours · acheté il y a %3$d jours",
+    "insights_nothing_low": "Rien ne semble manquer pour l'instant.",
+    "insights_low_needs_history": "Les prévisions commencent après avoir acheté un article sur 3 jours différents.",
+    "insights_top_title": "Les plus achetés (60 derniers jours)",
+    "insights_top3_home": "Votre top 3 (60 derniers jours)",
+    "insights_trips": "%1$d courses",
+    "insights_trips_one": "1 course",
+    "insights_per_day": "~%1$s par jour",
+    "insights_every_days": "~1 tous les %1$d jours",
+    "insights_fruitveg_title": "Fruits et légumes par personne",
+    "insights_household": "Personnes qui mangent à la maison",
+    "insights_fruitveg_value": "~%1$d g par jour et par personne (%2$d personnes). L'OMS recommande au moins %3$d g.",
+    "insights_fruitveg_set_household": "Indiquez combien de personnes mangent à la maison pour voir ceci.",
+    "insights_fruitveg_not_enough": "Il faut au moins 2 courses avec des fruits ou légumes pesés sur les 30 derniers jours.",
+    "insights_changes_title": "Changements par rapport aux 30 jours précédents",
+    "insights_change_up": "%1$s : %2$d courses, en hausse par rapport à %3$d",
+    "insights_change_down": "%1$s : %2$d courses, en baisse par rapport à %3$d",
+    "insights_footnote": "Basé sur vos achats via HomLyst, pas sur ce qui a été mangé. Les fruits et légumes achetés à la pièce ne sont pas comptés en grammes.",
+    "insights_premium_title": "Découvrez les habitudes alimentaires de votre famille",
+    "insights_premium_desc": "Passez à Premium pour voir les articles les plus achetés, la consommation quotidienne, les fruits et légumes par personne et l'évolution dans le temps."
   }
 }

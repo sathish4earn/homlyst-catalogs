@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "నిజంగా కొన్న వస్తువులు మాత్రమే లెక్కిస్తాం, బరువు లేదా ధర కాదు. HomLyst ద్వారా చేసిన షాపింగ్ మాత్రమే.",
     "food_trend_see_trend": "మీ ధోరణి చూడండి ›",
     "food_trend_your_month": "మీ %1$s: %2$d% తాజా",
-    "food_trend_open": "మీ నెలవారీ తాజా ఆహార ధోరణి చూడండి"
+    "food_trend_open": "మీ నెలవారీ తాజా ఆహార ధోరణి చూడండి",
+    "insights_title": "కుటుంబ ఆహార సమాచారం",
+    "insights_open": "కుటుంబ ఆహార సమాచారం చూడండి",
+    "insights_running_low": "బహుశా అయిపోవస్తోంది",
+    "insights_add_running_low": "జాబితాలో జోడించండి",
+    "insights_added": "మీ జాబితాలో జోడించబడింది",
+    "insights_due_soon": "త్వరలో అవసరం",
+    "insights_overdue_one": "1 రోజు ఆలస్యం",
+    "insights_overdue": "%1$d రోజులు ఆలస్యం",
+    "insights_lasts": "%1$s సాధారణంగా ~%2$d రోజులు వస్తుంది · %3$d రోజుల క్రితం కొన్నారు",
+    "insights_nothing_low": "ప్రస్తుతం ఏదీ అయిపోతున్నట్లు లేదు.",
+    "insights_low_needs_history": "ఒక వస్తువును 3 వేర్వేరు రోజుల్లో కొన్న తర్వాత అంచనాలు మొదలవుతాయి.",
+    "insights_top_title": "ఎక్కువగా కొన్నవి (గత 60 రోజులు)",
+    "insights_top3_home": "మీ టాప్ 3 (గత 60 రోజులు)",
+    "insights_trips": "%1$d ట్రిప్పులు",
+    "insights_trips_one": "1 ట్రిప్",
+    "insights_per_day": "రోజుకు ~%1$s",
+    "insights_every_days": "~%1$d రోజులకు 1",
+    "insights_fruitveg_title": "ఒక్కొక్కరికి పండ్లు, కూరగాయలు",
+    "insights_household": "ఇంట్లో తినేవారు",
+    "insights_fruitveg_value": "ఒక్కొక్కరికి రోజుకు ~%1$d గ్రా (%2$d మంది). WHO కనీసం %3$d గ్రా సూచిస్తుంది.",
+    "insights_fruitveg_set_household": "ఇది చూడటానికి ఇంట్లో ఎంతమంది తింటారో సెట్ చేయండి.",
+    "insights_fruitveg_not_enough": "గత 30 రోజుల్లో తూకం వేసిన పండ్లు లేదా కూరగాయలతో 2 లేదా ఎక్కువ ట్రిప్పులు కావాలి.",
+    "insights_changes_title": "ముందటి 30 రోజులతో పోలిస్తే మార్పులు",
+    "insights_change_up": "%1$s: %2$d ట్రిప్పులు, %3$d నుండి పెరిగింది",
+    "insights_change_down": "%1$s: %2$d ట్రిప్పులు, %3$d నుండి తగ్గింది",
+    "insights_footnote": "HomLyst ద్వారా కొన్నదాని ఆధారంగా, తిన్నదాని ఆధారంగా కాదు. సంఖ్యలో కొన్న పండ్లు, కూరగాయలు గ్రాముల్లో లెక్కించబడవు.",
+    "insights_premium_title": "మీ కుటుంబ ఆహార అలవాట్లు చూడండి",
+    "insights_premium_desc": "ఎక్కువగా కొన్న వస్తువులు, రోజువారీ వినియోగం, ఒక్కొక్కరికి పండ్లు-కూరగాయలు, కాలక్రమేణా మార్పులు చూడటానికి అప్‌గ్రేడ్ చేయండి."
   }
 }

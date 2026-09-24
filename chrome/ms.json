@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "Mengira barang yang benar-benar dibeli, bukan berat atau harga. Hanya belian melalui HomLyst.",
     "food_trend_see_trend": "Lihat trend anda ›",
     "food_trend_your_month": "%1$s anda: %2$d% segar",
-    "food_trend_open": "Lihat trend makanan segar bulanan anda"
+    "food_trend_open": "Lihat trend makanan segar bulanan anda",
+    "insights_title": "Maklumat makanan keluarga",
+    "insights_open": "Lihat maklumat makanan keluarga",
+    "insights_running_low": "Mungkin hampir habis",
+    "insights_add_running_low": "Tambah ke senarai",
+    "insights_added": "Ditambah ke senarai anda",
+    "insights_due_soon": "Tidak lama lagi",
+    "insights_overdue_one": "Lewat 1 hari",
+    "insights_overdue": "Lewat %1$d hari",
+    "insights_lasts": "%1$s biasanya tahan ~%2$d hari · dibeli %3$d hari lalu",
+    "insights_nothing_low": "Tiada yang nampak hampir habis sekarang.",
+    "insights_low_needs_history": "Ramalan bermula selepas anda membeli sesuatu barang pada 3 hari berbeza.",
+    "insights_top_title": "Paling kerap dibeli (60 hari lepas)",
+    "insights_top3_home": "Top 3 anda (60 hari lepas)",
+    "insights_trips": "%1$d lawatan",
+    "insights_trips_one": "1 lawatan",
+    "insights_per_day": "~%1$s sehari",
+    "insights_every_days": "~1 setiap %1$d hari",
+    "insights_fruitveg_title": "Buah dan sayur setiap orang",
+    "insights_household": "Orang yang makan di rumah",
+    "insights_fruitveg_value": "~%1$d g sehari setiap orang (%2$d orang). WHO mencadangkan sekurang-kurangnya %3$d g.",
+    "insights_fruitveg_set_household": "Tetapkan berapa orang makan di rumah untuk melihat ini.",
+    "insights_fruitveg_not_enough": "Perlu 2 lawatan atau lebih dengan buah atau sayur yang ditimbang dalam 30 hari lepas.",
+    "insights_changes_title": "Perubahan berbanding 30 hari sebelumnya",
+    "insights_change_up": "%1$s: %2$d lawatan, naik daripada %3$d",
+    "insights_change_down": "%1$s: %2$d lawatan, turun daripada %3$d",
+    "insights_footnote": "Berdasarkan apa yang anda beli melalui HomLyst, bukan apa yang dimakan. Buah dan sayur yang dibeli mengikut biji tidak dikira dalam gram.",
+    "insights_premium_title": "Lihat corak makanan keluarga anda",
+    "insights_premium_desc": "Naik taraf untuk melihat barang paling kerap dibeli, penggunaan harian, buah dan sayur setiap orang, dan perubahan dari semasa ke semasa."
   }
 }

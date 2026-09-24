@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "นับเฉพาะของที่ซื้อจริง ไม่ใช่น้ำหนักหรือราคา และเฉพาะการซื้อผ่าน HomLyst เท่านั้น",
     "food_trend_see_trend": "ดูแนวโน้มของคุณ ›",
     "food_trend_your_month": "%1$s ของคุณ: สด %2$d%",
-    "food_trend_open": "ดูแนวโน้มอาหารสดรายเดือนของคุณ"
+    "food_trend_open": "ดูแนวโน้มอาหารสดรายเดือนของคุณ",
+    "insights_title": "ข้อมูลอาหารของครอบครัว",
+    "insights_open": "ดูข้อมูลอาหารของครอบครัว",
+    "insights_running_low": "น่าจะใกล้หมด",
+    "insights_add_running_low": "เพิ่มลงรายการ",
+    "insights_added": "เพิ่มลงรายการแล้ว",
+    "insights_due_soon": "ใกล้ถึงเวลา",
+    "insights_overdue_one": "เลยมา 1 วัน",
+    "insights_overdue": "เลยมา %1$d วัน",
+    "insights_lasts": "%1$s ปกติใช้ได้ ~%2$d วัน · ซื้อเมื่อ %3$d วันก่อน",
+    "insights_nothing_low": "ตอนนี้ยังไม่มีอะไรใกล้หมด",
+    "insights_low_needs_history": "การคาดการณ์จะเริ่มเมื่อคุณซื้อสินค้าชิ้นหนึ่งใน 3 วันที่ต่างกัน",
+    "insights_top_title": "ซื้อบ่อยที่สุด (60 วันที่ผ่านมา)",
+    "insights_top3_home": "3 อันดับแรกของคุณ (60 วันที่ผ่านมา)",
+    "insights_trips": "%1$d รอบ",
+    "insights_trips_one": "1 รอบ",
+    "insights_per_day": "~%1$s ต่อวัน",
+    "insights_every_days": "~1 ทุก %1$d วัน",
+    "insights_fruitveg_title": "ผักผลไม้ต่อคน",
+    "insights_household": "จำนวนคนที่กินที่บ้าน",
+    "insights_fruitveg_value": "คนละ ~%1$d กรัมต่อวัน (%2$d คน) WHO แนะนำอย่างน้อย %3$d กรัม",
+    "insights_fruitveg_set_household": "ตั้งจำนวนคนที่กินที่บ้านเพื่อดูข้อมูลนี้",
+    "insights_fruitveg_not_enough": "ต้องมีการซื้อผักหรือผลไม้แบบชั่งน้ำหนักอย่างน้อย 2 รอบใน 30 วันที่ผ่านมา",
+    "insights_changes_title": "การเปลี่ยนแปลงเทียบกับ 30 วันก่อนหน้า",
+    "insights_change_up": "%1$s: %2$d รอบ เพิ่มจาก %3$d",
+    "insights_change_down": "%1$s: %2$d รอบ ลดจาก %3$d",
+    "insights_footnote": "อ้างอิงจากสิ่งที่ซื้อผ่าน HomLyst ไม่ใช่สิ่งที่กิน ผักผลไม้ที่ซื้อเป็นชิ้นจะไม่นับเป็นกรัม",
+    "insights_premium_title": "ดูรูปแบบการกินของครอบครัวคุณ",
+    "insights_premium_desc": "อัปเกรดเพื่อดูสินค้าที่ซื้อบ่อยที่สุด การใช้ต่อวัน ผักผลไม้ต่อคน และการเปลี่ยนแปลงตามเวลา"
   }
 }

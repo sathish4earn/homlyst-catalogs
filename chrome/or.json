@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "କେବଳ ପ୍ରକୃତରେ କିଣାଯାଇଥିବା ଜିନିଷ ଗଣାଯାଏ, ଓଜନ କିମ୍ବା ଦାମ ନୁହେଁ। କେବଳ HomLyst ଦ୍ୱାରା କରାଯାଇଥିବା ସପିଂ।",
     "food_trend_see_trend": "ଆପଣଙ୍କ ଧାରା ଦେଖନ୍ତୁ ›",
     "food_trend_your_month": "ଆପଣଙ୍କ %1$s: %2$d% ତାଜା",
-    "food_trend_open": "ଆପଣଙ୍କ ମାସିକ ତାଜା ଖାଦ୍ୟ ଧାରା ଦେଖନ୍ତୁ"
+    "food_trend_open": "ଆପଣଙ୍କ ମାସିକ ତାଜା ଖାଦ୍ୟ ଧାରା ଦେଖନ୍ତୁ",
+    "insights_title": "ପରିବାରର ଖାଦ୍ୟ ସୂଚନା",
+    "insights_open": "ପରିବାରର ଖାଦ୍ୟ ସୂଚନା ଦେଖନ୍ତୁ",
+    "insights_running_low": "ହୁଏତ ସରିବାକୁ ବସିଛି",
+    "insights_add_running_low": "ତାଲିକାରେ ଯୋଡ଼ନ୍ତୁ",
+    "insights_added": "ଆପଣଙ୍କ ତାଲିକାରେ ଯୋଡ଼ାଗଲା",
+    "insights_due_soon": "ଶୀଘ୍ର ଦରକାର",
+    "insights_overdue_one": "1 ଦିନ ବିଳମ୍ବ",
+    "insights_overdue": "%1$d ଦିନ ବିଳମ୍ବ",
+    "insights_lasts": "%1$s ସାଧାରଣତଃ ~%2$d ଦିନ ଚାଲେ · %3$d ଦିନ ଆଗରୁ କିଣାଯାଇଛି",
+    "insights_nothing_low": "ଏବେ କିଛି ସରୁଥିବା ପରି ଲାଗୁନାହିଁ।",
+    "insights_low_needs_history": "କୌଣସି ଜିନିଷ 3ଟି ଭିନ୍ନ ଦିନରେ କିଣିବା ପରେ ଅନୁମାନ ଆରମ୍ଭ ହେବ।",
+    "insights_top_title": "ସବୁଠାରୁ ଅଧିକ କିଣାଯାଇଥିବା (ଗତ 60 ଦିନ)",
+    "insights_top3_home": "ଆପଣଙ୍କ ଶୀର୍ଷ 3 (ଗତ 60 ଦିନ)",
+    "insights_trips": "%1$d ଟ୍ରିପ୍",
+    "insights_trips_one": "1 ଟ୍ରିପ୍",
+    "insights_per_day": "ଦିନକୁ ~%1$s",
+    "insights_every_days": "~%1$d ଦିନରେ 1",
+    "insights_fruitveg_title": "ମୁଣ୍ଡପିଛା ଫଳ ଓ ପନିପରିବା",
+    "insights_household": "ଘରେ ଖାଉଥିବା ଲୋକ",
+    "insights_fruitveg_value": "ପ୍ରତ୍ୟେକଙ୍କୁ ଦିନକୁ ~%1$d ଗ୍ରାମ (%2$d ଜଣ)। WHO ଅତି କମରେ %3$d ଗ୍ରାମ ପରାମର୍ଶ ଦିଏ।",
+    "insights_fruitveg_set_household": "ଏହା ଦେଖିବାକୁ ଘରେ କେତେ ଜଣ ଖାଆନ୍ତି ସେଟ୍ କରନ୍ତୁ।",
+    "insights_fruitveg_not_enough": "ଗତ 30 ଦିନରେ ଓଜନ କରି କିଣାଯାଇଥିବା ଫଳ ବା ପନିପରିବା ସହ 2 ବା ଅଧିକ ଟ୍ରିପ୍ ଦରକାର।",
+    "insights_changes_title": "ପୂର୍ବ 30 ଦିନ ତୁଳନାରେ ପରିବର୍ତ୍ତନ",
+    "insights_change_up": "%1$s: %2$d ଟ୍ରିପ୍, %3$d ରୁ ବଢ଼ିଛି",
+    "insights_change_down": "%1$s: %2$d ଟ୍ରିପ୍, %3$d ରୁ କମିଛି",
+    "insights_footnote": "HomLyst ଦ୍ୱାରା କିଣାଯାଇଥିବା ଉପରେ ଆଧାରିତ, ଖାଇଥିବା ଉପରେ ନୁହେଁ। ସଂଖ୍ୟାରେ କିଣାଯାଇଥିବା ଫଳ-ପନିପରିବା ଗ୍ରାମରେ ଗଣାଯାଏ ନାହିଁ।",
+    "insights_premium_title": "ଆପଣଙ୍କ ପରିବାରର ଖାଦ୍ୟ ଧାରା ଦେଖନ୍ତୁ",
+    "insights_premium_desc": "ସବୁଠାରୁ ଅଧିକ କିଣାଯାଇଥିବା ଜିନିଷ, ଦୈନିକ ବ୍ୟବହାର, ମୁଣ୍ଡପିଛା ଫଳ-ପନିପରିବା ଓ ସମୟ ସହ ପରିବର୍ତ୍ତନ ଦେଖିବାକୁ ଅପଗ୍ରେଡ୍ କରନ୍ତୁ।"
   }
 }
