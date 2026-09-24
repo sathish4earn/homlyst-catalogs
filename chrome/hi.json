@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "वास्तव में खरीदे गए आइटम गिने जाते हैं, वज़न या कीमत नहीं। केवल HomLyst से की गई खरीदारी।",
     "food_trend_see_trend": "अपना ट्रेंड देखें ›",
     "food_trend_your_month": "आपका %1$s: %2$d% ताज़ा",
-    "food_trend_open": "अपना मासिक ताज़ा भोजन ट्रेंड देखें"
+    "food_trend_open": "अपना मासिक ताज़ा भोजन ट्रेंड देखें",
+    "insights_title": "परिवार के भोजन की जानकारी",
+    "insights_open": "परिवार के भोजन की जानकारी देखें",
+    "insights_running_low": "शायद खत्म होने वाला है",
+    "insights_add_running_low": "लिस्ट में जोड़ें",
+    "insights_added": "आपकी लिस्ट में जोड़ दिया गया",
+    "insights_due_soon": "जल्द चाहिए",
+    "insights_overdue_one": "1 दिन देर",
+    "insights_overdue": "%1$d दिन देर",
+    "insights_lasts": "%1$s आम तौर पर ~%2$d दिन चलता है · %3$d दिन पहले खरीदा",
+    "insights_nothing_low": "अभी कुछ भी खत्म होता नहीं दिख रहा।",
+    "insights_low_needs_history": "किसी आइटम को 3 अलग-अलग दिनों में खरीदने के बाद अनुमान शुरू होंगे।",
+    "insights_top_title": "सबसे ज़्यादा खरीदे गए (पिछले 60 दिन)",
+    "insights_top3_home": "आपके टॉप 3 (पिछले 60 दिन)",
+    "insights_trips": "%1$d ट्रिप",
+    "insights_trips_one": "1 ट्रिप",
+    "insights_per_day": "~%1$s रोज़",
+    "insights_every_days": "हर ~%1$d दिन में 1",
+    "insights_fruitveg_title": "प्रति व्यक्ति फल और सब्ज़ी",
+    "insights_household": "घर पर खाने वाले लोग",
+    "insights_fruitveg_value": "हर व्यक्ति ~%1$d ग्राम रोज़ (%2$d लोग)। WHO कम से कम %3$d ग्राम की सलाह देता है।",
+    "insights_fruitveg_set_household": "यह देखने के लिए बताएं कि घर पर कितने लोग खाते हैं।",
+    "insights_fruitveg_not_enough": "पिछले 30 दिनों में तौले गए फल या सब्ज़ियों वाली 2 या ज़्यादा ट्रिप चाहिए।",
+    "insights_changes_title": "पिछले 30 दिनों की तुलना में बदलाव",
+    "insights_change_up": "%1$s: %2$d ट्रिप, %3$d से बढ़कर",
+    "insights_change_down": "%1$s: %2$d ट्रिप, %3$d से घटकर",
+    "insights_footnote": "यह HomLyst से की गई खरीदारी पर आधारित है, खाए गए भोजन पर नहीं। गिनती में खरीदे गए फल-सब्ज़ी ग्राम में नहीं गिने जाते।",
+    "insights_premium_title": "अपने परिवार के खाने के पैटर्न देखें",
+    "insights_premium_desc": "सबसे ज़्यादा खरीदे गए आइटम, रोज़ाना खपत, प्रति व्यक्ति फल-सब्ज़ी और समय के साथ बदलाव देखने के लिए अपग्रेड करें।"
   }
 }

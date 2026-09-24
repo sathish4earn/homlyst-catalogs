@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "ਸਿਰਫ਼ ਅਸਲ ਵਿੱਚ ਖਰੀਦੀਆਂ ਚੀਜ਼ਾਂ ਗਿਣੀਆਂ ਜਾਂਦੀਆਂ ਹਨ, ਭਾਰ ਜਾਂ ਕੀਮਤ ਨਹੀਂ। ਸਿਰਫ਼ HomLyst ਰਾਹੀਂ ਕੀਤੀ ਖਰੀਦਦਾਰੀ।",
     "food_trend_see_trend": "ਆਪਣਾ ਰੁਝਾਨ ਦੇਖੋ ›",
     "food_trend_your_month": "ਤੁਹਾਡਾ %1$s: %2$d% ਤਾਜ਼ਾ",
-    "food_trend_open": "ਆਪਣਾ ਮਹੀਨਾਵਾਰ ਤਾਜ਼ਾ ਭੋਜਨ ਰੁਝਾਨ ਦੇਖੋ"
+    "food_trend_open": "ਆਪਣਾ ਮਹੀਨਾਵਾਰ ਤਾਜ਼ਾ ਭੋਜਨ ਰੁਝਾਨ ਦੇਖੋ",
+    "insights_title": "ਪਰਿਵਾਰ ਦੇ ਭੋਜਨ ਦੀ ਜਾਣਕਾਰੀ",
+    "insights_open": "ਪਰਿਵਾਰ ਦੇ ਭੋਜਨ ਦੀ ਜਾਣਕਾਰੀ ਦੇਖੋ",
+    "insights_running_low": "ਸ਼ਾਇਦ ਮੁੱਕਣ ਵਾਲਾ ਹੈ",
+    "insights_add_running_low": "ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ",
+    "insights_added": "ਤੁਹਾਡੀ ਸੂਚੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ",
+    "insights_due_soon": "ਜਲਦੀ ਚਾਹੀਦਾ",
+    "insights_overdue_one": "1 ਦਿਨ ਦੇਰੀ",
+    "insights_overdue": "%1$d ਦਿਨ ਦੇਰੀ",
+    "insights_lasts": "%1$s ਆਮ ਤੌਰ 'ਤੇ ~%2$d ਦਿਨ ਚੱਲਦਾ ਹੈ · %3$d ਦਿਨ ਪਹਿਲਾਂ ਖਰੀਦਿਆ",
+    "insights_nothing_low": "ਹੁਣ ਕੁਝ ਵੀ ਮੁੱਕਦਾ ਨਹੀਂ ਲੱਗਦਾ।",
+    "insights_low_needs_history": "ਕਿਸੇ ਚੀਜ਼ ਨੂੰ 3 ਵੱਖਰੇ ਦਿਨਾਂ 'ਤੇ ਖਰੀਦਣ ਤੋਂ ਬਾਅਦ ਅੰਦਾਜ਼ੇ ਸ਼ੁਰੂ ਹੋਣਗੇ।",
+    "insights_top_title": "ਸਭ ਤੋਂ ਵੱਧ ਖਰੀਦੀਆਂ (ਪਿਛਲੇ 60 ਦਿਨ)",
+    "insights_top3_home": "ਤੁਹਾਡੀਆਂ ਟਾਪ 3 (ਪਿਛਲੇ 60 ਦਿਨ)",
+    "insights_trips": "%1$d ਟ੍ਰਿਪ",
+    "insights_trips_one": "1 ਟ੍ਰਿਪ",
+    "insights_per_day": "ਰੋਜ਼ ~%1$s",
+    "insights_every_days": "ਹਰ ~%1$d ਦਿਨਾਂ ਵਿੱਚ 1",
+    "insights_fruitveg_title": "ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਫਲ ਅਤੇ ਸਬਜ਼ੀਆਂ",
+    "insights_household": "ਘਰ ਖਾਣ ਵਾਲੇ ਲੋਕ",
+    "insights_fruitveg_value": "ਹਰੇਕ ਨੂੰ ਰੋਜ਼ ~%1$d ਗ੍ਰਾਮ (%2$d ਲੋਕ)। WHO ਘੱਟੋ-ਘੱਟ %3$d ਗ੍ਰਾਮ ਦੀ ਸਲਾਹ ਦਿੰਦਾ ਹੈ।",
+    "insights_fruitveg_set_household": "ਇਹ ਦੇਖਣ ਲਈ ਦੱਸੋ ਕਿ ਘਰ ਕਿੰਨੇ ਲੋਕ ਖਾਂਦੇ ਹਨ।",
+    "insights_fruitveg_not_enough": "ਪਿਛਲੇ 30 ਦਿਨਾਂ ਵਿੱਚ ਤੋਲ ਕੇ ਖਰੀਦੇ ਫਲ ਜਾਂ ਸਬਜ਼ੀਆਂ ਵਾਲੀਆਂ 2 ਜਾਂ ਵੱਧ ਟ੍ਰਿਪਾਂ ਚਾਹੀਦੀਆਂ ਹਨ।",
+    "insights_changes_title": "ਪਿਛਲੇ 30 ਦਿਨਾਂ ਦੇ ਮੁਕਾਬਲੇ ਬਦਲਾਅ",
+    "insights_change_up": "%1$s: %2$d ਟ੍ਰਿਪ, %3$d ਤੋਂ ਵਧੀਆਂ",
+    "insights_change_down": "%1$s: %2$d ਟ੍ਰਿਪ, %3$d ਤੋਂ ਘਟੀਆਂ",
+    "insights_footnote": "HomLyst ਰਾਹੀਂ ਖਰੀਦੇ 'ਤੇ ਆਧਾਰਿਤ, ਖਾਧੇ 'ਤੇ ਨਹੀਂ। ਗਿਣਤੀ ਵਿੱਚ ਖਰੀਦੇ ਫਲ-ਸਬਜ਼ੀਆਂ ਗ੍ਰਾਮਾਂ ਵਿੱਚ ਨਹੀਂ ਗਿਣੇ ਜਾਂਦੇ।",
+    "insights_premium_title": "ਆਪਣੇ ਪਰਿਵਾਰ ਦੇ ਖਾਣ ਦੇ ਢੰਗ ਦੇਖੋ",
+    "insights_premium_desc": "ਸਭ ਤੋਂ ਵੱਧ ਖਰੀਦੀਆਂ ਚੀਜ਼ਾਂ, ਰੋਜ਼ਾਨਾ ਵਰਤੋਂ, ਪ੍ਰਤੀ ਵਿਅਕਤੀ ਫਲ-ਸਬਜ਼ੀਆਂ ਅਤੇ ਸਮੇਂ ਨਾਲ ਬਦਲਾਅ ਦੇਖਣ ਲਈ ਅੱਪਗ੍ਰੇਡ ਕਰੋ।"
   }
 }

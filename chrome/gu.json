@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "ખરેખર ખરીદેલી વસ્તુઓ જ ગણાય છે, વજન કે કિંમત નહીં. ફક્ત HomLyst દ્વારા કરેલી ખરીદી.",
     "food_trend_see_trend": "તમારો ટ્રેન્ડ જુઓ ›",
     "food_trend_your_month": "તમારો %1$s: %2$d% તાજું",
-    "food_trend_open": "તમારો માસિક તાજા ખોરાકનો ટ્રેન્ડ જુઓ"
+    "food_trend_open": "તમારો માસિક તાજા ખોરાકનો ટ્રેન્ડ જુઓ",
+    "insights_title": "કુટુંબના ખોરાકની માહિતી",
+    "insights_open": "કુટુંબના ખોરાકની માહિતી જુઓ",
+    "insights_running_low": "કદાચ ખૂટવા આવ્યું છે",
+    "insights_add_running_low": "લિસ્ટમાં ઉમેરો",
+    "insights_added": "તમારી લિસ્ટમાં ઉમેરાયું",
+    "insights_due_soon": "જલ્દી જોઈશે",
+    "insights_overdue_one": "1 દિવસ મોડું",
+    "insights_overdue": "%1$d દિવસ મોડું",
+    "insights_lasts": "%1$s સામાન્ય રીતે ~%2$d દિવસ ચાલે છે · %3$d દિવસ પહેલાં ખરીદ્યું",
+    "insights_nothing_low": "હમણાં કંઈ ખૂટતું હોય એવું લાગતું નથી.",
+    "insights_low_needs_history": "કોઈ વસ્તુ 3 અલગ દિવસે ખરીદ્યા પછી અંદાજ શરૂ થશે.",
+    "insights_top_title": "સૌથી વધુ ખરીદેલી (છેલ્લા 60 દિવસ)",
+    "insights_top3_home": "તમારા ટોપ 3 (છેલ્લા 60 દિવસ)",
+    "insights_trips": "%1$d ટ્રિપ",
+    "insights_trips_one": "1 ટ્રિપ",
+    "insights_per_day": "રોજ ~%1$s",
+    "insights_every_days": "દર ~%1$d દિવસે 1",
+    "insights_fruitveg_title": "વ્યક્તિ દીઠ ફળ અને શાકભાજી",
+    "insights_household": "ઘરે જમનારા લોકો",
+    "insights_fruitveg_value": "દરેકને રોજ ~%1$d ગ્રામ (%2$d લોકો). WHO ઓછામાં ઓછા %3$d ગ્રામની ભલામણ કરે છે.",
+    "insights_fruitveg_set_household": "આ જોવા ઘરે કેટલા લોકો જમે છે તે સેટ કરો.",
+    "insights_fruitveg_not_enough": "છેલ્લા 30 દિવસમાં તોલીને ખરીદેલાં ફળ કે શાકભાજી સાથે 2 કે વધુ ટ્રિપ જોઈએ.",
+    "insights_changes_title": "અગાઉના 30 દિવસની સરખામણીમાં ફેરફાર",
+    "insights_change_up": "%1$s: %2$d ટ્રિપ, %3$d થી વધ્યું",
+    "insights_change_down": "%1$s: %2$d ટ્રિપ, %3$d થી ઘટ્યું",
+    "insights_footnote": "HomLyst દ્વારા ખરીદેલા પર આધારિત, ખાધેલા પર નહીં. નંગમાં ખરીદેલાં ફળ-શાકભાજી ગ્રામમાં ગણાતાં નથી.",
+    "insights_premium_title": "તમારા કુટુંબની ખાવાની પદ્ધતિ જુઓ",
+    "insights_premium_desc": "સૌથી વધુ ખરીદેલી વસ્તુઓ, રોજનો વપરાશ, વ્યક્તિ દીઠ ફળ-શાકભાજી અને સમય સાથે ફેરફાર જોવા અપગ્રેડ કરો."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -755,6 +755,34 @@
     "food_trend_footnote": "प्रत्यक्ष खरेदी केलेल्या वस्तूच मोजल्या जातात, वजन किंवा किंमत नाही. फक्त HomLyst द्वारे केलेली खरेदी.",
     "food_trend_see_trend": "तुमचा ट्रेंड पहा ›",
     "food_trend_your_month": "तुमचा %1$s: %2$d% ताजे",
-    "food_trend_open": "तुमचा मासिक ताज्या अन्नाचा ट्रेंड पहा"
+    "food_trend_open": "तुमचा मासिक ताज्या अन्नाचा ट्रेंड पहा",
+    "insights_title": "कुटुंबाच्या अन्नाची माहिती",
+    "insights_open": "कुटुंबाच्या अन्नाची माहिती पहा",
+    "insights_running_low": "कदाचित संपत आले आहे",
+    "insights_add_running_low": "यादीत जोडा",
+    "insights_added": "तुमच्या यादीत जोडले",
+    "insights_due_soon": "लवकरच लागेल",
+    "insights_overdue_one": "1 दिवस उशीर",
+    "insights_overdue": "%1$d दिवस उशीर",
+    "insights_lasts": "%1$s साधारण ~%2$d दिवस पुरते · %3$d दिवसांपूर्वी घेतले",
+    "insights_nothing_low": "सध्या काहीही संपत आलेले दिसत नाही.",
+    "insights_low_needs_history": "एखादी वस्तू 3 वेगवेगळ्या दिवशी घेतल्यानंतर अंदाज सुरू होतील.",
+    "insights_top_title": "सर्वाधिक खरेदी (मागील 60 दिवस)",
+    "insights_top3_home": "तुमचे टॉप 3 (मागील 60 दिवस)",
+    "insights_trips": "%1$d फेऱ्या",
+    "insights_trips_one": "1 फेरी",
+    "insights_per_day": "रोज ~%1$s",
+    "insights_every_days": "दर ~%1$d दिवसांनी 1",
+    "insights_fruitveg_title": "प्रति व्यक्ती फळे आणि भाज्या",
+    "insights_household": "घरी जेवणारे लोक",
+    "insights_fruitveg_value": "प्रत्येकी रोज ~%1$d ग्रॅम (%2$d लोक). WHO किमान %3$d ग्रॅम सुचवते.",
+    "insights_fruitveg_set_household": "हे पाहण्यासाठी घरी किती लोक जेवतात ते सेट करा.",
+    "insights_fruitveg_not_enough": "मागील 30 दिवसांत वजन करून घेतलेल्या फळे किंवा भाज्यांसह 2 किंवा अधिक फेऱ्या लागतात.",
+    "insights_changes_title": "आधीच्या 30 दिवसांच्या तुलनेत बदल",
+    "insights_change_up": "%1$s: %2$d फेऱ्या, %3$d वरून वाढ",
+    "insights_change_down": "%1$s: %2$d फेऱ्या, %3$d वरून घट",
+    "insights_footnote": "HomLyst द्वारे खरेदी केलेल्यावर आधारित, खाल्लेल्यावर नाही. नगावर घेतलेली फळे-भाज्या ग्रॅममध्ये मोजल्या जात नाहीत.",
+    "insights_premium_title": "तुमच्या कुटुंबाच्या अन्नाच्या सवयी पहा",
+    "insights_premium_desc": "सर्वाधिक खरेदी केलेल्या वस्तू, रोजचा वापर, प्रति व्यक्ती फळे-भाज्या आणि काळानुसार बदल पाहण्यासाठी अपग्रेड करा."
   }
 }
