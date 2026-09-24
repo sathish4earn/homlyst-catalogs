@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "Meter Kesihatan: segar atau diproses?",
     "health_not_food": "Bukan makanan",
     "health_section_fresh": "🥦 Segar (%1$d)",
-    "health_section_processed": "📦 Diproses (%1$d)"
+    "health_section_processed": "📦 Diproses (%1$d)",
+    "food_trend_title": "Trend makanan segar",
+    "food_trend_empty": "Selesaikan satu lawatan membeli-belah untuk melihat berapa banyak makanan segar yang anda beli setiap bulan.",
+    "food_trend_items_fresh": "%1$s daripada %2$s barang segar",
+    "food_trend_up": "Naik %1$d mata berbanding %2$s 🌱",
+    "food_trend_down": "Turun %1$d mata berbanding %2$s",
+    "food_trend_same": "Sama seperti %1$s",
+    "food_trend_percent_fresh": "%1$d% segar",
+    "food_trend_not_enough": "Data tidak mencukupi",
+    "food_trend_progress": "%1$s: setakat ini %2$d daripada %3$d barang makanan. Carta anda bermula apabila sebulan mencapai %3$d.",
+    "food_trend_last_months": "6 bulan lepas",
+    "food_trend_tap_hint": "Ketik bulan untuk melihat apa yang anda beli. Bar kosong ada kurang daripada 5 barang makanan.",
+    "food_trend_best_month": "⭐ Bulan terbaik: %1$s (%2$d% segar)",
+    "food_trend_top_processed": "Barang diproses paling kerap dibeli",
+    "food_trend_top_fresh": "Barang segar paling kerap dibeli",
+    "food_trend_trips": "%1$d daripada %2$d lawatan",
+    "food_trend_trips_one": "%1$d daripada %2$d lawatan",
+    "food_trend_footnote": "Mengira barang yang benar-benar dibeli, bukan berat atau harga. Hanya belian melalui HomLyst."
   }
 }

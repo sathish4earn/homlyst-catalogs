@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "Health Meter: fresh or processed?",
     "health_not_food": "Not food",
     "health_section_fresh": "🥦 Fresh (%1$d)",
-    "health_section_processed": "📦 Processed (%1$d)"
+    "health_section_processed": "📦 Processed (%1$d)",
+    "food_trend_title": "Fresh food trend",
+    "food_trend_empty": "Finish a shopping trip to see how much fresh food you buy each month.",
+    "food_trend_items_fresh": "%1$s of %2$s items fresh",
+    "food_trend_up": "Up %1$d points from %2$s 🌱",
+    "food_trend_down": "Down %1$d points from %2$s",
+    "food_trend_same": "Same as %1$s",
+    "food_trend_percent_fresh": "%1$d% fresh",
+    "food_trend_not_enough": "Not enough data",
+    "food_trend_progress": "%1$s: %2$d of %3$d food items so far. Your chart starts once a month has %3$d.",
+    "food_trend_last_months": "Last 6 months",
+    "food_trend_tap_hint": "Tap a month to see what you bought. Empty bars have fewer than 5 food items.",
+    "food_trend_best_month": "⭐ Best month: %1$s (%2$d% fresh)",
+    "food_trend_top_processed": "Most bought processed items",
+    "food_trend_top_fresh": "Most bought fresh items",
+    "food_trend_trips": "%1$d of %2$d trips",
+    "food_trend_trips_one": "%1$d of %2$d trip",
+    "food_trend_footnote": "Counts items you actually bought, not weight or price. Only shopping done through HomLyst."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "ఆరోగ్య మీటర్: తాజానా ప్రాసెస్ చేసినదా?",
     "health_not_food": "ఆహారం కాదు",
     "health_section_fresh": "🥦 తాజా (%1$d)",
-    "health_section_processed": "📦 ప్రాసెస్ చేసినవి (%1$d)"
+    "health_section_processed": "📦 ప్రాసెస్ చేసినవి (%1$d)",
+    "food_trend_title": "తాజా ఆహార ధోరణి",
+    "food_trend_empty": "ప్రతి నెలా మీరు ఎంత తాజా ఆహారం కొంటున్నారో చూడటానికి ఒక షాపింగ్ ట్రిప్ పూర్తి చేయండి.",
+    "food_trend_items_fresh": "%2$s లో %1$s వస్తువులు తాజావి",
+    "food_trend_up": "%2$s కంటే %1$d పాయింట్లు ఎక్కువ 🌱",
+    "food_trend_down": "%2$s కంటే %1$d పాయింట్లు తక్కువ",
+    "food_trend_same": "%1$s లాగే",
+    "food_trend_percent_fresh": "%1$d% తాజా",
+    "food_trend_not_enough": "తగినంత డేటా లేదు",
+    "food_trend_progress": "%1$s: ఇప్పటివరకు %3$d లో %2$d ఆహార వస్తువులు. ఒక నెలలో %3$d అయ్యాక మీ చార్ట్ మొదలవుతుంది.",
+    "food_trend_last_months": "గత 6 నెలలు",
+    "food_trend_tap_hint": "ఏమి కొన్నారో చూడటానికి ఒక నెలపై నొక్కండి. ఖాళీ బార్లలో 5 కంటే తక్కువ ఆహార వస్తువులు ఉన్నాయి.",
+    "food_trend_best_month": "⭐ ఉత్తమ నెల: %1$s (%2$d% తాజా)",
+    "food_trend_top_processed": "ఎక్కువగా కొన్న ప్రాసెస్ చేసిన వస్తువులు",
+    "food_trend_top_fresh": "ఎక్కువగా కొన్న తాజా వస్తువులు",
+    "food_trend_trips": "%2$d లో %1$d ట్రిప్పులు",
+    "food_trend_trips_one": "%2$d లో %1$d ట్రిప్",
+    "food_trend_footnote": "నిజంగా కొన్న వస్తువులు మాత్రమే లెక్కిస్తాం, బరువు లేదా ధర కాదు. HomLyst ద్వారా చేసిన షాపింగ్ మాత్రమే."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "Indicateur de Santé : frais ou transformé ?",
     "health_not_food": "Pas alimentaire",
     "health_section_fresh": "🥦 Frais (%1$d)",
-    "health_section_processed": "📦 Transformé (%1$d)"
+    "health_section_processed": "📦 Transformé (%1$d)",
+    "food_trend_title": "Tendance produits frais",
+    "food_trend_empty": "Terminez des courses pour voir quelle part de produits frais vous achetez chaque mois.",
+    "food_trend_items_fresh": "%1$s articles frais sur %2$s",
+    "food_trend_up": "%1$d points de plus qu'en %2$s 🌱",
+    "food_trend_down": "%1$d points de moins qu'en %2$s",
+    "food_trend_same": "Comme en %1$s",
+    "food_trend_percent_fresh": "%1$d% frais",
+    "food_trend_not_enough": "Pas assez de données",
+    "food_trend_progress": "%1$s : %2$d aliments sur %3$d pour l'instant. Votre graphique démarre quand un mois en compte %3$d.",
+    "food_trend_last_months": "6 derniers mois",
+    "food_trend_tap_hint": "Touchez un mois pour voir vos achats. Les barres vides ont moins de 5 aliments.",
+    "food_trend_best_month": "⭐ Meilleur mois : %1$s (%2$d% frais)",
+    "food_trend_top_processed": "Produits transformés les plus achetés",
+    "food_trend_top_fresh": "Produits frais les plus achetés",
+    "food_trend_trips": "%1$d courses sur %2$d",
+    "food_trend_trips_one": "%1$d course sur %2$d",
+    "food_trend_footnote": "Compte les articles réellement achetés, pas le poids ni le prix. Uniquement les courses faites avec HomLyst."
   }
 }

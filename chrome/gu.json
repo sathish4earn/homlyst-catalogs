@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "હેલ્થ મીટર: તાજું કે પ્રોસેસ્ડ?",
     "health_not_food": "ખોરાક નથી",
     "health_section_fresh": "🥦 તાજું (%1$d)",
-    "health_section_processed": "📦 પ્રોસેસ્ડ (%1$d)"
+    "health_section_processed": "📦 પ્રોસેસ્ડ (%1$d)",
+    "food_trend_title": "તાજા ખોરાકનો ટ્રેન્ડ",
+    "food_trend_empty": "દર મહિને તમે કેટલો તાજો ખોરાક ખરીદો છો તે જોવા એક શોપિંગ ટ્રિપ પૂરી કરો.",
+    "food_trend_items_fresh": "%2$s માંથી %1$s વસ્તુઓ તાજી",
+    "food_trend_up": "%2$s કરતાં %1$d પોઇન્ટ વધુ 🌱",
+    "food_trend_down": "%2$s કરતાં %1$d પોઇન્ટ ઓછું",
+    "food_trend_same": "%1$s જેટલું જ",
+    "food_trend_percent_fresh": "%1$d% તાજું",
+    "food_trend_not_enough": "પૂરતો ડેટા નથી",
+    "food_trend_progress": "%1$s: અત્યાર સુધી %3$d માંથી %2$d ખાદ્ય વસ્તુઓ. કોઈ મહિનામાં %3$d થતાં તમારો ચાર્ટ શરૂ થશે.",
+    "food_trend_last_months": "છેલ્લા 6 મહિના",
+    "food_trend_tap_hint": "શું ખરીદ્યું તે જોવા મહિના પર ટેપ કરો. ખાલી બારમાં 5 કરતાં ઓછી ખાદ્ય વસ્તુઓ છે.",
+    "food_trend_best_month": "⭐ શ્રેષ્ઠ મહિનો: %1$s (%2$d% તાજું)",
+    "food_trend_top_processed": "સૌથી વધુ ખરીદેલી પ્રોસેસ્ડ વસ્તુઓ",
+    "food_trend_top_fresh": "સૌથી વધુ ખરીદેલી તાજી વસ્તુઓ",
+    "food_trend_trips": "%2$d માંથી %1$d ટ્રિપ",
+    "food_trend_trips_one": "%2$d માંથી %1$d ટ્રિપ",
+    "food_trend_footnote": "ખરેખર ખરીદેલી વસ્તુઓ જ ગણાય છે, વજન કે કિંમત નહીં. ફક્ત HomLyst દ્વારા કરેલી ખરીદી."
   }
 }

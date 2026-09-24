@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "ହେଲ୍ଥ ମିଟର: ତାଜା ନା ପ୍ରକ୍ରିୟାକୃତ?",
     "health_not_food": "ଖାଦ୍ୟ ନୁହେଁ",
     "health_section_fresh": "🥦 ତାଜା (%1$d)",
-    "health_section_processed": "📦 ପ୍ରକ୍ରିୟାକୃତ (%1$d)"
+    "health_section_processed": "📦 ପ୍ରକ୍ରିୟାକୃତ (%1$d)",
+    "food_trend_title": "ତାଜା ଖାଦ୍ୟ ଧାରା",
+    "food_trend_empty": "ପ୍ରତି ମାସ ଆପଣ କେତେ ତାଜା ଖାଦ୍ୟ କିଣନ୍ତି ଦେଖିବାକୁ ଏକ ସପିଂ ଟ୍ରିପ୍ ଶେଷ କରନ୍ତୁ।",
+    "food_trend_items_fresh": "%2$s ମଧ୍ୟରୁ %1$s ଜିନିଷ ତାଜା",
+    "food_trend_up": "%2$s ଠାରୁ %1$d ପଏଣ୍ଟ ଅଧିକ 🌱",
+    "food_trend_down": "%2$s ଠାରୁ %1$d ପଏଣ୍ଟ କମ୍",
+    "food_trend_same": "%1$s ସହ ସମାନ",
+    "food_trend_percent_fresh": "%1$d% ତାଜା",
+    "food_trend_not_enough": "ଯଥେଷ୍ଟ ତଥ୍ୟ ନାହିଁ",
+    "food_trend_progress": "%1$s: ଏପର୍ଯ୍ୟନ୍ତ %3$d ମଧ୍ୟରୁ %2$d ଖାଦ୍ୟ ଜିନିଷ। କୌଣସି ମାସରେ %3$d ହେଲେ ଆପଣଙ୍କ ଚାର୍ଟ ଆରମ୍ଭ ହେବ।",
+    "food_trend_last_months": "ଗତ 6 ମାସ",
+    "food_trend_tap_hint": "କଣ କିଣିଲେ ଦେଖିବାକୁ ଏକ ମାସରେ ଟାପ୍ କରନ୍ତୁ। ଖାଲି ବାରରେ 5 ରୁ କମ୍ ଖାଦ୍ୟ ଜିନିଷ ଅଛି।",
+    "food_trend_best_month": "⭐ ସର୍ବୋତ୍ତମ ମାସ: %1$s (%2$d% ତାଜା)",
+    "food_trend_top_processed": "ସବୁଠାରୁ ଅଧିକ କିଣାଯାଇଥିବା ପ୍ରକ୍ରିୟାକୃତ ଜିନିଷ",
+    "food_trend_top_fresh": "ସବୁଠାରୁ ଅଧିକ କିଣାଯାଇଥିବା ତାଜା ଜିନିଷ",
+    "food_trend_trips": "%2$d ମଧ୍ୟରୁ %1$d ଟ୍ରିପ୍",
+    "food_trend_trips_one": "%2$d ମଧ୍ୟରୁ %1$d ଟ୍ରିପ୍",
+    "food_trend_footnote": "କେବଳ ପ୍ରକୃତରେ କିଣାଯାଇଥିବା ଜିନିଷ ଗଣାଯାଏ, ଓଜନ କିମ୍ବା ଦାମ ନୁହେଁ। କେବଳ HomLyst ଦ୍ୱାରା କରାଯାଇଥିବା ସପିଂ।"
   }
 }

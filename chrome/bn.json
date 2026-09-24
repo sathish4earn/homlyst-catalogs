@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -735,6 +735,23 @@
     "voice_health_prompt": "স্বাস্থ্য মিটার: তাজা না প্রক্রিয়াজাত?",
     "health_not_food": "খাবার নয়",
     "health_section_fresh": "🥦 তাজা (%1$d)",
-    "health_section_processed": "📦 প্রক্রিয়াজাত (%1$d)"
+    "health_section_processed": "📦 প্রক্রিয়াজাত (%1$d)",
+    "food_trend_title": "তাজা খাবারের ধারা",
+    "food_trend_empty": "প্রতি মাসে আপনি কতটা তাজা খাবার কেনেন দেখতে একটি শপিং ট্রিপ শেষ করুন।",
+    "food_trend_items_fresh": "%2$s টির মধ্যে %1$s টি তাজা",
+    "food_trend_up": "%2$s এর চেয়ে %1$d পয়েন্ট বেশি 🌱",
+    "food_trend_down": "%2$s এর চেয়ে %1$d পয়েন্ট কম",
+    "food_trend_same": "%1$s এর মতোই",
+    "food_trend_percent_fresh": "%1$d% তাজা",
+    "food_trend_not_enough": "যথেষ্ট তথ্য নেই",
+    "food_trend_progress": "%1$s: এখন পর্যন্ত %3$d টির মধ্যে %2$d টি খাবার। কোনো মাসে %3$d টি হলে আপনার চার্ট শুরু হবে।",
+    "food_trend_last_months": "গত ৬ মাস",
+    "food_trend_tap_hint": "কী কিনেছেন দেখতে একটি মাসে ট্যাপ করুন। খালি বারে ৫টির কম খাবার আছে।",
+    "food_trend_best_month": "⭐ সেরা মাস: %1$s (%2$d% তাজা)",
+    "food_trend_top_processed": "সবচেয়ে বেশি কেনা প্রক্রিয়াজাত জিনিস",
+    "food_trend_top_fresh": "সবচেয়ে বেশি কেনা তাজা জিনিস",
+    "food_trend_trips": "%2$d টির মধ্যে %1$d টি ট্রিপ",
+    "food_trend_trips_one": "%2$d টির মধ্যে %1$d টি ট্রিপ",
+    "food_trend_footnote": "শুধু আসলে কেনা জিনিস গোনা হয়, ওজন বা দাম নয়। শুধু HomLyst দিয়ে করা কেনাকাটা।"
   }
 }
