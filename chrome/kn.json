@@ -838,5 +838,8 @@
   "home_slide_prev": "ಹಿಂದಿನದು",
   "home_slide_next": "ಮುಂದಿನದು",
   "home_slide_pause": "ವಿರಾಮ",
-  "home_slide_play": "ಪ್ಲೇ"
+  "home_slide_play": "ಪ್ಲೇ",
+  "meter_reminder_time": "ಜ್ಞಾಪನೆ ಸಮಯ",
+  "meter_exact_hint": "ಜ್ಞಾಪನೆಗಳು ಕೆಲವು ನಿಮಿಷ ತಡವಾಗಿ ಬರಬಹುದು. ಸಮಯಕ್ಕೆ ಸರಿಯಾಗಿ ಪಡೆಯಲು HomLyst ಗೆ ಅಲಾರಾಂ ಮತ್ತು ಜ್ಞಾಪನೆಗಳನ್ನು ಹೊಂದಿಸಲು ಅನುಮತಿಸಿ.",
+  "meter_exact_allow": "ಅನುಮತಿಸಿ"
 }

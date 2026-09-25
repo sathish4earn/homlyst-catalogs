@@ -838,5 +838,8 @@
   "home_slide_prev": "ก่อนหน้า",
   "home_slide_next": "ถัดไป",
   "home_slide_pause": "หยุดชั่วคราว",
-  "home_slide_play": "เล่น"
+  "home_slide_play": "เล่น",
+  "meter_reminder_time": "เวลาเตือน",
+  "meter_exact_hint": "การเตือนอาจมาช้าไม่กี่นาที อนุญาตให้ HomLyst ตั้งการปลุกและการเตือนเพื่อให้ได้รับตรงเวลา",
+  "meter_exact_allow": "อนุญาต"
 }

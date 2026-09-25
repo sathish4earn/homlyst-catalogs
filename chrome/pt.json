@@ -838,5 +838,8 @@
   "home_slide_prev": "Anterior",
   "home_slide_next": "Próximo",
   "home_slide_pause": "Pausar",
-  "home_slide_play": "Reproduzir"
+  "home_slide_play": "Reproduzir",
+  "meter_reminder_time": "Horário do lembrete",
+  "meter_exact_hint": "Os lembretes podem chegar alguns minutos atrasados. Permita que o HomLyst defina alarmes e lembretes para recebê-los na hora.",
+  "meter_exact_allow": "Permitir"
 }

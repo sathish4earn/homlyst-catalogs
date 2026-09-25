@@ -838,5 +838,8 @@
   "home_slide_prev": "മുമ്പത്തേത്",
   "home_slide_next": "അടുത്തത്",
   "home_slide_pause": "താൽക്കാലികമായി നിർത്തുക",
-  "home_slide_play": "പ്ലേ"
+  "home_slide_play": "പ്ലേ",
+  "meter_reminder_time": "റിമൈൻഡർ സമയം",
+  "meter_exact_hint": "റിമൈൻഡറുകൾ കുറച്ച് മിനിറ്റ് വൈകി വന്നേക്കാം. കൃത്യസമയത്ത് ലഭിക്കാൻ HomLyst-ന് അലാറങ്ങളും റിമൈൻഡറുകളും സജ്ജമാക്കാൻ അനുമതി നൽകുക.",
+  "meter_exact_allow": "അനുവദിക്കുക"
 }

@@ -838,5 +838,8 @@
   "home_slide_prev": "முந்தையது",
   "home_slide_next": "அடுத்தது",
   "home_slide_pause": "இடைநிறுத்து",
-  "home_slide_play": "இயக்கு"
+  "home_slide_play": "இயக்கு",
+  "meter_reminder_time": "நினைவூட்டல் நேரம்",
+  "meter_exact_hint": "நினைவூட்டல்கள் சில நிமிடங்கள் தாமதமாக வரலாம். சரியான நேரத்தில் பெற, HomLyst அலாரங்கள் மற்றும் நினைவூட்டல்களை அமைக்க அனுமதிக்கவும்.",
+  "meter_exact_allow": "அனுமதி"
 }

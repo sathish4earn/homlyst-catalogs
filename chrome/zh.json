@@ -838,5 +838,8 @@
   "home_slide_prev": "上一个",
   "home_slide_next": "下一个",
   "home_slide_pause": "暂停",
-  "home_slide_play": "播放"
+  "home_slide_play": "播放",
+  "meter_reminder_time": "提醒时间",
+  "meter_exact_hint": "提醒可能会晚几分钟。允许 HomLyst 设置闹钟和提醒，即可准时收到。",
+  "meter_exact_allow": "允许"
 }

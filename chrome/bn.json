@@ -838,5 +838,8 @@
   "home_slide_prev": "আগের",
   "home_slide_next": "পরের",
   "home_slide_pause": "থামান",
-  "home_slide_play": "চালান"
+  "home_slide_play": "চালান",
+  "meter_reminder_time": "রিমাইন্ডারের সময়",
+  "meter_exact_hint": "রিমাইন্ডার কয়েক মিনিট দেরিতে আসতে পারে। সময়মতো পেতে HomLyst কে অ্যালার্ম ও রিমাইন্ডার সেট করার অনুমতি দিন।",
+  "meter_exact_allow": "অনুমতি দিন"
 }

@@ -838,5 +838,8 @@
   "home_slide_prev": "Previous",
   "home_slide_next": "Next",
   "home_slide_pause": "Pause",
-  "home_slide_play": "Play"
+  "home_slide_play": "Play",
+  "meter_reminder_time": "Reminder time",
+  "meter_exact_hint": "Reminders may come a few minutes late. Allow HomLyst to set alarms and reminders to get them on time.",
+  "meter_exact_allow": "Allow"
 }

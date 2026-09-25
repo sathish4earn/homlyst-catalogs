@@ -838,5 +838,8 @@
   "home_slide_prev": "Sebelumnya",
   "home_slide_next": "Berikutnya",
   "home_slide_pause": "Jeda",
-  "home_slide_play": "Putar"
+  "home_slide_play": "Putar",
+  "meter_reminder_time": "Waktu pengingat",
+  "meter_exact_hint": "Pengingat bisa datang beberapa menit terlambat. Izinkan HomLyst menyetel alarm dan pengingat agar tepat waktu.",
+  "meter_exact_allow": "Izinkan"
 }
