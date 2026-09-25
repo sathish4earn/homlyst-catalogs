@@ -855,5 +855,6 @@
   "group_items_one": "1টি আইটেম",
   "group_done_title": "গ্রুপের কেনাকাটা শেষ",
   "group_done_message": "আপনার গ্রুপের আইটেম কেনা সম্পূর্ণ হয়েছে।",
-  "group_done_you_bought": "আপনি %2$dটির মধ্যে %1$dটি আইটেম কিনেছেন।"
+  "group_done_you_bought": "আপনি %2$dটির মধ্যে %1$dটি আইটেম কিনেছেন।",
+  "group_no_items_bought": "কোনো আইটেম কেনেননি"
 }

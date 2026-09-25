@@ -855,5 +855,6 @@
   "group_items_one": "1 आइटम",
   "group_done_title": "ग्रुप की खरीदारी पूरी हुई",
   "group_done_message": "आपके ग्रुप के आइटम की खरीदारी पूरी हो गई है।",
-  "group_done_you_bought": "आपने %2$d में से %1$d आइटम खरीदे।"
+  "group_done_you_bought": "आपने %2$d में से %1$d आइटम खरीदे।",
+  "group_no_items_bought": "कोई आइटम नहीं खरीदा"
 }

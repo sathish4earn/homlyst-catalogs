@@ -855,5 +855,6 @@
   "group_items_one": "1 barang",
   "group_done_title": "Belanja grup selesai",
   "group_done_message": "Pembelian barang grup Anda sudah selesai.",
-  "group_done_you_bought": "Anda membeli %1$d dari %2$d barang."
+  "group_done_you_bought": "Anda membeli %1$d dari %2$d barang.",
+  "group_no_items_bought": "Tidak ada barang yang dibeli"
 }
