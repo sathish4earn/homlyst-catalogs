@@ -841,5 +841,12 @@
   "home_slide_play": "चलाएं",
   "meter_reminder_time": "रिमाइंडर का समय",
   "meter_exact_hint": "रिमाइंडर कुछ मिनट देर से आ सकते हैं। समय पर पाने के लिए HomLyst को अलार्म और रिमाइंडर सेट करने की अनुमति दें।",
-  "meter_exact_allow": "अनुमति दें"
+  "meter_exact_allow": "अनुमति दें",
+  "group_limit_reached": "एक ग्रुप में आप सहित ज़्यादा से ज़्यादा %1$d लोग हो सकते हैं।",
+  "group_full_title": "यह ग्रुप भर गया है",
+  "group_full_message": "एक ग्रुप में ज़्यादा से ज़्यादा %1$d लोग हो सकते हैं। ग्रुप के मालिक से किसी को हटाने को कहें, या नया ग्रुप बनाएं।",
+  "group_nudge_title": "%1$s यह ग्रुप HomLyst प्रीमियम से चलाते हैं।",
+  "group_nudge_someone": "कोई",
+  "group_nudge_cta": "अपना खुद का फ़ैमिली ग्रुप बनाएं",
+  "group_nudge_hide": "छिपाएं"
 }

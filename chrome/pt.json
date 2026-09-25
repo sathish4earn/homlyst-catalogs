@@ -841,5 +841,12 @@
   "home_slide_play": "Reproduzir",
   "meter_reminder_time": "Horário do lembrete",
   "meter_exact_hint": "Os lembretes podem chegar alguns minutos atrasados. Permita que o HomLyst defina alarmes e lembretes para recebê-los na hora.",
-  "meter_exact_allow": "Permitir"
+  "meter_exact_allow": "Permitir",
+  "group_limit_reached": "Um grupo pode ter até %1$d pessoas, incluindo você.",
+  "group_full_title": "Este grupo está cheio",
+  "group_full_message": "Um grupo pode ter até %1$d pessoas. Peça ao dono para remover alguém ou crie um novo grupo.",
+  "group_nudge_title": "%1$s organiza este grupo com o HomLyst Premium.",
+  "group_nudge_someone": "Alguém",
+  "group_nudge_cta": "Crie seu próprio grupo familiar",
+  "group_nudge_hide": "Ocultar"
 }

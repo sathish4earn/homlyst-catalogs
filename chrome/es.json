@@ -841,5 +841,12 @@
   "home_slide_play": "Reproducir",
   "meter_reminder_time": "Hora del recordatorio",
   "meter_exact_hint": "Los recordatorios pueden llegar unos minutos tarde. Permite que HomLyst configure alarmas y recordatorios para recibirlos a tiempo.",
-  "meter_exact_allow": "Permitir"
+  "meter_exact_allow": "Permitir",
+  "group_limit_reached": "Un grupo puede tener hasta %1$d personas, incluido tú.",
+  "group_full_title": "Este grupo está completo",
+  "group_full_message": "Un grupo puede tener hasta %1$d personas. Pide al creador que quite a alguien o crea un grupo nuevo.",
+  "group_nudge_title": "%1$s gestiona este grupo con HomLyst Premium.",
+  "group_nudge_someone": "Alguien",
+  "group_nudge_cta": "Crea tu propio grupo familiar",
+  "group_nudge_hide": "Ocultar"
 }

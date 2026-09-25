@@ -841,5 +841,12 @@
   "home_slide_play": "চালান",
   "meter_reminder_time": "রিমাইন্ডারের সময়",
   "meter_exact_hint": "রিমাইন্ডার কয়েক মিনিট দেরিতে আসতে পারে। সময়মতো পেতে HomLyst কে অ্যালার্ম ও রিমাইন্ডার সেট করার অনুমতি দিন।",
-  "meter_exact_allow": "অনুমতি দিন"
+  "meter_exact_allow": "অনুমতি দিন",
+  "group_limit_reached": "একটি গ্রুপে আপনাকে সহ সর্বোচ্চ %1$d জন থাকতে পারেন।",
+  "group_full_title": "এই গ্রুপটি পূর্ণ",
+  "group_full_message": "একটি গ্রুপে সর্বোচ্চ %1$d জন থাকতে পারেন। কাউকে সরাতে মালিককে বলুন, অথবা নতুন গ্রুপ শুরু করুন।",
+  "group_nudge_title": "%1$s এই গ্রুপটি HomLyst প্রিমিয়াম দিয়ে চালান।",
+  "group_nudge_someone": "কেউ",
+  "group_nudge_cta": "নিজের পারিবারিক গ্রুপ শুরু করুন",
+  "group_nudge_hide": "লুকান"
 }
