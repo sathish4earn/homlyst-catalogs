@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -746,7 +746,7 @@
     "food_trend_not_enough": "Data belum cukup",
     "food_trend_progress": "%1$s: sejauh ini %2$d dari %3$d bahan makanan. Grafik Anda mulai saat satu bulan mencapai %3$d.",
     "food_trend_last_months": "6 bulan terakhir",
-    "food_trend_tap_hint": "Ketuk bulan untuk melihat belanjaan Anda. Batang kosong berisi kurang dari 5 bahan makanan.",
+    "food_trend_tap_hint": "Ketuk bulan untuk melihat belanjaannya di Riwayat. Batang kosong berisi kurang dari 5 bahan makanan.",
     "food_trend_best_month": "⭐ Bulan terbaik: %1$s (%2$d% segar)",
     "food_trend_top_processed": "Barang olahan paling sering dibeli",
     "food_trend_top_fresh": "Barang segar paling sering dibeli",
