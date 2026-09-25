@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -783,6 +783,7 @@
     "insights_change_down": "%1$s : %2$d courses, en baisse par rapport à %3$d",
     "insights_footnote": "Basé sur vos achats via HomLyst, pas sur ce qui a été mangé. Les fruits et légumes achetés à la pièce ne sont pas comptés en grammes.",
     "insights_premium_title": "Découvrez les habitudes alimentaires de votre famille",
-    "insights_premium_desc": "Passez à Premium pour voir les articles les plus achetés, la consommation quotidienne, les fruits et légumes par personne et l'évolution dans le temps."
+    "insights_premium_desc": "Passez à Premium pour voir les articles les plus achetés, la consommation quotidienne, les fruits et légumes par personne et l'évolution dans le temps.",
+    "food_trend_items_for": "Voir les articles du mois :"
   }
 }
