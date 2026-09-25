@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s આ ગ્રુપ HomLyst પ્રીમિયમથી ચલાવે છે.",
   "group_nudge_someone": "કોઈ",
   "group_nudge_cta": "તમારું પોતાનું ફેમિલી ગ્રુપ શરૂ કરો",
-  "group_nudge_hide": "છુપાવો"
+  "group_nudge_hide": "છુપાવો",
+  "group_you": "તમે",
+  "group_from": "%1$s એ શેર કર્યું",
+  "group_items_count": "%1$d વસ્તુઓ",
+  "group_items_one": "1 વસ્તુ",
+  "group_done_title": "ગ્રુપની ખરીદી પૂરી થઈ",
+  "group_done_message": "તમારા ગ્રુપની વસ્તુઓની ખરીદી પૂરી થઈ ગઈ છે.",
+  "group_done_you_bought": "તમે %2$d માંથી %1$d વસ્તુઓ ખરીદી."
 }

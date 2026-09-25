@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s ఈ గ్రూప్‌ను HomLyst ప్రీమియంతో నడుపుతున్నారు.",
   "group_nudge_someone": "ఎవరో",
   "group_nudge_cta": "మీ సొంత కుటుంబ గ్రూప్ ప్రారంభించండి",
-  "group_nudge_hide": "దాచు"
+  "group_nudge_hide": "దాచు",
+  "group_you": "మీరు",
+  "group_from": "%1$s షేర్ చేశారు",
+  "group_items_count": "%1$d వస్తువులు",
+  "group_items_one": "1 వస్తువు",
+  "group_done_title": "గ్రూప్ షాపింగ్ పూర్తయింది",
+  "group_done_message": "మీ గ్రూప్ వస్తువుల కొనుగోలు పూర్తయింది.",
+  "group_done_you_bought": "మీరు %2$d లో %1$d వస్తువులు కొన్నారు."
 }

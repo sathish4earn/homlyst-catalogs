@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s ಈ ಗುಂಪನ್ನು HomLyst ಪ್ರೀಮಿಯಂನೊಂದಿಗೆ ನಡೆಸುತ್ತಾರೆ.",
   "group_nudge_someone": "ಯಾರೋ",
   "group_nudge_cta": "ನಿಮ್ಮದೇ ಕುಟುಂಬ ಗುಂಪು ಪ್ರಾರಂಭಿಸಿ",
-  "group_nudge_hide": "ಮರೆಮಾಡಿ"
+  "group_nudge_hide": "ಮರೆಮಾಡಿ",
+  "group_you": "ನೀವು",
+  "group_from": "%1$s ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ",
+  "group_items_count": "%1$d ವಸ್ತುಗಳು",
+  "group_items_one": "1 ವಸ್ತು",
+  "group_done_title": "ಗುಂಪಿನ ಶಾಪಿಂಗ್ ಮುಗಿದಿದೆ",
+  "group_done_message": "ನಿಮ್ಮ ಗುಂಪಿನ ವಸ್ತುಗಳ ಖರೀದಿ ಪೂರ್ಣಗೊಂಡಿದೆ.",
+  "group_done_you_bought": "ನೀವು %2$d ರಲ್ಲಿ %1$d ವಸ್ತುಗಳನ್ನು ಖರೀದಿಸಿದ್ದೀರಿ."
 }

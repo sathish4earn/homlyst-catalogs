@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s ਇਹ ਗਰੁੱਪ HomLyst ਪ੍ਰੀਮੀਅਮ ਨਾਲ ਚਲਾਉਂਦੇ ਹਨ।",
   "group_nudge_someone": "ਕੋਈ",
   "group_nudge_cta": "ਆਪਣਾ ਖੁਦ ਦਾ ਪਰਿਵਾਰਕ ਗਰੁੱਪ ਸ਼ੁਰੂ ਕਰੋ",
-  "group_nudge_hide": "ਲੁਕਾਓ"
+  "group_nudge_hide": "ਲੁਕਾਓ",
+  "group_you": "ਤੁਸੀਂ",
+  "group_from": "%1$s ਨੇ ਸਾਂਝਾ ਕੀਤਾ",
+  "group_items_count": "%1$d ਚੀਜ਼ਾਂ",
+  "group_items_one": "1 ਚੀਜ਼",
+  "group_done_title": "ਗਰੁੱਪ ਦੀ ਖਰੀਦਦਾਰੀ ਪੂਰੀ ਹੋਈ",
+  "group_done_message": "ਤੁਹਾਡੇ ਗਰੁੱਪ ਦੀਆਂ ਚੀਜ਼ਾਂ ਦੀ ਖਰੀਦ ਪੂਰੀ ਹੋ ਗਈ ਹੈ।",
+  "group_done_you_bought": "ਤੁਸੀਂ %2$d ਵਿੱਚੋਂ %1$d ਚੀਜ਼ਾਂ ਖਰੀਦੀਆਂ।"
 }

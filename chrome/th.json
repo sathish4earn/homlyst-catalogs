@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s ดูแลกลุ่มนี้ด้วย HomLyst พรีเมียม",
   "group_nudge_someone": "ใครบางคน",
   "group_nudge_cta": "สร้างกลุ่มครอบครัวของคุณเอง",
-  "group_nudge_hide": "ซ่อน"
+  "group_nudge_hide": "ซ่อน",
+  "group_you": "คุณ",
+  "group_from": "แชร์โดย %1$s",
+  "group_items_count": "%1$d รายการ",
+  "group_items_one": "1 รายการ",
+  "group_done_title": "ซื้อของกลุ่มเสร็จแล้ว",
+  "group_done_message": "การซื้อของของกลุ่มคุณเสร็จสมบูรณ์แล้ว",
+  "group_done_you_bought": "คุณซื้อ %1$d จาก %2$d รายการ"
 }
