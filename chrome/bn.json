@@ -834,5 +834,9 @@
   "meter_notif_body": "আপনার অ্যাক্টিভিটির উত্তর দিতে ট্যাপ করুন",
   "meter_notif_denied": "HomLyst এর নোটিফিকেশন বন্ধ আছে। রিমাইন্ডার পেতে ফোনের সেটিংসে সেগুলো চালু করুন।",
   "meter_channel_name": "অ্যাক্টিভিটি রিমাইন্ডার",
-  "meter_channel_desc": "আপনার দৈনিক অ্যাক্টিভিটি মিটার রিমাইন্ডার"
+  "meter_channel_desc": "আপনার দৈনিক অ্যাক্টিভিটি মিটার রিমাইন্ডার",
+  "home_slide_prev": "আগের",
+  "home_slide_next": "পরের",
+  "home_slide_pause": "থামান",
+  "home_slide_play": "চালান"
 }

@@ -834,5 +834,9 @@
   "meter_notif_body": "Toque para responder suas atividades",
   "meter_notif_denied": "As notificações do HomLyst estão desativadas. Ative-as nas configurações do telefone para receber o lembrete.",
   "meter_channel_name": "Lembretes de atividades",
-  "meter_channel_desc": "Seu lembrete diário do Medidor de Atividades"
+  "meter_channel_desc": "Seu lembrete diário do Medidor de Atividades",
+  "home_slide_prev": "Anterior",
+  "home_slide_next": "Próximo",
+  "home_slide_pause": "Pausar",
+  "home_slide_play": "Reproduzir"
 }

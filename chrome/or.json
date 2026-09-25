@@ -834,5 +834,9 @@
   "meter_notif_body": "ଆପଣଙ୍କ କାର୍ଯ୍ୟର ଉତ୍ତର ଦେବାକୁ ଟ୍ୟାପ କରନ୍ତୁ",
   "meter_notif_denied": "HomLyst ପାଇଁ ବିଜ୍ଞପ୍ତି ବନ୍ଦ ଅଛି। ରିମାଇଣ୍ଡର ପାଇବାକୁ ଫୋନ ସେଟିଂସରେ ସେଗୁଡ଼ିକୁ ଚାଲୁ କରନ୍ତୁ।",
   "meter_channel_name": "କାର୍ଯ୍ୟ ରିମାଇଣ୍ଡର",
-  "meter_channel_desc": "ଆପଣଙ୍କ ଦୈନିକ ଆକ୍ଟିଭିଟି ମିଟର ରିମାଇଣ୍ଡର"
+  "meter_channel_desc": "ଆପଣଙ୍କ ଦୈନିକ ଆକ୍ଟିଭିଟି ମିଟର ରିମାଇଣ୍ଡର",
+  "home_slide_prev": "ପୂର୍ବବର୍ତ୍ତୀ",
+  "home_slide_next": "ପରବର୍ତ୍ତୀ",
+  "home_slide_pause": "ବିରତି",
+  "home_slide_play": "ଚଲାନ୍ତୁ"
 }

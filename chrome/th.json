@@ -834,5 +834,9 @@
   "meter_notif_body": "แตะเพื่อตอบกิจกรรมของคุณ",
   "meter_notif_denied": "การแจ้งเตือนของ HomLyst ปิดอยู่ เปิดในการตั้งค่าโทรศัพท์เพื่อรับการเตือน",
   "meter_channel_name": "การเตือนกิจกรรม",
-  "meter_channel_desc": "การเตือนมาตรวัดกิจกรรมประจำวันของคุณ"
+  "meter_channel_desc": "การเตือนมาตรวัดกิจกรรมประจำวันของคุณ",
+  "home_slide_prev": "ก่อนหน้า",
+  "home_slide_next": "ถัดไป",
+  "home_slide_pause": "หยุดชั่วคราว",
+  "home_slide_play": "เล่น"
 }

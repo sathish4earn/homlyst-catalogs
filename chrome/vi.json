@@ -834,5 +834,9 @@
   "meter_notif_body": "Chạm để trả lời các hoạt động của bạn",
   "meter_notif_denied": "Thông báo của HomLyst đang tắt. Hãy bật trong cài đặt điện thoại để nhận nhắc nhở.",
   "meter_channel_name": "Nhắc nhở hoạt động",
-  "meter_channel_desc": "Nhắc nhở hằng ngày của Đồng hồ hoạt động"
+  "meter_channel_desc": "Nhắc nhở hằng ngày của Đồng hồ hoạt động",
+  "home_slide_prev": "Trước",
+  "home_slide_next": "Tiếp",
+  "home_slide_pause": "Tạm dừng",
+  "home_slide_play": "Phát"
 }

@@ -834,5 +834,9 @@
   "meter_notif_body": "ਆਪਣੀਆਂ ਗਤੀਵਿਧੀਆਂ ਦਾ ਜਵਾਬ ਦੇਣ ਲਈ ਟੈਪ ਕਰੋ",
   "meter_notif_denied": "HomLyst ਲਈ ਸੂਚਨਾਵਾਂ ਬੰਦ ਹਨ। ਰਿਮਾਈਂਡਰ ਲੈਣ ਲਈ ਫ਼ੋਨ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਹਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ।",
   "meter_channel_name": "ਗਤੀਵਿਧੀ ਰਿਮਾਈਂਡਰ",
-  "meter_channel_desc": "ਤੁਹਾਡਾ ਰੋਜ਼ਾਨਾ ਐਕਟੀਵਿਟੀ ਮੀਟਰ ਰਿਮਾਈਂਡਰ"
+  "meter_channel_desc": "ਤੁਹਾਡਾ ਰੋਜ਼ਾਨਾ ਐਕਟੀਵਿਟੀ ਮੀਟਰ ਰਿਮਾਈਂਡਰ",
+  "home_slide_prev": "ਪਿਛਲਾ",
+  "home_slide_next": "ਅਗਲਾ",
+  "home_slide_pause": "ਰੋਕੋ",
+  "home_slide_play": "ਚਲਾਓ"
 }
