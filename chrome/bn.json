@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -746,7 +746,7 @@
     "food_trend_not_enough": "যথেষ্ট তথ্য নেই",
     "food_trend_progress": "%1$s: এখন পর্যন্ত %3$d টির মধ্যে %2$d টি খাবার। কোনো মাসে %3$d টি হলে আপনার চার্ট শুরু হবে।",
     "food_trend_last_months": "গত ৬ মাস",
-    "food_trend_tap_hint": "কী কিনেছেন দেখতে একটি মাসে ট্যাপ করুন। খালি বারে ৫টির কম খাবার আছে।",
+    "food_trend_tap_hint": "কোনো মাসের ট্রিপ ইতিহাসে দেখতে সেটিতে ট্যাপ করুন। খালি বারে 5টির কম খাবার আছে।",
     "food_trend_best_month": "⭐ সেরা মাস: %1$s (%2$d% তাজা)",
     "food_trend_top_processed": "সবচেয়ে বেশি কেনা প্রক্রিয়াজাত জিনিস",
     "food_trend_top_fresh": "সবচেয়ে বেশি কেনা তাজা জিনিস",

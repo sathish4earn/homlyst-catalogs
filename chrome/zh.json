@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -746,7 +746,7 @@
     "food_trend_not_enough": "数据不足",
     "food_trend_progress": "%1$s：目前已有 %2$d/%3$d 件食品。某月达到 %3$d 件后即可生成图表。",
     "food_trend_last_months": "最近 6 个月",
-    "food_trend_tap_hint": "点按某个月份查看购买内容。空白柱表示该月食品少于 5 件。",
+    "food_trend_tap_hint": "点按某个月份即可在历史记录中查看当月购物。空白柱表示该月食品少于 5 件。",
     "food_trend_best_month": "⭐ 最佳月份：%1$s（%2$d% 新鲜）",
     "food_trend_top_processed": "最常购买的加工食品",
     "food_trend_top_fresh": "最常购买的新鲜食品",

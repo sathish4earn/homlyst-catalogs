@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -746,7 +746,7 @@
     "food_trend_not_enough": "Chưa đủ dữ liệu",
     "food_trend_progress": "%1$s: đến nay có %2$d trên %3$d món ăn. Biểu đồ bắt đầu khi một tháng có %3$d món.",
     "food_trend_last_months": "6 tháng qua",
-    "food_trend_tap_hint": "Chạm vào một tháng để xem bạn đã mua gì. Cột trống có ít hơn 5 món ăn.",
+    "food_trend_tap_hint": "Chạm vào một tháng để xem các lần mua trong Lịch sử. Cột trống có ít hơn 5 món ăn.",
     "food_trend_best_month": "⭐ Tháng tốt nhất: %1$s (%2$d% tươi)",
     "food_trend_top_processed": "Đồ chế biến mua nhiều nhất",
     "food_trend_top_fresh": "Đồ tươi mua nhiều nhất",
