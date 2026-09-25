@@ -834,5 +834,9 @@
   "meter_notif_body": "点按回答今天的活动",
   "meter_notif_denied": "HomLyst 的通知已关闭。请在手机设置中打开通知以接收提醒。",
   "meter_channel_name": "活动提醒",
-  "meter_channel_desc": "你的每日活动打卡提醒"
+  "meter_channel_desc": "你的每日活动打卡提醒",
+  "home_slide_prev": "上一个",
+  "home_slide_next": "下一个",
+  "home_slide_pause": "暂停",
+  "home_slide_play": "播放"
 }

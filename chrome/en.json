@@ -834,5 +834,9 @@
   "meter_notif_body": "Tap to answer your activities",
   "meter_notif_denied": "Notifications are off for HomLyst. Turn them on in your phone's settings to get the reminder.",
   "meter_channel_name": "Activity reminders",
-  "meter_channel_desc": "Your daily Activity Meter reminder"
+  "meter_channel_desc": "Your daily Activity Meter reminder",
+  "home_slide_prev": "Previous",
+  "home_slide_next": "Next",
+  "home_slide_pause": "Pause",
+  "home_slide_play": "Play"
 }

@@ -834,5 +834,9 @@
   "meter_notif_body": "Ketuk untuk menjawab aktivitas Anda",
   "meter_notif_denied": "Notifikasi HomLyst dimatikan. Aktifkan di pengaturan ponsel untuk mendapatkan pengingat.",
   "meter_channel_name": "Pengingat aktivitas",
-  "meter_channel_desc": "Pengingat harian Meteran Aktivitas Anda"
+  "meter_channel_desc": "Pengingat harian Meteran Aktivitas Anda",
+  "home_slide_prev": "Sebelumnya",
+  "home_slide_next": "Berikutnya",
+  "home_slide_pause": "Jeda",
+  "home_slide_play": "Putar"
 }

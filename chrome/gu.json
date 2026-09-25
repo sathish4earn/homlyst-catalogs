@@ -834,5 +834,9 @@
   "meter_notif_body": "તમારી પ્રવૃત્તિઓનો જવાબ આપવા ટેપ કરો",
   "meter_notif_denied": "HomLyst માટે સૂચનાઓ બંધ છે. રિમાઇન્ડર મેળવવા ફોનના સેટિંગ્સમાં તેમને ચાલુ કરો.",
   "meter_channel_name": "પ્રવૃત્તિ રિમાઇન્ડર",
-  "meter_channel_desc": "તમારું રોજનું એક્ટિવિટી મીટર રિમાઇન્ડર"
+  "meter_channel_desc": "તમારું રોજનું એક્ટિવિટી મીટર રિમાઇન્ડર",
+  "home_slide_prev": "પાછલું",
+  "home_slide_next": "આગળનું",
+  "home_slide_pause": "થોભો",
+  "home_slide_play": "ચલાવો"
 }

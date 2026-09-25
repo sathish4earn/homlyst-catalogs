@@ -834,5 +834,9 @@
   "meter_notif_body": "अपनी गतिविधियों का जवाब देने के लिए टैप करें",
   "meter_notif_denied": "HomLyst के लिए सूचनाएं बंद हैं। रिमाइंडर पाने के लिए फ़ोन की सेटिंग्स में इन्हें चालू करें।",
   "meter_channel_name": "गतिविधि रिमाइंडर",
-  "meter_channel_desc": "आपका रोज़ का एक्टिविटी मीटर रिमाइंडर"
+  "meter_channel_desc": "आपका रोज़ का एक्टिविटी मीटर रिमाइंडर",
+  "home_slide_prev": "पिछला",
+  "home_slide_next": "अगला",
+  "home_slide_pause": "रोकें",
+  "home_slide_play": "चलाएं"
 }

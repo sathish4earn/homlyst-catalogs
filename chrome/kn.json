@@ -834,5 +834,9 @@
   "meter_notif_body": "ನಿಮ್ಮ ಚಟುವಟಿಕೆಗಳಿಗೆ ಉತ್ತರಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ",
   "meter_notif_denied": "HomLyst ಗೆ ಅಧಿಸೂಚನೆಗಳು ಆಫ್ ಆಗಿವೆ. ಜ್ಞಾಪನೆ ಪಡೆಯಲು ಫೋನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಅವುಗಳನ್ನು ಆನ್ ಮಾಡಿ.",
   "meter_channel_name": "ಚಟುವಟಿಕೆ ಜ್ಞಾಪನೆಗಳು",
-  "meter_channel_desc": "ನಿಮ್ಮ ದೈನಂದಿನ ಚಟುವಟಿಕೆ ಮೀಟರ್ ಜ್ಞಾಪನೆ"
+  "meter_channel_desc": "ನಿಮ್ಮ ದೈನಂದಿನ ಚಟುವಟಿಕೆ ಮೀಟರ್ ಜ್ಞಾಪನೆ",
+  "home_slide_prev": "ಹಿಂದಿನದು",
+  "home_slide_next": "ಮುಂದಿನದು",
+  "home_slide_pause": "ವಿರಾಮ",
+  "home_slide_play": "ಪ್ಲೇ"
 }

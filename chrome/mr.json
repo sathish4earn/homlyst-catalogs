@@ -834,5 +834,9 @@
   "meter_notif_body": "तुमच्या ॲक्टिव्हिटींना उत्तर देण्यासाठी टॅप करा",
   "meter_notif_denied": "HomLyst साठी सूचना बंद आहेत. रिमाइंडर मिळण्यासाठी फोनच्या सेटिंग्जमध्ये त्या चालू करा.",
   "meter_channel_name": "ॲक्टिव्हिटी रिमाइंडर",
-  "meter_channel_desc": "तुमचे रोजचे ॲक्टिव्हिटी मीटर रिमाइंडर"
+  "meter_channel_desc": "तुमचे रोजचे ॲक्टिव्हिटी मीटर रिमाइंडर",
+  "home_slide_prev": "मागील",
+  "home_slide_next": "पुढील",
+  "home_slide_pause": "थांबवा",
+  "home_slide_play": "चालू करा"
 }

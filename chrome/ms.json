@@ -834,5 +834,9 @@
   "meter_notif_body": "Ketik untuk menjawab aktiviti anda",
   "meter_notif_denied": "Pemberitahuan HomLyst dimatikan. Hidupkan dalam tetapan telefon untuk menerima peringatan.",
   "meter_channel_name": "Peringatan aktiviti",
-  "meter_channel_desc": "Peringatan harian Meter Aktiviti anda"
+  "meter_channel_desc": "Peringatan harian Meter Aktiviti anda",
+  "home_slide_prev": "Sebelumnya",
+  "home_slide_next": "Seterusnya",
+  "home_slide_pause": "Jeda",
+  "home_slide_play": "Main"
 }
