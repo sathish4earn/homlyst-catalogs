@@ -855,5 +855,6 @@
   "group_items_one": "1 món",
   "group_done_title": "Đã mua sắm xong cho nhóm",
   "group_done_message": "Việc mua các món của nhóm bạn đã hoàn tất.",
-  "group_done_you_bought": "Bạn đã mua %1$d trên %2$d món."
+  "group_done_you_bought": "Bạn đã mua %1$d trên %2$d món.",
+  "group_no_items_bought": "Chưa mua món nào"
 }

@@ -855,5 +855,6 @@
   "group_items_one": "1 รายการ",
   "group_done_title": "ซื้อของกลุ่มเสร็จแล้ว",
   "group_done_message": "การซื้อของของกลุ่มคุณเสร็จสมบูรณ์แล้ว",
-  "group_done_you_bought": "คุณซื้อ %1$d จาก %2$d รายการ"
+  "group_done_you_bought": "คุณซื้อ %1$d จาก %2$d รายการ",
+  "group_no_items_bought": "ไม่ได้ซื้อรายการใด"
 }

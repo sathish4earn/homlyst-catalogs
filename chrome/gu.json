@@ -855,5 +855,6 @@
   "group_items_one": "1 વસ્તુ",
   "group_done_title": "ગ્રુપની ખરીદી પૂરી થઈ",
   "group_done_message": "તમારા ગ્રુપની વસ્તુઓની ખરીદી પૂરી થઈ ગઈ છે.",
-  "group_done_you_bought": "તમે %2$d માંથી %1$d વસ્તુઓ ખરીદી."
+  "group_done_you_bought": "તમે %2$d માંથી %1$d વસ્તુઓ ખરીદી.",
+  "group_no_items_bought": "કોઈ વસ્તુ ખરીદી નથી"
 }
