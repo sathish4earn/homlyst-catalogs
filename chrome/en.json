@@ -841,5 +841,12 @@
   "home_slide_play": "Play",
   "meter_reminder_time": "Reminder time",
   "meter_exact_hint": "Reminders may come a few minutes late. Allow HomLyst to set alarms and reminders to get them on time.",
-  "meter_exact_allow": "Allow"
+  "meter_exact_allow": "Allow",
+  "group_limit_reached": "A group can have up to %1$d people, including you.",
+  "group_full_title": "This group is full",
+  "group_full_message": "A group can have up to %1$d people. Ask the owner to remove someone, or start a new group.",
+  "group_nudge_title": "%1$s runs this group with HomLyst Premium.",
+  "group_nudge_someone": "Someone",
+  "group_nudge_cta": "Start your own family group",
+  "group_nudge_hide": "Hide"
 }

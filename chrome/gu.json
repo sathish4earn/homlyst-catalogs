@@ -841,5 +841,12 @@
   "home_slide_play": "ચલાવો",
   "meter_reminder_time": "રિમાઇન્ડરનો સમય",
   "meter_exact_hint": "રિમાઇન્ડર થોડી મિનિટ મોડા આવી શકે છે. સમયસર મેળવવા HomLyst ને એલાર્મ અને રિમાઇન્ડર સેટ કરવાની મંજૂરી આપો.",
-  "meter_exact_allow": "મંજૂરી આપો"
+  "meter_exact_allow": "મંજૂરી આપો",
+  "group_limit_reached": "એક ગ્રુપમાં તમારા સહિત વધુમાં વધુ %1$d લોકો હોઈ શકે છે.",
+  "group_full_title": "આ ગ્રુપ ભરાઈ ગયું છે",
+  "group_full_message": "એક ગ્રુપમાં વધુમાં વધુ %1$d લોકો હોઈ શકે છે. કોઈને દૂર કરવા માલિકને કહો, અથવા નવું ગ્રુપ શરૂ કરો.",
+  "group_nudge_title": "%1$s આ ગ્રુપ HomLyst પ્રીમિયમથી ચલાવે છે.",
+  "group_nudge_someone": "કોઈ",
+  "group_nudge_cta": "તમારું પોતાનું ફેમિલી ગ્રુપ શરૂ કરો",
+  "group_nudge_hide": "છુપાવો"
 }

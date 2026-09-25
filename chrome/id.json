@@ -841,5 +841,12 @@
   "home_slide_play": "Putar",
   "meter_reminder_time": "Waktu pengingat",
   "meter_exact_hint": "Pengingat bisa datang beberapa menit terlambat. Izinkan HomLyst menyetel alarm dan pengingat agar tepat waktu.",
-  "meter_exact_allow": "Izinkan"
+  "meter_exact_allow": "Izinkan",
+  "group_limit_reached": "Satu grup bisa berisi hingga %1$d orang, termasuk Anda.",
+  "group_full_title": "Grup ini sudah penuh",
+  "group_full_message": "Satu grup bisa berisi hingga %1$d orang. Minta pemilik grup mengeluarkan seseorang, atau buat grup baru.",
+  "group_nudge_title": "%1$s mengelola grup ini dengan HomLyst Premium.",
+  "group_nudge_someone": "Seseorang",
+  "group_nudge_cta": "Buat grup keluarga Anda sendiri",
+  "group_nudge_hide": "Sembunyikan"
 }

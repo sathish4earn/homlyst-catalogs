@@ -841,5 +841,12 @@
   "home_slide_play": "Lecture",
   "meter_reminder_time": "Heure du rappel",
   "meter_exact_hint": "Les rappels peuvent arriver avec quelques minutes de retard. Autorisez HomLyst à définir des alarmes et rappels pour les recevoir à l'heure.",
-  "meter_exact_allow": "Autoriser"
+  "meter_exact_allow": "Autoriser",
+  "group_limit_reached": "Un groupe peut compter jusqu'à %1$d personnes, vous compris.",
+  "group_full_title": "Ce groupe est complet",
+  "group_full_message": "Un groupe peut compter jusqu'à %1$d personnes. Demandez au créateur de retirer quelqu'un, ou créez un nouveau groupe.",
+  "group_nudge_title": "%1$s gère ce groupe avec HomLyst Premium.",
+  "group_nudge_someone": "Quelqu'un",
+  "group_nudge_cta": "Créez votre propre groupe familial",
+  "group_nudge_hide": "Masquer"
 }

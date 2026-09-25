@@ -841,5 +841,12 @@
   "home_slide_play": "เล่น",
   "meter_reminder_time": "เวลาเตือน",
   "meter_exact_hint": "การเตือนอาจมาช้าไม่กี่นาที อนุญาตให้ HomLyst ตั้งการปลุกและการเตือนเพื่อให้ได้รับตรงเวลา",
-  "meter_exact_allow": "อนุญาต"
+  "meter_exact_allow": "อนุญาต",
+  "group_limit_reached": "กลุ่มหนึ่งมีได้สูงสุด %1$d คน รวมคุณด้วย",
+  "group_full_title": "กลุ่มนี้เต็มแล้ว",
+  "group_full_message": "กลุ่มหนึ่งมีได้สูงสุด %1$d คน ขอให้เจ้าของกลุ่มนำใครสักคนออก หรือสร้างกลุ่มใหม่",
+  "group_nudge_title": "%1$s ดูแลกลุ่มนี้ด้วย HomLyst พรีเมียม",
+  "group_nudge_someone": "ใครบางคน",
+  "group_nudge_cta": "สร้างกลุ่มครอบครัวของคุณเอง",
+  "group_nudge_hide": "ซ่อน"
 }

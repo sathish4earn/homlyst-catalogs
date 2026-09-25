@@ -841,5 +841,12 @@
   "home_slide_play": "播放",
   "meter_reminder_time": "提醒时间",
   "meter_exact_hint": "提醒可能会晚几分钟。允许 HomLyst 设置闹钟和提醒，即可准时收到。",
-  "meter_exact_allow": "允许"
+  "meter_exact_allow": "允许",
+  "group_limit_reached": "每个群组最多 %1$d 人（包括你）。",
+  "group_full_title": "这个群组已满",
+  "group_full_message": "每个群组最多 %1$d 人。请群主移除一位成员，或新建一个群组。",
+  "group_nudge_title": "%1$s 使用 HomLyst 高级版管理这个群组。",
+  "group_nudge_someone": "某人",
+  "group_nudge_cta": "创建你自己的家庭群组",
+  "group_nudge_hide": "隐藏"
 }

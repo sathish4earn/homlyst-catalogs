@@ -841,5 +841,12 @@
   "home_slide_play": "Phát",
   "meter_reminder_time": "Giờ nhắc",
   "meter_exact_hint": "Lời nhắc có thể đến trễ vài phút. Cho phép HomLyst đặt báo thức và lời nhắc để nhận đúng giờ.",
-  "meter_exact_allow": "Cho phép"
+  "meter_exact_allow": "Cho phép",
+  "group_limit_reached": "Mỗi nhóm có tối đa %1$d người, kể cả bạn.",
+  "group_full_title": "Nhóm này đã đủ người",
+  "group_full_message": "Mỗi nhóm có tối đa %1$d người. Hãy nhờ chủ nhóm xóa bớt một người, hoặc tạo nhóm mới.",
+  "group_nudge_title": "%1$s quản lý nhóm này bằng HomLyst Premium.",
+  "group_nudge_someone": "Ai đó",
+  "group_nudge_cta": "Tạo nhóm gia đình của riêng bạn",
+  "group_nudge_hide": "Ẩn"
 }
