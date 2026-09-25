@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s இந்தக் குழுவை HomLyst பிரீமியம் மூலம் நடத்துகிறார்.",
   "group_nudge_someone": "ஒருவர்",
   "group_nudge_cta": "உங்கள் சொந்த குடும்பக் குழுவைத் தொடங்குங்கள்",
-  "group_nudge_hide": "மறை"
+  "group_nudge_hide": "மறை",
+  "group_you": "நீங்கள்",
+  "group_from": "%1$s பகிர்ந்தது",
+  "group_items_count": "%1$d பொருட்கள்",
+  "group_items_one": "1 பொருள்",
+  "group_done_title": "குழு ஷாப்பிங் முடிந்தது",
+  "group_done_message": "உங்கள் குழுவின் பொருட்கள் வாங்குதல் முடிந்தது.",
+  "group_done_you_bought": "நீங்கள் %2$d இல் %1$d பொருட்களை வாங்கினீர்கள்."
 }

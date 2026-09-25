@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s mengelola grup ini dengan HomLyst Premium.",
   "group_nudge_someone": "Seseorang",
   "group_nudge_cta": "Buat grup keluarga Anda sendiri",
-  "group_nudge_hide": "Sembunyikan"
+  "group_nudge_hide": "Sembunyikan",
+  "group_you": "Anda",
+  "group_from": "Dibagikan oleh %1$s",
+  "group_items_count": "%1$d barang",
+  "group_items_one": "1 barang",
+  "group_done_title": "Belanja grup selesai",
+  "group_done_message": "Pembelian barang grup Anda sudah selesai.",
+  "group_done_you_bought": "Anda membeli %1$d dari %2$d barang."
 }

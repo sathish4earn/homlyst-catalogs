@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s यह ग्रुप HomLyst प्रीमियम से चलाते हैं।",
   "group_nudge_someone": "कोई",
   "group_nudge_cta": "अपना खुद का फ़ैमिली ग्रुप बनाएं",
-  "group_nudge_hide": "छिपाएं"
+  "group_nudge_hide": "छिपाएं",
+  "group_you": "आप",
+  "group_from": "%1$s ने शेयर किया",
+  "group_items_count": "%1$d आइटम",
+  "group_items_one": "1 आइटम",
+  "group_done_title": "ग्रुप की खरीदारी पूरी हुई",
+  "group_done_message": "आपके ग्रुप के आइटम की खरीदारी पूरी हो गई है।",
+  "group_done_you_bought": "आपने %2$d में से %1$d आइटम खरीदे।"
 }

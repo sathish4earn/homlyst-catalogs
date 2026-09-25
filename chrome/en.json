@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s runs this group with HomLyst Premium.",
   "group_nudge_someone": "Someone",
   "group_nudge_cta": "Start your own family group",
-  "group_nudge_hide": "Hide"
+  "group_nudge_hide": "Hide",
+  "group_you": "You",
+  "group_from": "Shared by %1$s",
+  "group_items_count": "%1$d items",
+  "group_items_one": "1 item",
+  "group_done_title": "Group shopping complete",
+  "group_done_message": "Your group items purchase has been completed.",
+  "group_done_you_bought": "You bought %1$d of %2$d items."
 }

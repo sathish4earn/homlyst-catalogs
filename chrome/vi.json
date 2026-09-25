@@ -848,5 +848,12 @@
   "group_nudge_title": "%1$s quản lý nhóm này bằng HomLyst Premium.",
   "group_nudge_someone": "Ai đó",
   "group_nudge_cta": "Tạo nhóm gia đình của riêng bạn",
-  "group_nudge_hide": "Ẩn"
+  "group_nudge_hide": "Ẩn",
+  "group_you": "Bạn",
+  "group_from": "Được chia sẻ bởi %1$s",
+  "group_items_count": "%1$d món",
+  "group_items_one": "1 món",
+  "group_done_title": "Đã mua sắm xong cho nhóm",
+  "group_done_message": "Việc mua các món của nhóm bạn đã hoàn tất.",
+  "group_done_you_bought": "Bạn đã mua %1$d trên %2$d món."
 }
