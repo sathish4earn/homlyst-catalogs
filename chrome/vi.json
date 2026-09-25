@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -774,9 +774,9 @@
     "insights_per_day": "~%1$s mỗi ngày",
     "insights_every_days": "~1 mỗi %1$d ngày",
     "insights_fruitveg_title": "Rau quả mỗi người",
-    "insights_household": "Số người ăn ở nhà",
+    "insights_household": "Nhà bạn có bao nhiêu người?",
     "insights_fruitveg_value": "~%1$d g mỗi ngày mỗi người (%2$d người). WHO khuyến nghị ít nhất %3$d g.",
-    "insights_fruitveg_set_household": "Đặt số người ăn ở nhà để xem mục này.",
+    "insights_fruitveg_set_household": "Chạm + để đặt, chúng tôi sẽ cho bạn biết mỗi người nhận được bao nhiêu rau quả.",
     "insights_fruitveg_not_enough": "Cần 2 lần mua trở lên có rau quả cân ký trong 30 ngày qua.",
     "insights_changes_title": "Thay đổi so với 30 ngày trước đó",
     "insights_change_up": "%1$s: %2$d lần mua, tăng từ %3$d",
@@ -784,6 +784,7 @@
     "insights_footnote": "Dựa trên những gì bạn mua qua HomLyst, không phải những gì đã ăn. Rau quả mua theo trái/cái không được tính theo gam.",
     "insights_premium_title": "Xem thói quen ăn uống của gia đình",
     "insights_premium_desc": "Nâng cấp để xem món mua nhiều nhất, mức dùng mỗi ngày, rau quả mỗi người và thay đổi theo thời gian.",
-    "food_trend_items_for": "Xem các món của tháng:"
+    "food_trend_items_for": "Xem các món của tháng:",
+    "insights_household_help": "Chỉ dùng để tính rau quả cho mỗi người."
   }
 }

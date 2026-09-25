@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -774,9 +774,9 @@
     "insights_per_day": "~%1$s por dia",
     "insights_every_days": "~1 a cada %1$d dias",
     "insights_fruitveg_title": "Frutas e verduras por pessoa",
-    "insights_household": "Pessoas que comem em casa",
+    "insights_household": "Quantas pessoas moram na sua casa?",
     "insights_fruitveg_value": "~%1$d g por dia por pessoa (%2$d pessoas). A OMS recomenda pelo menos %3$d g.",
-    "insights_fruitveg_set_household": "Informe quantas pessoas comem em casa para ver isto.",
+    "insights_fruitveg_set_household": "Toque em + para informar e mostraremos quanto de frutas e verduras cada pessoa recebe.",
     "insights_fruitveg_not_enough": "São necessárias 2 ou mais compras com frutas ou verduras pesadas nos últimos 30 dias.",
     "insights_changes_title": "Mudanças em relação aos 30 dias anteriores",
     "insights_change_up": "%1$s: %2$d compras, mais que as %3$d anteriores",
@@ -784,6 +784,7 @@
     "insights_footnote": "Baseado no que você comprou pelo HomLyst, não no que foi consumido. Frutas e verduras compradas por unidade não são contadas em gramas.",
     "insights_premium_title": "Veja os hábitos alimentares da sua família",
     "insights_premium_desc": "Assine para ver os itens mais comprados, o consumo diário, frutas e verduras por pessoa e as mudanças ao longo do tempo.",
-    "food_trend_items_for": "Ver os itens do mês:"
+    "food_trend_items_for": "Ver os itens do mês:",
+    "insights_household_help": "Usado apenas para calcular frutas e verduras por pessoa."
   }
 }

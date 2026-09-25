@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -774,9 +774,9 @@
     "insights_per_day": "રોજ ~%1$s",
     "insights_every_days": "દર ~%1$d દિવસે 1",
     "insights_fruitveg_title": "વ્યક્તિ દીઠ ફળ અને શાકભાજી",
-    "insights_household": "ઘરે જમનારા લોકો",
+    "insights_household": "તમારા ઘરમાં કેટલા લોકો રહે છે?",
     "insights_fruitveg_value": "દરેકને રોજ ~%1$d ગ્રામ (%2$d લોકો). WHO ઓછામાં ઓછા %3$d ગ્રામની ભલામણ કરે છે.",
-    "insights_fruitveg_set_household": "આ જોવા ઘરે કેટલા લોકો જમે છે તે સેટ કરો.",
+    "insights_fruitveg_set_household": "+ દબાવીને સેટ કરો, પછી દરેકને કેટલાં ફળ-શાકભાજી મળે છે તે બતાવીશું.",
     "insights_fruitveg_not_enough": "છેલ્લા 30 દિવસમાં તોલીને ખરીદેલાં ફળ કે શાકભાજી સાથે 2 કે વધુ ટ્રિપ જોઈએ.",
     "insights_changes_title": "અગાઉના 30 દિવસની સરખામણીમાં ફેરફાર",
     "insights_change_up": "%1$s: %2$d ટ્રિપ, %3$d થી વધ્યું",
@@ -784,6 +784,7 @@
     "insights_footnote": "HomLyst દ્વારા ખરીદેલા પર આધારિત, ખાધેલા પર નહીં. નંગમાં ખરીદેલાં ફળ-શાકભાજી ગ્રામમાં ગણાતાં નથી.",
     "insights_premium_title": "તમારા કુટુંબની ખાવાની પદ્ધતિ જુઓ",
     "insights_premium_desc": "સૌથી વધુ ખરીદેલી વસ્તુઓ, રોજનો વપરાશ, વ્યક્તિ દીઠ ફળ-શાકભાજી અને સમય સાથે ફેરફાર જોવા અપગ્રેડ કરો.",
-    "food_trend_items_for": "આ મહિનાની વસ્તુઓ જુઓ:"
+    "food_trend_items_for": "આ મહિનાની વસ્તુઓ જુઓ:",
+    "insights_household_help": "ફક્ત વ્યક્તિ દીઠ ફળ-શાકભાજી ગણવા માટે વપરાય છે."
   }
 }

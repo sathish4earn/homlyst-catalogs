@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -774,9 +774,9 @@
     "insights_per_day": "~%1$s a day",
     "insights_every_days": "~1 every %1$d days",
     "insights_fruitveg_title": "Fruit and veg per person",
-    "insights_household": "People eating at home",
+    "insights_household": "How many people live in your home?",
     "insights_fruitveg_value": "~%1$d g a day each (%2$d people). The WHO suggests at least %3$d g.",
-    "insights_fruitveg_set_household": "Set how many people eat at home to see this.",
+    "insights_fruitveg_set_household": "Tap + to set it, and we'll show how much fruit and veg each person gets.",
     "insights_fruitveg_not_enough": "Needs 2 or more trips with weighed fruit or vegetables in the last 30 days.",
     "insights_changes_title": "Changes vs the 30 days before",
     "insights_change_up": "%1$s: %2$d trips, up from %3$d",
@@ -784,6 +784,7 @@
     "insights_footnote": "Based on what you bought through HomLyst, not what was eaten. Fruit and veg bought by the piece isn't counted in grams.",
     "insights_premium_title": "See your family's food patterns",
     "insights_premium_desc": "Upgrade to see your most bought items, daily use, fruit and veg per person, and changes over time.",
-    "food_trend_items_for": "See this month's items:"
+    "food_trend_items_for": "See this month's items:",
+    "insights_household_help": "Used only to work out fruit and veg per person."
   }
 }

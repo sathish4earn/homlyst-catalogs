@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -774,9 +774,9 @@
     "insights_per_day": "দিনে ~%1$s",
     "insights_every_days": "প্রতি ~%1$d দিনে 1",
     "insights_fruitveg_title": "মাথাপিছু ফল ও সবজি",
-    "insights_household": "বাড়িতে যারা খান",
+    "insights_household": "আপনার বাড়িতে কতজন থাকেন?",
     "insights_fruitveg_value": "প্রত্যেকে দিনে ~%1$d গ্রাম (%2$d জন)। WHO অন্তত %3$d গ্রাম পরামর্শ দেয়।",
-    "insights_fruitveg_set_household": "এটি দেখতে বাড়িতে কতজন খান তা ঠিক করুন।",
+    "insights_fruitveg_set_household": "+ চেপে সেট করুন, প্রত্যেকে কতটা ফল-সবজি পান তা দেখাব।",
     "insights_fruitveg_not_enough": "গত 30 দিনে ওজন করা ফল বা সবজি সহ 2 বা তার বেশি ট্রিপ দরকার।",
     "insights_changes_title": "আগের 30 দিনের তুলনায় পরিবর্তন",
     "insights_change_up": "%1$s: %2$d টি ট্রিপ, %3$d থেকে বেড়েছে",
@@ -784,6 +784,7 @@
     "insights_footnote": "HomLyst দিয়ে যা কেনা হয়েছে তার ভিত্তিতে, যা খাওয়া হয়েছে তার নয়। গুনে কেনা ফল-সবজি গ্রামে ধরা হয় না।",
     "insights_premium_title": "আপনার পরিবারের খাবারের ধরন দেখুন",
     "insights_premium_desc": "সবচেয়ে বেশি কেনা জিনিস, দৈনিক ব্যবহার, মাথাপিছু ফল-সবজি এবং সময়ের সাথে পরিবর্তন দেখতে আপগ্রেড করুন।",
-    "food_trend_items_for": "এই মাসের জিনিস দেখুন:"
+    "food_trend_items_for": "এই মাসের জিনিস দেখুন:",
+    "insights_household_help": "শুধু মাথাপিছু ফল-সবজি হিসাব করতে ব্যবহার হয়।"
   }
 }
