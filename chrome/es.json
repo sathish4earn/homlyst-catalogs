@@ -838,5 +838,8 @@
   "home_slide_prev": "Anterior",
   "home_slide_next": "Siguiente",
   "home_slide_pause": "Pausar",
-  "home_slide_play": "Reproducir"
+  "home_slide_play": "Reproducir",
+  "meter_reminder_time": "Hora del recordatorio",
+  "meter_exact_hint": "Los recordatorios pueden llegar unos minutos tarde. Permite que HomLyst configure alarmas y recordatorios para recibirlos a tiempo.",
+  "meter_exact_allow": "Permitir"
 }

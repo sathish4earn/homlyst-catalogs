@@ -838,5 +838,8 @@
   "home_slide_prev": "पिछला",
   "home_slide_next": "अगला",
   "home_slide_pause": "रोकें",
-  "home_slide_play": "चलाएं"
+  "home_slide_play": "चलाएं",
+  "meter_reminder_time": "रिमाइंडर का समय",
+  "meter_exact_hint": "रिमाइंडर कुछ मिनट देर से आ सकते हैं। समय पर पाने के लिए HomLyst को अलार्म और रिमाइंडर सेट करने की अनुमति दें।",
+  "meter_exact_allow": "अनुमति दें"
 }

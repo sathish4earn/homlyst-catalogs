@@ -838,5 +838,8 @@
   "home_slide_prev": "ପୂର୍ବବର୍ତ୍ତୀ",
   "home_slide_next": "ପରବର୍ତ୍ତୀ",
   "home_slide_pause": "ବିରତି",
-  "home_slide_play": "ଚଲାନ୍ତୁ"
+  "home_slide_play": "ଚଲାନ୍ତୁ",
+  "meter_reminder_time": "ରିମାଇଣ୍ଡର ସମୟ",
+  "meter_exact_hint": "ରିମାଇଣ୍ଡର କିଛି ମିନିଟ ଡେରିରେ ଆସିପାରେ। ଠିକ ସମୟରେ ପାଇବାକୁ HomLyst କୁ ଆଲାର୍ମ ଓ ରିମାଇଣ୍ଡର ସେଟ କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ।",
+  "meter_exact_allow": "ଅନୁମତି ଦିଅନ୍ତୁ"
 }

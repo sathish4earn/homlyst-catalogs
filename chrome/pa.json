@@ -838,5 +838,8 @@
   "home_slide_prev": "ਪਿਛਲਾ",
   "home_slide_next": "ਅਗਲਾ",
   "home_slide_pause": "ਰੋਕੋ",
-  "home_slide_play": "ਚਲਾਓ"
+  "home_slide_play": "ਚਲਾਓ",
+  "meter_reminder_time": "ਰਿਮਾਈਂਡਰ ਦਾ ਸਮਾਂ",
+  "meter_exact_hint": "ਰਿਮਾਈਂਡਰ ਕੁਝ ਮਿੰਟ ਦੇਰ ਨਾਲ ਆ ਸਕਦੇ ਹਨ। ਸਮੇਂ ਸਿਰ ਲੈਣ ਲਈ HomLyst ਨੂੰ ਅਲਾਰਮ ਅਤੇ ਰਿਮਾਈਂਡਰ ਸੈੱਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।",
+  "meter_exact_allow": "ਇਜਾਜ਼ਤ ਦਿਓ"
 }

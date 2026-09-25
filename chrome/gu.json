@@ -838,5 +838,8 @@
   "home_slide_prev": "પાછલું",
   "home_slide_next": "આગળનું",
   "home_slide_pause": "થોભો",
-  "home_slide_play": "ચલાવો"
+  "home_slide_play": "ચલાવો",
+  "meter_reminder_time": "રિમાઇન્ડરનો સમય",
+  "meter_exact_hint": "રિમાઇન્ડર થોડી મિનિટ મોડા આવી શકે છે. સમયસર મેળવવા HomLyst ને એલાર્મ અને રિમાઇન્ડર સેટ કરવાની મંજૂરી આપો.",
+  "meter_exact_allow": "મંજૂરી આપો"
 }

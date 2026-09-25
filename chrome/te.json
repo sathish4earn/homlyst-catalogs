@@ -838,5 +838,8 @@
   "home_slide_prev": "మునుపటి",
   "home_slide_next": "తదుపరి",
   "home_slide_pause": "ఆపు",
-  "home_slide_play": "ప్లే"
+  "home_slide_play": "ప్లే",
+  "meter_reminder_time": "రిమైండర్ సమయం",
+  "meter_exact_hint": "రిమైండర్‌లు కొన్ని నిమిషాలు ఆలస్యంగా రావచ్చు. సమయానికి పొందడానికి HomLyst అలారాలు మరియు రిమైండర్‌లు సెట్ చేయడానికి అనుమతించండి.",
+  "meter_exact_allow": "అనుమతించు"
 }
