@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -774,9 +774,9 @@
     "insights_per_day": "~%1$s रोज़",
     "insights_every_days": "हर ~%1$d दिन में 1",
     "insights_fruitveg_title": "प्रति व्यक्ति फल और सब्ज़ी",
-    "insights_household": "घर पर खाने वाले लोग",
+    "insights_household": "आपके घर में कितने लोग रहते हैं?",
     "insights_fruitveg_value": "हर व्यक्ति ~%1$d ग्राम रोज़ (%2$d लोग)। WHO कम से कम %3$d ग्राम की सलाह देता है।",
-    "insights_fruitveg_set_household": "यह देखने के लिए बताएं कि घर पर कितने लोग खाते हैं।",
+    "insights_fruitveg_set_household": "+ दबाकर सेट करें, फिर हम दिखाएंगे कि हर व्यक्ति को कितने फल-सब्ज़ी मिलते हैं।",
     "insights_fruitveg_not_enough": "पिछले 30 दिनों में तौले गए फल या सब्ज़ियों वाली 2 या ज़्यादा ट्रिप चाहिए।",
     "insights_changes_title": "पिछले 30 दिनों की तुलना में बदलाव",
     "insights_change_up": "%1$s: %2$d ट्रिप, %3$d से बढ़कर",
@@ -784,6 +784,7 @@
     "insights_footnote": "यह HomLyst से की गई खरीदारी पर आधारित है, खाए गए भोजन पर नहीं। गिनती में खरीदे गए फल-सब्ज़ी ग्राम में नहीं गिने जाते।",
     "insights_premium_title": "अपने परिवार के खाने के पैटर्न देखें",
     "insights_premium_desc": "सबसे ज़्यादा खरीदे गए आइटम, रोज़ाना खपत, प्रति व्यक्ति फल-सब्ज़ी और समय के साथ बदलाव देखने के लिए अपग्रेड करें।",
-    "food_trend_items_for": "इस महीने के आइटम देखें:"
+    "food_trend_items_for": "इस महीने के आइटम देखें:",
+    "insights_household_help": "इसका उपयोग केवल प्रति व्यक्ति फल-सब्ज़ी निकालने के लिए होता है।"
   }
 }

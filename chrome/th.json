@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -774,9 +774,9 @@
     "insights_per_day": "~%1$s ต่อวัน",
     "insights_every_days": "~1 ทุก %1$d วัน",
     "insights_fruitveg_title": "ผักผลไม้ต่อคน",
-    "insights_household": "จำนวนคนที่กินที่บ้าน",
+    "insights_household": "บ้านของคุณมีกี่คน?",
     "insights_fruitveg_value": "คนละ ~%1$d กรัมต่อวัน (%2$d คน) WHO แนะนำอย่างน้อย %3$d กรัม",
-    "insights_fruitveg_set_household": "ตั้งจำนวนคนที่กินที่บ้านเพื่อดูข้อมูลนี้",
+    "insights_fruitveg_set_household": "แตะ + เพื่อตั้งค่า แล้วเราจะแสดงว่าแต่ละคนได้ผักผลไม้เท่าไร",
     "insights_fruitveg_not_enough": "ต้องมีการซื้อผักหรือผลไม้แบบชั่งน้ำหนักอย่างน้อย 2 รอบใน 30 วันที่ผ่านมา",
     "insights_changes_title": "การเปลี่ยนแปลงเทียบกับ 30 วันก่อนหน้า",
     "insights_change_up": "%1$s: %2$d รอบ เพิ่มจาก %3$d",
@@ -784,6 +784,7 @@
     "insights_footnote": "อ้างอิงจากสิ่งที่ซื้อผ่าน HomLyst ไม่ใช่สิ่งที่กิน ผักผลไม้ที่ซื้อเป็นชิ้นจะไม่นับเป็นกรัม",
     "insights_premium_title": "ดูรูปแบบการกินของครอบครัวคุณ",
     "insights_premium_desc": "อัปเกรดเพื่อดูสินค้าที่ซื้อบ่อยที่สุด การใช้ต่อวัน ผักผลไม้ต่อคน และการเปลี่ยนแปลงตามเวลา",
-    "food_trend_items_for": "ดูสินค้าของเดือนนี้:"
+    "food_trend_items_for": "ดูสินค้าของเดือนนี้:",
+    "insights_household_help": "ใช้เพื่อคำนวณผักผลไม้ต่อคนเท่านั้น"
   }
 }

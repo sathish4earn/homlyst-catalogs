@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -774,9 +774,9 @@
     "insights_per_day": "~%1$s sehari",
     "insights_every_days": "~1 setiap %1$d hari",
     "insights_fruitveg_title": "Buah dan sayur setiap orang",
-    "insights_household": "Orang yang makan di rumah",
+    "insights_household": "Berapa orang tinggal di rumah anda?",
     "insights_fruitveg_value": "~%1$d g sehari setiap orang (%2$d orang). WHO mencadangkan sekurang-kurangnya %3$d g.",
-    "insights_fruitveg_set_household": "Tetapkan berapa orang makan di rumah untuk melihat ini.",
+    "insights_fruitveg_set_household": "Ketik + untuk menetapkannya, dan kami akan tunjukkan berapa banyak buah dan sayur setiap orang dapat.",
     "insights_fruitveg_not_enough": "Perlu 2 lawatan atau lebih dengan buah atau sayur yang ditimbang dalam 30 hari lepas.",
     "insights_changes_title": "Perubahan berbanding 30 hari sebelumnya",
     "insights_change_up": "%1$s: %2$d lawatan, naik daripada %3$d",
@@ -784,6 +784,7 @@
     "insights_footnote": "Berdasarkan apa yang anda beli melalui HomLyst, bukan apa yang dimakan. Buah dan sayur yang dibeli mengikut biji tidak dikira dalam gram.",
     "insights_premium_title": "Lihat corak makanan keluarga anda",
     "insights_premium_desc": "Naik taraf untuk melihat barang paling kerap dibeli, penggunaan harian, buah dan sayur setiap orang, dan perubahan dari semasa ke semasa.",
-    "food_trend_items_for": "Lihat barang bulan ini:"
+    "food_trend_items_for": "Lihat barang bulan ini:",
+    "insights_household_help": "Hanya digunakan untuk mengira buah dan sayur setiap orang."
   }
 }
