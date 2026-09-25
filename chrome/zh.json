@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -783,6 +783,7 @@
     "insights_change_down": "%1$s：%2$d 次购物，较之前 %3$d 次减少",
     "insights_footnote": "基于你通过 HomLyst 购买的商品，而非实际食用量。按个购买的蔬果不计入克数。",
     "insights_premium_title": "了解你家的饮食习惯",
-    "insights_premium_desc": "升级即可查看最常购买的商品、每日用量、人均蔬果以及随时间的变化。"
+    "insights_premium_desc": "升级即可查看最常购买的商品、每日用量、人均蔬果以及随时间的变化。",
+    "food_trend_items_for": "查看当月商品："
   }
 }

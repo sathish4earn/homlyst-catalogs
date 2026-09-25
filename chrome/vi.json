@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -783,6 +783,7 @@
     "insights_change_down": "%1$s: %2$d lần mua, giảm từ %3$d",
     "insights_footnote": "Dựa trên những gì bạn mua qua HomLyst, không phải những gì đã ăn. Rau quả mua theo trái/cái không được tính theo gam.",
     "insights_premium_title": "Xem thói quen ăn uống của gia đình",
-    "insights_premium_desc": "Nâng cấp để xem món mua nhiều nhất, mức dùng mỗi ngày, rau quả mỗi người và thay đổi theo thời gian."
+    "insights_premium_desc": "Nâng cấp để xem món mua nhiều nhất, mức dùng mỗi ngày, rau quả mỗi người và thay đổi theo thời gian.",
+    "food_trend_items_for": "Xem các món của tháng:"
   }
 }

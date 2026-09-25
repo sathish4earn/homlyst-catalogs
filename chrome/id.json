@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -783,6 +783,7 @@
     "insights_change_down": "%1$s: %2$d belanja, turun dari %3$d",
     "insights_footnote": "Berdasarkan yang Anda beli lewat HomLyst, bukan yang dimakan. Buah dan sayur yang dibeli per buah tidak dihitung dalam gram.",
     "insights_premium_title": "Lihat pola makan keluarga Anda",
-    "insights_premium_desc": "Tingkatkan untuk melihat barang paling sering dibeli, pemakaian harian, buah dan sayur per orang, dan perubahan dari waktu ke waktu."
+    "insights_premium_desc": "Tingkatkan untuk melihat barang paling sering dibeli, pemakaian harian, buah dan sayur per orang, dan perubahan dari waktu ke waktu.",
+    "food_trend_items_for": "Lihat barang bulan ini:"
   }
 }
