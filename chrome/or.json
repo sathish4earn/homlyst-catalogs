@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "ତଳର ସବୁକିଛି ପ୍ରିମିୟମରେ ଖୋଲେ · ବିଜ୍ଞାପନ ନାହିଁ",
   "premium_hub_get": "ପ୍ରିମିୟମ ନିଅନ୍ତୁ",
   "premium_hub_prev_health": "ଆପଣଙ୍କ ପରିବାର କେତେ ତାଜା ଖାଉଛି ଦେଖନ୍ତୁ",
-  "premium_hub_prev_no_ads": "ବିଜ୍ଞାପନ ବିନା HomLyst ଉପଭୋଗ କରନ୍ତୁ"
+  "premium_hub_prev_no_ads": "ବିଜ୍ଞାପନ ବିନା HomLyst ଉପଭୋଗ କରନ୍ତୁ",
+  "home_update_label": "ଅପଡେଟ",
+  "home_update_open": "ଖୋଲନ୍ତୁ",
+  "home_updates_one": "1 ଟି ଅପଡେଟ",
+  "home_updates_count": "%1$d ଟି ଅପଡେଟ",
+  "home_updates_title": "ଅପଡେଟ",
+  "home_updates_none": "ଏବେ କୌଣସି ଅପଡେଟ ନାହିଁ"
 }

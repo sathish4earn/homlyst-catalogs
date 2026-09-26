@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "Tout ce qui suit se débloque avec Premium · sans publicité",
   "premium_hub_get": "Passer à Premium",
   "premium_hub_prev_health": "Voyez à quel point votre famille mange frais",
-  "premium_hub_prev_no_ads": "Profitez de HomLyst sans publicité"
+  "premium_hub_prev_no_ads": "Profitez de HomLyst sans publicité",
+  "home_update_label": "Mise à jour",
+  "home_update_open": "Ouvrir",
+  "home_updates_one": "1 mise à jour",
+  "home_updates_count": "%1$d mises à jour",
+  "home_updates_title": "Mises à jour",
+  "home_updates_none": "Aucune mise à jour pour l'instant"
 }

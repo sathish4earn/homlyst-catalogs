@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "താഴെയുള്ളതെല്ലാം പ്രീമിയത്തിൽ ലഭ്യം · പരസ്യമില്ല",
   "premium_hub_get": "പ്രീമിയം നേടൂ",
   "premium_hub_prev_health": "നിങ്ങളുടെ കുടുംബം എത്ര ഫ്രഷ് ആയി കഴിക്കുന്നു എന്ന് കാണുക",
-  "premium_hub_prev_no_ads": "പരസ്യമില്ലാതെ HomLyst ആസ്വദിക്കൂ"
+  "premium_hub_prev_no_ads": "പരസ്യമില്ലാതെ HomLyst ആസ്വദിക്കൂ",
+  "home_update_label": "അപ്ഡേറ്റ്",
+  "home_update_open": "തുറക്കുക",
+  "home_updates_one": "1 അപ്ഡേറ്റ്",
+  "home_updates_count": "%1$d അപ്ഡേറ്റുകൾ",
+  "home_updates_title": "അപ്ഡേറ്റുകൾ",
+  "home_updates_none": "ഇപ്പോൾ അപ്ഡേറ്റുകളില്ല"
 }

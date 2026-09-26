@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "ทุกอย่างด้านล่างปลดล็อกด้วยพรีเมียม · ไม่มีโฆษณา",
   "premium_hub_get": "รับพรีเมียม",
   "premium_hub_prev_health": "ดูว่าครอบครัวคุณกินของสดแค่ไหน",
-  "premium_hub_prev_no_ads": "ใช้ HomLyst แบบไม่มีโฆษณา"
+  "premium_hub_prev_no_ads": "ใช้ HomLyst แบบไม่มีโฆษณา",
+  "home_update_label": "อัปเดต",
+  "home_update_open": "เปิด",
+  "home_updates_one": "1 อัปเดต",
+  "home_updates_count": "%1$d อัปเดต",
+  "home_updates_title": "อัปเดต",
+  "home_updates_none": "ยังไม่มีอัปเดต"
 }
