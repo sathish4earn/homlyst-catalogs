@@ -856,5 +856,19 @@
   "group_done_title": "ซื้อของกลุ่มเสร็จแล้ว",
   "group_done_message": "การซื้อของของกลุ่มคุณเสร็จสมบูรณ์แล้ว",
   "group_done_you_bought": "คุณซื้อ %1$d จาก %2$d รายการ",
-  "group_no_items_bought": "ไม่ได้ซื้อรายการใด"
+  "group_no_items_bought": "ไม่ได้ซื้อรายการใด",
+  "event_add_hint": "เพิ่มรายการ… เช่น ข้าว 2 kg",
+  "event_ai_ideas": "ไอเดียจาก AI",
+  "event_voice_add": "พูดรายการ",
+  "event_list_title": "รายการซื้อของ (%1$d)",
+  "event_empty_title": "เริ่มรายการของคุณ",
+  "event_empty_body": "พิมพ์รายการด้านบน แตะ 🎤 เพื่อพูดหลายรายการพร้อมกัน หรือเลือกจากแคตตาล็อก",
+  "event_invite": "เชิญ",
+  "event_people_one": "1 คน",
+  "event_people_count": "%1$d คน",
+  "event_publish_count": "เผยแพร่และเริ่มซื้อของ (%1$d)",
+  "event_invite_first": "เชิญคนมาวางแผนด้วยกัน",
+  "event_waiting_publish": "รอ %1$s เผยแพร่รายการ",
+  "add_to_list": "เพิ่มในรายการ",
+  "voice_quick_add_confirm_list": "เพิ่ม %1$d รายการ"
 }

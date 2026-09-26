@@ -856,5 +856,19 @@
   "group_done_title": "গ্রুপের কেনাকাটা শেষ",
   "group_done_message": "আপনার গ্রুপের আইটেম কেনা সম্পূর্ণ হয়েছে।",
   "group_done_you_bought": "আপনি %2$dটির মধ্যে %1$dটি আইটেম কিনেছেন।",
-  "group_no_items_bought": "কোনো আইটেম কেনেননি"
+  "group_no_items_bought": "কোনো আইটেম কেনেননি",
+  "event_add_hint": "আইটেম যোগ করুন… যেমন 2 kg চাল",
+  "event_ai_ideas": "AI পরামর্শ",
+  "event_voice_add": "আইটেম বলুন",
+  "event_list_title": "কেনাকাটার তালিকা (%1$d)",
+  "event_empty_title": "আপনার তালিকা শুরু করুন",
+  "event_empty_body": "উপরে আইটেম লিখুন, একসাথে অনেকগুলো বলতে 🎤 ট্যাপ করুন, বা ক্যাটালগ থেকে বেছে নিন।",
+  "event_invite": "আমন্ত্রণ",
+  "event_people_one": "1 জন",
+  "event_people_count": "%1$d জন",
+  "event_publish_count": "প্রকাশ করুন ও কেনাকাটা শুরু করুন (%1$d)",
+  "event_invite_first": "একসাথে পরিকল্পনা করতে লোকজনকে আমন্ত্রণ জানান",
+  "event_waiting_publish": "%1$s তালিকা প্রকাশ করার অপেক্ষায়",
+  "add_to_list": "তালিকায় যোগ করুন",
+  "voice_quick_add_confirm_list": "%1$dটি তালিকায় যোগ করুন"
 }

@@ -856,5 +856,19 @@
   "group_done_title": "Courses du groupe terminées",
   "group_done_message": "Les achats des articles de votre groupe sont terminés.",
   "group_done_you_bought": "Vous avez acheté %1$d articles sur %2$d.",
-  "group_no_items_bought": "Aucun article acheté"
+  "group_no_items_bought": "Aucun article acheté",
+  "event_add_hint": "Ajoutez un article… ex. 2 kg de riz",
+  "event_ai_ideas": "Idées IA",
+  "event_voice_add": "Dites les articles",
+  "event_list_title": "Liste de courses (%1$d)",
+  "event_empty_title": "Commencez votre liste",
+  "event_empty_body": "Tapez un article ci-dessus, touchez 🎤 pour en dire plusieurs d'un coup, ou choisissez dans le catalogue.",
+  "event_invite": "Inviter",
+  "event_people_one": "1 personne",
+  "event_people_count": "%1$d personnes",
+  "event_publish_count": "Publier et commencer les courses (%1$d)",
+  "event_invite_first": "Invitez des gens pour planifier ensemble",
+  "event_waiting_publish": "En attente de la publication de la liste par %1$s",
+  "add_to_list": "Ajouter à la liste",
+  "voice_quick_add_confirm_list": "Ajouter %1$d à la liste"
 }

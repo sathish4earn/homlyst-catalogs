@@ -856,5 +856,19 @@
   "group_done_title": "గ్రూప్ షాపింగ్ పూర్తయింది",
   "group_done_message": "మీ గ్రూప్ వస్తువుల కొనుగోలు పూర్తయింది.",
   "group_done_you_bought": "మీరు %2$d లో %1$d వస్తువులు కొన్నారు.",
-  "group_no_items_bought": "ఏ వస్తువూ కొనలేదు"
+  "group_no_items_bought": "ఏ వస్తువూ కొనలేదు",
+  "event_add_hint": "వస్తువు జోడించండి… ఉదా. 2 kg బియ్యం",
+  "event_ai_ideas": "AI సూచనలు",
+  "event_voice_add": "వస్తువులు చెప్పండి",
+  "event_list_title": "షాపింగ్ జాబితా (%1$d)",
+  "event_empty_title": "మీ జాబితా ప్రారంభించండి",
+  "event_empty_body": "పైన వస్తువును టైప్ చేయండి, ఒకేసారి చాలా చెప్పడానికి 🎤 నొక్కండి, లేదా కేటలాగ్ నుండి ఎంచుకోండి.",
+  "event_invite": "ఆహ్వానించు",
+  "event_people_one": "1 వ్యక్తి",
+  "event_people_count": "%1$d మంది",
+  "event_publish_count": "పబ్లిష్ చేసి షాపింగ్ ప్రారంభించండి (%1$d)",
+  "event_invite_first": "కలిసి ప్లాన్ చేయడానికి వ్యక్తులను ఆహ్వానించండి",
+  "event_waiting_publish": "%1$s జాబితాను పబ్లిష్ చేసేవరకు వేచి ఉంది",
+  "add_to_list": "జాబితాలో జోడించు",
+  "voice_quick_add_confirm_list": "%1$d జాబితాలో జోడించు"
 }

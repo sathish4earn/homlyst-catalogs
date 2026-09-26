@@ -856,5 +856,19 @@
   "group_done_title": "ગ્રુપની ખરીદી પૂરી થઈ",
   "group_done_message": "તમારા ગ્રુપની વસ્તુઓની ખરીદી પૂરી થઈ ગઈ છે.",
   "group_done_you_bought": "તમે %2$d માંથી %1$d વસ્તુઓ ખરીદી.",
-  "group_no_items_bought": "કોઈ વસ્તુ ખરીદી નથી"
+  "group_no_items_bought": "કોઈ વસ્તુ ખરીદી નથી",
+  "event_add_hint": "વસ્તુ ઉમેરો… દા.ત. 2 kg ચોખા",
+  "event_ai_ideas": "AI સૂચનો",
+  "event_voice_add": "વસ્તુઓ બોલો",
+  "event_list_title": "ખરીદી યાદી (%1$d)",
+  "event_empty_title": "તમારી યાદી શરૂ કરો",
+  "event_empty_body": "ઉપર વસ્તુ લખો, એક સાથે ઘણી બોલવા 🎤 દબાવો, અથવા કેટલોગમાંથી પસંદ કરો.",
+  "event_invite": "આમંત્રણ",
+  "event_people_one": "1 વ્યક્તિ",
+  "event_people_count": "%1$d લોકો",
+  "event_publish_count": "પ્રકાશિત કરો અને ખરીદી શરૂ કરો (%1$d)",
+  "event_invite_first": "સાથે આયોજન કરવા લોકોને આમંત્રિત કરો",
+  "event_waiting_publish": "%1$s યાદી પ્રકાશિત કરે તેની રાહ",
+  "add_to_list": "યાદીમાં ઉમેરો",
+  "voice_quick_add_confirm_list": "%1$d યાદીમાં ઉમેરો"
 }

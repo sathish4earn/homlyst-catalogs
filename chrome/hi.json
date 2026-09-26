@@ -856,5 +856,19 @@
   "group_done_title": "ग्रुप की खरीदारी पूरी हुई",
   "group_done_message": "आपके ग्रुप के आइटम की खरीदारी पूरी हो गई है।",
   "group_done_you_bought": "आपने %2$d में से %1$d आइटम खरीदे।",
-  "group_no_items_bought": "कोई आइटम नहीं खरीदा"
+  "group_no_items_bought": "कोई आइटम नहीं खरीदा",
+  "event_add_hint": "आइटम जोड़ें… जैसे 2 kg चावल",
+  "event_ai_ideas": "AI सुझाव",
+  "event_voice_add": "आइटम बोलें",
+  "event_list_title": "खरीदारी सूची (%1$d)",
+  "event_empty_title": "अपनी सूची शुरू करें",
+  "event_empty_body": "ऊपर आइटम लिखें, एक साथ कई बोलने के लिए 🎤 दबाएं, या कैटलॉग से चुनें।",
+  "event_invite": "आमंत्रित करें",
+  "event_people_one": "1 व्यक्ति",
+  "event_people_count": "%1$d लोग",
+  "event_publish_count": "पब्लिश करें और खरीदारी शुरू करें (%1$d)",
+  "event_invite_first": "साथ में प्लान करने के लिए लोगों को आमंत्रित करें",
+  "event_waiting_publish": "%1$s के सूची पब्लिश करने का इंतज़ार",
+  "add_to_list": "सूची में जोड़ें",
+  "voice_quick_add_confirm_list": "%1$d सूची में जोड़ें"
 }

@@ -856,5 +856,19 @@
   "group_done_title": "ଗ୍ରୁପ କିଣାକିଣି ସମ୍ପୂର୍ଣ୍ଣ",
   "group_done_message": "ଆପଣଙ୍କ ଗ୍ରୁପର ଜିନିଷ କିଣା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି।",
   "group_done_you_bought": "ଆପଣ %2$d ମଧ୍ୟରୁ %1$d ଟି ଜିନିଷ କିଣିଲେ।",
-  "group_no_items_bought": "କୌଣସି ଜିନିଷ କିଣିନାହାଁନ୍ତି"
+  "group_no_items_bought": "କୌଣସି ଜିନିଷ କିଣିନାହାଁନ୍ତି",
+  "event_add_hint": "ଜିନିଷ ଯୋଡ଼ନ୍ତୁ… ଯେପରି 2 kg ଚାଉଳ",
+  "event_ai_ideas": "AI ପରାମର୍ଶ",
+  "event_voice_add": "ଜିନିଷ କୁହନ୍ତୁ",
+  "event_list_title": "କିଣାକିଣି ତାଲିକା (%1$d)",
+  "event_empty_title": "ଆପଣଙ୍କ ତାଲିକା ଆରମ୍ଭ କରନ୍ତୁ",
+  "event_empty_body": "ଉପରେ ଜିନିଷ ଟାଇପ କରନ୍ତୁ, ଏକାସାଙ୍ଗରେ ଅନେକ କହିବାକୁ 🎤 ଦବାନ୍ତୁ, କିମ୍ବା କ୍ୟାଟାଲଗରୁ ବାଛନ୍ତୁ।",
+  "event_invite": "ନିମନ୍ତ୍ରଣ",
+  "event_people_one": "1 ଜଣ",
+  "event_people_count": "%1$d ଜଣ",
+  "event_publish_count": "ପ୍ରକାଶ କରି କିଣାକିଣି ଆରମ୍ଭ କରନ୍ତୁ (%1$d)",
+  "event_invite_first": "ଏକାଠି ଯୋଜନା କରିବାକୁ ଲୋକଙ୍କୁ ନିମନ୍ତ୍ରଣ କରନ୍ତୁ",
+  "event_waiting_publish": "%1$s ତାଲିକା ପ୍ରକାଶ କରିବାକୁ ଅପେକ୍ଷା",
+  "add_to_list": "ତାଲିକାରେ ଯୋଡ଼ନ୍ତୁ",
+  "voice_quick_add_confirm_list": "%1$d ତାଲିକାରେ ଯୋଡ଼ନ୍ତୁ"
 }

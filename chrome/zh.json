@@ -856,5 +856,19 @@
   "group_done_title": "群组购物已完成",
   "group_done_message": "你的群组物品已全部购买完成。",
   "group_done_you_bought": "你买了 %2$d 件中的 %1$d 件。",
-  "group_no_items_bought": "没有购买物品"
+  "group_no_items_bought": "没有购买物品",
+  "event_add_hint": "添加物品… 例如 2 kg 大米",
+  "event_ai_ideas": "AI 建议",
+  "event_voice_add": "说出物品",
+  "event_list_title": "购物清单（%1$d）",
+  "event_empty_title": "开始你的清单",
+  "event_empty_body": "在上方输入物品，点 🎤 一次说出多个，或从目录中挑选。",
+  "event_invite": "邀请",
+  "event_people_one": "1 人",
+  "event_people_count": "%1$d 人",
+  "event_publish_count": "发布并开始购物（%1$d）",
+  "event_invite_first": "邀请大家一起计划",
+  "event_waiting_publish": "等待 %1$s 发布清单",
+  "add_to_list": "添加到清单",
+  "voice_quick_add_confirm_list": "添加 %1$d 项到清单"
 }

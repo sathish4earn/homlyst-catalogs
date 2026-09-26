@@ -856,5 +856,19 @@
   "group_done_title": "குழு ஷாப்பிங் முடிந்தது",
   "group_done_message": "உங்கள் குழுவின் பொருட்கள் வாங்குதல் முடிந்தது.",
   "group_done_you_bought": "நீங்கள் %2$d இல் %1$d பொருட்களை வாங்கினீர்கள்.",
-  "group_no_items_bought": "எந்தப் பொருளும் வாங்கவில்லை"
+  "group_no_items_bought": "எந்தப் பொருளும் வாங்கவில்லை",
+  "event_add_hint": "பொருளைச் சேர்க்கவும்… எ.கா. 2 kg அரிசி",
+  "event_ai_ideas": "AI யோசனைகள்",
+  "event_voice_add": "பொருட்களைச் சொல்லுங்கள்",
+  "event_list_title": "ஷாப்பிங் பட்டியல் (%1$d)",
+  "event_empty_title": "உங்கள் பட்டியலைத் தொடங்குங்கள்",
+  "event_empty_body": "மேலே ஒரு பொருளை டைப் செய்யுங்கள், பலவற்றை ஒரே நேரத்தில் சொல்ல 🎤 தொடுங்கள், அல்லது கேட்டலாகிலிருந்து தேர்வு செய்யுங்கள்.",
+  "event_invite": "அழை",
+  "event_people_one": "1 நபர்",
+  "event_people_count": "%1$d பேர்",
+  "event_publish_count": "வெளியிட்டு ஷாப்பிங் தொடங்கு (%1$d)",
+  "event_invite_first": "சேர்ந்து திட்டமிட நபர்களை அழையுங்கள்",
+  "event_waiting_publish": "%1$s பட்டியலை வெளியிடக் காத்திருக்கிறது",
+  "add_to_list": "பட்டியலில் சேர்",
+  "voice_quick_add_confirm_list": "%1$d ஐ பட்டியலில் சேர்"
 }
