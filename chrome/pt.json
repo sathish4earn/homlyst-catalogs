@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "Tudo abaixo é liberado com o Premium · sem anúncios",
   "premium_hub_get": "Assinar o Premium",
   "premium_hub_prev_health": "Veja o quanto sua família come fresco",
-  "premium_hub_prev_no_ads": "Aproveite o HomLyst sem anúncios"
+  "premium_hub_prev_no_ads": "Aproveite o HomLyst sem anúncios",
+  "home_update_label": "Novidade",
+  "home_update_open": "Abrir",
+  "home_updates_one": "1 novidade",
+  "home_updates_count": "%1$d novidades",
+  "home_updates_title": "Novidades",
+  "home_updates_none": "Nenhuma novidade agora"
 }

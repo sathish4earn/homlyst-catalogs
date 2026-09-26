@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "ಕೆಳಗಿನ ಎಲ್ಲವೂ ಪ್ರೀಮಿಯಂನೊಂದಿಗೆ ಲಭ್ಯ · ಜಾಹೀರಾತು ಇಲ್ಲ",
   "premium_hub_get": "ಪ್ರೀಮಿಯಂ ಪಡೆಯಿರಿ",
   "premium_hub_prev_health": "ನಿಮ್ಮ ಕುಟುಂಬ ಎಷ್ಟು ತಾಜಾ ತಿನ್ನುತ್ತದೆ ನೋಡಿ",
-  "premium_hub_prev_no_ads": "ಜಾಹೀರಾತು ಇಲ್ಲದೆ HomLyst ಆನಂದಿಸಿ"
+  "premium_hub_prev_no_ads": "ಜಾಹೀರಾತು ಇಲ್ಲದೆ HomLyst ಆನಂದಿಸಿ",
+  "home_update_label": "ಅಪ್‌ಡೇಟ್",
+  "home_update_open": "ತೆರೆಯಿರಿ",
+  "home_updates_one": "1 ಅಪ್‌ಡೇಟ್",
+  "home_updates_count": "%1$d ಅಪ್‌ಡೇಟ್‌ಗಳು",
+  "home_updates_title": "ಅಪ್‌ಡೇಟ್‌ಗಳು",
+  "home_updates_none": "ಈಗ ಯಾವುದೇ ಅಪ್‌ಡೇಟ್ ಇಲ್ಲ"
 }

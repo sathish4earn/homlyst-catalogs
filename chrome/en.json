@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "Everything below unlocks with Premium · no ads",
   "premium_hub_get": "Get Premium",
   "premium_hub_prev_health": "See how fresh your family eats",
-  "premium_hub_prev_no_ads": "Enjoy HomLyst without ads"
+  "premium_hub_prev_no_ads": "Enjoy HomLyst without ads",
+  "home_update_label": "Update",
+  "home_update_open": "Open",
+  "home_updates_one": "1 update",
+  "home_updates_count": "%1$d updates",
+  "home_updates_title": "Updates",
+  "home_updates_none": "No updates right now"
 }

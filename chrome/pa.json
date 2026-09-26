@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "ਹੇਠਾਂ ਸਭ ਕੁਝ ਪ੍ਰੀਮੀਅਮ ਨਾਲ ਖੁੱਲ੍ਹਦਾ ਹੈ · ਕੋਈ ਇਸ਼ਤਿਹਾਰ ਨਹੀਂ",
   "premium_hub_get": "ਪ੍ਰੀਮੀਅਮ ਲਓ",
   "premium_hub_prev_health": "ਵੇਖੋ ਤੁਹਾਡਾ ਪਰਿਵਾਰ ਕਿੰਨਾ ਤਾਜ਼ਾ ਖਾਂਦਾ ਹੈ",
-  "premium_hub_prev_no_ads": "ਇਸ਼ਤਿਹਾਰਾਂ ਤੋਂ ਬਿਨਾਂ HomLyst ਦਾ ਆਨੰਦ ਲਓ"
+  "premium_hub_prev_no_ads": "ਇਸ਼ਤਿਹਾਰਾਂ ਤੋਂ ਬਿਨਾਂ HomLyst ਦਾ ਆਨੰਦ ਲਓ",
+  "home_update_label": "ਅੱਪਡੇਟ",
+  "home_update_open": "ਖੋਲ੍ਹੋ",
+  "home_updates_one": "1 ਅੱਪਡੇਟ",
+  "home_updates_count": "%1$d ਅੱਪਡੇਟ",
+  "home_updates_title": "ਅੱਪਡੇਟ",
+  "home_updates_none": "ਹੁਣ ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ"
 }

@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "Semua di bawah dibuka dengan Premium · tiada iklan",
   "premium_hub_get": "Dapatkan Premium",
   "premium_hub_prev_health": "Lihat betapa segar makanan keluarga anda",
-  "premium_hub_prev_no_ads": "Nikmati HomLyst tanpa iklan"
+  "premium_hub_prev_no_ads": "Nikmati HomLyst tanpa iklan",
+  "home_update_label": "Kemas kini",
+  "home_update_open": "Buka",
+  "home_updates_one": "1 kemas kini",
+  "home_updates_count": "%1$d kemas kini",
+  "home_updates_title": "Kemas kini",
+  "home_updates_none": "Tiada kemas kini sekarang"
 }

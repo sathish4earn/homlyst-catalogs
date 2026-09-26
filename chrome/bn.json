@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "নিচের সবকিছু প্রিমিয়ামে খোলে · বিজ্ঞাপন নেই",
   "premium_hub_get": "প্রিমিয়াম নিন",
   "premium_hub_prev_health": "দেখুন আপনার পরিবার কতটা টাটকা খায়",
-  "premium_hub_prev_no_ads": "বিজ্ঞাপন ছাড়া HomLyst উপভোগ করুন"
+  "premium_hub_prev_no_ads": "বিজ্ঞাপন ছাড়া HomLyst উপভোগ করুন",
+  "home_update_label": "আপডেট",
+  "home_update_open": "খুলুন",
+  "home_updates_one": "1টি আপডেট",
+  "home_updates_count": "%1$dটি আপডেট",
+  "home_updates_title": "আপডেট",
+  "home_updates_none": "এখন কোনো আপডেট নেই"
 }

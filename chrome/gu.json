@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "નીચેનું બધું પ્રીમિયમથી ખુલે છે · જાહેરાતો નહીં",
   "premium_hub_get": "પ્રીમિયમ મેળવો",
   "premium_hub_prev_health": "તમારો પરિવાર કેટલું તાજું ખાય છે તે જુઓ",
-  "premium_hub_prev_no_ads": "જાહેરાતો વગર HomLyst માણો"
+  "premium_hub_prev_no_ads": "જાહેરાતો વગર HomLyst માણો",
+  "home_update_label": "અપડેટ",
+  "home_update_open": "ખોલો",
+  "home_updates_one": "1 અપડેટ",
+  "home_updates_count": "%1$d અપડેટ",
+  "home_updates_title": "અપડેટ",
+  "home_updates_none": "હમણાં કોઈ અપડેટ નથી"
 }

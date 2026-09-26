@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "கீழே உள்ள அனைத்தும் பிரீமியத்துடன் திறக்கும் · விளம்பரம் இல்லை",
   "premium_hub_get": "பிரீமியம் பெறுங்கள்",
   "premium_hub_prev_health": "உங்கள் குடும்பம் எவ்வளவு ஃப்ரெஷ்ஷாக சாப்பிடுகிறது பாருங்கள்",
-  "premium_hub_prev_no_ads": "விளம்பரம் இல்லாமல் HomLyst ஐ அனுபவியுங்கள்"
+  "premium_hub_prev_no_ads": "விளம்பரம் இல்லாமல் HomLyst ஐ அனுபவியுங்கள்",
+  "home_update_label": "புதுப்பிப்பு",
+  "home_update_open": "திற",
+  "home_updates_one": "1 புதுப்பிப்பு",
+  "home_updates_count": "%1$d புதுப்பிப்புகள்",
+  "home_updates_title": "புதுப்பிப்புகள்",
+  "home_updates_none": "இப்போது புதுப்பிப்புகள் இல்லை"
 }

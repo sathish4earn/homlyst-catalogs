@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "खालील सर्व प्रीमियमने सुरू होते · जाहिराती नाहीत",
   "premium_hub_get": "प्रीमियम घ्या",
   "premium_hub_prev_health": "तुमचे कुटुंब किती ताजे खाते ते पाहा",
-  "premium_hub_prev_no_ads": "जाहिरातींशिवाय HomLyst चा आनंद घ्या"
+  "premium_hub_prev_no_ads": "जाहिरातींशिवाय HomLyst चा आनंद घ्या",
+  "home_update_label": "अपडेट",
+  "home_update_open": "उघडा",
+  "home_updates_one": "1 अपडेट",
+  "home_updates_count": "%1$d अपडेट्स",
+  "home_updates_title": "अपडेट्स",
+  "home_updates_none": "सध्या कोणतेही अपडेट नाहीत"
 }

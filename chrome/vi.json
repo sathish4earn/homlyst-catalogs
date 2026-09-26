@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "Mọi thứ bên dưới mở khóa với Premium · không quảng cáo",
   "premium_hub_get": "Nâng cấp Premium",
   "premium_hub_prev_health": "Xem gia đình bạn ăn tươi đến đâu",
-  "premium_hub_prev_no_ads": "Dùng HomLyst không quảng cáo"
+  "premium_hub_prev_no_ads": "Dùng HomLyst không quảng cáo",
+  "home_update_label": "Cập nhật",
+  "home_update_open": "Mở",
+  "home_updates_one": "1 cập nhật",
+  "home_updates_count": "%1$d cập nhật",
+  "home_updates_title": "Cập nhật",
+  "home_updates_none": "Hiện chưa có cập nhật"
 }

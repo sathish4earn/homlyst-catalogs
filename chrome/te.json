@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "కింద ఉన్నవన్నీ ప్రీమియంతో అన్‌లాక్ · ప్రకటనలు లేవు",
   "premium_hub_get": "ప్రీమియం పొందండి",
   "premium_hub_prev_health": "మీ కుటుంబం ఎంత ఫ్రెష్‌గా తింటుందో చూడండి",
-  "premium_hub_prev_no_ads": "ప్రకటనలు లేకుండా HomLyst ఆనందించండి"
+  "premium_hub_prev_no_ads": "ప్రకటనలు లేకుండా HomLyst ఆనందించండి",
+  "home_update_label": "అప్‌డేట్",
+  "home_update_open": "తెరువు",
+  "home_updates_one": "1 అప్‌డేట్",
+  "home_updates_count": "%1$d అప్‌డేట్‌లు",
+  "home_updates_title": "అప్‌డేట్‌లు",
+  "home_updates_none": "ప్రస్తుతం అప్‌డేట్‌లు లేవు"
 }

@@ -916,5 +916,11 @@
   "premium_hub_preview_hero": "以下功能开通高级版即可使用 · 无广告",
   "premium_hub_get": "开通高级版",
   "premium_hub_prev_health": "看看你家吃得有多新鲜",
-  "premium_hub_prev_no_ads": "无广告畅享 HomLyst"
+  "premium_hub_prev_no_ads": "无广告畅享 HomLyst",
+  "home_update_label": "动态",
+  "home_update_open": "打开",
+  "home_updates_one": "1 条动态",
+  "home_updates_count": "%1$d 条动态",
+  "home_updates_title": "动态",
+  "home_updates_none": "暂时没有动态"
 }
