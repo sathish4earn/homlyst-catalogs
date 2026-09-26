@@ -856,5 +856,19 @@
   "group_done_title": "Belian kumpulan selesai",
   "group_done_message": "Pembelian barang kumpulan anda sudah selesai.",
   "group_done_you_bought": "Anda membeli %1$d daripada %2$d barang.",
-  "group_no_items_bought": "Tiada barang dibeli"
+  "group_no_items_bought": "Tiada barang dibeli",
+  "event_add_hint": "Tambah barang… cth. 2 kg beras",
+  "event_ai_ideas": "Idea AI",
+  "event_voice_add": "Sebut barang",
+  "event_list_title": "Senarai beli-belah (%1$d)",
+  "event_empty_title": "Mulakan senarai anda",
+  "event_empty_body": "Taip barang di atas, ketik 🎤 untuk menyebut beberapa sekali gus, atau pilih daripada katalog.",
+  "event_invite": "Jemput",
+  "event_people_one": "1 orang",
+  "event_people_count": "%1$d orang",
+  "event_publish_count": "Terbitkan & mula membeli-belah (%1$d)",
+  "event_invite_first": "Jemput orang untuk merancang bersama",
+  "event_waiting_publish": "Menunggu %1$s menerbitkan senarai",
+  "add_to_list": "Tambah ke Senarai",
+  "voice_quick_add_confirm_list": "Tambah %1$d ke Senarai"
 }

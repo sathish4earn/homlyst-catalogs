@@ -856,5 +856,19 @@
   "group_done_title": "Compras do grupo concluídas",
   "group_done_message": "As compras dos itens do seu grupo foram concluídas.",
   "group_done_you_bought": "Você comprou %1$d de %2$d itens.",
-  "group_no_items_bought": "Nenhum item comprado"
+  "group_no_items_bought": "Nenhum item comprado",
+  "event_add_hint": "Adicione um item… ex.: 2 kg de arroz",
+  "event_ai_ideas": "Ideias com IA",
+  "event_voice_add": "Fale os itens",
+  "event_list_title": "Lista de compras (%1$d)",
+  "event_empty_title": "Comece sua lista",
+  "event_empty_body": "Digite um item acima, toque em 🎤 para falar vários de uma vez ou escolha no catálogo.",
+  "event_invite": "Convidar",
+  "event_people_one": "1 pessoa",
+  "event_people_count": "%1$d pessoas",
+  "event_publish_count": "Publicar e começar as compras (%1$d)",
+  "event_invite_first": "Convide pessoas para planejar juntos",
+  "event_waiting_publish": "Aguardando %1$s publicar a lista",
+  "add_to_list": "Adicionar à lista",
+  "voice_quick_add_confirm_list": "Adicionar %1$d à lista"
 }

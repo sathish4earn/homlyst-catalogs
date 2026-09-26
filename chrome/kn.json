@@ -856,5 +856,19 @@
   "group_done_title": "ಗುಂಪಿನ ಶಾಪಿಂಗ್ ಮುಗಿದಿದೆ",
   "group_done_message": "ನಿಮ್ಮ ಗುಂಪಿನ ವಸ್ತುಗಳ ಖರೀದಿ ಪೂರ್ಣಗೊಂಡಿದೆ.",
   "group_done_you_bought": "ನೀವು %2$d ರಲ್ಲಿ %1$d ವಸ್ತುಗಳನ್ನು ಖರೀದಿಸಿದ್ದೀರಿ.",
-  "group_no_items_bought": "ಯಾವುದೇ ವಸ್ತು ಖರೀದಿಸಿಲ್ಲ"
+  "group_no_items_bought": "ಯಾವುದೇ ವಸ್ತು ಖರೀದಿಸಿಲ್ಲ",
+  "event_add_hint": "ವಸ್ತು ಸೇರಿಸಿ… ಉದಾ. 2 kg ಅಕ್ಕಿ",
+  "event_ai_ideas": "AI ಸಲಹೆಗಳು",
+  "event_voice_add": "ವಸ್ತುಗಳನ್ನು ಹೇಳಿ",
+  "event_list_title": "ಶಾಪಿಂಗ್ ಪಟ್ಟಿ (%1$d)",
+  "event_empty_title": "ನಿಮ್ಮ ಪಟ್ಟಿ ಪ್ರಾರಂಭಿಸಿ",
+  "event_empty_body": "ಮೇಲೆ ವಸ್ತುವನ್ನು ಟೈಪ್ ಮಾಡಿ, ಒಮ್ಮೆಗೆ ಹಲವನ್ನು ಹೇಳಲು 🎤 ಒತ್ತಿ, ಅಥವಾ ಕ್ಯಾಟಲಾಗ್‌ನಿಂದ ಆಯ್ಕೆಮಾಡಿ.",
+  "event_invite": "ಆಹ್ವಾನಿಸಿ",
+  "event_people_one": "1 ವ್ಯಕ್ತಿ",
+  "event_people_count": "%1$d ಜನರು",
+  "event_publish_count": "ಪ್ರಕಟಿಸಿ ಶಾಪಿಂಗ್ ಪ್ರಾರಂಭಿಸಿ (%1$d)",
+  "event_invite_first": "ಒಟ್ಟಿಗೆ ಯೋಜಿಸಲು ಜನರನ್ನು ಆಹ್ವಾನಿಸಿ",
+  "event_waiting_publish": "%1$s ಪಟ್ಟಿಯನ್ನು ಪ್ರಕಟಿಸಲು ಕಾಯಲಾಗುತ್ತಿದೆ",
+  "add_to_list": "ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ",
+  "voice_quick_add_confirm_list": "%1$d ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
 }

@@ -856,5 +856,19 @@
   "group_done_title": "Đã mua sắm xong cho nhóm",
   "group_done_message": "Việc mua các món của nhóm bạn đã hoàn tất.",
   "group_done_you_bought": "Bạn đã mua %1$d trên %2$d món.",
-  "group_no_items_bought": "Chưa mua món nào"
+  "group_no_items_bought": "Chưa mua món nào",
+  "event_add_hint": "Thêm món… vd. 2 kg gạo",
+  "event_ai_ideas": "Gợi ý AI",
+  "event_voice_add": "Nói tên món",
+  "event_list_title": "Danh sách mua sắm (%1$d)",
+  "event_empty_title": "Bắt đầu danh sách",
+  "event_empty_body": "Gõ món ở trên, chạm 🎤 để nói nhiều món cùng lúc, hoặc chọn từ danh mục.",
+  "event_invite": "Mời",
+  "event_people_one": "1 người",
+  "event_people_count": "%1$d người",
+  "event_publish_count": "Đăng và bắt đầu mua sắm (%1$d)",
+  "event_invite_first": "Mời mọi người cùng lên kế hoạch",
+  "event_waiting_publish": "Đang chờ %1$s đăng danh sách",
+  "add_to_list": "Thêm vào danh sách",
+  "voice_quick_add_confirm_list": "Thêm %1$d vào danh sách"
 }

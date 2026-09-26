@@ -856,5 +856,19 @@
   "group_done_title": "Group shopping complete",
   "group_done_message": "Your group items purchase has been completed.",
   "group_done_you_bought": "You bought %1$d of %2$d items.",
-  "group_no_items_bought": "No items bought"
+  "group_no_items_bought": "No items bought",
+  "event_add_hint": "Add an item… e.g. 2 kg rice",
+  "event_ai_ideas": "AI ideas",
+  "event_voice_add": "Say items",
+  "event_list_title": "Shopping list (%1$d)",
+  "event_empty_title": "Start your list",
+  "event_empty_body": "Type an item above, tap 🎤 to say several at once, or pick from the catalog.",
+  "event_invite": "Invite",
+  "event_people_one": "1 person",
+  "event_people_count": "%1$d people",
+  "event_publish_count": "Publish & start shopping (%1$d)",
+  "event_invite_first": "Invite people to start planning together",
+  "event_waiting_publish": "Waiting for %1$s to publish the list",
+  "add_to_list": "Add to List",
+  "voice_quick_add_confirm_list": "Add %1$d to List"
 }

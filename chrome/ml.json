@@ -856,5 +856,19 @@
   "group_done_title": "ഗ്രൂപ്പ് ഷോപ്പിംഗ് പൂർത്തിയായി",
   "group_done_message": "നിങ്ങളുടെ ഗ്രൂപ്പിന്റെ സാധനങ്ങൾ വാങ്ങൽ പൂർത്തിയായി.",
   "group_done_you_bought": "നിങ്ങൾ %2$d ൽ %1$d ഇനങ്ങൾ വാങ്ങി.",
-  "group_no_items_bought": "ഒരു ഇനവും വാങ്ങിയില്ല"
+  "group_no_items_bought": "ഒരു ഇനവും വാങ്ങിയില്ല",
+  "event_add_hint": "ഇനം ചേർക്കുക… ഉദാ. 2 kg അരി",
+  "event_ai_ideas": "AI ആശയങ്ങൾ",
+  "event_voice_add": "ഇനങ്ങൾ പറയുക",
+  "event_list_title": "ഷോപ്പിംഗ് ലിസ്റ്റ് (%1$d)",
+  "event_empty_title": "നിങ്ങളുടെ ലിസ്റ്റ് തുടങ്ങുക",
+  "event_empty_body": "മുകളിൽ ഇനം ടൈപ്പ് ചെയ്യുക, ഒരേസമയം പലതും പറയാൻ 🎤 ടാപ്പ് ചെയ്യുക, അല്ലെങ്കിൽ കാറ്റലോഗിൽ നിന്ന് തിരഞ്ഞെടുക്കുക.",
+  "event_invite": "ക്ഷണിക്കുക",
+  "event_people_one": "1 വ്യക്തി",
+  "event_people_count": "%1$d പേർ",
+  "event_publish_count": "പ്രസിദ്ധീകരിച്ച് ഷോപ്പിംഗ് തുടങ്ങുക (%1$d)",
+  "event_invite_first": "ഒരുമിച്ച് പ്ലാൻ ചെയ്യാൻ ആളുകളെ ക്ഷണിക്കുക",
+  "event_waiting_publish": "%1$s ലിസ്റ്റ് പ്രസിദ്ധീകരിക്കുന്നതിനായി കാത്തിരിക്കുന്നു",
+  "add_to_list": "ലിസ്റ്റിൽ ചേർക്കുക",
+  "voice_quick_add_confirm_list": "%1$d ലിസ്റ്റിൽ ചേർക്കുക"
 }
