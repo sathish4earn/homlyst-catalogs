@@ -909,5 +909,12 @@
   "premium_hub_themes": "主题",
   "premium_hub_themes_sub": "更换应用颜色",
   "premium_hub_no_ads": "无广告",
-  "premium_hub_no_ads_sub": "你已关闭广告"
+  "premium_hub_no_ads_sub": "你已关闭广告",
+  "premium_hub_discover": "了解 HomLyst 高级版",
+  "premium_hub_preview_tagline": "为你家准备的 %1$d 项功能",
+  "premium_hub_see_inside": "看看都有什么",
+  "premium_hub_preview_hero": "以下功能开通高级版即可使用 · 无广告",
+  "premium_hub_get": "开通高级版",
+  "premium_hub_prev_health": "看看你家吃得有多新鲜",
+  "premium_hub_prev_no_ads": "无广告畅享 HomLyst"
 }
