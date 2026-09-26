@@ -909,5 +909,12 @@
   "premium_hub_themes": "Thèmes",
   "premium_hub_themes_sub": "Changez les couleurs de l'app",
   "premium_hub_no_ads": "Sans publicité",
-  "premium_hub_no_ads_sub": "Les publicités sont désactivées pour vous"
+  "premium_hub_no_ads_sub": "Les publicités sont désactivées pour vous",
+  "premium_hub_discover": "Découvrez HomLyst Premium",
+  "premium_hub_preview_tagline": "%1$d fonctions pour votre famille",
+  "premium_hub_see_inside": "Voir ce qu'il contient",
+  "premium_hub_preview_hero": "Tout ce qui suit se débloque avec Premium · sans publicité",
+  "premium_hub_get": "Passer à Premium",
+  "premium_hub_prev_health": "Voyez à quel point votre famille mange frais",
+  "premium_hub_prev_no_ads": "Profitez de HomLyst sans publicité"
 }
