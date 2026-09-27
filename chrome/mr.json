@@ -1097,5 +1097,10 @@
   "routines_channel_name": "रूटीन रिमाइंडर",
   "routines_channel_desc": "तुमच्या रोजच्या, आठवड्याच्या आणि महिन्याच्या रूटीनचे रिमाइंडर",
   "routines_notif_remind": "%1$s · तुमच्या यादीत जोडण्यासाठी टॅप करा",
-  "routines_notif_auto": "%1$s · HomLyst उघडल्यावर त्या तुमच्या कार्टमध्ये असतील"
+  "routines_notif_auto": "%1$s · HomLyst उघडल्यावर त्या तुमच्या कार्टमध्ये असतील",
+  "routines_suggested": "सुचवलेले",
+  "routines_cost_each": "प्रत्येक वेळी सुमारे %1$s",
+  "routines_cost_month": "तुमची रूटीन ≈ महिन्याला %1$s",
+  "routines_cost_budget": "तुमच्या मासिक बजेटच्या %1$d%",
+  "routines_cost_note": "खरेदी करताना नोंदवलेल्या किमतींवर आधारित"
 }

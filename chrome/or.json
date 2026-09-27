@@ -1097,5 +1097,10 @@
   "routines_channel_name": "ରୁଟିନ ରିମାଇଣ୍ଡର",
   "routines_channel_desc": "ଆପଣଙ୍କ ଦୈନିକ, ସାପ୍ତାହିକ ଓ ମାସିକ ରୁଟିନର ରିମାଇଣ୍ଡର",
   "routines_notif_remind": "%1$s · ତାଲିକାରେ ଯୋଡ଼ିବାକୁ ଟ୍ୟାପ କରନ୍ତୁ",
-  "routines_notif_auto": "%1$s · HomLyst ଖୋଲିଲେ ସେଗୁଡ଼ିକ କାର୍ଟରେ ରହିବ"
+  "routines_notif_auto": "%1$s · HomLyst ଖୋଲିଲେ ସେଗୁଡ଼ିକ କାର୍ଟରେ ରହିବ",
+  "routines_suggested": "ପରାମର୍ଶ",
+  "routines_cost_each": "ପ୍ରତିଥର ପ୍ରାୟ %1$s",
+  "routines_cost_month": "ଆପଣଙ୍କ ରୁଟିନ ≈ ମାସକୁ %1$s",
+  "routines_cost_budget": "ଆପଣଙ୍କ ମାସିକ ବଜେଟର %1$d%",
+  "routines_cost_note": "କିଣାକିଣି ସମୟରେ ଲେଖିଥିବା ଦାମ ଆଧାରରେ"
 }

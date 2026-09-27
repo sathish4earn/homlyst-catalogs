@@ -1097,5 +1097,10 @@
   "routines_channel_name": "ദിനചര്യ ഓർമ്മപ്പെടുത്തലുകൾ",
   "routines_channel_desc": "നിങ്ങളുടെ ദൈനംദിന, പ്രതിവാര, പ്രതിമാസ ദിനചര്യകളുടെ ഓർമ്മപ്പെടുത്തലുകൾ",
   "routines_notif_remind": "%1$s · ലിസ്റ്റിൽ ചേർക്കാൻ ടാപ്പ് ചെയ്യുക",
-  "routines_notif_auto": "%1$s · HomLyst തുറക്കുമ്പോൾ അവ കാർട്ടിൽ ഉണ്ടാകും"
+  "routines_notif_auto": "%1$s · HomLyst തുറക്കുമ്പോൾ അവ കാർട്ടിൽ ഉണ്ടാകും",
+  "routines_suggested": "നിർദ്ദേശങ്ങൾ",
+  "routines_cost_each": "ഓരോ തവണയും ഏകദേശം %1$s",
+  "routines_cost_month": "നിങ്ങളുടെ ദിനചര്യകൾ ≈ മാസം %1$s",
+  "routines_cost_budget": "നിങ്ങളുടെ പ്രതിമാസ ബജറ്റിന്റെ %1$d%",
+  "routines_cost_note": "ഷോപ്പിംഗിനിടെ നിങ്ങൾ രേഖപ്പെടുത്തിയ വിലകളെ അടിസ്ഥാനമാക്കി"
 }

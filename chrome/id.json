@@ -1097,5 +1097,10 @@
   "routines_channel_name": "Pengingat rutinitas",
   "routines_channel_desc": "Pengingat untuk rutinitas harian, mingguan, dan bulanan Anda",
   "routines_notif_remind": "%1$s · ketuk untuk menambahkannya ke daftar",
-  "routines_notif_auto": "%1$s · akan ada di keranjang saat Anda membuka HomLyst"
+  "routines_notif_auto": "%1$s · akan ada di keranjang saat Anda membuka HomLyst",
+  "routines_suggested": "Saran",
+  "routines_cost_each": "Sekitar %1$s setiap kali",
+  "routines_cost_month": "Rutinitas Anda ≈ %1$s per bulan",
+  "routines_cost_budget": "%1$d% dari anggaran bulanan Anda",
+  "routines_cost_note": "Berdasarkan harga yang Anda catat saat belanja"
 }

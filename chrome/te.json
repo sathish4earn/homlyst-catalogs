@@ -1097,5 +1097,10 @@
   "routines_channel_name": "రొటీన్ రిమైండర్లు",
   "routines_channel_desc": "మీ రోజువారీ, వారపు, నెలవారీ రొటీన్ల రిమైండర్లు",
   "routines_notif_remind": "%1$s · మీ జాబితాకు జోడించడానికి నొక్కండి",
-  "routines_notif_auto": "%1$s · HomLyst తెరిచినప్పుడు అవి మీ కార్ట్‌లో ఉంటాయి"
+  "routines_notif_auto": "%1$s · HomLyst తెరిచినప్పుడు అవి మీ కార్ట్‌లో ఉంటాయి",
+  "routines_suggested": "సూచనలు",
+  "routines_cost_each": "ప్రతిసారి సుమారు %1$s",
+  "routines_cost_month": "మీ రొటీన్లు ≈ నెలకు %1$s",
+  "routines_cost_budget": "మీ నెలవారీ బడ్జెట్‌లో %1$d%",
+  "routines_cost_note": "షాపింగ్ సమయంలో మీరు నమోదు చేసిన ధరల ఆధారంగా"
 }
