@@ -1083,5 +1083,19 @@
   "routines_search_items": "জিনিস খুঁজুন",
   "routines_done": "হয়ে গেছে",
   "routines_delete": "রুটিন মুছুন",
-  "routines_delete_confirm": "\"%1$s\" মুছবেন?"
+  "routines_delete_confirm": "\"%1$s\" মুছবেন?",
+  "routines_due_title": "আপনার রুটিনের সময়",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "কার্টে আছে",
+  "routines_due_already": "%1$dটি আগে থেকেই আপনার কার্টে",
+  "routines_due_add": "%1$dটি জিনিস যোগ করুন",
+  "routines_due_add_one": "১টি জিনিস যোগ করুন",
+  "routines_due_later": "পরে",
+  "routines_due_skip": "এবার বাদ দিন",
+  "routines_added": "\"%2$s\" থেকে %1$dটি জিনিস কার্টে যোগ হয়েছে",
+  "routines_added_one": "\"%1$s\" থেকে ১টি জিনিস কার্টে যোগ হয়েছে",
+  "routines_channel_name": "রুটিন রিমাইন্ডার",
+  "routines_channel_desc": "আপনার দৈনিক, সাপ্তাহিক ও মাসিক রুটিনের রিমাইন্ডার",
+  "routines_notif_remind": "%1$s · তালিকায় যোগ করতে ট্যাপ করুন",
+  "routines_notif_auto": "%1$s · HomLyst খুললে এগুলো আপনার কার্টে থাকবে"
 }

@@ -1083,5 +1083,19 @@
   "routines_search_items": "ଜିନିଷ ଖୋଜନ୍ତୁ",
   "routines_done": "ହୋଇଗଲା",
   "routines_delete": "ରୁଟିନ ଡିଲିଟ କରନ୍ତୁ",
-  "routines_delete_confirm": "\"%1$s\" ଡିଲିଟ କରିବେ?"
+  "routines_delete_confirm": "\"%1$s\" ଡିଲିଟ କରିବେ?",
+  "routines_due_title": "ଆପଣଙ୍କ ରୁଟିନର ସମୟ",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "କାର୍ଟରେ ଅଛି",
+  "routines_due_already": "%1$dଟି ପୂର୍ବରୁ ଆପଣଙ୍କ କାର୍ଟରେ",
+  "routines_due_add": "%1$dଟି ଜିନିଷ ଯୋଡ଼ନ୍ତୁ",
+  "routines_due_add_one": "1ଟି ଜିନିଷ ଯୋଡ଼ନ୍ତୁ",
+  "routines_due_later": "ପରେ",
+  "routines_due_skip": "ଏଥର ଛାଡ଼ନ୍ତୁ",
+  "routines_added": "\"%2$s\" ରୁ %1$dଟି ଜିନିଷ କାର୍ଟରେ ଯୋଡ଼ାଗଲା",
+  "routines_added_one": "\"%1$s\" ରୁ 1ଟି ଜିନିଷ କାର୍ଟରେ ଯୋଡ଼ାଗଲା",
+  "routines_channel_name": "ରୁଟିନ ରିମାଇଣ୍ଡର",
+  "routines_channel_desc": "ଆପଣଙ୍କ ଦୈନିକ, ସାପ୍ତାହିକ ଓ ମାସିକ ରୁଟିନର ରିମାଇଣ୍ଡର",
+  "routines_notif_remind": "%1$s · ତାଲିକାରେ ଯୋଡ଼ିବାକୁ ଟ୍ୟାପ କରନ୍ତୁ",
+  "routines_notif_auto": "%1$s · HomLyst ଖୋଲିଲେ ସେଗୁଡ଼ିକ କାର୍ଟରେ ରହିବ"
 }

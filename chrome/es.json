@@ -1083,5 +1083,19 @@
   "routines_search_items": "Buscar artículos",
   "routines_done": "Listo",
   "routines_delete": "Eliminar rutina",
-  "routines_delete_confirm": "¿Eliminar \"%1$s\"?"
+  "routines_delete_confirm": "¿Eliminar \"%1$s\"?",
+  "routines_due_title": "Es hora de tu rutina",
+  "routines_due_of": "%1$d de %2$d",
+  "routines_due_in_cart": "En el carrito",
+  "routines_due_already": "%1$d ya en tu carrito",
+  "routines_due_add": "Añadir %1$d artículos",
+  "routines_due_add_one": "Añadir 1 artículo",
+  "routines_due_later": "Más tarde",
+  "routines_due_skip": "Omitir esta vez",
+  "routines_added": "%1$d artículos de \"%2$s\" añadidos a tu carrito",
+  "routines_added_one": "1 artículo de \"%1$s\" añadido a tu carrito",
+  "routines_channel_name": "Recordatorios de rutinas",
+  "routines_channel_desc": "Recordatorios de tus rutinas diarias, semanales y mensuales",
+  "routines_notif_remind": "%1$s · toca para añadirlos a tu lista",
+  "routines_notif_auto": "%1$s · estarán en tu carrito al abrir HomLyst"
 }

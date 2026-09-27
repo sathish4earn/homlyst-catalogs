@@ -1083,5 +1083,19 @@
   "routines_search_items": "பொருட்களைத் தேடு",
   "routines_done": "முடிந்தது",
   "routines_delete": "வழக்கத்தை நீக்கு",
-  "routines_delete_confirm": "\"%1$s\" நீக்கவா?"
+  "routines_delete_confirm": "\"%1$s\" நீக்கவா?",
+  "routines_due_title": "உங்கள் வழக்கத்திற்கான நேரம்",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "கார்ட்டில்",
+  "routines_due_already": "%1$d ஏற்கனவே உங்கள் கார்ட்டில்",
+  "routines_due_add": "%1$d பொருட்களைச் சேர்",
+  "routines_due_add_one": "1 பொருளைச் சேர்",
+  "routines_due_later": "பிறகு",
+  "routines_due_skip": "இம்முறை தவிர்",
+  "routines_added": "\"%2$s\" இலிருந்து %1$d பொருட்கள் கார்ட்டில் சேர்க்கப்பட்டன",
+  "routines_added_one": "\"%1$s\" இலிருந்து 1 பொருள் கார்ட்டில் சேர்க்கப்பட்டது",
+  "routines_channel_name": "வழக்க நினைவூட்டல்கள்",
+  "routines_channel_desc": "உங்கள் தினசரி, வாராந்திர, மாதாந்திர வழக்கங்களுக்கான நினைவூட்டல்கள்",
+  "routines_notif_remind": "%1$s · பட்டியலில் சேர்க்கத் தட்டவும்",
+  "routines_notif_auto": "%1$s · HomLyst-ஐத் திறக்கும்போது அவை கார்ட்டில் இருக்கும்"
 }

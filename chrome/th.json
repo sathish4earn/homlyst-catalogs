@@ -1083,5 +1083,19 @@
   "routines_search_items": "ค้นหาสินค้า",
   "routines_done": "เสร็จ",
   "routines_delete": "ลบรายการประจำ",
-  "routines_delete_confirm": "ลบ \"%1$s\" ไหม"
+  "routines_delete_confirm": "ลบ \"%1$s\" ไหม",
+  "routines_due_title": "ถึงเวลารายการประจำของคุณ",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "อยู่ในตะกร้า",
+  "routines_due_already": "%1$d รายการอยู่ในตะกร้าแล้ว",
+  "routines_due_add": "เพิ่ม %1$d รายการ",
+  "routines_due_add_one": "เพิ่ม 1 รายการ",
+  "routines_due_later": "ภายหลัง",
+  "routines_due_skip": "ข้ามครั้งนี้",
+  "routines_added": "เพิ่ม %1$d รายการจาก \"%2$s\" ลงตะกร้าแล้ว",
+  "routines_added_one": "เพิ่ม 1 รายการจาก \"%1$s\" ลงตะกร้าแล้ว",
+  "routines_channel_name": "การเตือนรายการประจำ",
+  "routines_channel_desc": "การเตือนสำหรับรายการประจำวัน สัปดาห์ และเดือน",
+  "routines_notif_remind": "%1$s · แตะเพื่อเพิ่มลงในรายการ",
+  "routines_notif_auto": "%1$s · จะอยู่ในตะกร้าเมื่อคุณเปิด HomLyst"
 }
