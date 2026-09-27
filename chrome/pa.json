@@ -1102,5 +1102,20 @@
   "routines_cost_each": "ਹਰ ਵਾਰ ਲਗਭਗ %1$s",
   "routines_cost_month": "ਤੁਹਾਡੇ ਰੁਟੀਨ ≈ ਮਹੀਨੇ ਦੇ %1$s",
   "routines_cost_budget": "ਤੁਹਾਡੇ ਮਹੀਨਾਵਾਰ ਬਜਟ ਦਾ %1$d%",
-  "routines_cost_note": "ਖਰੀਦਦਾਰੀ ਦੌਰਾਨ ਨੋਟ ਕੀਤੀਆਂ ਕੀਮਤਾਂ ਦੇ ਆਧਾਰ 'ਤੇ"
+  "routines_cost_note": "ਖਰੀਦਦਾਰੀ ਦੌਰਾਨ ਨੋਟ ਕੀਤੀਆਂ ਕੀਮਤਾਂ ਦੇ ਆਧਾਰ 'ਤੇ",
+  "fs_tab_posts": "ਪੋਸਟਾਂ",
+  "fs_post_type_task": "ਕੰਮ",
+  "fs_post_type_note": "ਨੋਟ",
+  "fs_post_type_link": "ਲਿੰਕ",
+  "fs_post_placeholder": "ਕੋਈ ਕੰਮ ਜਾਂ ਨੋਟ ਲਿਖੋ...",
+  "fs_post_link_placeholder": "ਲਿੰਕ ਪੇਸਟ ਕਰੋ...",
+  "fs_post_button": "ਪੋਸਟ ਕਰੋ",
+  "fs_posts_empty_title": "ਅਜੇ ਕੋਈ ਪੋਸਟ ਨਹੀਂ",
+  "fs_posts_empty_hint": "ਇਸ ਫੈਮਿਲੀ ਸਪੇਸ ਵਿੱਚ ਸਭ ਨਾਲ ਕੰਮ, ਨੋਟ ਜਾਂ ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ।",
+  "fs_post_seen_by": "%1$s ਨੇ ਦੇਖਿਆ",
+  "fs_post_seen_count": "%2$d ਵਿੱਚੋਂ %1$d ਨੇ ਦੇਖਿਆ",
+  "fs_post_not_seen_yet": "ਅਜੇ ਕਿਸੇ ਨੇ ਨਹੀਂ ਦੇਖਿਆ",
+  "fs_post_link_note_placeholder": "ਨੋਟ ਜੋੜੋ (ਵਿਕਲਪਿਕ)",
+  "fs_post_failed": "ਪੋਸਟ ਨਹੀਂ ਹੋ ਸਕੀ। ਇੰਟਰਨੈੱਟ ਜਾਂਚੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+  "family_space_post_premium_message": "ਫੈਮਿਲੀ ਸਪੇਸ ਵਿੱਚ ਕੰਮ, ਨੋਟ ਅਤੇ ਲਿੰਕ ਪੋਸਟ ਕਰਨਾ ਪ੍ਰੀਮੀਅਮ ਫੀਚਰ ਹੈ। ਅਨਲੌਕ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਅੱਪਗ੍ਰੇਡ ਕਰੋ।"
 }

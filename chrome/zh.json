@@ -1102,5 +1102,20 @@
   "routines_cost_each": "每次约 %1$s",
   "routines_cost_month": "您的例行清单 ≈ 每月 %1$s",
   "routines_cost_budget": "占每月预算的 %1$d%",
-  "routines_cost_note": "根据您购物时记录的价格"
+  "routines_cost_note": "根据您购物时记录的价格",
+  "fs_tab_posts": "动态",
+  "fs_post_type_task": "任务",
+  "fs_post_type_note": "笔记",
+  "fs_post_type_link": "链接",
+  "fs_post_placeholder": "写一个任务或笔记...",
+  "fs_post_link_placeholder": "粘贴链接...",
+  "fs_post_button": "发布",
+  "fs_posts_empty_title": "还没有动态",
+  "fs_posts_empty_hint": "与家庭空间里的所有人分享任务、笔记或链接。",
+  "fs_post_seen_by": "%1$s 已看",
+  "fs_post_seen_count": "%2$d 人中 %1$d 人已看",
+  "fs_post_not_seen_yet": "还没有人看过",
+  "fs_post_link_note_placeholder": "添加说明（可选）",
+  "fs_post_failed": "发布失败。请检查网络后重试。",
+  "family_space_post_premium_message": "在家庭空间发布任务、笔记和链接是高级功能。请在设置中升级以解锁。"
 }

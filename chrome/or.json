@@ -1102,5 +1102,20 @@
   "routines_cost_each": "ପ୍ରତିଥର ପ୍ରାୟ %1$s",
   "routines_cost_month": "ଆପଣଙ୍କ ରୁଟିନ ≈ ମାସକୁ %1$s",
   "routines_cost_budget": "ଆପଣଙ୍କ ମାସିକ ବଜେଟର %1$d%",
-  "routines_cost_note": "କିଣାକିଣି ସମୟରେ ଲେଖିଥିବା ଦାମ ଆଧାରରେ"
+  "routines_cost_note": "କିଣାକିଣି ସମୟରେ ଲେଖିଥିବା ଦାମ ଆଧାରରେ",
+  "fs_tab_posts": "ପୋଷ୍ଟ",
+  "fs_post_type_task": "କାମ",
+  "fs_post_type_note": "ନୋଟ",
+  "fs_post_type_link": "ଲିଙ୍କ",
+  "fs_post_placeholder": "କାମ ବା ନୋଟ ଲେଖନ୍ତୁ...",
+  "fs_post_link_placeholder": "ଲିଙ୍କ ପେଷ୍ଟ କରନ୍ତୁ...",
+  "fs_post_button": "ପୋଷ୍ଟ କରନ୍ତୁ",
+  "fs_posts_empty_title": "ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ପୋଷ୍ଟ ନାହିଁ",
+  "fs_posts_empty_hint": "ଏହି ଫ୍ୟାମିଲି ସ୍ପେସରେ ସମସ୍ତଙ୍କ ସହ କାମ, ନୋଟ ବା ଲିଙ୍କ ସେୟାର କରନ୍ତୁ।",
+  "fs_post_seen_by": "%1$s ଦେଖିଛନ୍ତି",
+  "fs_post_seen_count": "%2$d ମଧ୍ୟରୁ %1$d ଦେଖିଛନ୍ତି",
+  "fs_post_not_seen_yet": "ଏପର୍ଯ୍ୟନ୍ତ କେହି ଦେଖିନାହାନ୍ତି",
+  "fs_post_link_note_placeholder": "ନୋଟ ଯୋଡ଼ନ୍ତୁ (ବୈକଳ୍ପିକ)",
+  "fs_post_failed": "ପୋଷ୍ଟ ହେଲା ନାହିଁ। ଇଣ୍ଟରନେଟ ଯାଞ୍ଚ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।",
+  "family_space_post_premium_message": "ଫ୍ୟାମିଲି ସ୍ପେସରେ କାମ, ନୋଟ ଓ ଲିଙ୍କ ପୋଷ୍ଟ କରିବା ପ୍ରିମିୟମ ସୁବିଧା। ଅନଲକ କରିବାକୁ ସେଟିଂସରେ ଅପଗ୍ରେଡ କରନ୍ତୁ।"
 }

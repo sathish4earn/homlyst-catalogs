@@ -1102,5 +1102,20 @@
   "routines_cost_each": "Unos %1$s cada vez",
   "routines_cost_month": "Tus rutinas ≈ %1$s al mes",
   "routines_cost_budget": "%1$d% de tu presupuesto mensual",
-  "routines_cost_note": "Según los precios que anotas al comprar"
+  "routines_cost_note": "Según los precios que anotas al comprar",
+  "fs_tab_posts": "Publicaciones",
+  "fs_post_type_task": "Tarea",
+  "fs_post_type_note": "Nota",
+  "fs_post_type_link": "Enlace",
+  "fs_post_placeholder": "Escribe una tarea o nota...",
+  "fs_post_link_placeholder": "Pega un enlace...",
+  "fs_post_button": "Publicar",
+  "fs_posts_empty_title": "Aún no hay publicaciones",
+  "fs_posts_empty_hint": "Comparte una tarea, una nota o un enlace con todos en este Espacio Familiar.",
+  "fs_post_seen_by": "Visto por %1$s",
+  "fs_post_seen_count": "Visto por %1$d de %2$d",
+  "fs_post_not_seen_yet": "Nadie lo ha visto aún",
+  "fs_post_link_note_placeholder": "Añade una nota (opcional)",
+  "fs_post_failed": "No se pudo publicar. Revisa tu conexión e inténtalo de nuevo.",
+  "family_space_post_premium_message": "Publicar tareas, notas y enlaces en tu Espacio Familiar es una función Premium. Mejora en Ajustes para desbloquearla."
 }

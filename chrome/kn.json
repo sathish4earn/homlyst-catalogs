@@ -1102,5 +1102,20 @@
   "routines_cost_each": "ಪ್ರತಿ ಬಾರಿ ಸುಮಾರು %1$s",
   "routines_cost_month": "ನಿಮ್ಮ ದಿನಚರಿಗಳು ≈ ತಿಂಗಳಿಗೆ %1$s",
   "routines_cost_budget": "ನಿಮ್ಮ ತಿಂಗಳ ಬಜೆಟ್‌ನ %1$d%",
-  "routines_cost_note": "ಶಾಪಿಂಗ್ ಮಾಡುವಾಗ ನೀವು ಗುರುತಿಸಿದ ಬೆಲೆಗಳ ಆಧಾರದಲ್ಲಿ"
+  "routines_cost_note": "ಶಾಪಿಂಗ್ ಮಾಡುವಾಗ ನೀವು ಗುರುತಿಸಿದ ಬೆಲೆಗಳ ಆಧಾರದಲ್ಲಿ",
+  "fs_tab_posts": "ಪೋಸ್ಟ್‌ಗಳು",
+  "fs_post_type_task": "ಕೆಲಸ",
+  "fs_post_type_note": "ಟಿಪ್ಪಣಿ",
+  "fs_post_type_link": "ಲಿಂಕ್",
+  "fs_post_placeholder": "ಕೆಲಸ ಅಥವಾ ಟಿಪ್ಪಣಿ ಬರೆಯಿರಿ...",
+  "fs_post_link_placeholder": "ಲಿಂಕ್ ಅಂಟಿಸಿ...",
+  "fs_post_button": "ಪೋಸ್ಟ್ ಮಾಡಿ",
+  "fs_posts_empty_title": "ಇನ್ನೂ ಪೋಸ್ಟ್‌ಗಳಿಲ್ಲ",
+  "fs_posts_empty_hint": "ಈ ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್‌ನಲ್ಲಿ ಎಲ್ಲರೊಂದಿಗೆ ಕೆಲಸ, ಟಿಪ್ಪಣಿ ಅಥವಾ ಲಿಂಕ್ ಹಂಚಿಕೊಳ್ಳಿ.",
+  "fs_post_seen_by": "%1$s ನೋಡಿದ್ದಾರೆ",
+  "fs_post_seen_count": "%2$d ರಲ್ಲಿ %1$d ಜನ ನೋಡಿದ್ದಾರೆ",
+  "fs_post_not_seen_yet": "ಇನ್ನೂ ಯಾರೂ ನೋಡಿಲ್ಲ",
+  "fs_post_link_note_placeholder": "ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ (ಐಚ್ಛಿಕ)",
+  "fs_post_failed": "ಪೋಸ್ಟ್ ಆಗಲಿಲ್ಲ. ಇಂಟರ್ನೆಟ್ ಪರಿಶೀಲಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+  "family_space_post_premium_message": "ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್‌ಗೆ ಕೆಲಸ, ಟಿಪ್ಪಣಿ, ಲಿಂಕ್ ಪೋಸ್ಟ್ ಮಾಡುವುದು ಪ್ರೀಮಿಯಂ ವೈಶಿಷ್ಟ್ಯ. ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಸೆಟ್ಟಿಂಗ್ಸ್‌ನಲ್ಲಿ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
 }

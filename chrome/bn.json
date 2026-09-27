@@ -1102,5 +1102,20 @@
   "routines_cost_each": "প্রতিবার প্রায় %1$s",
   "routines_cost_month": "আপনার রুটিন ≈ মাসে %1$s",
   "routines_cost_budget": "আপনার মাসিক বাজেটের %1$d%",
-  "routines_cost_note": "কেনাকাটার সময় যে দাম লিখে রাখেন তার ভিত্তিতে"
+  "routines_cost_note": "কেনাকাটার সময় যে দাম লিখে রাখেন তার ভিত্তিতে",
+  "fs_tab_posts": "পোস্ট",
+  "fs_post_type_task": "কাজ",
+  "fs_post_type_note": "নোট",
+  "fs_post_type_link": "লিংক",
+  "fs_post_placeholder": "একটি কাজ বা নোট লিখুন...",
+  "fs_post_link_placeholder": "লিংক পেস্ট করুন...",
+  "fs_post_button": "পোস্ট করুন",
+  "fs_posts_empty_title": "এখনও কোনো পোস্ট নেই",
+  "fs_posts_empty_hint": "এই ফ্যামিলি স্পেসের সবার সাথে কাজ, নোট বা লিংক শেয়ার করুন।",
+  "fs_post_seen_by": "%1$s দেখেছেন",
+  "fs_post_seen_count": "%2$d জনের মধ্যে %1$d জন দেখেছেন",
+  "fs_post_not_seen_yet": "এখনও কেউ দেখেননি",
+  "fs_post_link_note_placeholder": "নোট যোগ করুন (ঐচ্ছিক)",
+  "fs_post_failed": "পোস্ট করা যায়নি। ইন্টারনেট দেখে আবার চেষ্টা করুন।",
+  "family_space_post_premium_message": "ফ্যামিলি স্পেসে কাজ, নোট ও লিংক পোস্ট করা একটি প্রিমিয়াম ফিচার। আনলক করতে সেটিংসে আপগ্রেড করুন।"
 }

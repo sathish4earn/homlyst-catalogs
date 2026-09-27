@@ -1102,5 +1102,20 @@
   "routines_cost_each": "Sekitar %1$s setiap kali",
   "routines_cost_month": "Rutinitas Anda ≈ %1$s per bulan",
   "routines_cost_budget": "%1$d% dari anggaran bulanan Anda",
-  "routines_cost_note": "Berdasarkan harga yang Anda catat saat belanja"
+  "routines_cost_note": "Berdasarkan harga yang Anda catat saat belanja",
+  "fs_tab_posts": "Postingan",
+  "fs_post_type_task": "Tugas",
+  "fs_post_type_note": "Catatan",
+  "fs_post_type_link": "Tautan",
+  "fs_post_placeholder": "Tulis tugas atau catatan...",
+  "fs_post_link_placeholder": "Tempel tautan...",
+  "fs_post_button": "Posting",
+  "fs_posts_empty_title": "Belum ada postingan",
+  "fs_posts_empty_hint": "Bagikan tugas, catatan, atau tautan dengan semua orang di Ruang Keluarga ini.",
+  "fs_post_seen_by": "Dilihat oleh %1$s",
+  "fs_post_seen_count": "Dilihat %1$d dari %2$d",
+  "fs_post_not_seen_yet": "Belum dilihat",
+  "fs_post_link_note_placeholder": "Tambah catatan (opsional)",
+  "fs_post_failed": "Gagal memposting. Periksa internet lalu coba lagi.",
+  "family_space_post_premium_message": "Memposting tugas, catatan, dan tautan di Ruang Keluarga adalah fitur Premium. Tingkatkan di Pengaturan untuk membukanya."
 }
