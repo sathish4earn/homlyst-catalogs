@@ -1097,5 +1097,10 @@
   "routines_channel_name": "ದಿನಚರಿ ಜ್ಞಾಪನೆಗಳು",
   "routines_channel_desc": "ನಿಮ್ಮ ದಿನ, ವಾರ ಮತ್ತು ತಿಂಗಳ ದಿನಚರಿಗಳ ಜ್ಞಾಪನೆಗಳು",
   "routines_notif_remind": "%1$s · ನಿಮ್ಮ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ",
-  "routines_notif_auto": "%1$s · HomLyst ತೆರೆದಾಗ ಅವು ನಿಮ್ಮ ಕಾರ್ಟ್‌ನಲ್ಲಿರುತ್ತವೆ"
+  "routines_notif_auto": "%1$s · HomLyst ತೆರೆದಾಗ ಅವು ನಿಮ್ಮ ಕಾರ್ಟ್‌ನಲ್ಲಿರುತ್ತವೆ",
+  "routines_suggested": "ಸಲಹೆಗಳು",
+  "routines_cost_each": "ಪ್ರತಿ ಬಾರಿ ಸುಮಾರು %1$s",
+  "routines_cost_month": "ನಿಮ್ಮ ದಿನಚರಿಗಳು ≈ ತಿಂಗಳಿಗೆ %1$s",
+  "routines_cost_budget": "ನಿಮ್ಮ ತಿಂಗಳ ಬಜೆಟ್‌ನ %1$d%",
+  "routines_cost_note": "ಶಾಪಿಂಗ್ ಮಾಡುವಾಗ ನೀವು ಗುರುತಿಸಿದ ಬೆಲೆಗಳ ಆಧಾರದಲ್ಲಿ"
 }

@@ -1097,5 +1097,10 @@
   "routines_channel_name": "การเตือนรายการประจำ",
   "routines_channel_desc": "การเตือนสำหรับรายการประจำวัน สัปดาห์ และเดือน",
   "routines_notif_remind": "%1$s · แตะเพื่อเพิ่มลงในรายการ",
-  "routines_notif_auto": "%1$s · จะอยู่ในตะกร้าเมื่อคุณเปิด HomLyst"
+  "routines_notif_auto": "%1$s · จะอยู่ในตะกร้าเมื่อคุณเปิด HomLyst",
+  "routines_suggested": "แนะนำ",
+  "routines_cost_each": "ประมาณ %1$s ต่อครั้ง",
+  "routines_cost_month": "รายการประจำของคุณ ≈ %1$s ต่อเดือน",
+  "routines_cost_budget": "%1$d% ของงบประมาณรายเดือน",
+  "routines_cost_note": "อิงจากราคาที่คุณจดไว้ตอนซื้อของ"
 }

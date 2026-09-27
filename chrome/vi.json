@@ -1097,5 +1097,10 @@
   "routines_channel_name": "Nhắc nhở thói quen",
   "routines_channel_desc": "Nhắc nhở cho các thói quen hằng ngày, hằng tuần và hằng tháng",
   "routines_notif_remind": "%1$s · chạm để thêm vào danh sách",
-  "routines_notif_auto": "%1$s · sẽ có trong giỏ khi bạn mở HomLyst"
+  "routines_notif_auto": "%1$s · sẽ có trong giỏ khi bạn mở HomLyst",
+  "routines_suggested": "Gợi ý",
+  "routines_cost_each": "Khoảng %1$s mỗi lần",
+  "routines_cost_month": "Thói quen của bạn ≈ %1$s mỗi tháng",
+  "routines_cost_budget": "%1$d% ngân sách hằng tháng",
+  "routines_cost_note": "Dựa trên giá bạn ghi lại khi mua sắm"
 }

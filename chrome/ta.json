@@ -1097,5 +1097,10 @@
   "routines_channel_name": "வழக்க நினைவூட்டல்கள்",
   "routines_channel_desc": "உங்கள் தினசரி, வாராந்திர, மாதாந்திர வழக்கங்களுக்கான நினைவூட்டல்கள்",
   "routines_notif_remind": "%1$s · பட்டியலில் சேர்க்கத் தட்டவும்",
-  "routines_notif_auto": "%1$s · HomLyst-ஐத் திறக்கும்போது அவை கார்ட்டில் இருக்கும்"
+  "routines_notif_auto": "%1$s · HomLyst-ஐத் திறக்கும்போது அவை கார்ட்டில் இருக்கும்",
+  "routines_suggested": "பரிந்துரைகள்",
+  "routines_cost_each": "ஒவ்வொரு முறையும் சுமார் %1$s",
+  "routines_cost_month": "உங்கள் வழக்கங்கள் ≈ மாதம் %1$s",
+  "routines_cost_budget": "உங்கள் மாத பட்ஜெட்டில் %1$d%",
+  "routines_cost_note": "ஷாப்பிங்கின்போது நீங்கள் குறித்த விலைகளின் அடிப்படையில்"
 }

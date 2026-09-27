@@ -1097,5 +1097,10 @@
   "routines_channel_name": "ਰੁਟੀਨ ਰੀਮਾਈਂਡਰ",
   "routines_channel_desc": "ਤੁਹਾਡੇ ਰੋਜ਼ਾਨਾ, ਹਫ਼ਤਾਵਾਰੀ ਅਤੇ ਮਹੀਨਾਵਾਰ ਰੁਟੀਨ ਦੇ ਰੀਮਾਈਂਡਰ",
   "routines_notif_remind": "%1$s · ਆਪਣੀ ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਟੈਪ ਕਰੋ",
-  "routines_notif_auto": "%1$s · HomLyst ਖੋਲ੍ਹਣ 'ਤੇ ਇਹ ਤੁਹਾਡੇ ਕਾਰਟ ਵਿੱਚ ਹੋਣਗੀਆਂ"
+  "routines_notif_auto": "%1$s · HomLyst ਖੋਲ੍ਹਣ 'ਤੇ ਇਹ ਤੁਹਾਡੇ ਕਾਰਟ ਵਿੱਚ ਹੋਣਗੀਆਂ",
+  "routines_suggested": "ਸੁਝਾਅ",
+  "routines_cost_each": "ਹਰ ਵਾਰ ਲਗਭਗ %1$s",
+  "routines_cost_month": "ਤੁਹਾਡੇ ਰੁਟੀਨ ≈ ਮਹੀਨੇ ਦੇ %1$s",
+  "routines_cost_budget": "ਤੁਹਾਡੇ ਮਹੀਨਾਵਾਰ ਬਜਟ ਦਾ %1$d%",
+  "routines_cost_note": "ਖਰੀਦਦਾਰੀ ਦੌਰਾਨ ਨੋਟ ਕੀਤੀਆਂ ਕੀਮਤਾਂ ਦੇ ਆਧਾਰ 'ਤੇ"
 }

@@ -1097,5 +1097,10 @@
   "routines_channel_name": "Recordatorios de rutinas",
   "routines_channel_desc": "Recordatorios de tus rutinas diarias, semanales y mensuales",
   "routines_notif_remind": "%1$s · toca para añadirlos a tu lista",
-  "routines_notif_auto": "%1$s · estarán en tu carrito al abrir HomLyst"
+  "routines_notif_auto": "%1$s · estarán en tu carrito al abrir HomLyst",
+  "routines_suggested": "Sugerencias",
+  "routines_cost_each": "Unos %1$s cada vez",
+  "routines_cost_month": "Tus rutinas ≈ %1$s al mes",
+  "routines_cost_budget": "%1$d% de tu presupuesto mensual",
+  "routines_cost_note": "Según los precios que anotas al comprar"
 }
