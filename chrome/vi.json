@@ -1083,5 +1083,19 @@
   "routines_search_items": "Tìm món",
   "routines_done": "Xong",
   "routines_delete": "Xóa thói quen",
-  "routines_delete_confirm": "Xóa \"%1$s\"?"
+  "routines_delete_confirm": "Xóa \"%1$s\"?",
+  "routines_due_title": "Đến giờ thói quen của bạn",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "Trong giỏ",
+  "routines_due_already": "%1$d món đã có trong giỏ",
+  "routines_due_add": "Thêm %1$d món",
+  "routines_due_add_one": "Thêm 1 món",
+  "routines_due_later": "Để sau",
+  "routines_due_skip": "Bỏ qua lần này",
+  "routines_added": "Đã thêm %1$d món từ \"%2$s\" vào giỏ",
+  "routines_added_one": "Đã thêm 1 món từ \"%1$s\" vào giỏ",
+  "routines_channel_name": "Nhắc nhở thói quen",
+  "routines_channel_desc": "Nhắc nhở cho các thói quen hằng ngày, hằng tuần và hằng tháng",
+  "routines_notif_remind": "%1$s · chạm để thêm vào danh sách",
+  "routines_notif_auto": "%1$s · sẽ có trong giỏ khi bạn mở HomLyst"
 }

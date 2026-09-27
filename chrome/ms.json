@@ -1083,5 +1083,19 @@
   "routines_search_items": "Cari barang",
   "routines_done": "Selesai",
   "routines_delete": "Padam rutin",
-  "routines_delete_confirm": "Padam \"%1$s\"?"
+  "routines_delete_confirm": "Padam \"%1$s\"?",
+  "routines_due_title": "Masa untuk rutin anda",
+  "routines_due_of": "%1$d daripada %2$d",
+  "routines_due_in_cart": "Dalam troli",
+  "routines_due_already": "%1$d sudah dalam troli anda",
+  "routines_due_add": "Tambah %1$d barang",
+  "routines_due_add_one": "Tambah 1 barang",
+  "routines_due_later": "Nanti",
+  "routines_due_skip": "Langkau kali ini",
+  "routines_added": "%1$d barang daripada \"%2$s\" ditambah ke troli",
+  "routines_added_one": "1 barang daripada \"%1$s\" ditambah ke troli",
+  "routines_channel_name": "Peringatan rutin",
+  "routines_channel_desc": "Peringatan untuk rutin harian, mingguan dan bulanan anda",
+  "routines_notif_remind": "%1$s · ketik untuk menambahnya ke senarai",
+  "routines_notif_auto": "%1$s · akan ada dalam troli apabila anda membuka HomLyst"
 }

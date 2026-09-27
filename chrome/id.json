@@ -1083,5 +1083,19 @@
   "routines_search_items": "Cari barang",
   "routines_done": "Selesai",
   "routines_delete": "Hapus rutinitas",
-  "routines_delete_confirm": "Hapus \"%1$s\"?"
+  "routines_delete_confirm": "Hapus \"%1$s\"?",
+  "routines_due_title": "Waktunya rutinitas Anda",
+  "routines_due_of": "%1$d dari %2$d",
+  "routines_due_in_cart": "Di keranjang",
+  "routines_due_already": "%1$d sudah di keranjang Anda",
+  "routines_due_add": "Tambah %1$d barang",
+  "routines_due_add_one": "Tambah 1 barang",
+  "routines_due_later": "Nanti",
+  "routines_due_skip": "Lewati kali ini",
+  "routines_added": "%1$d barang dari \"%2$s\" ditambahkan ke keranjang",
+  "routines_added_one": "1 barang dari \"%1$s\" ditambahkan ke keranjang",
+  "routines_channel_name": "Pengingat rutinitas",
+  "routines_channel_desc": "Pengingat untuk rutinitas harian, mingguan, dan bulanan Anda",
+  "routines_notif_remind": "%1$s · ketuk untuk menambahkannya ke daftar",
+  "routines_notif_auto": "%1$s · akan ada di keranjang saat Anda membuka HomLyst"
 }

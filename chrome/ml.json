@@ -1083,5 +1083,19 @@
   "routines_search_items": "ഇനങ്ങൾ തിരയുക",
   "routines_done": "കഴിഞ്ഞു",
   "routines_delete": "ദിനചര്യ ഇല്ലാതാക്കുക",
-  "routines_delete_confirm": "\"%1$s\" ഇല്ലാതാക്കണോ?"
+  "routines_delete_confirm": "\"%1$s\" ഇല്ലാതാക്കണോ?",
+  "routines_due_title": "നിങ്ങളുടെ ദിനചര്യയുടെ സമയം",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "കാർട്ടിൽ",
+  "routines_due_already": "%1$d ഇതിനകം നിങ്ങളുടെ കാർട്ടിൽ",
+  "routines_due_add": "%1$d ഇനങ്ങൾ ചേർക്കുക",
+  "routines_due_add_one": "1 ഇനം ചേർക്കുക",
+  "routines_due_later": "പിന്നീട്",
+  "routines_due_skip": "ഇത്തവണ ഒഴിവാക്കുക",
+  "routines_added": "\"%2$s\" ൽ നിന്ന് %1$d ഇനങ്ങൾ കാർട്ടിൽ ചേർത്തു",
+  "routines_added_one": "\"%1$s\" ൽ നിന്ന് 1 ഇനം കാർട്ടിൽ ചേർത്തു",
+  "routines_channel_name": "ദിനചര്യ ഓർമ്മപ്പെടുത്തലുകൾ",
+  "routines_channel_desc": "നിങ്ങളുടെ ദൈനംദിന, പ്രതിവാര, പ്രതിമാസ ദിനചര്യകളുടെ ഓർമ്മപ്പെടുത്തലുകൾ",
+  "routines_notif_remind": "%1$s · ലിസ്റ്റിൽ ചേർക്കാൻ ടാപ്പ് ചെയ്യുക",
+  "routines_notif_auto": "%1$s · HomLyst തുറക്കുമ്പോൾ അവ കാർട്ടിൽ ഉണ്ടാകും"
 }

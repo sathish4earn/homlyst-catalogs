@@ -1083,5 +1083,19 @@
   "routines_search_items": "వస్తువులను వెతకండి",
   "routines_done": "పూర్తయింది",
   "routines_delete": "రొటీన్ తొలగించు",
-  "routines_delete_confirm": "\"%1$s\" తొలగించాలా?"
+  "routines_delete_confirm": "\"%1$s\" తొలగించాలా?",
+  "routines_due_title": "మీ రొటీన్ సమయం",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "కార్ట్‌లో ఉంది",
+  "routines_due_already": "%1$d ఇప్పటికే మీ కార్ట్‌లో ఉన్నాయి",
+  "routines_due_add": "%1$d వస్తువులు జోడించు",
+  "routines_due_add_one": "1 వస్తువు జోడించు",
+  "routines_due_later": "తర్వాత",
+  "routines_due_skip": "ఈసారి దాటవేయి",
+  "routines_added": "\"%2$s\" నుండి %1$d వస్తువులు మీ కార్ట్‌కు జోడించబడ్డాయి",
+  "routines_added_one": "\"%1$s\" నుండి 1 వస్తువు మీ కార్ట్‌కు జోడించబడింది",
+  "routines_channel_name": "రొటీన్ రిమైండర్లు",
+  "routines_channel_desc": "మీ రోజువారీ, వారపు, నెలవారీ రొటీన్ల రిమైండర్లు",
+  "routines_notif_remind": "%1$s · మీ జాబితాకు జోడించడానికి నొక్కండి",
+  "routines_notif_auto": "%1$s · HomLyst తెరిచినప్పుడు అవి మీ కార్ట్‌లో ఉంటాయి"
 }

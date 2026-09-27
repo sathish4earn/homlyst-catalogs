@@ -1083,5 +1083,19 @@
   "routines_search_items": "Rechercher des articles",
   "routines_done": "Terminé",
   "routines_delete": "Supprimer la routine",
-  "routines_delete_confirm": "Supprimer « %1$s » ?"
+  "routines_delete_confirm": "Supprimer « %1$s » ?",
+  "routines_due_title": "C'est l'heure de votre routine",
+  "routines_due_of": "%1$d sur %2$d",
+  "routines_due_in_cart": "Dans le panier",
+  "routines_due_already": "%1$d déjà dans votre panier",
+  "routines_due_add": "Ajouter %1$d articles",
+  "routines_due_add_one": "Ajouter 1 article",
+  "routines_due_later": "Plus tard",
+  "routines_due_skip": "Passer cette fois",
+  "routines_added": "%1$d articles de « %2$s » ajoutés au panier",
+  "routines_added_one": "1 article de « %1$s » ajouté au panier",
+  "routines_channel_name": "Rappels de routines",
+  "routines_channel_desc": "Rappels pour vos routines quotidiennes, hebdomadaires et mensuelles",
+  "routines_notif_remind": "%1$s · touchez pour les ajouter à votre liste",
+  "routines_notif_auto": "%1$s · ils seront dans votre panier à l'ouverture de HomLyst"
 }

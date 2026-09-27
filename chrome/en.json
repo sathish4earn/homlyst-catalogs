@@ -1083,5 +1083,19 @@
   "routines_search_items": "Search items",
   "routines_done": "Done",
   "routines_delete": "Delete routine",
-  "routines_delete_confirm": "Delete \"%1$s\"?"
+  "routines_delete_confirm": "Delete \"%1$s\"?",
+  "routines_due_title": "Time for your routine",
+  "routines_due_of": "%1$d of %2$d",
+  "routines_due_in_cart": "In cart",
+  "routines_due_already": "%1$d already in your cart",
+  "routines_due_add": "Add %1$d items",
+  "routines_due_add_one": "Add 1 item",
+  "routines_due_later": "Later",
+  "routines_due_skip": "Skip this time",
+  "routines_added": "%1$d items from \"%2$s\" added to your cart",
+  "routines_added_one": "1 item from \"%1$s\" added to your cart",
+  "routines_channel_name": "Routine reminders",
+  "routines_channel_desc": "Reminders for your daily, weekly and monthly routines",
+  "routines_notif_remind": "%1$s · tap to add them to your list",
+  "routines_notif_auto": "%1$s · they'll be in your cart when you open HomLyst"
 }

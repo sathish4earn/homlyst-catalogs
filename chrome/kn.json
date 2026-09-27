@@ -1083,5 +1083,19 @@
   "routines_search_items": "ವಸ್ತುಗಳನ್ನು ಹುಡುಕಿ",
   "routines_done": "ಮುಗಿದಿದೆ",
   "routines_delete": "ದಿನಚರಿ ಅಳಿಸಿ",
-  "routines_delete_confirm": "\"%1$s\" ಅಳಿಸಬೇಕೆ?"
+  "routines_delete_confirm": "\"%1$s\" ಅಳಿಸಬೇಕೆ?",
+  "routines_due_title": "ನಿಮ್ಮ ದಿನಚರಿಯ ಸಮಯ",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "ಕಾರ್ಟ್‌ನಲ್ಲಿದೆ",
+  "routines_due_already": "%1$d ಈಗಾಗಲೇ ನಿಮ್ಮ ಕಾರ್ಟ್‌ನಲ್ಲಿವೆ",
+  "routines_due_add": "%1$d ವಸ್ತುಗಳನ್ನು ಸೇರಿಸಿ",
+  "routines_due_add_one": "1 ವಸ್ತು ಸೇರಿಸಿ",
+  "routines_due_later": "ನಂತರ",
+  "routines_due_skip": "ಈ ಬಾರಿ ಬಿಡಿ",
+  "routines_added": "\"%2$s\" ನಿಂದ %1$d ವಸ್ತುಗಳು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿವೆ",
+  "routines_added_one": "\"%1$s\" ನಿಂದ 1 ವಸ್ತು ಕಾರ್ಟ್‌ಗೆ ಸೇರಿದೆ",
+  "routines_channel_name": "ದಿನಚರಿ ಜ್ಞಾಪನೆಗಳು",
+  "routines_channel_desc": "ನಿಮ್ಮ ದಿನ, ವಾರ ಮತ್ತು ತಿಂಗಳ ದಿನಚರಿಗಳ ಜ್ಞಾಪನೆಗಳು",
+  "routines_notif_remind": "%1$s · ನಿಮ್ಮ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ",
+  "routines_notif_auto": "%1$s · HomLyst ತೆರೆದಾಗ ಅವು ನಿಮ್ಮ ಕಾರ್ಟ್‌ನಲ್ಲಿರುತ್ತವೆ"
 }

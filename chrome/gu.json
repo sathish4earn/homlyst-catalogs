@@ -1083,5 +1083,19 @@
   "routines_search_items": "વસ્તુઓ શોધો",
   "routines_done": "થઈ ગયું",
   "routines_delete": "રૂટિન કાઢી નાખો",
-  "routines_delete_confirm": "\"%1$s\" કાઢી નાખવું છે?"
+  "routines_delete_confirm": "\"%1$s\" કાઢી નાખવું છે?",
+  "routines_due_title": "તમારા રૂટિનનો સમય",
+  "routines_due_of": "%1$d / %2$d",
+  "routines_due_in_cart": "કાર્ટમાં",
+  "routines_due_already": "%1$d પહેલેથી તમારા કાર્ટમાં",
+  "routines_due_add": "%1$d વસ્તુઓ ઉમેરો",
+  "routines_due_add_one": "1 વસ્તુ ઉમેરો",
+  "routines_due_later": "પછી",
+  "routines_due_skip": "આ વખતે છોડો",
+  "routines_added": "\"%2$s\" માંથી %1$d વસ્તુઓ તમારા કાર્ટમાં ઉમેરાઈ",
+  "routines_added_one": "\"%1$s\" માંથી 1 વસ્તુ તમારા કાર્ટમાં ઉમેરાઈ",
+  "routines_channel_name": "રૂટિન રિમાઇન્ડર",
+  "routines_channel_desc": "તમારા રોજના, અઠવાડિયાના અને મહિનાના રૂટિનના રિમાઇન્ડર",
+  "routines_notif_remind": "%1$s · તમારી યાદીમાં ઉમેરવા ટૅપ કરો",
+  "routines_notif_auto": "%1$s · HomLyst ખોલશો ત્યારે તે તમારા કાર્ટમાં હશે"
 }
