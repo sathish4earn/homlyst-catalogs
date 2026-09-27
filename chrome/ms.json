@@ -1021,5 +1021,7 @@
   "backup_offer_title": "Datang dari telefon lain?",
   "backup_offer_body": "Bawa senarai, sejarah dan tetapan dari telefon lama anda. Anda perlukan telefon lama atau kunci sandaran anda.",
   "backup_offer_restore": "Pulihkan data saya",
-  "backup_offer_skip": "Tidak, mula semula"
+  "backup_offer_skip": "Tidak, mula semula",
+  "settings_premium_features": "Ciri Premium",
+  "settings_premium_features_desc": "Lihat semua yang termasuk dalam Premium"
 }

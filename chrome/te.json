@@ -1021,5 +1021,7 @@
   "backup_offer_title": "వేరే ఫోన్ నుండి వస్తున్నారా?",
   "backup_offer_body": "మీ పాత ఫోన్ నుండి జాబితాలు, చరిత్ర, సెట్టింగ్‌లు తీసుకురండి. పాత ఫోన్ లేదా మీ బ్యాకప్ కీ కావాలి.",
   "backup_offer_restore": "నా డేటా రీస్టోర్ చేయండి",
-  "backup_offer_skip": "వద్దు, కొత్తగా మొదలుపెట్టు"
+  "backup_offer_skip": "వద్దు, కొత్తగా మొదలుపెట్టు",
+  "settings_premium_features": "ప్రీమియం ఫీచర్లు",
+  "settings_premium_features_desc": "ప్రీమియంలో ఉన్నవన్నీ చూడండి"
 }

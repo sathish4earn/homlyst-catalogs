@@ -1021,5 +1021,7 @@
   "backup_offer_title": "অন্য ফোন থেকে আসছেন?",
   "backup_offer_body": "পুরোনো ফোন থেকে আপনার তালিকা, ইতিহাস আর সেটিংস নিয়ে আসুন। পুরোনো ফোন বা আপনার ব্যাকআপ কী লাগবে।",
   "backup_offer_restore": "আমার ডেটা রিস্টোর করুন",
-  "backup_offer_skip": "না, নতুন করে শুরু করুন"
+  "backup_offer_skip": "না, নতুন করে শুরু করুন",
+  "settings_premium_features": "প্রিমিয়াম ফিচার",
+  "settings_premium_features_desc": "প্রিমিয়ামে কী কী আছে দেখুন"
 }

@@ -1021,5 +1021,7 @@
   "backup_offer_title": "ଅନ୍ୟ ଫୋନରୁ ଆସୁଛନ୍ତି?",
   "backup_offer_body": "ପୁରୁଣା ଫୋନରୁ ଆପଣଙ୍କ ତାଲିକା, ଇତିହାସ ଓ ସେଟିଂସ ଆଣନ୍ତୁ। ପୁରୁଣା ଫୋନ କିମ୍ବା ଆପଣଙ୍କ ବ୍ୟାକଅପ କି ଦରକାର।",
   "backup_offer_restore": "ମୋ ଡାଟା ରିଷ୍ଟୋର କରନ୍ତୁ",
-  "backup_offer_skip": "ନା, ନୂଆ କରି ଆରମ୍ଭ କରନ୍ତୁ"
+  "backup_offer_skip": "ନା, ନୂଆ କରି ଆରମ୍ଭ କରନ୍ତୁ",
+  "settings_premium_features": "ପ୍ରିମିୟମ ସୁବିଧା",
+  "settings_premium_features_desc": "ପ୍ରିମିୟମରେ ଥିବା ସବୁକିଛି ଦେଖନ୍ତୁ"
 }

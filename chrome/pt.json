@@ -1021,5 +1021,7 @@
   "backup_offer_title": "Vindo de outro celular?",
   "backup_offer_body": "Traga suas listas, histórico e configurações do celular antigo. Você precisa do celular antigo ou da sua chave de backup.",
   "backup_offer_restore": "Restaurar meus dados",
-  "backup_offer_skip": "Não, começar do zero"
+  "backup_offer_skip": "Não, começar do zero",
+  "settings_premium_features": "Recursos Premium",
+  "settings_premium_features_desc": "Veja tudo o que o Premium inclui"
 }

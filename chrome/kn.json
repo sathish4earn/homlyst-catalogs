@@ -1021,5 +1021,7 @@
   "backup_offer_title": "ಬೇರೆ ಫೋನ್‌ನಿಂದ ಬರುತ್ತಿದ್ದೀರಾ?",
   "backup_offer_body": "ಹಳೆಯ ಫೋನ್‌ನಿಂದ ನಿಮ್ಮ ಪಟ್ಟಿಗಳು, ಇತಿಹಾಸ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತನ್ನಿ. ಹಳೆಯ ಫೋನ್ ಅಥವಾ ನಿಮ್ಮ ಬ್ಯಾಕಪ್ ಕೀ ಬೇಕು.",
   "backup_offer_restore": "ನನ್ನ ಡೇಟಾ ಮರುಸ್ಥಾಪಿಸಿ",
-  "backup_offer_skip": "ಬೇಡ, ಹೊಸದಾಗಿ ಆರಂಭಿಸಿ"
+  "backup_offer_skip": "ಬೇಡ, ಹೊಸದಾಗಿ ಆರಂಭಿಸಿ",
+  "settings_premium_features": "ಪ್ರೀಮಿಯಂ ಫೀಚರ್‌ಗಳು",
+  "settings_premium_features_desc": "ಪ್ರೀಮಿಯಂನಲ್ಲಿ ಇರುವ ಎಲ್ಲವನ್ನೂ ನೋಡಿ"
 }

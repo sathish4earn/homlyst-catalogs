@@ -1021,5 +1021,7 @@
   "backup_offer_title": "¿Vienes de otro teléfono?",
   "backup_offer_body": "Trae tus listas, historial y ajustes de tu teléfono anterior. Necesitas el teléfono anterior o tu clave de copia.",
   "backup_offer_restore": "Restaurar mis datos",
-  "backup_offer_skip": "No, empezar de cero"
+  "backup_offer_skip": "No, empezar de cero",
+  "settings_premium_features": "Funciones Premium",
+  "settings_premium_features_desc": "Mira todo lo que incluye Premium"
 }

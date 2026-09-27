@@ -1021,5 +1021,7 @@
   "backup_offer_title": "Moving from another phone?",
   "backup_offer_body": "Bring your lists, history and settings from your old phone. You'll need the old phone or your backup key.",
   "backup_offer_restore": "Restore my data",
-  "backup_offer_skip": "No, start fresh"
+  "backup_offer_skip": "No, start fresh",
+  "settings_premium_features": "Premium features",
+  "settings_premium_features_desc": "See everything Premium includes"
 }

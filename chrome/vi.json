@@ -1021,5 +1021,7 @@
   "backup_offer_title": "Chuyển từ điện thoại khác?",
   "backup_offer_body": "Mang danh sách, lịch sử và cài đặt từ điện thoại cũ. Bạn cần điện thoại cũ hoặc khóa sao lưu.",
   "backup_offer_restore": "Khôi phục dữ liệu của tôi",
-  "backup_offer_skip": "Không, bắt đầu mới"
+  "backup_offer_skip": "Không, bắt đầu mới",
+  "settings_premium_features": "Tính năng Premium",
+  "settings_premium_features_desc": "Xem mọi thứ có trong Premium"
 }

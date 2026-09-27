@@ -1021,5 +1021,7 @@
   "backup_offer_title": "从另一部手机转过来？",
   "backup_offer_body": "从旧手机带来您的清单、历史和设置。需要旧手机或您的备份密钥。",
   "backup_offer_restore": "恢复我的数据",
-  "backup_offer_skip": "不用，重新开始"
+  "backup_offer_skip": "不用，重新开始",
+  "settings_premium_features": "高级功能",
+  "settings_premium_features_desc": "查看高级版包含的所有功能"
 }
