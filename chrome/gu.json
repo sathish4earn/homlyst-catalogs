@@ -1102,5 +1102,20 @@
   "routines_cost_each": "દર વખતે આશરે %1$s",
   "routines_cost_month": "તમારા રૂટિન ≈ મહિને %1$s",
   "routines_cost_budget": "તમારા માસિક બજેટના %1$d%",
-  "routines_cost_note": "ખરીદી વખતે નોંધેલી કિંમતોના આધારે"
+  "routines_cost_note": "ખરીદી વખતે નોંધેલી કિંમતોના આધારે",
+  "fs_tab_posts": "પોસ્ટ",
+  "fs_post_type_task": "કામ",
+  "fs_post_type_note": "નોંધ",
+  "fs_post_type_link": "લિંક",
+  "fs_post_placeholder": "કામ કે નોંધ લખો...",
+  "fs_post_link_placeholder": "લિંક પેસ્ટ કરો...",
+  "fs_post_button": "પોસ્ટ કરો",
+  "fs_posts_empty_title": "હજુ કોઈ પોસ્ટ નથી",
+  "fs_posts_empty_hint": "આ ફેમિલી સ્પેસમાં બધા સાથે કામ, નોંધ કે લિંક શેર કરો.",
+  "fs_post_seen_by": "%1$s એ જોયું",
+  "fs_post_seen_count": "%2$d માંથી %1$d એ જોયું",
+  "fs_post_not_seen_yet": "હજુ કોઈએ જોયું નથી",
+  "fs_post_link_note_placeholder": "નોંધ ઉમેરો (વૈકલ્પિક)",
+  "fs_post_failed": "પોસ્ટ થઈ શક્યું નહીં. ઇન્ટરનેટ તપાસી ફરી પ્રયાસ કરો.",
+  "family_space_post_premium_message": "ફેમિલી સ્પેસમાં કામ, નોંધ અને લિંક પોસ્ટ કરવી પ્રીમિયમ સુવિધા છે. અનલૉક કરવા સેટિંગ્સમાં અપગ્રેડ કરો."
 }

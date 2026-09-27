@@ -1102,5 +1102,20 @@
   "routines_cost_each": "ప్రతిసారి సుమారు %1$s",
   "routines_cost_month": "మీ రొటీన్లు ≈ నెలకు %1$s",
   "routines_cost_budget": "మీ నెలవారీ బడ్జెట్‌లో %1$d%",
-  "routines_cost_note": "షాపింగ్ సమయంలో మీరు నమోదు చేసిన ధరల ఆధారంగా"
+  "routines_cost_note": "షాపింగ్ సమయంలో మీరు నమోదు చేసిన ధరల ఆధారంగా",
+  "fs_tab_posts": "పోస్ట్‌లు",
+  "fs_post_type_task": "పని",
+  "fs_post_type_note": "నోట్",
+  "fs_post_type_link": "లింక్",
+  "fs_post_placeholder": "ఒక పని లేదా నోట్ రాయండి...",
+  "fs_post_link_placeholder": "లింక్ పేస్ట్ చేయండి...",
+  "fs_post_button": "పోస్ట్ చేయి",
+  "fs_posts_empty_title": "ఇంకా పోస్ట్‌లు లేవు",
+  "fs_posts_empty_hint": "ఈ ఫ్యామిలీ స్పేస్‌లో అందరితో పని, నోట్ లేదా లింక్ పంచుకోండి.",
+  "fs_post_seen_by": "%1$s చూశారు",
+  "fs_post_seen_count": "%2$d లో %1$d మంది చూశారు",
+  "fs_post_not_seen_yet": "ఇంకా ఎవరూ చూడలేదు",
+  "fs_post_link_note_placeholder": "నోట్ జోడించండి (ఐచ్ఛికం)",
+  "fs_post_failed": "పోస్ట్ చేయలేకపోయాం. ఇంటర్నెట్ చూసి మళ్లీ ప్రయత్నించండి.",
+  "family_space_post_premium_message": "ఫ్యామిలీ స్పేస్‌లో పనులు, నోట్‌లు, లింక్‌లు పోస్ట్ చేయడం ప్రీమియం ఫీచర్. అన్‌లాక్ చేయడానికి సెట్టింగ్స్‌లో అప్‌గ్రేడ్ చేయండి."
 }

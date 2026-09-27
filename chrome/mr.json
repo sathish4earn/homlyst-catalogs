@@ -1102,5 +1102,20 @@
   "routines_cost_each": "प्रत्येक वेळी सुमारे %1$s",
   "routines_cost_month": "तुमची रूटीन ≈ महिन्याला %1$s",
   "routines_cost_budget": "तुमच्या मासिक बजेटच्या %1$d%",
-  "routines_cost_note": "खरेदी करताना नोंदवलेल्या किमतींवर आधारित"
+  "routines_cost_note": "खरेदी करताना नोंदवलेल्या किमतींवर आधारित",
+  "fs_tab_posts": "पोस्ट",
+  "fs_post_type_task": "काम",
+  "fs_post_type_note": "नोट",
+  "fs_post_type_link": "लिंक",
+  "fs_post_placeholder": "काम किंवा नोट लिहा...",
+  "fs_post_link_placeholder": "लिंक पेस्ट करा...",
+  "fs_post_button": "पोस्ट करा",
+  "fs_posts_empty_title": "अजून पोस्ट नाहीत",
+  "fs_posts_empty_hint": "या फॅमिली स्पेसमधील सर्वांसोबत काम, नोट किंवा लिंक शेअर करा.",
+  "fs_post_seen_by": "%1$s यांनी पाहिले",
+  "fs_post_seen_count": "%2$d पैकी %1$d जणांनी पाहिले",
+  "fs_post_not_seen_yet": "अजून कोणी पाहिले नाही",
+  "fs_post_link_note_placeholder": "नोट जोडा (ऐच्छिक)",
+  "fs_post_failed": "पोस्ट झाले नाही. इंटरनेट तपासा आणि पुन्हा प्रयत्न करा.",
+  "family_space_post_premium_message": "फॅमिली स्पेसमध्ये काम, नोट आणि लिंक पोस्ट करणे प्रीमियम फीचर आहे. अनलॉक करण्यासाठी सेटिंग्जमध्ये अपग्रेड करा."
 }

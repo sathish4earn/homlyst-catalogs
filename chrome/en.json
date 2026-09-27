@@ -1102,5 +1102,20 @@
   "routines_cost_each": "About %1$s each time",
   "routines_cost_month": "Your routines ≈ %1$s a month",
   "routines_cost_budget": "%1$d% of your monthly budget",
-  "routines_cost_note": "Based on the prices you note while shopping"
+  "routines_cost_note": "Based on the prices you note while shopping",
+  "fs_tab_posts": "Posts",
+  "fs_post_type_task": "Task",
+  "fs_post_type_note": "Note",
+  "fs_post_type_link": "Link",
+  "fs_post_placeholder": "Write a task or note...",
+  "fs_post_link_placeholder": "Paste a link...",
+  "fs_post_button": "Post",
+  "fs_posts_empty_title": "No posts yet",
+  "fs_posts_empty_hint": "Share a task, a note, or a link with everyone in this Family Space.",
+  "fs_post_seen_by": "Seen by %1$s",
+  "fs_post_seen_count": "Seen by %1$d of %2$d",
+  "fs_post_not_seen_yet": "Not seen yet",
+  "fs_post_link_note_placeholder": "Add a note (optional)",
+  "fs_post_failed": "Couldn't post. Check your internet and try again.",
+  "family_space_post_premium_message": "Posting tasks, notes, and links to your Family Space is a premium feature. Upgrade in Settings to unlock it."
 }

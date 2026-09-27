@@ -1102,5 +1102,20 @@
   "routines_cost_each": "ประมาณ %1$s ต่อครั้ง",
   "routines_cost_month": "รายการประจำของคุณ ≈ %1$s ต่อเดือน",
   "routines_cost_budget": "%1$d% ของงบประมาณรายเดือน",
-  "routines_cost_note": "อิงจากราคาที่คุณจดไว้ตอนซื้อของ"
+  "routines_cost_note": "อิงจากราคาที่คุณจดไว้ตอนซื้อของ",
+  "fs_tab_posts": "โพสต์",
+  "fs_post_type_task": "งาน",
+  "fs_post_type_note": "โน้ต",
+  "fs_post_type_link": "ลิงก์",
+  "fs_post_placeholder": "เขียนงานหรือโน้ต...",
+  "fs_post_link_placeholder": "วางลิงก์...",
+  "fs_post_button": "โพสต์",
+  "fs_posts_empty_title": "ยังไม่มีโพสต์",
+  "fs_posts_empty_hint": "แชร์งาน โน้ต หรือลิงก์กับทุกคนในพื้นที่ครอบครัวนี้",
+  "fs_post_seen_by": "%1$s เห็นแล้ว",
+  "fs_post_seen_count": "เห็นแล้ว %1$d จาก %2$d คน",
+  "fs_post_not_seen_yet": "ยังไม่มีใครเห็น",
+  "fs_post_link_note_placeholder": "เพิ่มโน้ต (ไม่บังคับ)",
+  "fs_post_failed": "โพสต์ไม่สำเร็จ ตรวจสอบอินเทอร์เน็ตแล้วลองอีกครั้ง",
+  "family_space_post_premium_message": "การโพสต์งาน โน้ต และลิงก์ในพื้นที่ครอบครัวเป็นฟีเจอร์พรีเมียม อัปเกรดในการตั้งค่าเพื่อปลดล็อก"
 }

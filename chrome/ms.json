@@ -1102,5 +1102,20 @@
   "routines_cost_each": "Kira-kira %1$s setiap kali",
   "routines_cost_month": "Rutin anda ≈ %1$s sebulan",
   "routines_cost_budget": "%1$d% daripada bajet bulanan anda",
-  "routines_cost_note": "Berdasarkan harga yang anda catat semasa membeli-belah"
+  "routines_cost_note": "Berdasarkan harga yang anda catat semasa membeli-belah",
+  "fs_tab_posts": "Siaran",
+  "fs_post_type_task": "Tugas",
+  "fs_post_type_note": "Nota",
+  "fs_post_type_link": "Pautan",
+  "fs_post_placeholder": "Tulis tugas atau nota...",
+  "fs_post_link_placeholder": "Tampal pautan...",
+  "fs_post_button": "Siar",
+  "fs_posts_empty_title": "Belum ada siaran",
+  "fs_posts_empty_hint": "Kongsi tugas, nota atau pautan dengan semua orang dalam Ruang Keluarga ini.",
+  "fs_post_seen_by": "Dilihat oleh %1$s",
+  "fs_post_seen_count": "Dilihat %1$d daripada %2$d",
+  "fs_post_not_seen_yet": "Belum dilihat",
+  "fs_post_link_note_placeholder": "Tambah nota (pilihan)",
+  "fs_post_failed": "Gagal menyiar. Semak internet dan cuba lagi.",
+  "family_space_post_premium_message": "Menyiarkan tugas, nota dan pautan dalam Ruang Keluarga ialah ciri Premium. Naik taraf dalam Tetapan untuk membukanya."
 }

@@ -1102,5 +1102,20 @@
   "routines_cost_each": "Environ %1$s à chaque fois",
   "routines_cost_month": "Vos routines ≈ %1$s par mois",
   "routines_cost_budget": "%1$d % de votre budget mensuel",
-  "routines_cost_note": "D'après les prix notés pendant vos courses"
+  "routines_cost_note": "D'après les prix notés pendant vos courses",
+  "fs_tab_posts": "Publications",
+  "fs_post_type_task": "Tâche",
+  "fs_post_type_note": "Note",
+  "fs_post_type_link": "Lien",
+  "fs_post_placeholder": "Écrivez une tâche ou une note...",
+  "fs_post_link_placeholder": "Collez un lien...",
+  "fs_post_button": "Publier",
+  "fs_posts_empty_title": "Aucune publication",
+  "fs_posts_empty_hint": "Partagez une tâche, une note ou un lien avec tout le monde dans cet Espace famille.",
+  "fs_post_seen_by": "Vu par %1$s",
+  "fs_post_seen_count": "Vu par %1$d sur %2$d",
+  "fs_post_not_seen_yet": "Pas encore vu",
+  "fs_post_link_note_placeholder": "Ajouter une note (facultatif)",
+  "fs_post_failed": "Publication impossible. Vérifiez votre connexion et réessayez.",
+  "family_space_post_premium_message": "Publier des tâches, notes et liens dans votre Espace famille est une fonction Premium. Passez à Premium dans Réglages pour la débloquer."
 }
