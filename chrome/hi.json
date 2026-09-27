@@ -1021,5 +1021,7 @@
   "backup_offer_title": "दूसरे फ़ोन से आ रहे हैं?",
   "backup_offer_body": "अपने पुराने फ़ोन से अपनी सूचियां, इतिहास और सेटिंग्स लाएं। आपको पुराना फ़ोन या अपनी बैकअप की चाहिए।",
   "backup_offer_restore": "मेरा डेटा रीस्टोर करें",
-  "backup_offer_skip": "नहीं, नए सिरे से शुरू करें"
+  "backup_offer_skip": "नहीं, नए सिरे से शुरू करें",
+  "settings_premium_features": "प्रीमियम फ़ीचर",
+  "settings_premium_features_desc": "देखें प्रीमियम में क्या-क्या है"
 }

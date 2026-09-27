@@ -1021,5 +1021,7 @@
   "backup_offer_title": "ਕਿਸੇ ਹੋਰ ਫ਼ੋਨ ਤੋਂ ਆ ਰਹੇ ਹੋ?",
   "backup_offer_body": "ਪੁਰਾਣੇ ਫ਼ੋਨ ਤੋਂ ਆਪਣੀਆਂ ਸੂਚੀਆਂ, ਇਤਿਹਾਸ ਅਤੇ ਸੈਟਿੰਗਾਂ ਲਿਆਓ। ਪੁਰਾਣਾ ਫ਼ੋਨ ਜਾਂ ਤੁਹਾਡੀ ਬੈਕਅੱਪ ਕੁੰਜੀ ਚਾਹੀਦੀ ਹੈ।",
   "backup_offer_restore": "ਮੇਰਾ ਡਾਟਾ ਰੀਸਟੋਰ ਕਰੋ",
-  "backup_offer_skip": "ਨਹੀਂ, ਨਵੇਂ ਸਿਰਿਓਂ ਸ਼ੁਰੂ ਕਰੋ"
+  "backup_offer_skip": "ਨਹੀਂ, ਨਵੇਂ ਸਿਰਿਓਂ ਸ਼ੁਰੂ ਕਰੋ",
+  "settings_premium_features": "ਪ੍ਰੀਮੀਅਮ ਫੀਚਰ",
+  "settings_premium_features_desc": "ਦੇਖੋ ਪ੍ਰੀਮੀਅਮ ਵਿੱਚ ਕੀ-ਕੀ ਹੈ"
 }

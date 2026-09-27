@@ -1021,5 +1021,7 @@
   "backup_offer_title": "Pindahan dari ponsel lain?",
   "backup_offer_body": "Bawa daftar, riwayat, dan pengaturan dari ponsel lama. Anda perlu ponsel lama atau kunci cadangan Anda.",
   "backup_offer_restore": "Pulihkan data saya",
-  "backup_offer_skip": "Tidak, mulai dari awal"
+  "backup_offer_skip": "Tidak, mulai dari awal",
+  "settings_premium_features": "Fitur Premium",
+  "settings_premium_features_desc": "Lihat semua yang ada di Premium"
 }

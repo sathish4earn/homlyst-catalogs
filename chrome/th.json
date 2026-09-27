@@ -1021,5 +1021,7 @@
   "backup_offer_title": "ย้ายมาจากโทรศัพท์เครื่องอื่น?",
   "backup_offer_body": "นำรายการ ประวัติ และการตั้งค่าจากเครื่องเก่ามา คุณต้องมีเครื่องเก่าหรือคีย์สำรองของคุณ",
   "backup_offer_restore": "กู้คืนข้อมูลของฉัน",
-  "backup_offer_skip": "ไม่ เริ่มใหม่"
+  "backup_offer_skip": "ไม่ เริ่มใหม่",
+  "settings_premium_features": "ฟีเจอร์พรีเมียม",
+  "settings_premium_features_desc": "ดูทุกอย่างที่มีในพรีเมียม"
 }
