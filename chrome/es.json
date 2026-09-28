@@ -1142,6 +1142,6 @@
   "fs_remove_member": "Quitar",
   "fs_remove_member_title": "¿Quitar a %1$s?",
   "fs_remove_member_body": "Perderá el acceso a la lista, el chat y las publicaciones de este Espacio Familiar.",
-  "fs_rejoin_hint": "¿Alguien reinstaló HomLyst o cambió de teléfono? Invita su número de nuevo y recuperará su lugar, con su historial.",
+  "fs_rejoin_hint": "¿Alguien reinstaló HomLyst o cambió de teléfono? Invita su número de nuevo y luego quita aquí su entrada antigua.",
   "fs_remove_failed": "No se pudo quitar. Revisa tu conexión e inténtalo de nuevo."
 }

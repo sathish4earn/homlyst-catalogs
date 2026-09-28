@@ -1142,6 +1142,6 @@
   "fs_remove_member": "Keluarkan",
   "fs_remove_member_title": "Keluarkan %1$s?",
   "fs_remove_member_body": "Mereka tidak lagi dapat melihat senarai, sembang dan siaran Ruang Keluarga ini.",
-  "fs_rejoin_hint": "Ada yang memasang semula HomLyst atau menukar telefon? Jemput nombor mereka sekali lagi dan mereka akan dapat semula tempat lama beserta sejarahnya.",
+  "fs_rejoin_hint": "Ada yang memasang semula HomLyst atau menukar telefon? Jemput nombor mereka sekali lagi, kemudian keluarkan entri lama mereka di sini.",
   "fs_remove_failed": "Gagal mengeluarkan. Semak internet dan cuba lagi."
 }
