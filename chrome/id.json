@@ -1143,5 +1143,6 @@
   "fs_remove_member_title": "Keluarkan %1$s?",
   "fs_remove_member_body": "Mereka tidak bisa lagi melihat daftar, chat, dan postingan Ruang Keluarga ini.",
   "fs_rejoin_hint": "Ada yang memasang ulang HomLyst atau ganti ponsel? Undang nomornya lagi, lalu keluarkan entri lamanya di sini.",
-  "fs_remove_failed": "Gagal mengeluarkan. Periksa internet lalu coba lagi."
+  "fs_remove_failed": "Gagal mengeluarkan. Periksa internet lalu coba lagi.",
+  "fs_joined": "Bergabung %1$s"
 }

@@ -1143,5 +1143,6 @@
   "fs_remove_member_title": "Remove %1$s?",
   "fs_remove_member_body": "They'll lose access to this Family Space's list, chat and posts.",
   "fs_rejoin_hint": "Someone reinstalled HomLyst or changed phones? Invite their number again, then remove their old entry here.",
-  "fs_remove_failed": "Couldn't remove. Check your internet and try again."
+  "fs_remove_failed": "Couldn't remove. Check your internet and try again.",
+  "fs_joined": "Joined %1$s"
 }

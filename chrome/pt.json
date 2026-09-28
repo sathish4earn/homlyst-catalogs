@@ -1143,5 +1143,6 @@
   "fs_remove_member_title": "Remover %1$s?",
   "fs_remove_member_body": "A pessoa perderá acesso à lista, ao chat e aos posts deste Espaço Familiar.",
   "fs_rejoin_hint": "Alguém reinstalou o HomLyst ou trocou de celular? Convide o número de novo e depois remova a entrada antiga aqui.",
-  "fs_remove_failed": "Não foi possível remover. Verifique a internet e tente novamente."
+  "fs_remove_failed": "Não foi possível remover. Verifique a internet e tente novamente.",
+  "fs_joined": "Entrou em %1$s"
 }
