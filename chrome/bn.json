@@ -1134,5 +1134,14 @@
   "fs_task_done_by": "%1$s সম্পন্ন করেছেন",
   "fs_tasks_for_you": "আপনার জন্য %1$dটি কাজ",
   "fs_tasks_for_you_one": "আপনার জন্য ১টি কাজ",
-  "fs_tasks_open": "%1$dটি বাকি কাজ"
+  "fs_tasks_open": "%1$dটি বাকি কাজ",
+  "fs_members_title": "সদস্য (%1$d)",
+  "fs_role_owner": "মালিক",
+  "fs_role_admin": "অ্যাডমিন",
+  "fs_you": "আপনি",
+  "fs_remove_member": "সরান",
+  "fs_remove_member_title": "%1$s-কে সরাবেন?",
+  "fs_remove_member_body": "তাঁরা এই ফ্যামিলি স্পেসের তালিকা, চ্যাট ও পোস্ট আর দেখতে পাবেন না।",
+  "fs_rejoin_hint": "কেউ HomLyst আবার ইনস্টল করেছেন বা ফোন বদলেছেন? তাঁর নম্বর আবার আমন্ত্রণ জানান, পুরনো জায়গা ও ইতিহাস ফিরে পাবেন।",
+  "fs_remove_failed": "সরানো যায়নি। ইন্টারনেট দেখে আবার চেষ্টা করুন।"
 }

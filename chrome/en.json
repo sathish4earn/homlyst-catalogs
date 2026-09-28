@@ -1134,5 +1134,14 @@
   "fs_task_done_by": "Done by %1$s",
   "fs_tasks_for_you": "%1$d tasks for you",
   "fs_tasks_for_you_one": "1 task for you",
-  "fs_tasks_open": "%1$d open tasks"
+  "fs_tasks_open": "%1$d open tasks",
+  "fs_members_title": "Members (%1$d)",
+  "fs_role_owner": "Owner",
+  "fs_role_admin": "Admin",
+  "fs_you": "you",
+  "fs_remove_member": "Remove",
+  "fs_remove_member_title": "Remove %1$s?",
+  "fs_remove_member_body": "They'll lose access to this Family Space's list, chat and posts.",
+  "fs_rejoin_hint": "Someone reinstalled HomLyst or changed phones? Invite their number again and they'll get their old place back, with their history.",
+  "fs_remove_failed": "Couldn't remove. Check your internet and try again."
 }
