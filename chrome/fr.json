@@ -1117,5 +1117,8 @@
   "fs_post_not_seen_yet": "Pas encore vu",
   "fs_post_link_note_placeholder": "Ajouter une note (facultatif)",
   "fs_post_failed": "Publication impossible. Vérifiez votre connexion et réessayez.",
-  "family_space_post_premium_message": "Publier des tâches, notes et liens dans votre Espace famille est une fonction Premium. Passez à Premium dans Réglages pour la débloquer."
+  "family_space_post_premium_message": "Publier des tâches, notes et liens dans votre Espace famille est une fonction Premium. Passez à Premium dans Réglages pour la débloquer.",
+  "fs_add_emoji": "Émoji",
+  "fs_add_photo": "Ajouter une photo",
+  "fs_send_failed": "Envoi impossible. Vérifiez votre connexion et réessayez."
 }

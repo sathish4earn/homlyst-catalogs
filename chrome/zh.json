@@ -1117,5 +1117,8 @@
   "fs_post_not_seen_yet": "还没有人看过",
   "fs_post_link_note_placeholder": "添加说明（可选）",
   "fs_post_failed": "发布失败。请检查网络后重试。",
-  "family_space_post_premium_message": "在家庭空间发布任务、笔记和链接是高级功能。请在设置中升级以解锁。"
+  "family_space_post_premium_message": "在家庭空间发布任务、笔记和链接是高级功能。请在设置中升级以解锁。",
+  "fs_add_emoji": "表情",
+  "fs_add_photo": "添加照片",
+  "fs_send_failed": "发送失败。请检查网络后重试。"
 }
