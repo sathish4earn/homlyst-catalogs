@@ -1117,5 +1117,8 @@
   "fs_post_not_seen_yet": "Not seen yet",
   "fs_post_link_note_placeholder": "Add a note (optional)",
   "fs_post_failed": "Couldn't post. Check your internet and try again.",
-  "family_space_post_premium_message": "Posting tasks, notes, and links to your Family Space is a premium feature. Upgrade in Settings to unlock it."
+  "family_space_post_premium_message": "Posting tasks, notes, and links to your Family Space is a premium feature. Upgrade in Settings to unlock it.",
+  "fs_add_emoji": "Emoji",
+  "fs_add_photo": "Add photo",
+  "fs_send_failed": "Couldn't send. Check your internet and try again."
 }

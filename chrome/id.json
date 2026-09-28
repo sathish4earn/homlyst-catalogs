@@ -1117,5 +1117,8 @@
   "fs_post_not_seen_yet": "Belum dilihat",
   "fs_post_link_note_placeholder": "Tambah catatan (opsional)",
   "fs_post_failed": "Gagal memposting. Periksa internet lalu coba lagi.",
-  "family_space_post_premium_message": "Memposting tugas, catatan, dan tautan di Ruang Keluarga adalah fitur Premium. Tingkatkan di Pengaturan untuk membukanya."
+  "family_space_post_premium_message": "Memposting tugas, catatan, dan tautan di Ruang Keluarga adalah fitur Premium. Tingkatkan di Pengaturan untuk membukanya.",
+  "fs_add_emoji": "Emoji",
+  "fs_add_photo": "Tambah foto",
+  "fs_send_failed": "Gagal mengirim. Periksa internet lalu coba lagi."
 }

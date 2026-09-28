@@ -1117,5 +1117,8 @@
   "fs_post_not_seen_yet": "Nadie lo ha visto aún",
   "fs_post_link_note_placeholder": "Añade una nota (opcional)",
   "fs_post_failed": "No se pudo publicar. Revisa tu conexión e inténtalo de nuevo.",
-  "family_space_post_premium_message": "Publicar tareas, notas y enlaces en tu Espacio Familiar es una función Premium. Mejora en Ajustes para desbloquearla."
+  "family_space_post_premium_message": "Publicar tareas, notas y enlaces en tu Espacio Familiar es una función Premium. Mejora en Ajustes para desbloquearla.",
+  "fs_add_emoji": "Emoji",
+  "fs_add_photo": "Añadir foto",
+  "fs_send_failed": "No se pudo enviar. Revisa tu conexión e inténtalo de nuevo."
 }

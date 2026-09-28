@@ -1117,5 +1117,8 @@
   "fs_post_not_seen_yet": "Chưa ai xem",
   "fs_post_link_note_placeholder": "Thêm ghi chú (tùy chọn)",
   "fs_post_failed": "Không thể đăng. Kiểm tra internet và thử lại.",
-  "family_space_post_premium_message": "Đăng việc, ghi chú và liên kết trong Không gian gia đình là tính năng Premium. Nâng cấp trong Cài đặt để mở khóa."
+  "family_space_post_premium_message": "Đăng việc, ghi chú và liên kết trong Không gian gia đình là tính năng Premium. Nâng cấp trong Cài đặt để mở khóa.",
+  "fs_add_emoji": "Biểu tượng cảm xúc",
+  "fs_add_photo": "Thêm ảnh",
+  "fs_send_failed": "Không gửi được. Kiểm tra internet và thử lại."
 }

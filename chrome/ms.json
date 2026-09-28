@@ -1117,5 +1117,8 @@
   "fs_post_not_seen_yet": "Belum dilihat",
   "fs_post_link_note_placeholder": "Tambah nota (pilihan)",
   "fs_post_failed": "Gagal menyiar. Semak internet dan cuba lagi.",
-  "family_space_post_premium_message": "Menyiarkan tugas, nota dan pautan dalam Ruang Keluarga ialah ciri Premium. Naik taraf dalam Tetapan untuk membukanya."
+  "family_space_post_premium_message": "Menyiarkan tugas, nota dan pautan dalam Ruang Keluarga ialah ciri Premium. Naik taraf dalam Tetapan untuk membukanya.",
+  "fs_add_emoji": "Emoji",
+  "fs_add_photo": "Tambah foto",
+  "fs_send_failed": "Gagal dihantar. Semak internet dan cuba lagi."
 }
