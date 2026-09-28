@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "在家庭空间发布任务、笔记和链接是高级功能。请在设置中升级以解锁。",
   "fs_add_emoji": "表情",
   "fs_add_photo": "添加照片",
-  "fs_send_failed": "发送失败。请检查网络后重试。"
+  "fs_send_failed": "发送失败。请检查网络后重试。",
+  "fs_filter_all": "全部",
+  "fs_filter_tasks": "任务",
+  "fs_filter_notes": "笔记",
+  "fs_filter_links": "链接",
+  "fs_filter_empty": "这里还没有内容",
+  "fs_task_assign": "指派给某人",
+  "fs_task_assigned_to": "已指派给 %1$s",
+  "fs_task_assigned_you": "已指派给你",
+  "fs_task_anyone": "任何人",
+  "fs_task_me": "我",
+  "fs_task_done_by": "%1$s 已完成",
+  "fs_tasks_for_you": "你有 %1$d 个任务",
+  "fs_tasks_for_you_one": "你有 1 个任务",
+  "fs_tasks_open": "%1$d 个未完成任务"
 }

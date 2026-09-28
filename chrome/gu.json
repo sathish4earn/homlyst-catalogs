@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "ફેમિલી સ્પેસમાં કામ, નોંધ અને લિંક પોસ્ટ કરવી પ્રીમિયમ સુવિધા છે. અનલૉક કરવા સેટિંગ્સમાં અપગ્રેડ કરો.",
   "fs_add_emoji": "ઇમોજી",
   "fs_add_photo": "ફોટો ઉમેરો",
-  "fs_send_failed": "મોકલી શકાયું નહીં. ઇન્ટરનેટ તપાસી ફરી પ્રયાસ કરો."
+  "fs_send_failed": "મોકલી શકાયું નહીં. ઇન્ટરનેટ તપાસી ફરી પ્રયાસ કરો.",
+  "fs_filter_all": "બધું",
+  "fs_filter_tasks": "કામ",
+  "fs_filter_notes": "નોંધો",
+  "fs_filter_links": "લિંક્સ",
+  "fs_filter_empty": "અહીં હજુ કંઈ નથી",
+  "fs_task_assign": "કોઈને સોંપો",
+  "fs_task_assigned_to": "%1$s ને સોંપ્યું",
+  "fs_task_assigned_you": "તમને સોંપ્યું",
+  "fs_task_anyone": "કોઈપણ",
+  "fs_task_me": "હું",
+  "fs_task_done_by": "%1$s એ પૂરું કર્યું",
+  "fs_tasks_for_you": "તમારા માટે %1$d કામ",
+  "fs_tasks_for_you_one": "તમારા માટે 1 કામ",
+  "fs_tasks_open": "%1$d બાકી કામ"
 }

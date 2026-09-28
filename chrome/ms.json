@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "Menyiarkan tugas, nota dan pautan dalam Ruang Keluarga ialah ciri Premium. Naik taraf dalam Tetapan untuk membukanya.",
   "fs_add_emoji": "Emoji",
   "fs_add_photo": "Tambah foto",
-  "fs_send_failed": "Gagal dihantar. Semak internet dan cuba lagi."
+  "fs_send_failed": "Gagal dihantar. Semak internet dan cuba lagi.",
+  "fs_filter_all": "Semua",
+  "fs_filter_tasks": "Tugas",
+  "fs_filter_notes": "Nota",
+  "fs_filter_links": "Pautan",
+  "fs_filter_empty": "Belum ada apa-apa di sini",
+  "fs_task_assign": "Tugaskan kepada seseorang",
+  "fs_task_assigned_to": "Ditugaskan kepada %1$s",
+  "fs_task_assigned_you": "Ditugaskan kepada anda",
+  "fs_task_anyone": "Sesiapa",
+  "fs_task_me": "Saya",
+  "fs_task_done_by": "Diselesaikan oleh %1$s",
+  "fs_tasks_for_you": "%1$d tugas untuk anda",
+  "fs_tasks_for_you_one": "1 tugas untuk anda",
+  "fs_tasks_open": "%1$d tugas terbuka"
 }

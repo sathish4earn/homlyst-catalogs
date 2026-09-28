@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "การโพสต์งาน โน้ต และลิงก์ในพื้นที่ครอบครัวเป็นฟีเจอร์พรีเมียม อัปเกรดในการตั้งค่าเพื่อปลดล็อก",
   "fs_add_emoji": "อีโมจิ",
   "fs_add_photo": "เพิ่มรูปภาพ",
-  "fs_send_failed": "ส่งไม่สำเร็จ ตรวจสอบอินเทอร์เน็ตแล้วลองอีกครั้ง"
+  "fs_send_failed": "ส่งไม่สำเร็จ ตรวจสอบอินเทอร์เน็ตแล้วลองอีกครั้ง",
+  "fs_filter_all": "ทั้งหมด",
+  "fs_filter_tasks": "งาน",
+  "fs_filter_notes": "โน้ต",
+  "fs_filter_links": "ลิงก์",
+  "fs_filter_empty": "ยังไม่มีอะไรที่นี่",
+  "fs_task_assign": "มอบหมายให้ใครสักคน",
+  "fs_task_assigned_to": "มอบหมายให้ %1$s",
+  "fs_task_assigned_you": "มอบหมายให้คุณ",
+  "fs_task_anyone": "ใครก็ได้",
+  "fs_task_me": "ฉัน",
+  "fs_task_done_by": "%1$s ทำเสร็จแล้ว",
+  "fs_tasks_for_you": "%1$d งานสำหรับคุณ",
+  "fs_tasks_for_you_one": "1 งานสำหรับคุณ",
+  "fs_tasks_open": "%1$d งานที่ยังค้าง"
 }

@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "Publier des tâches, notes et liens dans votre Espace famille est une fonction Premium. Passez à Premium dans Réglages pour la débloquer.",
   "fs_add_emoji": "Émoji",
   "fs_add_photo": "Ajouter une photo",
-  "fs_send_failed": "Envoi impossible. Vérifiez votre connexion et réessayez."
+  "fs_send_failed": "Envoi impossible. Vérifiez votre connexion et réessayez.",
+  "fs_filter_all": "Tout",
+  "fs_filter_tasks": "Tâches",
+  "fs_filter_notes": "Notes",
+  "fs_filter_links": "Liens",
+  "fs_filter_empty": "Rien ici pour l'instant",
+  "fs_task_assign": "Attribuer à quelqu'un",
+  "fs_task_assigned_to": "Attribuée à %1$s",
+  "fs_task_assigned_you": "Attribuée à vous",
+  "fs_task_anyone": "N'importe qui",
+  "fs_task_me": "Moi",
+  "fs_task_done_by": "Faite par %1$s",
+  "fs_tasks_for_you": "%1$d tâches pour vous",
+  "fs_tasks_for_you_one": "1 tâche pour vous",
+  "fs_tasks_open": "%1$d tâches ouvertes"
 }

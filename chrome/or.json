@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "ଫ୍ୟାମିଲି ସ୍ପେସରେ କାମ, ନୋଟ ଓ ଲିଙ୍କ ପୋଷ୍ଟ କରିବା ପ୍ରିମିୟମ ସୁବିଧା। ଅନଲକ କରିବାକୁ ସେଟିଂସରେ ଅପଗ୍ରେଡ କରନ୍ତୁ।",
   "fs_add_emoji": "ଇମୋଜି",
   "fs_add_photo": "ଫଟୋ ଯୋଡ଼ନ୍ତୁ",
-  "fs_send_failed": "ପଠାଯାଇପାରିଲା ନାହିଁ। ଇଣ୍ଟରନେଟ ଯାଞ୍ଚ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"
+  "fs_send_failed": "ପଠାଯାଇପାରିଲା ନାହିଁ। ଇଣ୍ଟରନେଟ ଯାଞ୍ଚ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।",
+  "fs_filter_all": "ସବୁ",
+  "fs_filter_tasks": "କାମ",
+  "fs_filter_notes": "ନୋଟ",
+  "fs_filter_links": "ଲିଙ୍କ",
+  "fs_filter_empty": "ଏଠାରେ ଏପର୍ଯ୍ୟନ୍ତ କିଛି ନାହିଁ",
+  "fs_task_assign": "କାହାକୁ ଦାୟିତ୍ୱ ଦିଅନ୍ତୁ",
+  "fs_task_assigned_to": "%1$s ଙ୍କୁ ଦିଆଯାଇଛି",
+  "fs_task_assigned_you": "ଆପଣଙ୍କୁ ଦିଆଯାଇଛି",
+  "fs_task_anyone": "ଯେ କେହି",
+  "fs_task_me": "ମୁଁ",
+  "fs_task_done_by": "%1$s ସମ୍ପୂର୍ଣ୍ଣ କଲେ",
+  "fs_tasks_for_you": "ଆପଣଙ୍କ ପାଇଁ %1$dଟି କାମ",
+  "fs_tasks_for_you_one": "ଆପଣଙ୍କ ପାଇଁ 1ଟି କାମ",
+  "fs_tasks_open": "%1$dଟି ବାକି କାମ"
 }

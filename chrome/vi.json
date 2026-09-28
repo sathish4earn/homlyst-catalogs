@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "Đăng việc, ghi chú và liên kết trong Không gian gia đình là tính năng Premium. Nâng cấp trong Cài đặt để mở khóa.",
   "fs_add_emoji": "Biểu tượng cảm xúc",
   "fs_add_photo": "Thêm ảnh",
-  "fs_send_failed": "Không gửi được. Kiểm tra internet và thử lại."
+  "fs_send_failed": "Không gửi được. Kiểm tra internet và thử lại.",
+  "fs_filter_all": "Tất cả",
+  "fs_filter_tasks": "Việc",
+  "fs_filter_notes": "Ghi chú",
+  "fs_filter_links": "Liên kết",
+  "fs_filter_empty": "Chưa có gì ở đây",
+  "fs_task_assign": "Giao cho ai đó",
+  "fs_task_assigned_to": "Giao cho %1$s",
+  "fs_task_assigned_you": "Giao cho bạn",
+  "fs_task_anyone": "Bất kỳ ai",
+  "fs_task_me": "Tôi",
+  "fs_task_done_by": "%1$s đã hoàn thành",
+  "fs_tasks_for_you": "%1$d việc cho bạn",
+  "fs_tasks_for_you_one": "1 việc cho bạn",
+  "fs_tasks_open": "%1$d việc chưa xong"
 }

@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್‌ಗೆ ಕೆಲಸ, ಟಿಪ್ಪಣಿ, ಲಿಂಕ್ ಪೋಸ್ಟ್ ಮಾಡುವುದು ಪ್ರೀಮಿಯಂ ವೈಶಿಷ್ಟ್ಯ. ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಸೆಟ್ಟಿಂಗ್ಸ್‌ನಲ್ಲಿ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ.",
   "fs_add_emoji": "ಎಮೋಜಿ",
   "fs_add_photo": "ಫೋಟೋ ಸೇರಿಸಿ",
-  "fs_send_failed": "ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ. ಇಂಟರ್ನೆಟ್ ಪರಿಶೀಲಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  "fs_send_failed": "ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ. ಇಂಟರ್ನೆಟ್ ಪರಿಶೀಲಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+  "fs_filter_all": "ಎಲ್ಲವೂ",
+  "fs_filter_tasks": "ಕೆಲಸಗಳು",
+  "fs_filter_notes": "ಟಿಪ್ಪಣಿಗಳು",
+  "fs_filter_links": "ಲಿಂಕ್‌ಗಳು",
+  "fs_filter_empty": "ಇಲ್ಲಿ ಇನ್ನೂ ಏನೂ ಇಲ್ಲ",
+  "fs_task_assign": "ಯಾರಿಗಾದರೂ ವಹಿಸಿ",
+  "fs_task_assigned_to": "%1$s ಅವರಿಗೆ ವಹಿಸಲಾಗಿದೆ",
+  "fs_task_assigned_you": "ನಿಮಗೆ ವಹಿಸಲಾಗಿದೆ",
+  "fs_task_anyone": "ಯಾರಾದರೂ",
+  "fs_task_me": "ನಾನು",
+  "fs_task_done_by": "%1$s ಪೂರ್ಣಗೊಳಿಸಿದರು",
+  "fs_tasks_for_you": "ನಿಮಗೆ %1$d ಕೆಲಸಗಳು",
+  "fs_tasks_for_you_one": "ನಿಮಗೆ 1 ಕೆಲಸ",
+  "fs_tasks_open": "%1$d ಬಾಕಿ ಕೆಲಸಗಳು"
 }
