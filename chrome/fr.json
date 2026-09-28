@@ -1143,5 +1143,6 @@
   "fs_remove_member_title": "Retirer %1$s ?",
   "fs_remove_member_body": "Cette personne n'aura plus accès à la liste, au chat et aux publications de cet Espace famille.",
   "fs_rejoin_hint": "Quelqu'un a réinstallé HomLyst ou changé de téléphone ? Invitez à nouveau son numéro, puis retirez ici son ancienne entrée.",
-  "fs_remove_failed": "Retrait impossible. Vérifiez votre connexion et réessayez."
+  "fs_remove_failed": "Retrait impossible. Vérifiez votre connexion et réessayez.",
+  "fs_joined": "Arrivé le %1$s"
 }

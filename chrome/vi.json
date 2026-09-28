@@ -1143,5 +1143,6 @@
   "fs_remove_member_title": "Xóa %1$s?",
   "fs_remove_member_body": "Họ sẽ không còn xem được danh sách, trò chuyện và bài đăng của Không gian gia đình này.",
   "fs_rejoin_hint": "Ai đó đã cài lại HomLyst hoặc đổi điện thoại? Mời lại số của họ, rồi xóa mục cũ của họ ở đây.",
-  "fs_remove_failed": "Không xóa được. Kiểm tra internet và thử lại."
+  "fs_remove_failed": "Không xóa được. Kiểm tra internet và thử lại.",
+  "fs_joined": "Tham gia %1$s"
 }
