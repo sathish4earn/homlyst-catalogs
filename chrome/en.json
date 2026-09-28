@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "Posting tasks, notes, and links to your Family Space is a premium feature. Upgrade in Settings to unlock it.",
   "fs_add_emoji": "Emoji",
   "fs_add_photo": "Add photo",
-  "fs_send_failed": "Couldn't send. Check your internet and try again."
+  "fs_send_failed": "Couldn't send. Check your internet and try again.",
+  "fs_filter_all": "All",
+  "fs_filter_tasks": "Tasks",
+  "fs_filter_notes": "Notes",
+  "fs_filter_links": "Links",
+  "fs_filter_empty": "Nothing here yet",
+  "fs_task_assign": "Assign to someone",
+  "fs_task_assigned_to": "Assigned to %1$s",
+  "fs_task_assigned_you": "Assigned to you",
+  "fs_task_anyone": "Anyone",
+  "fs_task_me": "Me",
+  "fs_task_done_by": "Done by %1$s",
+  "fs_tasks_for_you": "%1$d tasks for you",
+  "fs_tasks_for_you_one": "1 task for you",
+  "fs_tasks_open": "%1$d open tasks"
 }

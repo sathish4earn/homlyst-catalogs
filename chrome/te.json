@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "ఫ్యామిలీ స్పేస్‌లో పనులు, నోట్‌లు, లింక్‌లు పోస్ట్ చేయడం ప్రీమియం ఫీచర్. అన్‌లాక్ చేయడానికి సెట్టింగ్స్‌లో అప్‌గ్రేడ్ చేయండి.",
   "fs_add_emoji": "ఎమోజీ",
   "fs_add_photo": "ఫోటో జోడించు",
-  "fs_send_failed": "పంపలేకపోయాం. ఇంటర్నెట్ చూసి మళ్లీ ప్రయత్నించండి."
+  "fs_send_failed": "పంపలేకపోయాం. ఇంటర్నెట్ చూసి మళ్లీ ప్రయత్నించండి.",
+  "fs_filter_all": "అన్నీ",
+  "fs_filter_tasks": "పనులు",
+  "fs_filter_notes": "నోట్‌లు",
+  "fs_filter_links": "లింక్‌లు",
+  "fs_filter_empty": "ఇక్కడ ఇంకా ఏమీ లేదు",
+  "fs_task_assign": "ఎవరికైనా అప్పగించు",
+  "fs_task_assigned_to": "%1$s కి అప్పగించారు",
+  "fs_task_assigned_you": "మీకు అప్పగించారు",
+  "fs_task_anyone": "ఎవరైనా",
+  "fs_task_me": "నేను",
+  "fs_task_done_by": "%1$s పూర్తి చేశారు",
+  "fs_tasks_for_you": "మీ కోసం %1$d పనులు",
+  "fs_tasks_for_you_one": "మీ కోసం 1 పని",
+  "fs_tasks_open": "%1$d తెరిచిన పనులు"
 }

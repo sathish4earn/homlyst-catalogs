@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "Memposting tugas, catatan, dan tautan di Ruang Keluarga adalah fitur Premium. Tingkatkan di Pengaturan untuk membukanya.",
   "fs_add_emoji": "Emoji",
   "fs_add_photo": "Tambah foto",
-  "fs_send_failed": "Gagal mengirim. Periksa internet lalu coba lagi."
+  "fs_send_failed": "Gagal mengirim. Periksa internet lalu coba lagi.",
+  "fs_filter_all": "Semua",
+  "fs_filter_tasks": "Tugas",
+  "fs_filter_notes": "Catatan",
+  "fs_filter_links": "Tautan",
+  "fs_filter_empty": "Belum ada apa-apa di sini",
+  "fs_task_assign": "Tugaskan ke seseorang",
+  "fs_task_assigned_to": "Ditugaskan ke %1$s",
+  "fs_task_assigned_you": "Ditugaskan kepada Anda",
+  "fs_task_anyone": "Siapa saja",
+  "fs_task_me": "Saya",
+  "fs_task_done_by": "Diselesaikan oleh %1$s",
+  "fs_tasks_for_you": "%1$d tugas untuk Anda",
+  "fs_tasks_for_you_one": "1 tugas untuk Anda",
+  "fs_tasks_open": "%1$d tugas terbuka"
 }

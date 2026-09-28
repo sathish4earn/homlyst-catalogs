@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "ਫੈਮਿਲੀ ਸਪੇਸ ਵਿੱਚ ਕੰਮ, ਨੋਟ ਅਤੇ ਲਿੰਕ ਪੋਸਟ ਕਰਨਾ ਪ੍ਰੀਮੀਅਮ ਫੀਚਰ ਹੈ। ਅਨਲੌਕ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਅੱਪਗ੍ਰੇਡ ਕਰੋ।",
   "fs_add_emoji": "ਇਮੋਜੀ",
   "fs_add_photo": "ਫ਼ੋਟੋ ਜੋੜੋ",
-  "fs_send_failed": "ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਇੰਟਰਨੈੱਟ ਜਾਂਚੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+  "fs_send_failed": "ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਇੰਟਰਨੈੱਟ ਜਾਂਚੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+  "fs_filter_all": "ਸਾਰੇ",
+  "fs_filter_tasks": "ਕੰਮ",
+  "fs_filter_notes": "ਨੋਟ",
+  "fs_filter_links": "ਲਿੰਕ",
+  "fs_filter_empty": "ਇੱਥੇ ਅਜੇ ਕੁਝ ਨਹੀਂ",
+  "fs_task_assign": "ਕਿਸੇ ਨੂੰ ਸੌਂਪੋ",
+  "fs_task_assigned_to": "%1$s ਨੂੰ ਸੌਂਪਿਆ",
+  "fs_task_assigned_you": "ਤੁਹਾਨੂੰ ਸੌਂਪਿਆ",
+  "fs_task_anyone": "ਕੋਈ ਵੀ",
+  "fs_task_me": "ਮੈਂ",
+  "fs_task_done_by": "%1$s ਨੇ ਪੂਰਾ ਕੀਤਾ",
+  "fs_tasks_for_you": "ਤੁਹਾਡੇ ਲਈ %1$d ਕੰਮ",
+  "fs_tasks_for_you_one": "ਤੁਹਾਡੇ ਲਈ 1 ਕੰਮ",
+  "fs_tasks_open": "%1$d ਬਾਕੀ ਕੰਮ"
 }

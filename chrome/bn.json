@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "ফ্যামিলি স্পেসে কাজ, নোট ও লিংক পোস্ট করা একটি প্রিমিয়াম ফিচার। আনলক করতে সেটিংসে আপগ্রেড করুন।",
   "fs_add_emoji": "ইমোজি",
   "fs_add_photo": "ছবি যোগ করুন",
-  "fs_send_failed": "পাঠানো যায়নি। ইন্টারনেট দেখে আবার চেষ্টা করুন।"
+  "fs_send_failed": "পাঠানো যায়নি। ইন্টারনেট দেখে আবার চেষ্টা করুন।",
+  "fs_filter_all": "সব",
+  "fs_filter_tasks": "কাজ",
+  "fs_filter_notes": "নোট",
+  "fs_filter_links": "লিংক",
+  "fs_filter_empty": "এখানে এখনও কিছু নেই",
+  "fs_task_assign": "কাউকে দায়িত্ব দিন",
+  "fs_task_assigned_to": "%1$s-কে দেওয়া হয়েছে",
+  "fs_task_assigned_you": "আপনাকে দেওয়া হয়েছে",
+  "fs_task_anyone": "যে কেউ",
+  "fs_task_me": "আমি",
+  "fs_task_done_by": "%1$s সম্পন্ন করেছেন",
+  "fs_tasks_for_you": "আপনার জন্য %1$dটি কাজ",
+  "fs_tasks_for_you_one": "আপনার জন্য ১টি কাজ",
+  "fs_tasks_open": "%1$dটি বাকি কাজ"
 }

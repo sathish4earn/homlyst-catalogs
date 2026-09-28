@@ -1120,5 +1120,19 @@
   "family_space_post_premium_message": "फ़ैमिली स्पेस में काम, नोट और लिंक पोस्ट करना प्रीमियम फ़ीचर है। इसे अनलॉक करने के लिए सेटिंग्स में अपग्रेड करें।",
   "fs_add_emoji": "इमोजी",
   "fs_add_photo": "फ़ोटो जोड़ें",
-  "fs_send_failed": "भेजा नहीं जा सका। इंटरनेट जाँचें और फिर कोशिश करें।"
+  "fs_send_failed": "भेजा नहीं जा सका। इंटरनेट जाँचें और फिर कोशिश करें।",
+  "fs_filter_all": "सभी",
+  "fs_filter_tasks": "काम",
+  "fs_filter_notes": "नोट",
+  "fs_filter_links": "लिंक",
+  "fs_filter_empty": "अभी यहाँ कुछ नहीं",
+  "fs_task_assign": "किसी को सौंपें",
+  "fs_task_assigned_to": "%1$s को सौंपा",
+  "fs_task_assigned_you": "आपको सौंपा गया",
+  "fs_task_anyone": "कोई भी",
+  "fs_task_me": "मैं",
+  "fs_task_done_by": "%1$s ने पूरा किया",
+  "fs_tasks_for_you": "आपके लिए %1$d काम",
+  "fs_tasks_for_you_one": "आपके लिए 1 काम",
+  "fs_tasks_open": "%1$d खुले काम"
 }
