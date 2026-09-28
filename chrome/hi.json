@@ -1134,5 +1134,14 @@
   "fs_task_done_by": "%1$s ने पूरा किया",
   "fs_tasks_for_you": "आपके लिए %1$d काम",
   "fs_tasks_for_you_one": "आपके लिए 1 काम",
-  "fs_tasks_open": "%1$d खुले काम"
+  "fs_tasks_open": "%1$d खुले काम",
+  "fs_members_title": "सदस्य (%1$d)",
+  "fs_role_owner": "मालिक",
+  "fs_role_admin": "एडमिन",
+  "fs_you": "आप",
+  "fs_remove_member": "हटाएँ",
+  "fs_remove_member_title": "%1$s को हटाएँ?",
+  "fs_remove_member_body": "वे इस फ़ैमिली स्पेस की सूची, चैट और पोस्ट नहीं देख पाएँगे।",
+  "fs_rejoin_hint": "किसी ने HomLyst दोबारा इंस्टॉल किया या फ़ोन बदला? उनका नंबर फिर से आमंत्रित करें, उन्हें उनकी पुरानी जगह और इतिहास वापस मिल जाएगा।",
+  "fs_remove_failed": "हटाया नहीं जा सका। इंटरनेट जाँचें और फिर कोशिश करें।"
 }

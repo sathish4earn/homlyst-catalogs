@@ -1134,5 +1134,14 @@
   "fs_task_done_by": "Hecha por %1$s",
   "fs_tasks_for_you": "%1$d tareas para ti",
   "fs_tasks_for_you_one": "1 tarea para ti",
-  "fs_tasks_open": "%1$d tareas abiertas"
+  "fs_tasks_open": "%1$d tareas abiertas",
+  "fs_members_title": "Miembros (%1$d)",
+  "fs_role_owner": "Propietario",
+  "fs_role_admin": "Admin",
+  "fs_you": "tú",
+  "fs_remove_member": "Quitar",
+  "fs_remove_member_title": "¿Quitar a %1$s?",
+  "fs_remove_member_body": "Perderá el acceso a la lista, el chat y las publicaciones de este Espacio Familiar.",
+  "fs_rejoin_hint": "¿Alguien reinstaló HomLyst o cambió de teléfono? Invita su número de nuevo y recuperará su lugar, con su historial.",
+  "fs_remove_failed": "No se pudo quitar. Revisa tu conexión e inténtalo de nuevo."
 }

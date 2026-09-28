@@ -1134,5 +1134,14 @@
   "fs_task_done_by": "Diselesaikan oleh %1$s",
   "fs_tasks_for_you": "%1$d tugas untuk anda",
   "fs_tasks_for_you_one": "1 tugas untuk anda",
-  "fs_tasks_open": "%1$d tugas terbuka"
+  "fs_tasks_open": "%1$d tugas terbuka",
+  "fs_members_title": "Ahli (%1$d)",
+  "fs_role_owner": "Pemilik",
+  "fs_role_admin": "Pentadbir",
+  "fs_you": "anda",
+  "fs_remove_member": "Keluarkan",
+  "fs_remove_member_title": "Keluarkan %1$s?",
+  "fs_remove_member_body": "Mereka tidak lagi dapat melihat senarai, sembang dan siaran Ruang Keluarga ini.",
+  "fs_rejoin_hint": "Ada yang memasang semula HomLyst atau menukar telefon? Jemput nombor mereka sekali lagi dan mereka akan dapat semula tempat lama beserta sejarahnya.",
+  "fs_remove_failed": "Gagal mengeluarkan. Semak internet dan cuba lagi."
 }

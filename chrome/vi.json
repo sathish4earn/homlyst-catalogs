@@ -1134,5 +1134,14 @@
   "fs_task_done_by": "%1$s đã hoàn thành",
   "fs_tasks_for_you": "%1$d việc cho bạn",
   "fs_tasks_for_you_one": "1 việc cho bạn",
-  "fs_tasks_open": "%1$d việc chưa xong"
+  "fs_tasks_open": "%1$d việc chưa xong",
+  "fs_members_title": "Thành viên (%1$d)",
+  "fs_role_owner": "Chủ sở hữu",
+  "fs_role_admin": "Quản trị",
+  "fs_you": "bạn",
+  "fs_remove_member": "Xóa",
+  "fs_remove_member_title": "Xóa %1$s?",
+  "fs_remove_member_body": "Họ sẽ không còn xem được danh sách, trò chuyện và bài đăng của Không gian gia đình này.",
+  "fs_rejoin_hint": "Ai đó đã cài lại HomLyst hoặc đổi điện thoại? Mời lại số của họ, họ sẽ lấy lại chỗ cũ cùng lịch sử.",
+  "fs_remove_failed": "Không xóa được. Kiểm tra internet và thử lại."
 }
