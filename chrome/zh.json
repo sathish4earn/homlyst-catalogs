@@ -1142,6 +1142,6 @@
   "fs_remove_member": "移除",
   "fs_remove_member_title": "移除 %1$s？",
   "fs_remove_member_body": "对方将无法再查看这个家庭空间的清单、聊天和动态。",
-  "fs_rejoin_hint": "有人重新安装了 HomLyst 或换了手机？再次邀请他们的号码，他们会拿回原来的位置和记录。",
+  "fs_rejoin_hint": "有人重新安装了 HomLyst 或换了手机？再次邀请他们的号码，然后在这里移除旧的条目。",
   "fs_remove_failed": "移除失败。请检查网络后重试。"
 }
