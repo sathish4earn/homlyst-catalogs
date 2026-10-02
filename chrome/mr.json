@@ -1408,7 +1408,6 @@
     "order_number": "ऑर्डर #%1$d",
     "order_step_placed": "दिली",
     "order_step_ready": "तयार",
-    "order_step_done": "पूर्ण",
-    "order_updates_more": "+%1$d आणखी ऑर्डर ›"
+    "order_step_done": "पूर्ण"
   }
 }

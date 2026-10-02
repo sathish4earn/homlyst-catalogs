@@ -1408,7 +1408,6 @@
     "order_number": "ଅର୍ଡର #%1$d",
     "order_step_placed": "ଦିଆଗଲା",
     "order_step_ready": "ପ୍ରସ୍ତୁତ",
-    "order_step_done": "ସମ୍ପୂର୍ଣ୍ଣ",
-    "order_updates_more": "+%1$d ଅଧିକ ଅର୍ଡର ›"
+    "order_step_done": "ସମ୍ପୂର୍ଣ୍ଣ"
   }
 }

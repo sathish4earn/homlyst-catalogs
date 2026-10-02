@@ -1408,7 +1408,6 @@
     "order_number": "ஆர்டர் #%1$d",
     "order_step_placed": "வைக்கப்பட்டது",
     "order_step_ready": "தயார்",
-    "order_step_done": "முடிந்தது",
-    "order_updates_more": "+%1$d மேலும் ஆர்டர்கள் ›"
+    "order_step_done": "முடிந்தது"
   }
 }
