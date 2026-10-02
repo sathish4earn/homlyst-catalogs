@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "ਅੱਜ ਤੁਹਾਡਾ ਘਰ",
     "yh_slide_empty": "ਬਿੱਲ, ਬਜਟ, ਆਦਤਾਂ ਅਤੇ ਪਰਿਵਾਰ – ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਪ੍ਰੀਮੀਅਮ ਸਹੂਲਤਾਂ ਇੱਕ ਘਰ ਵਿੱਚ।",
     "yh_slide_free_title": "ਆਪਣਾ ਘਰ ਦੇਖੋ",
-    "yh_slide_free_body": "ਦੇਖੋ ਪ੍ਰੀਮੀਅਮ ਤੁਹਾਡੇ ਘਰ ਦੇ ਹਰ ਕਮਰੇ ਲਈ ਕੀ ਕਰਦਾ ਹੈ ›"
+    "yh_slide_free_body": "ਦੇਖੋ ਪ੍ਰੀਮੀਅਮ ਤੁਹਾਡੇ ਘਰ ਦੇ ਹਰ ਕਮਰੇ ਲਈ ਕੀ ਕਰਦਾ ਹੈ ›",
+    "order_number": "ਆਰਡਰ #%1$d",
+    "order_step_placed": "ਦਿੱਤਾ",
+    "order_step_ready": "ਤਿਆਰ",
+    "order_step_done": "ਪੂਰਾ",
+    "order_updates_more": "+%1$d ਹੋਰ ਆਰਡਰ ›"
   }
 }

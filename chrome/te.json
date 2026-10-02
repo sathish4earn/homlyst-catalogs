@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "ఈరోజు మీ ఇల్లు",
     "yh_slide_empty": "బిల్లులు, బడ్జెట్, అలవాట్లు, కుటుంబం – మీ ప్రీమియం ఫీచర్లన్నీ ఒకే ఇంట్లో.",
     "yh_slide_free_title": "మీ ఇంటిని చూడండి",
-    "yh_slide_free_body": "మీ ఇంటి ప్రతి గదికి ప్రీమియం ఏమి చేస్తుందో చూడండి ›"
+    "yh_slide_free_body": "మీ ఇంటి ప్రతి గదికి ప్రీమియం ఏమి చేస్తుందో చూడండి ›",
+    "order_number": "ఆర్డర్ #%1$d",
+    "order_step_placed": "ఇచ్చారు",
+    "order_step_ready": "సిద్ధం",
+    "order_step_done": "పూర్తి",
+    "order_updates_more": "+%1$d మరిన్ని ఆర్డర్లు ›"
   }
 }

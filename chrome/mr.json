@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "आज तुमचे घर",
     "yh_slide_empty": "बिले, बजेट, सवयी आणि कुटुंब – तुमची सर्व प्रीमियम वैशिष्ट्ये एकाच घरात.",
     "yh_slide_free_title": "तुमचे घर पाहा",
-    "yh_slide_free_body": "प्रीमियम तुमच्या घराच्या प्रत्येक खोलीसाठी काय करते ते पाहा ›"
+    "yh_slide_free_body": "प्रीमियम तुमच्या घराच्या प्रत्येक खोलीसाठी काय करते ते पाहा ›",
+    "order_number": "ऑर्डर #%1$d",
+    "order_step_placed": "दिली",
+    "order_step_ready": "तयार",
+    "order_step_done": "पूर्ण",
+    "order_updates_more": "+%1$d आणखी ऑर्डर ›"
   }
 }

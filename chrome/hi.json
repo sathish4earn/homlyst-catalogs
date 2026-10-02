@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "आज आपका घर",
     "yh_slide_empty": "बिल, बजट, आदतें और परिवार – आपकी सारी प्रीमियम सुविधाएँ एक घर में।",
     "yh_slide_free_title": "अपना घर देखें",
-    "yh_slide_free_body": "देखें प्रीमियम आपके घर के हर कमरे के लिए क्या करता है ›"
+    "yh_slide_free_body": "देखें प्रीमियम आपके घर के हर कमरे के लिए क्या करता है ›",
+    "order_number": "ऑर्डर #%1$d",
+    "order_step_placed": "दिया गया",
+    "order_step_ready": "तैयार",
+    "order_step_done": "पूरा",
+    "order_updates_more": "+%1$d और ऑर्डर ›"
   }
 }
