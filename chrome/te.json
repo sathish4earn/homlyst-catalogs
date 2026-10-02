@@ -1408,7 +1408,6 @@
     "order_number": "ఆర్డర్ #%1$d",
     "order_step_placed": "ఇచ్చారు",
     "order_step_ready": "సిద్ధం",
-    "order_step_done": "పూర్తి",
-    "order_updates_more": "+%1$d మరిన్ని ఆర్డర్లు ›"
+    "order_step_done": "పూర్తి"
   }
 }

@@ -1408,7 +1408,6 @@
     "order_number": "ಆರ್ಡರ್ #%1$d",
     "order_step_placed": "ನೀಡಲಾಗಿದೆ",
     "order_step_ready": "ಸಿದ್ಧ",
-    "order_step_done": "ಮುಗಿದಿದೆ",
-    "order_updates_more": "+%1$d ಇನ್ನಷ್ಟು ಆರ್ಡರ್‌ಗಳು ›"
+    "order_step_done": "ಮುಗಿದಿದೆ"
   }
 }

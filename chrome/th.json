@@ -1408,7 +1408,6 @@
     "order_number": "คำสั่งซื้อ #%1$d",
     "order_step_placed": "สั่งแล้ว",
     "order_step_ready": "พร้อม",
-    "order_step_done": "เสร็จ",
-    "order_updates_more": "+อีก %1$d คำสั่งซื้อ ›"
+    "order_step_done": "เสร็จ"
   }
 }

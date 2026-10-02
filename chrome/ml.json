@@ -1408,7 +1408,6 @@
     "order_number": "ഓർഡർ #%1$d",
     "order_step_placed": "നൽകി",
     "order_step_ready": "തയ്യാർ",
-    "order_step_done": "പൂർത്തിയായി",
-    "order_updates_more": "+%1$d ഓർഡറുകൾ കൂടി ›"
+    "order_step_done": "പൂർത്തിയായി"
   }
 }

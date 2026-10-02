@@ -1408,7 +1408,6 @@
     "order_number": "Đơn #%1$d",
     "order_step_placed": "Đã đặt",
     "order_step_ready": "Sẵn sàng",
-    "order_step_done": "Xong",
-    "order_updates_more": "+%1$d đơn khác ›"
+    "order_step_done": "Xong"
   }
 }

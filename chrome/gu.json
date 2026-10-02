@@ -1408,7 +1408,6 @@
     "order_number": "ઓર્ડર #%1$d",
     "order_step_placed": "આપ્યો",
     "order_step_ready": "તૈયાર",
-    "order_step_done": "પૂર્ણ",
-    "order_updates_more": "+%1$d વધુ ઓર્ડર ›"
+    "order_step_done": "પૂર્ણ"
   }
 }

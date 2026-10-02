@@ -1408,7 +1408,6 @@
     "order_number": "Pesanan #%1$d",
     "order_step_placed": "Dipesan",
     "order_step_ready": "Siap",
-    "order_step_done": "Selesai",
-    "order_updates_more": "+%1$d pesanan lagi ›"
+    "order_step_done": "Selesai"
   }
 }

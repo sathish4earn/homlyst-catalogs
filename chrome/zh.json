@@ -1408,7 +1408,6 @@
     "order_number": "订单 #%1$d",
     "order_step_placed": "已下单",
     "order_step_ready": "可取货",
-    "order_step_done": "完成",
-    "order_updates_more": "还有 %1$d 个订单 ›"
+    "order_step_done": "完成"
   }
 }

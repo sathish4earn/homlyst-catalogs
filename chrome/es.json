@@ -1408,7 +1408,6 @@
     "order_number": "Pedido #%1$d",
     "order_step_placed": "Realizado",
     "order_step_ready": "Listo",
-    "order_step_done": "Hecho",
-    "order_updates_more": "+%1$d pedidos más ›"
+    "order_step_done": "Hecho"
   }
 }

@@ -1408,7 +1408,6 @@
     "order_number": "Commande n° %1$d",
     "order_step_placed": "Passée",
     "order_step_ready": "Prête",
-    "order_step_done": "Terminée",
-    "order_updates_more": "+%1$d autres commandes ›"
+    "order_step_done": "Terminée"
   }
 }

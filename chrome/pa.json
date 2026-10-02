@@ -1408,7 +1408,6 @@
     "order_number": "ਆਰਡਰ #%1$d",
     "order_step_placed": "ਦਿੱਤਾ",
     "order_step_ready": "ਤਿਆਰ",
-    "order_step_done": "ਪੂਰਾ",
-    "order_updates_more": "+%1$d ਹੋਰ ਆਰਡਰ ›"
+    "order_step_done": "ਪੂਰਾ"
   }
 }
