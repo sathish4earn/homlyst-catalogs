@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "Votre maison aujourd'hui",
     "yh_slide_empty": "Factures, budget, habitudes et famille : toutes vos fonctions Premium dans une seule maison.",
     "yh_slide_free_title": "Découvrez votre maison",
-    "yh_slide_free_body": "Découvrez ce que Premium fait dans chaque pièce de votre maison ›"
+    "yh_slide_free_body": "Découvrez ce que Premium fait dans chaque pièce de votre maison ›",
+    "order_number": "Commande n° %1$d",
+    "order_step_placed": "Passée",
+    "order_step_ready": "Prête",
+    "order_step_done": "Terminée",
+    "order_updates_more": "+%1$d autres commandes ›"
   }
 }

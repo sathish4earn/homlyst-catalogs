@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "Rumah Anda hari ini",
     "yh_slide_empty": "Tagihan, anggaran, kebiasaan, dan keluarga – semua fitur Premium dalam satu rumah.",
     "yh_slide_free_title": "Jelajahi rumah Anda",
-    "yh_slide_free_body": "Lihat apa yang dilakukan Premium untuk setiap ruangan di rumah Anda ›"
+    "yh_slide_free_body": "Lihat apa yang dilakukan Premium untuk setiap ruangan di rumah Anda ›",
+    "order_number": "Pesanan #%1$d",
+    "order_step_placed": "Dipesan",
+    "order_step_ready": "Siap",
+    "order_step_done": "Selesai",
+    "order_updates_more": "+%1$d pesanan lagi ›"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "Your home today",
     "yh_slide_empty": "Bills, budget, habits and family – all your premium features in one house.",
     "yh_slide_free_title": "Discover Your Home",
-    "yh_slide_free_body": "See what Premium does for every room of your home ›"
+    "yh_slide_free_body": "See what Premium does for every room of your home ›",
+    "order_number": "Order #%1$d",
+    "order_step_placed": "Placed",
+    "order_step_ready": "Ready",
+    "order_step_done": "Done",
+    "order_updates_more": "+%1$d more orders ›"
   }
 }

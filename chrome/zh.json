@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "今天的家",
     "yh_slide_empty": "账单、预算、习惯和家人——所有高级功能都在一个家里。",
     "yh_slide_free_title": "发现你的家",
-    "yh_slide_free_body": "看看高级版为家里每个房间做了什么 ›"
+    "yh_slide_free_body": "看看高级版为家里每个房间做了什么 ›",
+    "order_number": "订单 #%1$d",
+    "order_step_placed": "已下单",
+    "order_step_ready": "可取货",
+    "order_step_done": "完成",
+    "order_updates_more": "还有 %1$d 个订单 ›"
   }
 }

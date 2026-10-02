@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "Ngôi nhà hôm nay",
     "yh_slide_empty": "Hóa đơn, ngân sách, thói quen và gia đình – mọi tính năng Premium trong một ngôi nhà.",
     "yh_slide_free_title": "Khám phá ngôi nhà",
-    "yh_slide_free_body": "Xem Premium làm gì cho từng phòng trong nhà bạn ›"
+    "yh_slide_free_body": "Xem Premium làm gì cho từng phòng trong nhà bạn ›",
+    "order_number": "Đơn #%1$d",
+    "order_step_placed": "Đã đặt",
+    "order_step_ready": "Sẵn sàng",
+    "order_step_done": "Xong",
+    "order_updates_more": "+%1$d đơn khác ›"
   }
 }

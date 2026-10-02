@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "ಇಂದು ನಿಮ್ಮ ಮನೆ",
     "yh_slide_empty": "ಬಿಲ್‌ಗಳು, ಬಜೆಟ್, ಅಭ್ಯಾಸಗಳು, ಕುಟುಂಬ – ನಿಮ್ಮ ಎಲ್ಲಾ ಪ್ರೀಮಿಯಂ ವೈಶಿಷ್ಟ್ಯಗಳು ಒಂದೇ ಮನೆಯಲ್ಲಿ.",
     "yh_slide_free_title": "ನಿಮ್ಮ ಮನೆಯನ್ನು ನೋಡಿ",
-    "yh_slide_free_body": "ನಿಮ್ಮ ಮನೆಯ ಪ್ರತಿ ಕೋಣೆಗೆ ಪ್ರೀಮಿಯಂ ಏನು ಮಾಡುತ್ತದೆ ನೋಡಿ ›"
+    "yh_slide_free_body": "ನಿಮ್ಮ ಮನೆಯ ಪ್ರತಿ ಕೋಣೆಗೆ ಪ್ರೀಮಿಯಂ ಏನು ಮಾಡುತ್ತದೆ ನೋಡಿ ›",
+    "order_number": "ಆರ್ಡರ್ #%1$d",
+    "order_step_placed": "ನೀಡಲಾಗಿದೆ",
+    "order_step_ready": "ಸಿದ್ಧ",
+    "order_step_done": "ಮುಗಿದಿದೆ",
+    "order_updates_more": "+%1$d ಇನ್ನಷ್ಟು ಆರ್ಡರ್‌ಗಳು ›"
   }
 }

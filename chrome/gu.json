@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "આજે તમારું ઘર",
     "yh_slide_empty": "બિલ, બજેટ, આદતો અને પરિવાર – તમારી બધી પ્રીમિયમ સુવિધાઓ એક ઘરમાં.",
     "yh_slide_free_title": "તમારું ઘર જુઓ",
-    "yh_slide_free_body": "પ્રીમિયમ તમારા ઘરના દરેક ઓરડા માટે શું કરે છે તે જુઓ ›"
+    "yh_slide_free_body": "પ્રીમિયમ તમારા ઘરના દરેક ઓરડા માટે શું કરે છે તે જુઓ ›",
+    "order_number": "ઓર્ડર #%1$d",
+    "order_step_placed": "આપ્યો",
+    "order_step_ready": "તૈયાર",
+    "order_step_done": "પૂર્ણ",
+    "order_updates_more": "+%1$d વધુ ઓર્ડર ›"
   }
 }

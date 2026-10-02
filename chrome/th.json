@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1404,6 +1404,11 @@
     "yh_slide_title": "บ้านของคุณวันนี้",
     "yh_slide_empty": "บิล งบประมาณ นิสัย และครอบครัว – ฟีเจอร์พรีเมียมทั้งหมดในบ้านหลังเดียว",
     "yh_slide_free_title": "สำรวจบ้านของคุณ",
-    "yh_slide_free_body": "ดูว่าพรีเมียมช่วยอะไรในแต่ละห้องของบ้านคุณ ›"
+    "yh_slide_free_body": "ดูว่าพรีเมียมช่วยอะไรในแต่ละห้องของบ้านคุณ ›",
+    "order_number": "คำสั่งซื้อ #%1$d",
+    "order_step_placed": "สั่งแล้ว",
+    "order_step_ready": "พร้อม",
+    "order_step_done": "เสร็จ",
+    "order_updates_more": "+อีก %1$d คำสั่งซื้อ ›"
   }
 }
