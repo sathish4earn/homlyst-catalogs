@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1437,6 +1437,8 @@
     "linked_unlink_title": "આ બ્રાઉઝર અનલિંક કરવું છે?",
     "linked_unlink_body": "%1$s તરત સાઇન આઉટ થશે.",
     "linked_load_failed": "લિંક કરેલા બ્રાઉઝર લોડ ન થયા. કનેક્શન તપાસો.",
-    "linked_retry": "ફરી પ્રયાસ કરો"
+    "linked_retry": "ફરી પ્રયાસ કરો",
+    "offline_title": "તમે ઓફલાઇન છો",
+    "offline_body": "તમે હજુ પણ યાદી બનાવી શકો, ખરીદી કરી શકો અને QR કોડથી શેર કરી શકો. ઓનલાઇન થતાં જ બધું સિંક થશે."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1437,6 +1437,8 @@
     "linked_unlink_title": "Unlink this browser?",
     "linked_unlink_body": "%1$s will be signed out right away.",
     "linked_load_failed": "Couldn't load your linked browsers. Check your connection.",
-    "linked_retry": "Try again"
+    "linked_retry": "Try again",
+    "offline_title": "You're offline",
+    "offline_body": "You can still make your list, shop, and share it by QR code. Everything syncs when you're back online."
   }
 }
