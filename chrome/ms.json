@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1442,6 +1442,12 @@
     "offline_body": "Anda masih boleh membuat senarai, membeli-belah dan berkongsi melalui kod QR. Semuanya akan disegerakkan apabila anda kembali dalam talian.",
     "share_app_desc": "Kongsi HomLyst",
     "share_app_chooser": "Kongsi HomLyst melalui",
-    "share_app_message": "Saya guna HomLyst untuk rancang belian keluarga: satu senarai dikongsi, lihat secara langsung siapa beli apa, dan boleh guna tanpa internet. Percuma! Dapatkan di sini: %1$s"
+    "share_app_message": "Saya guna HomLyst untuk rancang belian keluarga: satu senarai dikongsi, lihat secara langsung siapa beli apa, dan boleh guna tanpa internet. Percuma! Dapatkan di sini: %1$s",
+    "units_title": "Unit ukuran",
+    "units_metric": "Metrik (kg, g, L)",
+    "units_us": "AS (lb, oz, gal)",
+    "units_auto_note": "Ditetapkan mengikut negara anda. Tukar jika anda membeli dalam unit lain.",
+    "budget_per_lb": "/lb",
+    "budget_per_gal": "/gal"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1442,6 +1442,12 @@
     "offline_body": "Bạn vẫn có thể lập danh sách, đi chợ và chia sẻ bằng mã QR. Mọi thứ sẽ đồng bộ khi bạn có mạng trở lại.",
     "share_app_desc": "Chia sẻ HomLyst",
     "share_app_chooser": "Chia sẻ HomLyst qua",
-    "share_app_message": "Mình dùng HomLyst để lên kế hoạch mua sắm cho cả nhà: một danh sách chung, xem trực tiếp ai đang mua gì, và dùng được cả khi không có mạng. Miễn phí! Tải tại đây: %1$s"
+    "share_app_message": "Mình dùng HomLyst để lên kế hoạch mua sắm cho cả nhà: một danh sách chung, xem trực tiếp ai đang mua gì, và dùng được cả khi không có mạng. Miễn phí! Tải tại đây: %1$s",
+    "units_title": "Đơn vị đo",
+    "units_metric": "Hệ mét (kg, g, L)",
+    "units_us": "Hệ Mỹ (lb, oz, gal)",
+    "units_auto_note": "Đặt theo quốc gia của bạn. Đổi nếu bạn mua bằng đơn vị khác.",
+    "budget_per_lb": "/lb",
+    "budget_per_gal": "/gal"
   }
 }
