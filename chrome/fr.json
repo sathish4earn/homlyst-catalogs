@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1442,6 +1442,12 @@
     "offline_body": "Vous pouvez toujours faire votre liste, faire vos courses et la partager par QR code. Tout se synchronise dès que vous êtes de nouveau en ligne.",
     "share_app_desc": "Partager HomLyst",
     "share_app_chooser": "Partager HomLyst via",
-    "share_app_message": "J'utilise HomLyst pour organiser les courses de la famille : une liste partagée, on voit en direct qui achète quoi, et ça marche sans internet. C'est gratuit ! Télécharge-le ici : %1$s"
+    "share_app_message": "J'utilise HomLyst pour organiser les courses de la famille : une liste partagée, on voit en direct qui achète quoi, et ça marche sans internet. C'est gratuit ! Télécharge-le ici : %1$s",
+    "units_title": "Unités",
+    "units_metric": "Métrique (kg, g, L)",
+    "units_us": "US (lb, oz, gal)",
+    "units_auto_note": "Défini selon votre pays. Changez-le si vous achetez dans d'autres unités.",
+    "budget_per_lb": "/lb",
+    "budget_per_gal": "/gal"
   }
 }
