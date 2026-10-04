@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1408,6 +1408,35 @@
     "order_number": "Order #%1$d",
     "order_step_placed": "Placed",
     "order_step_ready": "Ready",
-    "order_step_done": "Done"
+    "order_step_done": "Done",
+    "profile_setup_title": "What should we call you?",
+    "profile_setup_body": "Your family sees this name when you share a list. Your number lets them find you on HomLyst.",
+    "profile_setup_privacy": "Optional. You can change it anytime in Settings.",
+    "profile_setup_continue": "Continue",
+    "profile_setup_skip": "Skip for now",
+    "weblink_title": "Link a browser?",
+    "weblink_body": "%1$s wants to open your HomLyst family spaces. Only continue if you are looking at this QR code on your own computer.",
+    "weblink_approve": "Link browser",
+    "weblink_cancel": "Cancel",
+    "weblink_close": "Close",
+    "weblink_working": "Linking…",
+    "weblink_done": "Done. Your browser is now linked.",
+    "weblink_wrong_code": "That code didn't match. Refresh the page and scan again.",
+    "weblink_expired": "This QR code has expired. Refresh the page and scan again.",
+    "weblink_locked": "Too many wrong tries. Refresh the page to get a new code.",
+    "weblink_offline": "No internet connection. Try again when you are online.",
+    "weblink_failed": "Couldn't link the browser. Please try again.",
+    "weblink_unavailable": "Linking a browser isn't available right now. Please try again later.",
+    "linked_title": "Linked browsers",
+    "linked_settings_desc": "Use HomLyst on a computer",
+    "linked_intro": "Open HomLyst on a computer by scanning the QR code on its screen with this phone. You can unlink any browser here at any time.",
+    "linked_scan": "Link a browser",
+    "linked_none": "No browsers are linked.",
+    "linked_active": "Last active: %1$s",
+    "linked_unlink": "Unlink",
+    "linked_unlink_title": "Unlink this browser?",
+    "linked_unlink_body": "%1$s will be signed out right away.",
+    "linked_load_failed": "Couldn't load your linked browsers. Check your connection.",
+    "linked_retry": "Try again"
   }
 }

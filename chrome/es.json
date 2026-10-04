@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1408,6 +1408,35 @@
     "order_number": "Pedido #%1$d",
     "order_step_placed": "Realizado",
     "order_step_ready": "Listo",
-    "order_step_done": "Hecho"
+    "order_step_done": "Hecho",
+    "profile_setup_title": "¿Cómo te llamamos?",
+    "profile_setup_body": "Tu familia ve este nombre cuando compartes una lista. Tu número les permite encontrarte en HomLyst.",
+    "profile_setup_privacy": "Opcional. Puedes cambiarlo cuando quieras en Ajustes.",
+    "profile_setup_continue": "Continuar",
+    "profile_setup_skip": "Omitir por ahora",
+    "weblink_title": "¿Vincular un navegador?",
+    "weblink_body": "%1$s quiere abrir tus espacios familiares de HomLyst. Continúa solo si estás viendo este código QR en tu propio ordenador.",
+    "weblink_approve": "Vincular navegador",
+    "weblink_cancel": "Cancelar",
+    "weblink_close": "Cerrar",
+    "weblink_working": "Vinculando…",
+    "weblink_done": "Listo. Tu navegador ya está vinculado.",
+    "weblink_wrong_code": "El código no coincide. Actualiza la página y vuelve a escanear.",
+    "weblink_expired": "Este código QR ha caducado. Actualiza la página y vuelve a escanear.",
+    "weblink_locked": "Demasiados intentos fallidos. Actualiza la página para obtener un código nuevo.",
+    "weblink_offline": "Sin conexión a internet. Inténtalo cuando estés en línea.",
+    "weblink_failed": "No se pudo vincular el navegador. Inténtalo de nuevo.",
+    "weblink_unavailable": "Vincular un navegador no está disponible ahora. Inténtalo más tarde.",
+    "linked_title": "Navegadores vinculados",
+    "linked_settings_desc": "Usa HomLyst en un ordenador",
+    "linked_intro": "Abre HomLyst en un ordenador escaneando con este teléfono el código QR de su pantalla. Puedes desvincular cualquier navegador aquí cuando quieras.",
+    "linked_scan": "Vincular un navegador",
+    "linked_none": "No hay navegadores vinculados.",
+    "linked_active": "Última actividad: %1$s",
+    "linked_unlink": "Desvincular",
+    "linked_unlink_title": "¿Desvincular este navegador?",
+    "linked_unlink_body": "%1$s cerrará sesión de inmediato.",
+    "linked_load_failed": "No se pudieron cargar tus navegadores vinculados. Revisa tu conexión.",
+    "linked_retry": "Reintentar"
   }
 }

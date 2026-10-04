@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1408,6 +1408,35 @@
     "order_number": "ऑर्डर #%1$d",
     "order_step_placed": "दिली",
     "order_step_ready": "तयार",
-    "order_step_done": "पूर्ण"
+    "order_step_done": "पूर्ण",
+    "profile_setup_title": "तुम्हाला काय म्हणून हाक मारू?",
+    "profile_setup_body": "तुम्ही यादी शेअर करता तेव्हा तुमचे कुटुंब हे नाव पाहते. तुमच्या नंबरमुळे ते तुम्हाला HomLyst वर शोधू शकतात.",
+    "profile_setup_privacy": "ऐच्छिक. सेटिंग्जमध्ये कधीही बदलू शकता.",
+    "profile_setup_continue": "पुढे चला",
+    "profile_setup_skip": "आता नको",
+    "weblink_title": "ब्राउझर लिंक करायचा?",
+    "weblink_body": "%1$s तुमचे HomLyst फॅमिली स्पेस उघडू इच्छितो. हा QR कोड तुम्ही तुमच्याच कॉम्प्युटरवर पाहत असाल तरच पुढे जा.",
+    "weblink_approve": "ब्राउझर लिंक करा",
+    "weblink_cancel": "रद्द करा",
+    "weblink_close": "बंद करा",
+    "weblink_working": "लिंक होत आहे…",
+    "weblink_done": "झाले. तुमचा ब्राउझर आता लिंक झाला आहे.",
+    "weblink_wrong_code": "कोड जुळला नाही. पेज रिफ्रेश करून पुन्हा स्कॅन करा.",
+    "weblink_expired": "या QR कोडची मुदत संपली. पेज रिफ्रेश करून पुन्हा स्कॅन करा.",
+    "weblink_locked": "खूप चुकीचे प्रयत्न. नवीन कोडसाठी पेज रिफ्रेश करा.",
+    "weblink_offline": "इंटरनेट कनेक्शन नाही. ऑनलाइन आल्यावर पुन्हा प्रयत्न करा.",
+    "weblink_failed": "ब्राउझर लिंक होऊ शकला नाही. कृपया पुन्हा प्रयत्न करा.",
+    "weblink_unavailable": "ब्राउझर लिंक करणे सध्या उपलब्ध नाही. नंतर प्रयत्न करा.",
+    "linked_title": "लिंक केलेले ब्राउझर",
+    "linked_settings_desc": "कॉम्प्युटरवर HomLyst वापरा",
+    "linked_intro": "कॉम्प्युटरच्या स्क्रीनवरील QR कोड या फोनने स्कॅन करून HomLyst उघडा. कोणताही ब्राउझर इथे कधीही अनलिंक करू शकता.",
+    "linked_scan": "ब्राउझर लिंक करा",
+    "linked_none": "कोणताही ब्राउझर लिंक नाही.",
+    "linked_active": "शेवटचे सक्रिय: %1$s",
+    "linked_unlink": "अनलिंक करा",
+    "linked_unlink_title": "हा ब्राउझर अनलिंक करायचा?",
+    "linked_unlink_body": "%1$s लगेच साइन आउट होईल.",
+    "linked_load_failed": "लिंक केलेले ब्राउझर लोड झाले नाहीत. कनेक्शन तपासा.",
+    "linked_retry": "पुन्हा प्रयत्न करा"
   }
 }

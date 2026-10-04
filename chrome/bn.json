@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1408,6 +1408,35 @@
     "order_number": "অর্ডার #%1$d",
     "order_step_placed": "দেওয়া হয়েছে",
     "order_step_ready": "প্রস্তুত",
-    "order_step_done": "সম্পন্ন"
+    "order_step_done": "সম্পন্ন",
+    "profile_setup_title": "আপনাকে কী নামে ডাকব?",
+    "profile_setup_body": "তালিকা শেয়ার করলে আপনার পরিবার এই নামটি দেখবে। আপনার নম্বর দিয়ে তারা HomLyst-এ আপনাকে খুঁজে পাবে।",
+    "profile_setup_privacy": "ঐচ্ছিক। সেটিংসে যেকোনো সময় বদলাতে পারেন।",
+    "profile_setup_continue": "এগিয়ে যান",
+    "profile_setup_skip": "এখন নয়",
+    "weblink_title": "ব্রাউজার লিঙ্ক করবেন?",
+    "weblink_body": "%1$s আপনার HomLyst ফ্যামিলি স্পেস খুলতে চায়। এই QR কোডটি আপনার নিজের কম্পিউটারে দেখলে তবেই এগোন।",
+    "weblink_approve": "ব্রাউজার লিঙ্ক করুন",
+    "weblink_cancel": "বাতিল",
+    "weblink_close": "বন্ধ করুন",
+    "weblink_working": "লিঙ্ক হচ্ছে…",
+    "weblink_done": "হয়ে গেছে। আপনার ব্রাউজার এখন লিঙ্ক করা।",
+    "weblink_wrong_code": "কোড মেলেনি। পেজ রিফ্রেশ করে আবার স্ক্যান করুন।",
+    "weblink_expired": "এই QR কোডের মেয়াদ শেষ। পেজ রিফ্রেশ করে আবার স্ক্যান করুন।",
+    "weblink_locked": "অনেকবার ভুল চেষ্টা হয়েছে। নতুন কোডের জন্য পেজ রিফ্রেশ করুন।",
+    "weblink_offline": "ইন্টারনেট সংযোগ নেই। অনলাইন হলে আবার চেষ্টা করুন।",
+    "weblink_failed": "ব্রাউজার লিঙ্ক করা যায়নি। আবার চেষ্টা করুন।",
+    "weblink_unavailable": "ব্রাউজার লিঙ্ক করা এখন উপলব্ধ নয়। পরে চেষ্টা করুন।",
+    "linked_title": "লিঙ্ক করা ব্রাউজার",
+    "linked_settings_desc": "কম্পিউটারে HomLyst ব্যবহার করুন",
+    "linked_intro": "কম্পিউটারের স্ক্রিনে থাকা QR কোড এই ফোন দিয়ে স্ক্যান করে HomLyst খুলুন। যেকোনো ব্রাউজার এখানে যেকোনো সময় আনলিঙ্ক করতে পারেন।",
+    "linked_scan": "ব্রাউজার লিঙ্ক করুন",
+    "linked_none": "কোনো ব্রাউজার লিঙ্ক করা নেই।",
+    "linked_active": "শেষ সক্রিয়: %1$s",
+    "linked_unlink": "আনলিঙ্ক",
+    "linked_unlink_title": "এই ব্রাউজার আনলিঙ্ক করবেন?",
+    "linked_unlink_body": "%1$s সঙ্গে সঙ্গে সাইন আউট হবে।",
+    "linked_load_failed": "লিঙ্ক করা ব্রাউজার লোড করা যায়নি। সংযোগ দেখুন।",
+    "linked_retry": "আবার চেষ্টা করুন"
   }
 }

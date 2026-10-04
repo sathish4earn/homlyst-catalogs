@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1408,6 +1408,35 @@
     "order_number": "Đơn #%1$d",
     "order_step_placed": "Đã đặt",
     "order_step_ready": "Sẵn sàng",
-    "order_step_done": "Xong"
+    "order_step_done": "Xong",
+    "profile_setup_title": "Chúng tôi nên gọi bạn là gì?",
+    "profile_setup_body": "Gia đình sẽ thấy tên này khi bạn chia sẻ danh sách. Số điện thoại giúp họ tìm thấy bạn trên HomLyst.",
+    "profile_setup_privacy": "Không bắt buộc. Có thể đổi bất cứ lúc nào trong Cài đặt.",
+    "profile_setup_continue": "Tiếp tục",
+    "profile_setup_skip": "Bỏ qua lúc này",
+    "weblink_title": "Liên kết trình duyệt?",
+    "weblink_body": "%1$s muốn mở không gian gia đình HomLyst của bạn. Chỉ tiếp tục nếu bạn đang thấy mã QR này trên máy tính của chính mình.",
+    "weblink_approve": "Liên kết trình duyệt",
+    "weblink_cancel": "Hủy",
+    "weblink_close": "Đóng",
+    "weblink_working": "Đang liên kết…",
+    "weblink_done": "Xong. Trình duyệt của bạn đã được liên kết.",
+    "weblink_wrong_code": "Mã không khớp. Tải lại trang rồi quét lại.",
+    "weblink_expired": "Mã QR này đã hết hạn. Tải lại trang rồi quét lại.",
+    "weblink_locked": "Sai quá nhiều lần. Tải lại trang để lấy mã mới.",
+    "weblink_offline": "Không có kết nối internet. Hãy thử lại khi có mạng.",
+    "weblink_failed": "Không thể liên kết trình duyệt. Vui lòng thử lại.",
+    "weblink_unavailable": "Hiện chưa thể liên kết trình duyệt. Vui lòng thử lại sau.",
+    "linked_title": "Trình duyệt đã liên kết",
+    "linked_settings_desc": "Dùng HomLyst trên máy tính",
+    "linked_intro": "Mở HomLyst trên máy tính bằng cách dùng điện thoại này quét mã QR trên màn hình. Bạn có thể hủy liên kết bất kỳ trình duyệt nào tại đây.",
+    "linked_scan": "Liên kết trình duyệt",
+    "linked_none": "Chưa có trình duyệt nào được liên kết.",
+    "linked_active": "Hoạt động lần cuối: %1$s",
+    "linked_unlink": "Hủy liên kết",
+    "linked_unlink_title": "Hủy liên kết trình duyệt này?",
+    "linked_unlink_body": "%1$s sẽ bị đăng xuất ngay.",
+    "linked_load_failed": "Không tải được trình duyệt đã liên kết. Kiểm tra kết nối.",
+    "linked_retry": "Thử lại"
   }
 }

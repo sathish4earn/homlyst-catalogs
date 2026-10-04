@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1408,6 +1408,35 @@
     "order_number": "Pedido #%1$d",
     "order_step_placed": "Feito",
     "order_step_ready": "Pronto",
-    "order_step_done": "Concluído"
+    "order_step_done": "Concluído",
+    "profile_setup_title": "Como devemos te chamar?",
+    "profile_setup_body": "Sua família vê este nome quando você compartilha uma lista. Seu número permite que te encontrem no HomLyst.",
+    "profile_setup_privacy": "Opcional. Você pode mudar quando quiser em Configurações.",
+    "profile_setup_continue": "Continuar",
+    "profile_setup_skip": "Pular por agora",
+    "weblink_title": "Vincular um navegador?",
+    "weblink_body": "%1$s quer abrir seus espaços da família no HomLyst. Só continue se você estiver vendo este QR code no seu próprio computador.",
+    "weblink_approve": "Vincular navegador",
+    "weblink_cancel": "Cancelar",
+    "weblink_close": "Fechar",
+    "weblink_working": "Vinculando…",
+    "weblink_done": "Pronto. Seu navegador está vinculado.",
+    "weblink_wrong_code": "O código não confere. Atualize a página e escaneie de novo.",
+    "weblink_expired": "Este QR code expirou. Atualize a página e escaneie de novo.",
+    "weblink_locked": "Tentativas erradas demais. Atualize a página para gerar um novo código.",
+    "weblink_offline": "Sem conexão com a internet. Tente de novo quando estiver online.",
+    "weblink_failed": "Não foi possível vincular o navegador. Tente de novo.",
+    "weblink_unavailable": "Vincular um navegador não está disponível agora. Tente mais tarde.",
+    "linked_title": "Navegadores vinculados",
+    "linked_settings_desc": "Use o HomLyst no computador",
+    "linked_intro": "Abra o HomLyst num computador escaneando com este celular o QR code na tela. Você pode desvincular qualquer navegador aqui quando quiser.",
+    "linked_scan": "Vincular um navegador",
+    "linked_none": "Nenhum navegador vinculado.",
+    "linked_active": "Último acesso: %1$s",
+    "linked_unlink": "Desvincular",
+    "linked_unlink_title": "Desvincular este navegador?",
+    "linked_unlink_body": "%1$s será desconectado na hora.",
+    "linked_load_failed": "Não foi possível carregar seus navegadores vinculados. Verifique sua conexão.",
+    "linked_retry": "Tentar de novo"
   }
 }
