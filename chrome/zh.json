@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1408,6 +1408,35 @@
     "order_number": "订单 #%1$d",
     "order_step_placed": "已下单",
     "order_step_ready": "可取货",
-    "order_step_done": "完成"
+    "order_step_done": "完成",
+    "profile_setup_title": "我们该怎么称呼你？",
+    "profile_setup_body": "你分享清单时，家人会看到这个名字。通过你的号码，他们可以在 HomLyst 上找到你。",
+    "profile_setup_privacy": "选填。可随时在设置中修改。",
+    "profile_setup_continue": "继续",
+    "profile_setup_skip": "暂时跳过",
+    "weblink_title": "关联浏览器？",
+    "weblink_body": "%1$s 想打开你的 HomLyst 家庭空间。只有在你自己的电脑上看到这个二维码时才继续。",
+    "weblink_approve": "关联浏览器",
+    "weblink_cancel": "取消",
+    "weblink_close": "关闭",
+    "weblink_working": "正在关联…",
+    "weblink_done": "完成。你的浏览器已关联。",
+    "weblink_wrong_code": "代码不匹配。请刷新页面后重新扫描。",
+    "weblink_expired": "此二维码已过期。请刷新页面后重新扫描。",
+    "weblink_locked": "错误次数过多。请刷新页面获取新代码。",
+    "weblink_offline": "没有网络连接。联网后再试。",
+    "weblink_failed": "无法关联浏览器。请重试。",
+    "weblink_unavailable": "暂时无法关联浏览器。请稍后再试。",
+    "linked_title": "已关联的浏览器",
+    "linked_settings_desc": "在电脑上使用 HomLyst",
+    "linked_intro": "用这部手机扫描电脑屏幕上的二维码即可打开 HomLyst。你可以随时在这里取消关联任何浏览器。",
+    "linked_scan": "关联浏览器",
+    "linked_none": "没有已关联的浏览器。",
+    "linked_active": "最近活跃：%1$s",
+    "linked_unlink": "取消关联",
+    "linked_unlink_title": "取消关联此浏览器？",
+    "linked_unlink_body": "%1$s 将立即退出登录。",
+    "linked_load_failed": "无法加载已关联的浏览器。请检查网络连接。",
+    "linked_retry": "重试"
   }
 }

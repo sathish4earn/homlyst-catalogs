@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1408,6 +1408,35 @@
     "order_number": "ઓર્ડર #%1$d",
     "order_step_placed": "આપ્યો",
     "order_step_ready": "તૈયાર",
-    "order_step_done": "પૂર્ણ"
+    "order_step_done": "પૂર્ણ",
+    "profile_setup_title": "અમે તમને શું કહીને બોલાવીએ?",
+    "profile_setup_body": "તમે યાદી શેર કરો ત્યારે તમારો પરિવાર આ નામ જુએ છે. તમારા નંબરથી તેઓ તમને HomLyst પર શોધી શકે છે.",
+    "profile_setup_privacy": "વૈકલ્પિક. સેટિંગ્સમાં ગમે ત્યારે બદલી શકો છો.",
+    "profile_setup_continue": "આગળ વધો",
+    "profile_setup_skip": "હમણાં નહીં",
+    "weblink_title": "બ્રાઉઝર લિંક કરવું છે?",
+    "weblink_body": "%1$s તમારા HomLyst ફેમિલી સ્પેસ ખોલવા માંગે છે. આ QR કોડ તમે તમારા પોતાના કમ્પ્યુટર પર જોતા હો તો જ આગળ વધો.",
+    "weblink_approve": "બ્રાઉઝર લિંક કરો",
+    "weblink_cancel": "રદ કરો",
+    "weblink_close": "બંધ કરો",
+    "weblink_working": "લિંક થઈ રહ્યું છે…",
+    "weblink_done": "થઈ ગયું. તમારું બ્રાઉઝર હવે લિંક છે.",
+    "weblink_wrong_code": "કોડ મેળ ખાતો નથી. પેજ રિફ્રેશ કરી ફરી સ્કેન કરો.",
+    "weblink_expired": "આ QR કોડની મુદત પૂરી થઈ. પેજ રિફ્રેશ કરી ફરી સ્કેન કરો.",
+    "weblink_locked": "ઘણા ખોટા પ્રયાસો. નવા કોડ માટે પેજ રિફ્રેશ કરો.",
+    "weblink_offline": "ઇન્ટરનેટ કનેક્શન નથી. ઓનલાઇન થાઓ ત્યારે ફરી પ્રયાસ કરો.",
+    "weblink_failed": "બ્રાઉઝર લિંક ન થયું. કૃપા કરી ફરી પ્રયાસ કરો.",
+    "weblink_unavailable": "બ્રાઉઝર લિંક કરવું હમણાં ઉપલબ્ધ નથી. પછી પ્રયાસ કરો.",
+    "linked_title": "લિંક કરેલા બ્રાઉઝર",
+    "linked_settings_desc": "કમ્પ્યુટર પર HomLyst વાપરો",
+    "linked_intro": "કમ્પ્યુટરની સ્ક્રીન પરનો QR કોડ આ ફોનથી સ્કેન કરીને HomLyst ખોલો. કોઈપણ બ્રાઉઝર અહીં ગમે ત્યારે અનલિંક કરી શકો છો.",
+    "linked_scan": "બ્રાઉઝર લિંક કરો",
+    "linked_none": "કોઈ બ્રાઉઝર લિંક નથી.",
+    "linked_active": "છેલ્લે સક્રિય: %1$s",
+    "linked_unlink": "અનલિંક",
+    "linked_unlink_title": "આ બ્રાઉઝર અનલિંક કરવું છે?",
+    "linked_unlink_body": "%1$s તરત સાઇન આઉટ થશે.",
+    "linked_load_failed": "લિંક કરેલા બ્રાઉઝર લોડ ન થયા. કનેક્શન તપાસો.",
+    "linked_retry": "ફરી પ્રયાસ કરો"
   }
 }

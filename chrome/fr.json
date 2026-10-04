@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1408,6 +1408,35 @@
     "order_number": "Commande n° %1$d",
     "order_step_placed": "Passée",
     "order_step_ready": "Prête",
-    "order_step_done": "Terminée"
+    "order_step_done": "Terminée",
+    "profile_setup_title": "Comment doit-on vous appeler ?",
+    "profile_setup_body": "Votre famille voit ce nom quand vous partagez une liste. Votre numéro leur permet de vous trouver sur HomLyst.",
+    "profile_setup_privacy": "Facultatif. Modifiable à tout moment dans Réglages.",
+    "profile_setup_continue": "Continuer",
+    "profile_setup_skip": "Passer pour l'instant",
+    "weblink_title": "Associer un navigateur ?",
+    "weblink_body": "%1$s veut ouvrir vos espaces famille HomLyst. Ne continuez que si vous voyez ce QR code sur votre propre ordinateur.",
+    "weblink_approve": "Associer le navigateur",
+    "weblink_cancel": "Annuler",
+    "weblink_close": "Fermer",
+    "weblink_working": "Association…",
+    "weblink_done": "C'est fait. Votre navigateur est associé.",
+    "weblink_wrong_code": "Le code ne correspond pas. Actualisez la page et scannez à nouveau.",
+    "weblink_expired": "Ce QR code a expiré. Actualisez la page et scannez à nouveau.",
+    "weblink_locked": "Trop d'essais erronés. Actualisez la page pour obtenir un nouveau code.",
+    "weblink_offline": "Pas de connexion internet. Réessayez une fois en ligne.",
+    "weblink_failed": "Impossible d'associer le navigateur. Veuillez réessayer.",
+    "weblink_unavailable": "L'association d'un navigateur n'est pas disponible pour le moment. Réessayez plus tard.",
+    "linked_title": "Navigateurs associés",
+    "linked_settings_desc": "Utiliser HomLyst sur un ordinateur",
+    "linked_intro": "Ouvrez HomLyst sur un ordinateur en scannant avec ce téléphone le QR code affiché à l'écran. Vous pouvez dissocier n'importe quel navigateur ici à tout moment.",
+    "linked_scan": "Associer un navigateur",
+    "linked_none": "Aucun navigateur associé.",
+    "linked_active": "Dernière activité : %1$s",
+    "linked_unlink": "Dissocier",
+    "linked_unlink_title": "Dissocier ce navigateur ?",
+    "linked_unlink_body": "%1$s sera déconnecté immédiatement.",
+    "linked_load_failed": "Impossible de charger vos navigateurs associés. Vérifiez votre connexion.",
+    "linked_retry": "Réessayer"
   }
 }

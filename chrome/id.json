@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1408,6 +1408,35 @@
     "order_number": "Pesanan #%1$d",
     "order_step_placed": "Dipesan",
     "order_step_ready": "Siap",
-    "order_step_done": "Selesai"
+    "order_step_done": "Selesai",
+    "profile_setup_title": "Kami panggil Anda siapa?",
+    "profile_setup_body": "Keluarga Anda melihat nama ini saat Anda berbagi daftar. Nomor Anda membantu mereka menemukan Anda di HomLyst.",
+    "profile_setup_privacy": "Opsional. Bisa diubah kapan saja di Pengaturan.",
+    "profile_setup_continue": "Lanjut",
+    "profile_setup_skip": "Lewati dulu",
+    "weblink_title": "Tautkan browser?",
+    "weblink_body": "%1$s ingin membuka ruang keluarga HomLyst Anda. Lanjutkan hanya jika Anda melihat kode QR ini di komputer Anda sendiri.",
+    "weblink_approve": "Tautkan browser",
+    "weblink_cancel": "Batal",
+    "weblink_close": "Tutup",
+    "weblink_working": "Menautkan…",
+    "weblink_done": "Selesai. Browser Anda sekarang tertaut.",
+    "weblink_wrong_code": "Kode tidak cocok. Muat ulang halaman lalu pindai lagi.",
+    "weblink_expired": "Kode QR ini sudah kedaluwarsa. Muat ulang halaman lalu pindai lagi.",
+    "weblink_locked": "Terlalu banyak percobaan salah. Muat ulang halaman untuk kode baru.",
+    "weblink_offline": "Tidak ada koneksi internet. Coba lagi saat online.",
+    "weblink_failed": "Tidak bisa menautkan browser. Silakan coba lagi.",
+    "weblink_unavailable": "Menautkan browser sedang tidak tersedia. Coba lagi nanti.",
+    "linked_title": "Browser tertaut",
+    "linked_settings_desc": "Gunakan HomLyst di komputer",
+    "linked_intro": "Buka HomLyst di komputer dengan memindai kode QR di layarnya memakai ponsel ini. Anda bisa melepas tautan browser mana pun di sini kapan saja.",
+    "linked_scan": "Tautkan browser",
+    "linked_none": "Belum ada browser yang tertaut.",
+    "linked_active": "Terakhir aktif: %1$s",
+    "linked_unlink": "Lepas tautan",
+    "linked_unlink_title": "Lepas tautan browser ini?",
+    "linked_unlink_body": "%1$s akan langsung keluar.",
+    "linked_load_failed": "Tidak bisa memuat browser tertaut. Periksa koneksi Anda.",
+    "linked_retry": "Coba lagi"
   }
 }

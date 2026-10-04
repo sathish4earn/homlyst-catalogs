@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1408,6 +1408,35 @@
     "order_number": "Pesanan #%1$d",
     "order_step_placed": "Dibuat",
     "order_step_ready": "Sedia",
-    "order_step_done": "Selesai"
+    "order_step_done": "Selesai",
+    "profile_setup_title": "Kami patut panggil anda apa?",
+    "profile_setup_body": "Keluarga anda melihat nama ini apabila anda berkongsi senarai. Nombor anda membantu mereka mencari anda di HomLyst.",
+    "profile_setup_privacy": "Pilihan. Boleh diubah bila-bila masa dalam Tetapan.",
+    "profile_setup_continue": "Teruskan",
+    "profile_setup_skip": "Langkau dahulu",
+    "weblink_title": "Pautkan pelayar?",
+    "weblink_body": "%1$s mahu membuka ruang keluarga HomLyst anda. Teruskan hanya jika anda melihat kod QR ini pada komputer anda sendiri.",
+    "weblink_approve": "Pautkan pelayar",
+    "weblink_cancel": "Batal",
+    "weblink_close": "Tutup",
+    "weblink_working": "Memautkan…",
+    "weblink_done": "Selesai. Pelayar anda kini dipautkan.",
+    "weblink_wrong_code": "Kod tidak sepadan. Muat semula halaman dan imbas lagi.",
+    "weblink_expired": "Kod QR ini telah tamat tempoh. Muat semula halaman dan imbas lagi.",
+    "weblink_locked": "Terlalu banyak cubaan salah. Muat semula halaman untuk kod baharu.",
+    "weblink_offline": "Tiada sambungan internet. Cuba lagi apabila dalam talian.",
+    "weblink_failed": "Tidak dapat memautkan pelayar. Sila cuba lagi.",
+    "weblink_unavailable": "Memautkan pelayar tidak tersedia sekarang. Cuba lagi kemudian.",
+    "linked_title": "Pelayar dipautkan",
+    "linked_settings_desc": "Guna HomLyst pada komputer",
+    "linked_intro": "Buka HomLyst pada komputer dengan mengimbas kod QR pada skrinnya menggunakan telefon ini. Anda boleh nyahpaut mana-mana pelayar di sini bila-bila masa.",
+    "linked_scan": "Pautkan pelayar",
+    "linked_none": "Tiada pelayar dipautkan.",
+    "linked_active": "Aktif terakhir: %1$s",
+    "linked_unlink": "Nyahpaut",
+    "linked_unlink_title": "Nyahpaut pelayar ini?",
+    "linked_unlink_body": "%1$s akan dilog keluar serta-merta.",
+    "linked_load_failed": "Tidak dapat memuatkan pelayar dipautkan. Semak sambungan anda.",
+    "linked_retry": "Cuba lagi"
   }
 }
