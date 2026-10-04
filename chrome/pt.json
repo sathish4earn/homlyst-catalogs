@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1437,6 +1437,8 @@
     "linked_unlink_title": "Desvincular este navegador?",
     "linked_unlink_body": "%1$s será desconectado na hora.",
     "linked_load_failed": "Não foi possível carregar seus navegadores vinculados. Verifique sua conexão.",
-    "linked_retry": "Tentar de novo"
+    "linked_retry": "Tentar de novo",
+    "offline_title": "Você está offline",
+    "offline_body": "Você ainda pode montar sua lista, fazer compras e compartilhar por QR code. Tudo sincroniza quando você voltar a ficar online."
   }
 }

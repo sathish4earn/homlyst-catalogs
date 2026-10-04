@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1437,6 +1437,8 @@
     "linked_unlink_title": "Lepas tautan browser ini?",
     "linked_unlink_body": "%1$s akan langsung keluar.",
     "linked_load_failed": "Tidak bisa memuat browser tertaut. Periksa koneksi Anda.",
-    "linked_retry": "Coba lagi"
+    "linked_retry": "Coba lagi",
+    "offline_title": "Anda sedang offline",
+    "offline_body": "Anda tetap bisa membuat daftar, berbelanja, dan berbagi lewat kode QR. Semuanya tersinkron saat Anda online lagi."
   }
 }

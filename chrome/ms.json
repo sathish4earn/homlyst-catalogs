@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1437,6 +1437,8 @@
     "linked_unlink_title": "Nyahpaut pelayar ini?",
     "linked_unlink_body": "%1$s akan dilog keluar serta-merta.",
     "linked_load_failed": "Tidak dapat memuatkan pelayar dipautkan. Semak sambungan anda.",
-    "linked_retry": "Cuba lagi"
+    "linked_retry": "Cuba lagi",
+    "offline_title": "Anda di luar talian",
+    "offline_body": "Anda masih boleh membuat senarai, membeli-belah dan berkongsi melalui kod QR. Semuanya akan disegerakkan apabila anda kembali dalam talian."
   }
 }

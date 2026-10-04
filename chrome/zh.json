@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1437,6 +1437,8 @@
     "linked_unlink_title": "取消关联此浏览器？",
     "linked_unlink_body": "%1$s 将立即退出登录。",
     "linked_load_failed": "无法加载已关联的浏览器。请检查网络连接。",
-    "linked_retry": "重试"
+    "linked_retry": "重试",
+    "offline_title": "你已离线",
+    "offline_body": "你仍然可以制作清单、购物，并通过二维码分享。恢复联网后会自动同步。"
   }
 }
