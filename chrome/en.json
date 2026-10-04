@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1439,6 +1439,9 @@
     "linked_load_failed": "Couldn't load your linked browsers. Check your connection.",
     "linked_retry": "Try again",
     "offline_title": "You're offline",
-    "offline_body": "You can still make your list, shop, and share it by QR code. Everything syncs when you're back online."
+    "offline_body": "You can still make your list, shop, and share it by QR code. Everything syncs when you're back online.",
+    "share_app_desc": "Share HomLyst",
+    "share_app_chooser": "Share HomLyst via",
+    "share_app_message": "I use HomLyst to plan our family shopping: one shared list, see live who is buying what, and it works without internet. It's free! Get it here: %1$s"
   }
 }

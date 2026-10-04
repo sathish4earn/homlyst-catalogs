@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1439,6 +1439,9 @@
     "linked_load_failed": "Không tải được trình duyệt đã liên kết. Kiểm tra kết nối.",
     "linked_retry": "Thử lại",
     "offline_title": "Bạn đang ngoại tuyến",
-    "offline_body": "Bạn vẫn có thể lập danh sách, đi chợ và chia sẻ bằng mã QR. Mọi thứ sẽ đồng bộ khi bạn có mạng trở lại."
+    "offline_body": "Bạn vẫn có thể lập danh sách, đi chợ và chia sẻ bằng mã QR. Mọi thứ sẽ đồng bộ khi bạn có mạng trở lại.",
+    "share_app_desc": "Chia sẻ HomLyst",
+    "share_app_chooser": "Chia sẻ HomLyst qua",
+    "share_app_message": "Mình dùng HomLyst để lên kế hoạch mua sắm cho cả nhà: một danh sách chung, xem trực tiếp ai đang mua gì, và dùng được cả khi không có mạng. Miễn phí! Tải tại đây: %1$s"
   }
 }
