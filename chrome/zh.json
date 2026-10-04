@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1439,6 +1439,9 @@
     "linked_load_failed": "无法加载已关联的浏览器。请检查网络连接。",
     "linked_retry": "重试",
     "offline_title": "你已离线",
-    "offline_body": "你仍然可以制作清单、购物，并通过二维码分享。恢复联网后会自动同步。"
+    "offline_body": "你仍然可以制作清单、购物，并通过二维码分享。恢复联网后会自动同步。",
+    "share_app_desc": "分享 HomLyst",
+    "share_app_chooser": "通过以下方式分享 HomLyst",
+    "share_app_message": "我用 HomLyst 安排全家购物：一份共享清单，实时看到谁在买什么，没有网络也能用。完全免费！在这里下载：%1$s"
   }
 }

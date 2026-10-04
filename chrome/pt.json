@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1439,6 +1439,9 @@
     "linked_load_failed": "Não foi possível carregar seus navegadores vinculados. Verifique sua conexão.",
     "linked_retry": "Tentar de novo",
     "offline_title": "Você está offline",
-    "offline_body": "Você ainda pode montar sua lista, fazer compras e compartilhar por QR code. Tudo sincroniza quando você voltar a ficar online."
+    "offline_body": "Você ainda pode montar sua lista, fazer compras e compartilhar por QR code. Tudo sincroniza quando você voltar a ficar online.",
+    "share_app_desc": "Compartilhar HomLyst",
+    "share_app_chooser": "Compartilhar HomLyst via",
+    "share_app_message": "Eu uso o HomLyst para planejar as compras da família: uma lista compartilhada, veja ao vivo quem está comprando o quê, e funciona sem internet. É grátis! Baixe aqui: %1$s"
   }
 }

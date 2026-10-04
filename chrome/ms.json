@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1439,6 +1439,9 @@
     "linked_load_failed": "Tidak dapat memuatkan pelayar dipautkan. Semak sambungan anda.",
     "linked_retry": "Cuba lagi",
     "offline_title": "Anda di luar talian",
-    "offline_body": "Anda masih boleh membuat senarai, membeli-belah dan berkongsi melalui kod QR. Semuanya akan disegerakkan apabila anda kembali dalam talian."
+    "offline_body": "Anda masih boleh membuat senarai, membeli-belah dan berkongsi melalui kod QR. Semuanya akan disegerakkan apabila anda kembali dalam talian.",
+    "share_app_desc": "Kongsi HomLyst",
+    "share_app_chooser": "Kongsi HomLyst melalui",
+    "share_app_message": "Saya guna HomLyst untuk rancang belian keluarga: satu senarai dikongsi, lihat secara langsung siapa beli apa, dan boleh guna tanpa internet. Percuma! Dapatkan di sini: %1$s"
   }
 }

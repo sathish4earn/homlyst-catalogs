@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1439,6 +1439,9 @@
     "linked_load_failed": "Tidak bisa memuat browser tertaut. Periksa koneksi Anda.",
     "linked_retry": "Coba lagi",
     "offline_title": "Anda sedang offline",
-    "offline_body": "Anda tetap bisa membuat daftar, berbelanja, dan berbagi lewat kode QR. Semuanya tersinkron saat Anda online lagi."
+    "offline_body": "Anda tetap bisa membuat daftar, berbelanja, dan berbagi lewat kode QR. Semuanya tersinkron saat Anda online lagi.",
+    "share_app_desc": "Bagikan HomLyst",
+    "share_app_chooser": "Bagikan HomLyst lewat",
+    "share_app_message": "Saya pakai HomLyst untuk belanja keluarga: satu daftar bersama, lihat langsung siapa membeli apa, dan bisa dipakai tanpa internet. Gratis! Unduh di sini: %1$s"
   }
 }
