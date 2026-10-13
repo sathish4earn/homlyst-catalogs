@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1623,6 +1623,8 @@
     "home_label_backup": "बॅकअप",
     "home_fs_new_count": "%1$s नवीन",
     "home_fs_more": "+%1$s आणखी",
-    "home_fs_pick": "कोणते कुटुंब?"
+    "home_fs_pick": "कोणते कुटुंब?",
+    "recipe_pending": "पाककृती अजून तयार होत आहे — एका मिनिटात इथे दिसेल…",
+    "recipe_how_to_cook": "कसे बनवायचे — कृती आणि टिप्स"
   }
 }

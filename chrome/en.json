@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1623,6 +1623,8 @@
     "home_label_backup": "Backup",
     "home_fs_new_count": "%1$s new",
     "home_fs_more": "+%1$s more",
-    "home_fs_pick": "Which family?"
+    "home_fs_pick": "Which family?",
+    "recipe_pending": "Still making this recipe — it will appear here in a minute…",
+    "recipe_how_to_cook": "How to cook — steps & tips"
   }
 }

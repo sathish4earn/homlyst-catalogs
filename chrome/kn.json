@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1623,6 +1623,8 @@
     "home_label_backup": "ಬ್ಯಾಕಪ್",
     "home_fs_new_count": "%1$s ಹೊಸವು",
     "home_fs_more": "+%1$s ಇನ್ನಷ್ಟು",
-    "home_fs_pick": "ಯಾವ ಕುಟುಂಬ?"
+    "home_fs_pick": "ಯಾವ ಕುಟುಂಬ?",
+    "recipe_pending": "ಅಡುಗೆ ವಿಧಾನ ಇನ್ನೂ ತಯಾರಾಗುತ್ತಿದೆ — ಒಂದು ನಿಮಿಷದಲ್ಲಿ ಇಲ್ಲಿ ಕಾಣುತ್ತದೆ…",
+    "recipe_how_to_cook": "ಹೇಗೆ ಅಡುಗೆ ಮಾಡುವುದು — ವಿಧಾನ & ಸಲಹೆಗಳು"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1623,6 +1623,8 @@
     "home_label_backup": "ବ୍ୟାକଅପ୍",
     "home_fs_new_count": "%1$s ନୂଆ",
     "home_fs_more": "+%1$s ଅଧିକ",
-    "home_fs_pick": "କେଉଁ ପରିବାର?"
+    "home_fs_pick": "କେଉଁ ପରିବାର?",
+    "recipe_pending": "ରେସିପି ଏବେବି ତିଆରି ହେଉଛି — ଏକ ମିନିଟରେ ଏଠାରେ ଦେଖାଯିବ…",
+    "recipe_how_to_cook": "କିପରି ରାନ୍ଧିବେ — ପ୍ରଣାଳୀ ଓ ପରାମର୍ଶ"
   }
 }

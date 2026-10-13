@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1623,6 +1623,8 @@
     "home_label_backup": "Sandaran",
     "home_fs_new_count": "%1$s baharu",
     "home_fs_more": "+%1$s lagi",
-    "home_fs_pick": "Keluarga yang mana?"
+    "home_fs_pick": "Keluarga yang mana?",
+    "recipe_pending": "Resipi ini masih dibuat — ia akan dipaparkan di sini dalam seminit…",
+    "recipe_how_to_cook": "Cara memasak — langkah & petua"
   }
 }
