@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "आधी फॅमिली स्पेस तयार करा किंवा त्यात सामील व्हा, मग गोष्टी त्याच्या घ्यायचे यादीत शेअर करा.",
     "tobuy_note_label": "हे काय आहे? (ऐच्छिक)",
     "tobuy_undo": "पूर्ववत करा",
-    "tobuy_untitled": "घ्यायची वस्तू"
+    "tobuy_untitled": "घ्यायची वस्तू",
+    "home_fs_chat_title": "कुटुंब चॅट",
+    "home_fs_chat_new": "%2$s मध्ये %1$s नवीन संदेश",
+    "home_fs_chat_idle": "%2$s मधील सर्वांना नमस्कार म्हणा",
+    "home_fs_moments_title": "कुटुंबाचे क्षण",
+    "home_fs_moments_new": "%2$s मध्ये %1$s नवीन क्षण",
+    "home_fs_moments_idle": "%2$s सोबत फोटो किंवा क्षण शेअर करा",
+    "home_fs_tobuy_title": "घ्यायचे",
+    "home_fs_tobuy_new": "%2$s मध्ये कुटुंबाला हव्या %1$s नवीन गोष्टी",
+    "home_fs_tobuy_idle": "काही आवडले? कुटुंबासाठी जोडा",
+    "home_fs_recipes_title": "कुटुंबाच्या पाककृती",
+    "home_fs_recipes_new": "%2$s मध्ये %1$s नवीन पाककृती",
+    "home_fs_recipes_idle": "संपूर्ण कुटुंब करू शकेल अशा पाककृती जतन करा",
+    "home_fs_create_title": "तुमची फॅमिली स्पेस तयार करा",
+    "home_fs_create_body": "चॅट, क्षण, इच्छा यादी आणि पाककृती — कुटुंबासोबत",
+    "home_fs_create_action": "तयार करा",
+    "home_fs_open": "उघडा",
+    "home_slide_first": "पहिल्या स्लाइडवर जा",
+    "home_slide_all": "सर्व स्लाइड",
+    "home_label_premium": "प्रीमियम",
+    "home_label_tasks": "माझी कामे",
+    "home_label_tracker": "घरी येणारे",
+    "home_label_food": "अन्नाचा कल",
+    "home_label_insights": "कुटुंबाची माहिती",
+    "home_label_activity": "अ‍ॅक्टिव्हिटी मीटर",
+    "home_label_budget": "बजेट",
+    "home_label_backup": "बॅकअप"
   }
 }

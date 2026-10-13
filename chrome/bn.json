@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "আগে একটি পরিবার স্পেস তৈরি করুন বা যোগ দিন, তারপর জিনিস তার কেনার তালিকায় শেয়ার করুন।",
     "tobuy_note_label": "এটা কী? (ঐচ্ছিক)",
     "tobuy_undo": "পূর্বাবস্থায় ফেরান",
-    "tobuy_untitled": "কেনার জিনিস"
+    "tobuy_untitled": "কেনার জিনিস",
+    "home_fs_chat_title": "পরিবারের চ্যাট",
+    "home_fs_chat_new": "%2$s-এ %1$sটি নতুন বার্তা",
+    "home_fs_chat_idle": "%2$s-এর সবাইকে হ্যালো বলুন",
+    "home_fs_moments_title": "পরিবারের মুহূর্ত",
+    "home_fs_moments_new": "%2$s-এ %1$sটি নতুন মুহূর্ত",
+    "home_fs_moments_idle": "%2$s-এর সাথে একটি ছবি বা মুহূর্ত শেয়ার করুন",
+    "home_fs_tobuy_title": "কেনার তালিকা",
+    "home_fs_tobuy_new": "%2$s-এ পরিবারের চাওয়া %1$sটি নতুন জিনিস",
+    "home_fs_tobuy_idle": "কিছু পছন্দ হয়েছে? পরিবারের জন্য যোগ করুন",
+    "home_fs_recipes_title": "পরিবারের রেসিপি",
+    "home_fs_recipes_new": "%2$s-এ %1$sটি নতুন রেসিপি",
+    "home_fs_recipes_idle": "পুরো পরিবার রাঁধতে পারে এমন রেসিপি সংরক্ষণ করুন",
+    "home_fs_create_title": "আপনার পরিবার স্পেস তৈরি করুন",
+    "home_fs_create_body": "চ্যাট, মুহূর্ত, পছন্দের তালিকা আর রেসিপি — পরিবারের সাথে",
+    "home_fs_create_action": "তৈরি করুন",
+    "home_fs_open": "খুলুন",
+    "home_slide_first": "প্রথম স্লাইডে যান",
+    "home_slide_all": "সব স্লাইড",
+    "home_label_premium": "প্রিমিয়াম",
+    "home_label_tasks": "আমার কাজ",
+    "home_label_tracker": "বাড়িতে আসন্ন",
+    "home_label_food": "খাবারের প্রবণতা",
+    "home_label_insights": "পরিবারের তথ্য",
+    "home_label_activity": "অ্যাক্টিভিটি মিটার",
+    "home_label_budget": "বাজেট",
+    "home_label_backup": "ব্যাকআপ"
   }
 }

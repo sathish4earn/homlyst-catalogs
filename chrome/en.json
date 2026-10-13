@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "Create or join a Family Space first, then share things to its To Buy list.",
     "tobuy_note_label": "What is it? (optional)",
     "tobuy_undo": "Undo",
-    "tobuy_untitled": "Something to buy"
+    "tobuy_untitled": "Something to buy",
+    "home_fs_chat_title": "Family Chat",
+    "home_fs_chat_new": "%1$s new messages in %2$s",
+    "home_fs_chat_idle": "Say hello to everyone in %2$s",
+    "home_fs_moments_title": "Family Moments",
+    "home_fs_moments_new": "%1$s new moments in %2$s",
+    "home_fs_moments_idle": "Share a photo or a moment with %2$s",
+    "home_fs_tobuy_title": "To Buy",
+    "home_fs_tobuy_new": "%1$s new things your family wants in %2$s",
+    "home_fs_tobuy_idle": "Saw something you like? Add it for the family",
+    "home_fs_recipes_title": "Family Recipes",
+    "home_fs_recipes_new": "%1$s new recipes in %2$s",
+    "home_fs_recipes_idle": "Save recipes the whole family can cook",
+    "home_fs_create_title": "Create your Family Space",
+    "home_fs_create_body": "Chat, moments, wish list and recipes — together with your family",
+    "home_fs_create_action": "Create",
+    "home_fs_open": "Open",
+    "home_slide_first": "Back to the first slide",
+    "home_slide_all": "All slides",
+    "home_label_premium": "Premium",
+    "home_label_tasks": "My tasks",
+    "home_label_tracker": "Coming up at home",
+    "home_label_food": "Food trend",
+    "home_label_insights": "Family insights",
+    "home_label_activity": "Activity meter",
+    "home_label_budget": "Budget",
+    "home_label_backup": "Backup"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "Buat atau gabung ke Ruang Keluarga dulu, lalu bagikan barang ke daftar Mau Dibeli-nya.",
     "tobuy_note_label": "Apa ini? (opsional)",
     "tobuy_undo": "Urungkan",
-    "tobuy_untitled": "Sesuatu untuk dibeli"
+    "tobuy_untitled": "Sesuatu untuk dibeli",
+    "home_fs_chat_title": "Obrolan Keluarga",
+    "home_fs_chat_new": "%1$s pesan baru di %2$s",
+    "home_fs_chat_idle": "Sapa semua orang di %2$s",
+    "home_fs_moments_title": "Momen Keluarga",
+    "home_fs_moments_new": "%1$s momen baru di %2$s",
+    "home_fs_moments_idle": "Bagikan foto atau momen dengan %2$s",
+    "home_fs_tobuy_title": "Mau Dibeli",
+    "home_fs_tobuy_new": "%1$s barang baru yang diinginkan keluarga di %2$s",
+    "home_fs_tobuy_idle": "Lihat sesuatu yang Anda suka? Tambahkan untuk keluarga",
+    "home_fs_recipes_title": "Resep Keluarga",
+    "home_fs_recipes_new": "%1$s resep baru di %2$s",
+    "home_fs_recipes_idle": "Simpan resep yang bisa dimasak seluruh keluarga",
+    "home_fs_create_title": "Buat Ruang Keluarga Anda",
+    "home_fs_create_body": "Obrolan, momen, daftar keinginan, dan resep — bersama keluarga",
+    "home_fs_create_action": "Buat",
+    "home_fs_open": "Buka",
+    "home_slide_first": "Kembali ke slide pertama",
+    "home_slide_all": "Semua slide",
+    "home_label_premium": "Premium",
+    "home_label_tasks": "Tugas saya",
+    "home_label_tracker": "Mendatang di rumah",
+    "home_label_food": "Tren makanan",
+    "home_label_insights": "Wawasan keluarga",
+    "home_label_activity": "Meter aktivitas",
+    "home_label_budget": "Anggaran",
+    "home_label_backup": "Cadangan"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "Primeiro crie ou entre em um Espaço da Família, depois compartilhe coisas na lista Para comprar dele.",
     "tobuy_note_label": "O que é? (opcional)",
     "tobuy_undo": "Desfazer",
-    "tobuy_untitled": "Algo para comprar"
+    "tobuy_untitled": "Algo para comprar",
+    "home_fs_chat_title": "Chat da família",
+    "home_fs_chat_new": "%1$s mensagens novas em %2$s",
+    "home_fs_chat_idle": "Diga olá para todos em %2$s",
+    "home_fs_moments_title": "Momentos da família",
+    "home_fs_moments_new": "%1$s momentos novos em %2$s",
+    "home_fs_moments_idle": "Compartilhe uma foto ou um momento com %2$s",
+    "home_fs_tobuy_title": "Para comprar",
+    "home_fs_tobuy_new": "%1$s coisas novas que a família quer em %2$s",
+    "home_fs_tobuy_idle": "Viu algo que gostou? Adicione para a família",
+    "home_fs_recipes_title": "Receitas da família",
+    "home_fs_recipes_new": "%1$s receitas novas em %2$s",
+    "home_fs_recipes_idle": "Salve receitas que toda a família pode fazer",
+    "home_fs_create_title": "Crie seu Espaço da Família",
+    "home_fs_create_body": "Chat, momentos, lista de desejos e receitas — junto com sua família",
+    "home_fs_create_action": "Criar",
+    "home_fs_open": "Abrir",
+    "home_slide_first": "Voltar ao primeiro",
+    "home_slide_all": "Todos os slides",
+    "home_label_premium": "Premium",
+    "home_label_tasks": "Minhas tarefas",
+    "home_label_tracker": "Em breve em casa",
+    "home_label_food": "Tendência alimentar",
+    "home_label_insights": "Dados da família",
+    "home_label_activity": "Medidor de atividade",
+    "home_label_budget": "Orçamento",
+    "home_label_backup": "Backup"
   }
 }
