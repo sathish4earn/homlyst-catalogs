@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "আপনার রুটিন ≈ মাসে %1$s",
     "routines_cost_budget": "আপনার মাসিক বাজেটের %1$d%",
     "routines_cost_note": "কেনাকাটার সময় যে দাম লিখে রাখেন তার ভিত্তিতে",
-    "fs_tab_posts": "পোস্ট",
+    "fs_tab_posts": "মুহূর্ত",
     "fs_post_type_task": "কাজ",
     "fs_post_type_note": "নোট",
     "fs_post_type_link": "লিংক",

@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "ನಿಮ್ಮ ದಿನಚರಿಗಳು ≈ ತಿಂಗಳಿಗೆ %1$s",
     "routines_cost_budget": "ನಿಮ್ಮ ತಿಂಗಳ ಬಜೆಟ್‌ನ %1$d%",
     "routines_cost_note": "ಶಾಪಿಂಗ್ ಮಾಡುವಾಗ ನೀವು ಗುರುತಿಸಿದ ಬೆಲೆಗಳ ಆಧಾರದಲ್ಲಿ",
-    "fs_tab_posts": "ಪೋಸ್ಟ್‌ಗಳು",
+    "fs_tab_posts": "ಕ್ಷಣಗಳು",
     "fs_post_type_task": "ಕೆಲಸ",
     "fs_post_type_note": "ಟಿಪ್ಪಣಿ",
     "fs_post_type_link": "ಲಿಂಕ್",

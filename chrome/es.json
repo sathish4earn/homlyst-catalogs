@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "Tus rutinas ≈ %1$s al mes",
     "routines_cost_budget": "%1$d% de tu presupuesto mensual",
     "routines_cost_note": "Según los precios que anotas al comprar",
-    "fs_tab_posts": "Publicaciones",
+    "fs_tab_posts": "Momentos",
     "fs_post_type_task": "Tarea",
     "fs_post_type_note": "Nota",
     "fs_post_type_link": "Enlace",

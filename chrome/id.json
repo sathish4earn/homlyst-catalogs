@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "Rutinitas Anda ≈ %1$s per bulan",
     "routines_cost_budget": "%1$d% dari anggaran bulanan Anda",
     "routines_cost_note": "Berdasarkan harga yang Anda catat saat belanja",
-    "fs_tab_posts": "Postingan",
+    "fs_tab_posts": "Momen",
     "fs_post_type_task": "Tugas",
     "fs_post_type_note": "Catatan",
     "fs_post_type_link": "Tautan",

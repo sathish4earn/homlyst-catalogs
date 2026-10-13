@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "ଆପଣଙ୍କ ରୁଟିନ ≈ ମାସକୁ %1$s",
     "routines_cost_budget": "ଆପଣଙ୍କ ମାସିକ ବଜେଟର %1$d%",
     "routines_cost_note": "କିଣାକିଣି ସମୟରେ ଲେଖିଥିବା ଦାମ ଆଧାରରେ",
-    "fs_tab_posts": "ପୋଷ୍ଟ",
+    "fs_tab_posts": "ମୁହୂର୍ତ୍ତ",
     "fs_post_type_task": "କାମ",
     "fs_post_type_note": "ନୋଟ",
     "fs_post_type_link": "ଲିଙ୍କ",

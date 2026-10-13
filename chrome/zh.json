@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "您的例行清单 ≈ 每月 %1$s",
     "routines_cost_budget": "占每月预算的 %1$d%",
     "routines_cost_note": "根据您购物时记录的价格",
-    "fs_tab_posts": "动态",
+    "fs_tab_posts": "时刻",
     "fs_post_type_task": "任务",
     "fs_post_type_note": "笔记",
     "fs_post_type_link": "链接",
