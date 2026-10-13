@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -1623,6 +1623,8 @@
     "home_label_backup": "ബാക്കപ്പ്",
     "home_fs_new_count": "%1$s പുതിയത്",
     "home_fs_more": "+%1$s കൂടി",
-    "home_fs_pick": "ഏത് കുടുംബം?"
+    "home_fs_pick": "ഏത് കുടുംബം?",
+    "recipe_pending": "പാചകക്കുറിപ്പ് ഇപ്പോഴും തയ്യാറാകുന്നു — ഒരു മിനിറ്റിൽ ഇവിടെ കാണാം…",
+    "recipe_how_to_cook": "എങ്ങനെ പാചകം ചെയ്യാം — വിധവും നുറുങ്ങുകളും"
   }
 }
