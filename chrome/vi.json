@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "Thói quen của bạn ≈ %1$s mỗi tháng",
     "routines_cost_budget": "%1$d% ngân sách hằng tháng",
     "routines_cost_note": "Dựa trên giá bạn ghi lại khi mua sắm",
-    "fs_tab_posts": "Bài đăng",
+    "fs_tab_posts": "Khoảnh khắc",
     "fs_post_type_task": "Việc",
     "fs_post_type_note": "Ghi chú",
     "fs_post_type_link": "Liên kết",

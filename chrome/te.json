@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1102,7 +1102,7 @@
     "routines_cost_month": "మీ రొటీన్లు ≈ నెలకు %1$s",
     "routines_cost_budget": "మీ నెలవారీ బడ్జెట్‌లో %1$d%",
     "routines_cost_note": "షాపింగ్ సమయంలో మీరు నమోదు చేసిన ధరల ఆధారంగా",
-    "fs_tab_posts": "పోస్ట్‌లు",
+    "fs_tab_posts": "క్షణాలు",
     "fs_post_type_task": "పని",
     "fs_post_type_note": "నోట్",
     "fs_post_type_link": "లింక్",
