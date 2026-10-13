@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "请先创建或加入一个家庭空间，然后把东西分享到它的想买清单。",
     "tobuy_note_label": "这是什么？（可选）",
     "tobuy_undo": "撤销",
-    "tobuy_untitled": "要买的东西"
+    "tobuy_untitled": "要买的东西",
+    "home_fs_chat_title": "家庭聊天",
+    "home_fs_chat_new": "%2$s 有 %1$s 条新消息",
+    "home_fs_chat_idle": "和 %2$s 的大家打个招呼",
+    "home_fs_moments_title": "家庭时刻",
+    "home_fs_moments_new": "%2$s 有 %1$s 个新时刻",
+    "home_fs_moments_idle": "和 %2$s 分享一张照片或一个时刻",
+    "home_fs_tobuy_title": "想买的",
+    "home_fs_tobuy_new": "%2$s 里家人想要的 %1$s 件新东西",
+    "home_fs_tobuy_idle": "看到喜欢的？为家人加上",
+    "home_fs_recipes_title": "家庭食谱",
+    "home_fs_recipes_new": "%2$s 有 %1$s 个新食谱",
+    "home_fs_recipes_idle": "保存全家都能做的食谱",
+    "home_fs_create_title": "创建你的家庭空间",
+    "home_fs_create_body": "聊天、时刻、心愿单和食谱 — 和家人一起",
+    "home_fs_create_action": "创建",
+    "home_fs_open": "打开",
+    "home_slide_first": "回到第一张",
+    "home_slide_all": "全部卡片",
+    "home_label_premium": "高级版",
+    "home_label_tasks": "我的任务",
+    "home_label_tracker": "家中即将到来",
+    "home_label_food": "饮食趋势",
+    "home_label_insights": "家庭洞察",
+    "home_label_activity": "活动记录",
+    "home_label_budget": "预算",
+    "home_label_backup": "备份"
   }
 }

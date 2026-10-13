@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "ആദ്യം ഒരു കുടുംബ ഇടം ഉണ്ടാക്കുകയോ അതിൽ ചേരുകയോ ചെയ്യുക, തുടർന്ന് അതിന്റെ വാങ്ങാനുള്ളവ ലിസ്റ്റിലേക്ക് പങ്കിടുക.",
     "tobuy_note_label": "ഇത് എന്താണ്? (ഐച്ഛികം)",
     "tobuy_undo": "പഴയപടിയാക്കുക",
-    "tobuy_untitled": "വാങ്ങാനുള്ള ഒന്ന്"
+    "tobuy_untitled": "വാങ്ങാനുള്ള ഒന്ന്",
+    "home_fs_chat_title": "കുടുംബ ചാറ്റ്",
+    "home_fs_chat_new": "%2$s-ൽ %1$s പുതിയ സന്ദേശങ്ങൾ",
+    "home_fs_chat_idle": "%2$s-ലെ എല്ലാവരോടും ഹലോ പറയൂ",
+    "home_fs_moments_title": "കുടുംബ നിമിഷങ്ങൾ",
+    "home_fs_moments_new": "%2$s-ൽ %1$s പുതിയ നിമിഷങ്ങൾ",
+    "home_fs_moments_idle": "%2$s-മായി ഒരു ഫോട്ടോയോ നിമിഷമോ പങ്കിടൂ",
+    "home_fs_tobuy_title": "വാങ്ങാനുള്ളവ",
+    "home_fs_tobuy_new": "%2$s-ൽ കുടുംബത്തിന് വേണ്ട %1$s പുതിയവ",
+    "home_fs_tobuy_idle": "എന്തെങ്കിലും ഇഷ്ടപ്പെട്ടോ? കുടുംബത്തിനായി ചേർക്കൂ",
+    "home_fs_recipes_title": "കുടുംബ പാചകക്കുറിപ്പുകൾ",
+    "home_fs_recipes_new": "%2$s-ൽ %1$s പുതിയ പാചകക്കുറിപ്പുകൾ",
+    "home_fs_recipes_idle": "കുടുംബം മുഴുവൻ പാചകം ചെയ്യാവുന്ന കുറിപ്പുകൾ സേവ് ചെയ്യൂ",
+    "home_fs_create_title": "നിങ്ങളുടെ കുടുംബ ഇടം ഉണ്ടാക്കൂ",
+    "home_fs_create_body": "ചാറ്റ്, നിമിഷങ്ങൾ, ആഗ്രഹ ലിസ്റ്റ്, പാചകക്കുറിപ്പുകൾ — കുടുംബത്തോടൊപ്പം",
+    "home_fs_create_action": "ഉണ്ടാക്കുക",
+    "home_fs_open": "തുറക്കുക",
+    "home_slide_first": "ആദ്യ സ്ലൈഡിലേക്ക് പോകുക",
+    "home_slide_all": "എല്ലാ സ്ലൈഡുകളും",
+    "home_label_premium": "പ്രീമിയം",
+    "home_label_tasks": "എന്റെ ജോലികൾ",
+    "home_label_tracker": "വീട്ടിൽ വരാനിരിക്കുന്നവ",
+    "home_label_food": "ഭക്ഷണ പ്രവണത",
+    "home_label_insights": "കുടുംബ വിശകലനം",
+    "home_label_activity": "ആക്റ്റിവിറ്റി മീറ്റർ",
+    "home_label_budget": "ബജറ്റ്",
+    "home_label_backup": "ബാക്കപ്പ്"
   }
 }

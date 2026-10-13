@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "પહેલાં ફેમિલી સ્પેસ બનાવો અથવા તેમાં જોડાઓ, પછી વસ્તુઓ તેની ખરીદવાનું યાદીમાં શેર કરો.",
     "tobuy_note_label": "આ શું છે? (વૈકલ્પિક)",
     "tobuy_undo": "પૂર્વવત્ કરો",
-    "tobuy_untitled": "ખરીદવાની વસ્તુ"
+    "tobuy_untitled": "ખરીદવાની વસ્તુ",
+    "home_fs_chat_title": "પરિવાર ચેટ",
+    "home_fs_chat_new": "%2$s માં %1$s નવા સંદેશા",
+    "home_fs_chat_idle": "%2$s માં બધાને નમસ્તે કહો",
+    "home_fs_moments_title": "પરિવારની પળો",
+    "home_fs_moments_new": "%2$s માં %1$s નવી પળો",
+    "home_fs_moments_idle": "%2$s સાથે ફોટો કે પળ શેર કરો",
+    "home_fs_tobuy_title": "ખરીદવાનું",
+    "home_fs_tobuy_new": "%2$s માં પરિવારને જોઈતી %1$s નવી વસ્તુઓ",
+    "home_fs_tobuy_idle": "કંઈક ગમ્યું? પરિવાર માટે ઉમેરો",
+    "home_fs_recipes_title": "પરિવારની રેસિપી",
+    "home_fs_recipes_new": "%2$s માં %1$s નવી રેસિપી",
+    "home_fs_recipes_idle": "આખો પરિવાર બનાવી શકે એવી રેસિપી સાચવો",
+    "home_fs_create_title": "તમારું ફેમિલી સ્પેસ બનાવો",
+    "home_fs_create_body": "ચેટ, પળો, પસંદની યાદી અને રેસિપી — પરિવાર સાથે",
+    "home_fs_create_action": "બનાવો",
+    "home_fs_open": "ખોલો",
+    "home_slide_first": "પહેલી સ્લાઇડ પર જાઓ",
+    "home_slide_all": "બધી સ્લાઇડ",
+    "home_label_premium": "પ્રીમિયમ",
+    "home_label_tasks": "મારાં કામ",
+    "home_label_tracker": "ઘરે આવનારું",
+    "home_label_food": "ખોરાકનો ટ્રેન્ડ",
+    "home_label_insights": "પરિવારની માહિતી",
+    "home_label_activity": "એક્ટિવિટી મીટર",
+    "home_label_budget": "બજેટ",
+    "home_label_backup": "બેકઅપ"
   }
 }

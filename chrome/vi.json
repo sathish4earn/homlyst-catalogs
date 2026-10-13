@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "Hãy tạo hoặc tham gia một Không gian gia đình trước, rồi chia sẻ vào danh sách Cần mua của nó.",
     "tobuy_note_label": "Đây là gì? (không bắt buộc)",
     "tobuy_undo": "Hoàn tác",
-    "tobuy_untitled": "Thứ cần mua"
+    "tobuy_untitled": "Thứ cần mua",
+    "home_fs_chat_title": "Trò chuyện gia đình",
+    "home_fs_chat_new": "%1$s tin nhắn mới trong %2$s",
+    "home_fs_chat_idle": "Chào mọi người trong %2$s",
+    "home_fs_moments_title": "Khoảnh khắc gia đình",
+    "home_fs_moments_new": "%1$s khoảnh khắc mới trong %2$s",
+    "home_fs_moments_idle": "Chia sẻ ảnh hoặc khoảnh khắc với %2$s",
+    "home_fs_tobuy_title": "Cần mua",
+    "home_fs_tobuy_new": "%1$s món mới gia đình muốn trong %2$s",
+    "home_fs_tobuy_idle": "Thấy thứ gì bạn thích? Thêm cho gia đình",
+    "home_fs_recipes_title": "Công thức gia đình",
+    "home_fs_recipes_new": "%1$s công thức mới trong %2$s",
+    "home_fs_recipes_idle": "Lưu công thức cả nhà đều nấu được",
+    "home_fs_create_title": "Tạo Không gian gia đình",
+    "home_fs_create_body": "Trò chuyện, khoảnh khắc, danh sách mong muốn và công thức — cùng gia đình",
+    "home_fs_create_action": "Tạo",
+    "home_fs_open": "Mở",
+    "home_slide_first": "Về trang đầu",
+    "home_slide_all": "Tất cả trang",
+    "home_label_premium": "Premium",
+    "home_label_tasks": "Việc của tôi",
+    "home_label_tracker": "Sắp tới ở nhà",
+    "home_label_food": "Xu hướng ăn uống",
+    "home_label_insights": "Thông tin gia đình",
+    "home_label_activity": "Đồng hồ hoạt động",
+    "home_label_budget": "Ngân sách",
+    "home_label_backup": "Sao lưu"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "ਪਹਿਲਾਂ ਪਰਿਵਾਰਕ ਸਪੇਸ ਬਣਾਓ ਜਾਂ ਉਸ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ, ਫਿਰ ਚੀਜ਼ਾਂ ਉਸਦੀ ਖਰੀਦਣਾ ਹੈ ਸੂਚੀ ਵਿੱਚ ਸਾਂਝੀਆਂ ਕਰੋ।",
     "tobuy_note_label": "ਇਹ ਕੀ ਹੈ? (ਵਿਕਲਪਿਕ)",
     "tobuy_undo": "ਵਾਪਸ ਲਓ",
-    "tobuy_untitled": "ਖਰੀਦਣ ਵਾਲੀ ਚੀਜ਼"
+    "tobuy_untitled": "ਖਰੀਦਣ ਵਾਲੀ ਚੀਜ਼",
+    "home_fs_chat_title": "ਪਰਿਵਾਰਕ ਚੈਟ",
+    "home_fs_chat_new": "%2$s ਵਿੱਚ %1$s ਨਵੇਂ ਸੁਨੇਹੇ",
+    "home_fs_chat_idle": "%2$s ਵਿੱਚ ਸਭ ਨੂੰ ਸਤ ਸ੍ਰੀ ਅਕਾਲ ਕਹੋ",
+    "home_fs_moments_title": "ਪਰਿਵਾਰ ਦੇ ਪਲ",
+    "home_fs_moments_new": "%2$s ਵਿੱਚ %1$s ਨਵੇਂ ਪਲ",
+    "home_fs_moments_idle": "%2$s ਨਾਲ ਕੋਈ ਫ਼ੋਟੋ ਜਾਂ ਪਲ ਸਾਂਝਾ ਕਰੋ",
+    "home_fs_tobuy_title": "ਖਰੀਦਣਾ ਹੈ",
+    "home_fs_tobuy_new": "%2$s ਵਿੱਚ ਪਰਿਵਾਰ ਨੂੰ ਚਾਹੀਦੀਆਂ %1$s ਨਵੀਆਂ ਚੀਜ਼ਾਂ",
+    "home_fs_tobuy_idle": "ਕੁਝ ਪਸੰਦ ਆਇਆ? ਪਰਿਵਾਰ ਲਈ ਜੋੜੋ",
+    "home_fs_recipes_title": "ਪਰਿਵਾਰ ਦੀਆਂ ਰੈਸਿਪੀਆਂ",
+    "home_fs_recipes_new": "%2$s ਵਿੱਚ %1$s ਨਵੀਆਂ ਰੈਸਿਪੀਆਂ",
+    "home_fs_recipes_idle": "ਉਹ ਰੈਸਿਪੀਆਂ ਸੰਭਾਲੋ ਜੋ ਸਾਰਾ ਪਰਿਵਾਰ ਬਣਾ ਸਕੇ",
+    "home_fs_create_title": "ਆਪਣਾ ਪਰਿਵਾਰਕ ਸਪੇਸ ਬਣਾਓ",
+    "home_fs_create_body": "ਚੈਟ, ਪਲ, ਪਸੰਦ ਦੀ ਸੂਚੀ ਅਤੇ ਰੈਸਿਪੀਆਂ — ਪਰਿਵਾਰ ਦੇ ਨਾਲ",
+    "home_fs_create_action": "ਬਣਾਓ",
+    "home_fs_open": "ਖੋਲ੍ਹੋ",
+    "home_slide_first": "ਪਹਿਲੀ ਸਲਾਈਡ 'ਤੇ ਜਾਓ",
+    "home_slide_all": "ਸਾਰੀਆਂ ਸਲਾਈਡਾਂ",
+    "home_label_premium": "ਪ੍ਰੀਮੀਅਮ",
+    "home_label_tasks": "ਮੇਰੇ ਕੰਮ",
+    "home_label_tracker": "ਘਰ ਵਿੱਚ ਆਉਣ ਵਾਲਾ",
+    "home_label_food": "ਖਾਣੇ ਦਾ ਰੁਝਾਨ",
+    "home_label_insights": "ਪਰਿਵਾਰਕ ਜਾਣਕਾਰੀ",
+    "home_label_activity": "ਐਕਟੀਵਿਟੀ ਮੀਟਰ",
+    "home_label_budget": "ਬਜਟ",
+    "home_label_backup": "ਬੈਕਅੱਪ"
   }
 }

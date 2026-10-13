@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "Créez ou rejoignez d'abord un Espace Famille, puis partagez des choses dans sa liste À acheter.",
     "tobuy_note_label": "Qu'est-ce que c'est ? (facultatif)",
     "tobuy_undo": "Annuler",
-    "tobuy_untitled": "Quelque chose à acheter"
+    "tobuy_untitled": "Quelque chose à acheter",
+    "home_fs_chat_title": "Chat en famille",
+    "home_fs_chat_new": "%1$s nouveaux messages dans %2$s",
+    "home_fs_chat_idle": "Dites bonjour à tout le monde dans %2$s",
+    "home_fs_moments_title": "Moments en famille",
+    "home_fs_moments_new": "%1$s nouveaux moments dans %2$s",
+    "home_fs_moments_idle": "Partagez une photo ou un moment avec %2$s",
+    "home_fs_tobuy_title": "À acheter",
+    "home_fs_tobuy_new": "%1$s nouvelles envies de la famille dans %2$s",
+    "home_fs_tobuy_idle": "Vous avez vu quelque chose ? Ajoutez-le pour la famille",
+    "home_fs_recipes_title": "Recettes de famille",
+    "home_fs_recipes_new": "%1$s nouvelles recettes dans %2$s",
+    "home_fs_recipes_idle": "Enregistrez des recettes que toute la famille peut cuisiner",
+    "home_fs_create_title": "Créez votre Espace Famille",
+    "home_fs_create_body": "Chat, moments, liste d'envies et recettes — avec votre famille",
+    "home_fs_create_action": "Créer",
+    "home_fs_open": "Ouvrir",
+    "home_slide_first": "Revenir au début",
+    "home_slide_all": "Toutes les diapos",
+    "home_label_premium": "Premium",
+    "home_label_tasks": "Mes tâches",
+    "home_label_tracker": "À venir à la maison",
+    "home_label_food": "Tendance alimentaire",
+    "home_label_insights": "Infos famille",
+    "home_label_activity": "Suivi d'activité",
+    "home_label_budget": "Budget",
+    "home_label_backup": "Sauvegarde"
   }
 }

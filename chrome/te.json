@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "ముందు ఒక ఫ్యామిలీ స్పేస్ సృష్టించండి లేదా చేరండి, తర్వాత దాని కొనాల్సినవి జాబితాకు పంచుకోండి.",
     "tobuy_note_label": "ఇది ఏమిటి? (ఐచ్ఛికం)",
     "tobuy_undo": "రద్దు చేయి",
-    "tobuy_untitled": "కొనాల్సిన వస్తువు"
+    "tobuy_untitled": "కొనాల్సిన వస్తువు",
+    "home_fs_chat_title": "కుటుంబ చాట్",
+    "home_fs_chat_new": "%2$s లో %1$s కొత్త సందేశాలు",
+    "home_fs_chat_idle": "%2$s లో అందరికీ హలో చెప్పండి",
+    "home_fs_moments_title": "కుటుంబ క్షణాలు",
+    "home_fs_moments_new": "%2$s లో %1$s కొత్త క్షణాలు",
+    "home_fs_moments_idle": "%2$s తో ఒక ఫోటో లేదా క్షణం పంచుకోండి",
+    "home_fs_tobuy_title": "కొనాల్సినవి",
+    "home_fs_tobuy_new": "%2$s లో కుటుంబానికి కావలసిన %1$s కొత్తవి",
+    "home_fs_tobuy_idle": "ఏదైనా నచ్చిందా? కుటుంబం కోసం జోడించండి",
+    "home_fs_recipes_title": "కుటుంబ వంటకాలు",
+    "home_fs_recipes_new": "%2$s లో %1$s కొత్త వంటకాలు",
+    "home_fs_recipes_idle": "కుటుంబమంతా వండగలిగే వంటకాలు సేవ్ చేయండి",
+    "home_fs_create_title": "మీ ఫ్యామిలీ స్పేస్ సృష్టించండి",
+    "home_fs_create_body": "చాట్, క్షణాలు, కోరికల జాబితా, వంటకాలు — కుటుంబంతో కలిసి",
+    "home_fs_create_action": "సృష్టించు",
+    "home_fs_open": "తెరువు",
+    "home_slide_first": "మొదటి స్లయిడ్‌కి వెళ్లు",
+    "home_slide_all": "అన్ని స్లయిడ్‌లు",
+    "home_label_premium": "ప్రీమియం",
+    "home_label_tasks": "నా పనులు",
+    "home_label_tracker": "ఇంట్లో రాబోయేవి",
+    "home_label_food": "ఆహార ధోరణి",
+    "home_label_insights": "కుటుంబ విశ్లేషణ",
+    "home_label_activity": "యాక్టివిటీ మీటర్",
+    "home_label_budget": "బడ్జెట్",
+    "home_label_backup": "బ్యాకప్"
   }
 }

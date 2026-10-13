@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "முதலில் ஒரு குடும்ப ஸ்பேஸை உருவாக்குங்கள் அல்லது சேருங்கள், பிறகு அதன் வாங்க வேண்டியவை பட்டியலில் பகிருங்கள்.",
     "tobuy_note_label": "இது என்ன? (விருப்பம்)",
     "tobuy_undo": "செயல்தவிர்",
-    "tobuy_untitled": "வாங்க வேண்டிய ஒன்று"
+    "tobuy_untitled": "வாங்க வேண்டிய ஒன்று",
+    "home_fs_chat_title": "குடும்ப அரட்டை",
+    "home_fs_chat_new": "%2$s-ல் %1$s புதிய செய்திகள்",
+    "home_fs_chat_idle": "%2$s-ல் எல்லோருக்கும் வணக்கம் சொல்லுங்கள்",
+    "home_fs_moments_title": "குடும்பத் தருணங்கள்",
+    "home_fs_moments_new": "%2$s-ல் %1$s புதிய தருணங்கள்",
+    "home_fs_moments_idle": "%2$s உடன் ஒரு புகைப்படம் அல்லது தருணத்தைப் பகிருங்கள்",
+    "home_fs_tobuy_title": "வாங்க வேண்டியவை",
+    "home_fs_tobuy_new": "%2$s-ல் குடும்பம் விரும்பும் %1$s புதியவை",
+    "home_fs_tobuy_idle": "ஏதாவது பிடித்ததா? குடும்பத்துக்காகச் சேருங்கள்",
+    "home_fs_recipes_title": "குடும்ப சமையல்",
+    "home_fs_recipes_new": "%2$s-ல் %1$s புதிய சமையல் குறிப்புகள்",
+    "home_fs_recipes_idle": "குடும்பம் முழுவதும் சமைக்கக்கூடிய குறிப்புகளைச் சேமியுங்கள்",
+    "home_fs_create_title": "உங்கள் குடும்ப ஸ்பேஸை உருவாக்குங்கள்",
+    "home_fs_create_body": "அரட்டை, தருணங்கள், விருப்பப் பட்டியல், சமையல் — குடும்பத்துடன் சேர்ந்து",
+    "home_fs_create_action": "உருவாக்கு",
+    "home_fs_open": "திற",
+    "home_slide_first": "முதல் ஸ்லைடுக்குச் செல்",
+    "home_slide_all": "எல்லா ஸ்லைடுகளும்",
+    "home_label_premium": "பிரீமியம்",
+    "home_label_tasks": "என் பணிகள்",
+    "home_label_tracker": "வீட்டில் வரவிருப்பவை",
+    "home_label_food": "உணவுப் போக்கு",
+    "home_label_insights": "குடும்பத் தகவல்கள்",
+    "home_label_activity": "செயல்பாட்டு மீட்டர்",
+    "home_label_budget": "பட்ஜெட்",
+    "home_label_backup": "காப்புப்பிரதி"
   }
 }

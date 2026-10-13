@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "ಮೊದಲು ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್ ರಚಿಸಿ ಅಥವಾ ಸೇರಿ, ನಂತರ ಅದರ ಕೊಳ್ಳಬೇಕಾದವು ಪಟ್ಟಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.",
     "tobuy_note_label": "ಇದು ಏನು? (ಐಚ್ಛಿಕ)",
     "tobuy_undo": "ರದ್ದುಮಾಡಿ",
-    "tobuy_untitled": "ಕೊಳ್ಳಬೇಕಾದ ವಸ್ತು"
+    "tobuy_untitled": "ಕೊಳ್ಳಬೇಕಾದ ವಸ್ತು",
+    "home_fs_chat_title": "ಕುಟುಂಬ ಚಾಟ್",
+    "home_fs_chat_new": "%2$s ನಲ್ಲಿ %1$s ಹೊಸ ಸಂದೇಶಗಳು",
+    "home_fs_chat_idle": "%2$s ನಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಹಲೋ ಹೇಳಿ",
+    "home_fs_moments_title": "ಕುಟುಂಬದ ಕ್ಷಣಗಳು",
+    "home_fs_moments_new": "%2$s ನಲ್ಲಿ %1$s ಹೊಸ ಕ್ಷಣಗಳು",
+    "home_fs_moments_idle": "%2$s ಜೊತೆ ಫೋಟೋ ಅಥವಾ ಕ್ಷಣ ಹಂಚಿಕೊಳ್ಳಿ",
+    "home_fs_tobuy_title": "ಕೊಳ್ಳಬೇಕಾದವು",
+    "home_fs_tobuy_new": "%2$s ನಲ್ಲಿ ಕುಟುಂಬಕ್ಕೆ ಬೇಕಾದ %1$s ಹೊಸವು",
+    "home_fs_tobuy_idle": "ಏನಾದರೂ ಇಷ್ಟವಾಯಿತೇ? ಕುಟುಂಬಕ್ಕಾಗಿ ಸೇರಿಸಿ",
+    "home_fs_recipes_title": "ಕುಟುಂಬದ ಅಡುಗೆಗಳು",
+    "home_fs_recipes_new": "%2$s ನಲ್ಲಿ %1$s ಹೊಸ ಅಡುಗೆಗಳು",
+    "home_fs_recipes_idle": "ಇಡೀ ಕುಟುಂಬ ಮಾಡಬಹುದಾದ ಅಡುಗೆಗಳನ್ನು ಉಳಿಸಿ",
+    "home_fs_create_title": "ನಿಮ್ಮ ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್ ರಚಿಸಿ",
+    "home_fs_create_body": "ಚಾಟ್, ಕ್ಷಣಗಳು, ಆಸೆಗಳ ಪಟ್ಟಿ, ಅಡುಗೆಗಳು — ಕುಟುಂಬದ ಜೊತೆ",
+    "home_fs_create_action": "ರಚಿಸಿ",
+    "home_fs_open": "ತೆರೆಯಿರಿ",
+    "home_slide_first": "ಮೊದಲ ಸ್ಲೈಡ್‌ಗೆ ಹೋಗಿ",
+    "home_slide_all": "ಎಲ್ಲಾ ಸ್ಲೈಡ್‌ಗಳು",
+    "home_label_premium": "ಪ್ರೀಮಿಯಂ",
+    "home_label_tasks": "ನನ್ನ ಕೆಲಸಗಳು",
+    "home_label_tracker": "ಮನೆಯಲ್ಲಿ ಬರಲಿರುವವು",
+    "home_label_food": "ಆಹಾರದ ಪ್ರವೃತ್ತಿ",
+    "home_label_insights": "ಕುಟುಂಬದ ಒಳನೋಟಗಳು",
+    "home_label_activity": "ಚಟುವಟಿಕೆ ಮೀಟರ್",
+    "home_label_budget": "ಬಜೆಟ್",
+    "home_label_backup": "ಬ್ಯಾಕಪ್"
   }
 }

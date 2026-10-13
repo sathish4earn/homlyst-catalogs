@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "ପ୍ରଥମେ ଏକ ଫ୍ୟାମିଲି ସ୍ପେସ୍ ତିଆରି କରନ୍ତୁ କିମ୍ବା ଯୋଗ ଦିଅନ୍ତୁ, ତା'ପରେ ଜିନିଷ ତାର କିଣିବାକୁ ତାଲିକାରେ ସେୟାର କରନ୍ତୁ।",
     "tobuy_note_label": "ଏହା କ'ଣ? (ଇଚ୍ଛାଧୀନ)",
     "tobuy_undo": "ପୂର୍ବାବସ୍ଥାକୁ ଫେରାନ୍ତୁ",
-    "tobuy_untitled": "କିଣିବାକୁ ଥିବା ଜିନିଷ"
+    "tobuy_untitled": "କିଣିବାକୁ ଥିବା ଜିନିଷ",
+    "home_fs_chat_title": "ପରିବାର ଚାଟ୍",
+    "home_fs_chat_new": "%2$s ରେ %1$s ନୂଆ ବାର୍ତ୍ତା",
+    "home_fs_chat_idle": "%2$s ରେ ସମସ୍ତଙ୍କୁ ନମସ୍କାର କୁହନ୍ତୁ",
+    "home_fs_moments_title": "ପରିବାରର ମୁହୂର୍ତ୍ତ",
+    "home_fs_moments_new": "%2$s ରେ %1$s ନୂଆ ମୁହୂର୍ତ୍ତ",
+    "home_fs_moments_idle": "%2$s ସହ ଏକ ଫଟୋ କିମ୍ବା ମୁହୂର୍ତ୍ତ ସେୟାର କରନ୍ତୁ",
+    "home_fs_tobuy_title": "କିଣିବାକୁ",
+    "home_fs_tobuy_new": "%2$s ରେ ପରିବାର ଚାହୁଁଥିବା %1$s ନୂଆ ଜିନିଷ",
+    "home_fs_tobuy_idle": "କିଛି ପସନ୍ଦ ହେଲା? ପରିବାର ପାଇଁ ଯୋଡନ୍ତୁ",
+    "home_fs_recipes_title": "ପରିବାରର ରେସିପି",
+    "home_fs_recipes_new": "%2$s ରେ %1$s ନୂଆ ରେସିପି",
+    "home_fs_recipes_idle": "ସାରା ପରିବାର ରାନ୍ଧିପାରିବା ଭଳି ରେସିପି ସଞ୍ଚୟ କରନ୍ତୁ",
+    "home_fs_create_title": "ଆପଣଙ୍କ ଫ୍ୟାମିଲି ସ୍ପେସ୍ ତିଆରି କରନ୍ତୁ",
+    "home_fs_create_body": "ଚାଟ୍, ମୁହୂର୍ତ୍ତ, ଇଚ୍ଛା ତାଲିକା ଓ ରେସିପି — ପରିବାର ସହ",
+    "home_fs_create_action": "ତିଆରି କରନ୍ତୁ",
+    "home_fs_open": "ଖୋଲନ୍ତୁ",
+    "home_slide_first": "ପ୍ରଥମ ସ୍ଲାଇଡକୁ ଯାଆନ୍ତୁ",
+    "home_slide_all": "ସବୁ ସ୍ଲାଇଡ",
+    "home_label_premium": "ପ୍ରିମିୟମ",
+    "home_label_tasks": "ମୋ କାମ",
+    "home_label_tracker": "ଘରେ ଆସୁଥିବା",
+    "home_label_food": "ଖାଦ୍ୟ ଧାରା",
+    "home_label_insights": "ପରିବାର ସୂଚନା",
+    "home_label_activity": "ଆକ୍ଟିଭିଟି ମିଟର",
+    "home_label_budget": "ବଜେଟ୍",
+    "home_label_backup": "ବ୍ୟାକଅପ୍"
   }
 }

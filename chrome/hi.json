@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "पहले फैमिली स्पेस बनाएं या उसमें जुड़ें, फिर चीज़ें उसकी खरीदना है सूची में साझा करें।",
     "tobuy_note_label": "यह क्या है? (वैकल्पिक)",
     "tobuy_undo": "वापस लें",
-    "tobuy_untitled": "खरीदने की चीज़"
+    "tobuy_untitled": "खरीदने की चीज़",
+    "home_fs_chat_title": "परिवार चैट",
+    "home_fs_chat_new": "%2$s में %1$s नए संदेश",
+    "home_fs_chat_idle": "%2$s में सबको नमस्ते कहें",
+    "home_fs_moments_title": "परिवार के पल",
+    "home_fs_moments_new": "%2$s में %1$s नए पल",
+    "home_fs_moments_idle": "%2$s के साथ कोई फ़ोटो या पल साझा करें",
+    "home_fs_tobuy_title": "खरीदना है",
+    "home_fs_tobuy_new": "%2$s में परिवार को चाहिए %1$s नई चीज़ें",
+    "home_fs_tobuy_idle": "कुछ पसंद आया? परिवार के लिए जोड़ें",
+    "home_fs_recipes_title": "परिवार की रेसिपी",
+    "home_fs_recipes_new": "%2$s में %1$s नई रेसिपी",
+    "home_fs_recipes_idle": "ऐसी रेसिपी सहेजें जो पूरा परिवार बना सके",
+    "home_fs_create_title": "अपना फैमिली स्पेस बनाएं",
+    "home_fs_create_body": "चैट, पल, पसंद की सूची और रेसिपी — परिवार के साथ",
+    "home_fs_create_action": "बनाएं",
+    "home_fs_open": "खोलें",
+    "home_slide_first": "पहली स्लाइड पर जाएं",
+    "home_slide_all": "सभी स्लाइड",
+    "home_label_premium": "प्रीमियम",
+    "home_label_tasks": "मेरे काम",
+    "home_label_tracker": "घर में आने वाला",
+    "home_label_food": "खाने का रुझान",
+    "home_label_insights": "परिवार की जानकारी",
+    "home_label_activity": "एक्टिविटी मीटर",
+    "home_label_budget": "बजट",
+    "home_label_backup": "बैकअप"
   }
 }

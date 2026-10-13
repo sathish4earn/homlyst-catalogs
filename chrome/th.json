@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "สร้างหรือเข้าร่วมพื้นที่ครอบครัวก่อน แล้วแชร์ของไปยังรายการของที่อยากได้",
     "tobuy_note_label": "นี่คืออะไร? (ไม่บังคับ)",
     "tobuy_undo": "เลิกทำ",
-    "tobuy_untitled": "ของที่จะซื้อ"
+    "tobuy_untitled": "ของที่จะซื้อ",
+    "home_fs_chat_title": "แชทครอบครัว",
+    "home_fs_chat_new": "ข้อความใหม่ %1$s ข้อความใน %2$s",
+    "home_fs_chat_idle": "ทักทายทุกคนใน %2$s",
+    "home_fs_moments_title": "ช่วงเวลาครอบครัว",
+    "home_fs_moments_new": "ช่วงเวลาใหม่ %1$s รายการใน %2$s",
+    "home_fs_moments_idle": "แชร์รูปหรือช่วงเวลากับ %2$s",
+    "home_fs_tobuy_title": "ของที่อยากได้",
+    "home_fs_tobuy_new": "ของใหม่ %1$s อย่างที่ครอบครัวอยากได้ใน %2$s",
+    "home_fs_tobuy_idle": "เห็นอะไรที่ชอบไหม? เพิ่มให้ครอบครัว",
+    "home_fs_recipes_title": "สูตรอาหารครอบครัว",
+    "home_fs_recipes_new": "สูตรใหม่ %1$s สูตรใน %2$s",
+    "home_fs_recipes_idle": "บันทึกสูตรที่ทั้งครอบครัวทำได้",
+    "home_fs_create_title": "สร้างพื้นที่ครอบครัวของคุณ",
+    "home_fs_create_body": "แชท ช่วงเวลา รายการของที่อยากได้ และสูตรอาหาร — ร่วมกับครอบครัว",
+    "home_fs_create_action": "สร้าง",
+    "home_fs_open": "เปิด",
+    "home_slide_first": "กลับไปสไลด์แรก",
+    "home_slide_all": "สไลด์ทั้งหมด",
+    "home_label_premium": "พรีเมียม",
+    "home_label_tasks": "งานของฉัน",
+    "home_label_tracker": "เรื่องที่จะมาถึงที่บ้าน",
+    "home_label_food": "แนวโน้มอาหาร",
+    "home_label_insights": "ข้อมูลครอบครัว",
+    "home_label_activity": "มิเตอร์กิจกรรม",
+    "home_label_budget": "งบประมาณ",
+    "home_label_backup": "สำรองข้อมูล"
   }
 }

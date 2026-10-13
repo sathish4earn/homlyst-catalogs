@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1594,6 +1594,32 @@
     "tobuy_no_space": "Cipta atau sertai Ruang Keluarga dahulu, kemudian kongsi barang ke senarai Nak Dibeli-nya.",
     "tobuy_note_label": "Apakah ini? (pilihan)",
     "tobuy_undo": "Buat asal",
-    "tobuy_untitled": "Sesuatu untuk dibeli"
+    "tobuy_untitled": "Sesuatu untuk dibeli",
+    "home_fs_chat_title": "Sembang Keluarga",
+    "home_fs_chat_new": "%1$s mesej baharu dalam %2$s",
+    "home_fs_chat_idle": "Ucap helo kepada semua dalam %2$s",
+    "home_fs_moments_title": "Detik Keluarga",
+    "home_fs_moments_new": "%1$s detik baharu dalam %2$s",
+    "home_fs_moments_idle": "Kongsi foto atau detik dengan %2$s",
+    "home_fs_tobuy_title": "Nak Dibeli",
+    "home_fs_tobuy_new": "%1$s barang baharu yang keluarga mahu dalam %2$s",
+    "home_fs_tobuy_idle": "Nampak sesuatu yang anda suka? Tambah untuk keluarga",
+    "home_fs_recipes_title": "Resipi Keluarga",
+    "home_fs_recipes_new": "%1$s resipi baharu dalam %2$s",
+    "home_fs_recipes_idle": "Simpan resipi yang boleh dimasak seisi keluarga",
+    "home_fs_create_title": "Cipta Ruang Keluarga anda",
+    "home_fs_create_body": "Sembang, detik, senarai hajat dan resipi — bersama keluarga",
+    "home_fs_create_action": "Cipta",
+    "home_fs_open": "Buka",
+    "home_slide_first": "Kembali ke slaid pertama",
+    "home_slide_all": "Semua slaid",
+    "home_label_premium": "Premium",
+    "home_label_tasks": "Tugasan saya",
+    "home_label_tracker": "Akan datang di rumah",
+    "home_label_food": "Trend makanan",
+    "home_label_insights": "Maklumat keluarga",
+    "home_label_activity": "Meter aktiviti",
+    "home_label_budget": "Bajet",
+    "home_label_backup": "Sandaran"
   }
 }
