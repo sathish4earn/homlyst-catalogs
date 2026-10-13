@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "குடும்பத் தகவல்கள்",
     "home_label_activity": "செயல்பாட்டு மீட்டர்",
     "home_label_budget": "பட்ஜெட்",
-    "home_label_backup": "காப்புப்பிரதி"
+    "home_label_backup": "காப்புப்பிரதி",
+    "home_fs_new_count": "%1$s புதியவை",
+    "home_fs_more": "+%1$s மேலும்",
+    "home_fs_pick": "எந்தக் குடும்பம்?"
   }
 }

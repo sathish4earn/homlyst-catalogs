@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "కుటుంబ విశ్లేషణ",
     "home_label_activity": "యాక్టివిటీ మీటర్",
     "home_label_budget": "బడ్జెట్",
-    "home_label_backup": "బ్యాకప్"
+    "home_label_backup": "బ్యాకప్",
+    "home_fs_new_count": "%1$s కొత్తవి",
+    "home_fs_more": "+%1$s మరిన్ని",
+    "home_fs_pick": "ఏ కుటుంబం?"
   }
 }

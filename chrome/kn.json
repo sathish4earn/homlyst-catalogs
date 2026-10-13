@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "ಕುಟುಂಬದ ಒಳನೋಟಗಳು",
     "home_label_activity": "ಚಟುವಟಿಕೆ ಮೀಟರ್",
     "home_label_budget": "ಬಜೆಟ್",
-    "home_label_backup": "ಬ್ಯಾಕಪ್"
+    "home_label_backup": "ಬ್ಯಾಕಪ್",
+    "home_fs_new_count": "%1$s ಹೊಸವು",
+    "home_fs_more": "+%1$s ಇನ್ನಷ್ಟು",
+    "home_fs_pick": "ಯಾವ ಕುಟುಂಬ?"
   }
 }

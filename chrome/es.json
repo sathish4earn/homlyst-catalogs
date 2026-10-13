@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "Datos de la familia",
     "home_label_activity": "Medidor de actividad",
     "home_label_budget": "Presupuesto",
-    "home_label_backup": "Copia de seguridad"
+    "home_label_backup": "Copia de seguridad",
+    "home_fs_new_count": "%1$s nuevos",
+    "home_fs_more": "+%1$s más",
+    "home_fs_pick": "¿Qué familia?"
   }
 }

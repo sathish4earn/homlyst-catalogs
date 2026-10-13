@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "ข้อมูลครอบครัว",
     "home_label_activity": "มิเตอร์กิจกรรม",
     "home_label_budget": "งบประมาณ",
-    "home_label_backup": "สำรองข้อมูล"
+    "home_label_backup": "สำรองข้อมูล",
+    "home_fs_new_count": "ใหม่ %1$s",
+    "home_fs_more": "+อีก %1$s",
+    "home_fs_pick": "ครอบครัวไหน?"
   }
 }
