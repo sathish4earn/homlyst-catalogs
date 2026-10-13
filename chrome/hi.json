@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "परिवार की जानकारी",
     "home_label_activity": "एक्टिविटी मीटर",
     "home_label_budget": "बजट",
-    "home_label_backup": "बैकअप"
+    "home_label_backup": "बैकअप",
+    "home_fs_new_count": "%1$s नए",
+    "home_fs_more": "+%1$s और",
+    "home_fs_pick": "कौन-सा परिवार?"
   }
 }

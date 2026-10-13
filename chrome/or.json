@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "ପରିବାର ସୂଚନା",
     "home_label_activity": "ଆକ୍ଟିଭିଟି ମିଟର",
     "home_label_budget": "ବଜେଟ୍",
-    "home_label_backup": "ବ୍ୟାକଅପ୍"
+    "home_label_backup": "ବ୍ୟାକଅପ୍",
+    "home_fs_new_count": "%1$s ନୂଆ",
+    "home_fs_more": "+%1$s ଅଧିକ",
+    "home_fs_pick": "କେଉଁ ପରିବାର?"
   }
 }

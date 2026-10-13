@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "Infos famille",
     "home_label_activity": "Suivi d'activité",
     "home_label_budget": "Budget",
-    "home_label_backup": "Sauvegarde"
+    "home_label_backup": "Sauvegarde",
+    "home_fs_new_count": "%1$s nouveaux",
+    "home_fs_more": "+%1$s autres",
+    "home_fs_pick": "Quelle famille ?"
   }
 }

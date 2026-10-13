@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "कुटुंबाची माहिती",
     "home_label_activity": "अ‍ॅक्टिव्हिटी मीटर",
     "home_label_budget": "बजेट",
-    "home_label_backup": "बॅकअप"
+    "home_label_backup": "बॅकअप",
+    "home_fs_new_count": "%1$s नवीन",
+    "home_fs_more": "+%1$s आणखी",
+    "home_fs_pick": "कोणते कुटुंब?"
   }
 }

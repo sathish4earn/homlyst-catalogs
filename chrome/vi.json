@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "Thông tin gia đình",
     "home_label_activity": "Đồng hồ hoạt động",
     "home_label_budget": "Ngân sách",
-    "home_label_backup": "Sao lưu"
+    "home_label_backup": "Sao lưu",
+    "home_fs_new_count": "%1$s mới",
+    "home_fs_more": "+%1$s nữa",
+    "home_fs_pick": "Gia đình nào?"
   }
 }

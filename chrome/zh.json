@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1620,6 +1620,9 @@
     "home_label_insights": "家庭洞察",
     "home_label_activity": "活动记录",
     "home_label_budget": "预算",
-    "home_label_backup": "备份"
+    "home_label_backup": "备份",
+    "home_fs_new_count": "%1$s 条新",
+    "home_fs_more": "+%1$s 个",
+    "home_fs_pick": "哪个家庭？"
   }
 }
