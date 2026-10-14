@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "Marcar como feito",
     "meals_not_cooked": "Ainda não feito",
     "meals_remove": "Remover",
-    "meals_search_hint": "Buscar pratos — ex.: Pongal",
+    "meals_search_hint": "Pesquise comidas ou bebidas — ex. Pongal, Masala chai",
     "meals_add_typed": "Adicionar “%1$s”",
     "meals_add_typed_hint": "Vamos buscar a receita e os ingredientes",
     "meals_popular": "Pratos populares",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "Descartar alterações",
     "home_meals_title": "Refeições da família",
     "home_meals_body": "Planeje o café da manhã, almoço e jantar desta semana",
-    "recipes_plan_meals": "Planejar as refeições da semana"
+    "recipes_plan_meals": "Planejar as refeições da semana",
+    "meals_vote_title": "Votação da família",
+    "meals_vote_closes": "encerra %1$s",
+    "meals_suggested_by": "sugerido por %1$s",
+    "meals_pick_winner": "Escolher como vencedor",
+    "meals_pick_denied": "Só o dono ou os administradores da família podem escolher o vencedor",
+    "meals_vote_save_first": "Salve o plano para iniciar a votação",
+    "meals_vote_closed": "A votação desta refeição foi encerrada",
+    "meals_suggest_toggle": "Sugerir para votação da família",
+    "meals_suggest_hint": "Todos votam 👍 / 👎 — o favorito vence",
+    "meals_place_hint": "Nome do restaurante — ex. Saravana Bhavan",
+    "meals_mode_home": "Cozinhar",
+    "meals_mode_eat_out": "Comer fora",
+    "meals_mode_order_in": "Pedir delivery",
+    "meals_add_place_hint": "Sua família pode votar",
+    "meals_open_maps": "Abrir no Maps"
   }
 }

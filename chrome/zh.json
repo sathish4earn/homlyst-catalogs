@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "标记为已做",
     "meals_not_cooked": "还没做",
     "meals_remove": "移除",
-    "meals_search_hint": "搜索菜品 — 如 Pongal",
+    "meals_search_hint": "搜索食物或饮品 — 如 Pongal、玛萨拉奶茶",
     "meals_add_typed": "添加“%1$s”",
     "meals_add_typed_hint": "我们会找到它的食谱和食材",
     "meals_popular": "热门菜品",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "放弃更改",
     "home_meals_title": "家庭餐食",
     "home_meals_body": "规划本周的早餐、午餐和晚餐",
-    "recipes_plan_meals": "规划本周餐食"
+    "recipes_plan_meals": "规划本周餐食",
+    "meals_vote_title": "家庭投票",
+    "meals_vote_closes": "%1$s截止",
+    "meals_suggested_by": "由 %1$s 推荐",
+    "meals_pick_winner": "选为胜出",
+    "meals_pick_denied": "只有家庭的创建者或管理员可以选出胜出项",
+    "meals_vote_save_first": "先保存计划才能开始投票",
+    "meals_vote_closed": "这一餐的投票已结束",
+    "meals_suggest_toggle": "推荐给家人投票",
+    "meals_suggest_hint": "大家投 👍 / 👎 — 最受欢迎的胜出",
+    "meals_place_hint": "餐厅名称 — 如 Saravana Bhavan",
+    "meals_mode_home": "在家做",
+    "meals_mode_eat_out": "外出吃",
+    "meals_mode_order_in": "点外卖",
+    "meals_add_place_hint": "家人可以为它投票",
+    "meals_open_maps": "在地图中打开"
   }
 }

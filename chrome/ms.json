@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "Tandakan sudah dimasak",
     "meals_not_cooked": "Belum dimasak",
     "meals_remove": "Buang",
-    "meals_search_hint": "Cari hidangan — cth. Pongal",
+    "meals_search_hint": "Cari makanan atau minuman — cth. Pongal, Masala chai",
     "meals_add_typed": "Tambah “%1$s”",
     "meals_add_typed_hint": "Kami akan dapatkan resipi dan bahannya",
     "meals_popular": "Hidangan popular",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "Buang perubahan",
     "home_meals_title": "Hidangan Keluarga",
     "home_meals_body": "Rancang sarapan, makan tengah hari dan makan malam minggu ini",
-    "recipes_plan_meals": "Rancang hidangan minggu ini"
+    "recipes_plan_meals": "Rancang hidangan minggu ini",
+    "meals_vote_title": "Undian keluarga",
+    "meals_vote_closes": "ditutup %1$s",
+    "meals_suggested_by": "dicadangkan oleh %1$s",
+    "meals_pick_winner": "Pilih sebagai pemenang",
+    "meals_pick_denied": "Hanya pemilik atau admin keluarga boleh memilih pemenang",
+    "meals_vote_save_first": "Simpan rancangan untuk memulakan undian",
+    "meals_vote_closed": "Undian untuk hidangan ini telah ditutup",
+    "meals_suggest_toggle": "Cadangkan untuk undian keluarga",
+    "meals_suggest_hint": "Semua mengundi 👍 / 👎 — kegemaran menang",
+    "meals_place_hint": "Nama restoran — cth. Saravana Bhavan",
+    "meals_mode_home": "Masak",
+    "meals_mode_eat_out": "Makan di luar",
+    "meals_mode_order_in": "Pesan hantar",
+    "meals_add_place_hint": "Keluarga anda boleh mengundi",
+    "meals_open_maps": "Buka dalam Maps"
   }
 }

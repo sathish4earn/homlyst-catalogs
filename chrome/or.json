@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "ରନ୍ଧା ହୋଇଛି ଚିହ୍ନିତ କରନ୍ତୁ",
     "meals_not_cooked": "ଏପର୍ଯ୍ୟନ୍ତ ରନ୍ଧା ହୋଇନାହିଁ",
     "meals_remove": "ହଟାନ୍ତୁ",
-    "meals_search_hint": "ଖାଦ୍ୟ ଖୋଜନ୍ତୁ — ଯେପରି ପୋଙ୍ଗଲ",
+    "meals_search_hint": "ଖାଦ୍ୟ କିମ୍ବା ପାନୀୟ ଖୋଜନ୍ତୁ — ଯଥା ପୋଙ୍ଗଲ, ମସଲା ଚା",
     "meals_add_typed": "“%1$s” ଯୋଡନ୍ତୁ",
     "meals_add_typed_hint": "ଆମେ ଏହାର ରେସିପି ଓ ସାମଗ୍ରୀ ଆଣିବୁ",
     "meals_popular": "ଲୋକପ୍ରିୟ ଖାଦ୍ୟ",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "ପରିବର୍ତ୍ତନ ଛାଡନ୍ତୁ",
     "home_meals_title": "ପରିବାରର ଖାଦ୍ୟ",
     "home_meals_body": "ଏହି ସପ୍ତାହର ଜଳଖିଆ, ମଧ୍ୟାହ୍ନ ଓ ରାତ୍ରି ଭୋଜନ ସ୍ଥିର କରନ୍ତୁ",
-    "recipes_plan_meals": "ଏହି ସପ୍ତାହର ଭୋଜନ ଯୋଜନା"
+    "recipes_plan_meals": "ଏହି ସପ୍ତାହର ଭୋଜନ ଯୋଜନା",
+    "meals_vote_title": "ପରିବାରର ଭୋଟ",
+    "meals_vote_closes": "%1$s ରେ ବନ୍ଦ ହେବ",
+    "meals_suggested_by": "%1$s ଙ୍କ ପରାମର୍ଶ",
+    "meals_pick_winner": "ବିଜେତା ଭାବେ ବାଛନ୍ତୁ",
+    "meals_pick_denied": "କେବଳ ପରିବାରର ମାଲିକ କିମ୍ବା ଆଡମିନ ବିଜେତା ବାଛିପାରିବେ",
+    "meals_vote_save_first": "ଭୋଟ ଆରମ୍ଭ କରିବାକୁ ଯୋଜନା ସେଭ କରନ୍ତୁ",
+    "meals_vote_closed": "ଏହି ଖାଦ୍ୟ ପାଇଁ ଭୋଟ ବନ୍ଦ ହୋଇଯାଇଛି",
+    "meals_suggest_toggle": "ପରିବାରର ଭୋଟ ପାଇଁ ପରାମର୍ଶ ଦିଅନ୍ତୁ",
+    "meals_suggest_hint": "ସମସ୍ତେ 👍 / 👎 ଭୋଟ ଦିଅନ୍ତି — ସବୁଠାରୁ ପ୍ରିୟ ଜିତେ",
+    "meals_place_hint": "ରେଷ୍ଟୁରାଣ୍ଟ ନାମ — ଯଥା ସରବଣ ଭବନ",
+    "meals_mode_home": "ରାନ୍ଧନ୍ତୁ",
+    "meals_mode_eat_out": "ବାହାରେ ଖାଆନ୍ତୁ",
+    "meals_mode_order_in": "ଅର୍ଡର କରନ୍ତୁ",
+    "meals_add_place_hint": "ଆପଣଙ୍କ ପରିବାର ଏଥିରେ ଭୋଟ ଦେଇପାରିବେ",
+    "meals_open_maps": "ମ୍ୟାପ୍ସରେ ଖୋଲନ୍ତୁ"
   }
 }

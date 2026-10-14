@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "ทำเครื่องหมายว่าทำแล้ว",
     "meals_not_cooked": "ยังไม่ได้ทำ",
     "meals_remove": "ลบ",
-    "meals_search_hint": "ค้นหาเมนู — เช่น Pongal",
+    "meals_search_hint": "ค้นหาอาหารหรือเครื่องดื่ม — เช่น Pongal, Masala chai",
     "meals_add_typed": "เพิ่ม “%1$s”",
     "meals_add_typed_hint": "เราจะหาสูตรและวัตถุดิบให้",
     "meals_popular": "เมนูยอดนิยม",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "ทิ้งการเปลี่ยนแปลง",
     "home_meals_title": "มื้ออาหารครอบครัว",
     "home_meals_body": "วางแผนอาหารเช้า กลางวัน และเย็นของสัปดาห์นี้",
-    "recipes_plan_meals": "วางแผนมื้ออาหารสัปดาห์นี้"
+    "recipes_plan_meals": "วางแผนมื้ออาหารสัปดาห์นี้",
+    "meals_vote_title": "โหวตของครอบครัว",
+    "meals_vote_closes": "ปิด %1$s",
+    "meals_suggested_by": "เสนอโดย %1$s",
+    "meals_pick_winner": "เลือกเป็นผู้ชนะ",
+    "meals_pick_denied": "เฉพาะเจ้าของหรือแอดมินของครอบครัวเท่านั้นที่เลือกผู้ชนะได้",
+    "meals_vote_save_first": "บันทึกแผนเพื่อเริ่มโหวต",
+    "meals_vote_closed": "การโหวตสำหรับมื้อนี้ปิดแล้ว",
+    "meals_suggest_toggle": "เสนอให้ครอบครัวโหวต",
+    "meals_suggest_hint": "ทุกคนโหวต 👍 / 👎 — เมนูที่ชอบที่สุดชนะ",
+    "meals_place_hint": "ชื่อร้านอาหาร — เช่น Saravana Bhavan",
+    "meals_mode_home": "ทำเอง",
+    "meals_mode_eat_out": "กินนอกบ้าน",
+    "meals_mode_order_in": "สั่งเดลิเวอรี",
+    "meals_add_place_hint": "ครอบครัวของคุณโหวตได้",
+    "meals_open_maps": "เปิดในแผนที่"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "சமைத்ததாகக் குறி",
     "meals_not_cooked": "இன்னும் சமைக்கவில்லை",
     "meals_remove": "நீக்கு",
-    "meals_search_hint": "உணவுகளைத் தேடுங்கள் — எ.கா. பொங்கல்",
+    "meals_search_hint": "உணவு அல்லது பானம் தேடுங்கள் — எ.கா. பொங்கல், மசாலா டீ",
     "meals_add_typed": "“%1$s” சேர்",
     "meals_add_typed_hint": "அதன் சமையல் குறிப்பையும் பொருட்களையும் பெறுவோம்",
     "meals_popular": "பிரபலமான உணவுகள்",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "மாற்றங்களை நீக்கு",
     "home_meals_title": "குடும்ப உணவு",
     "home_meals_body": "இந்த வாரத்தின் காலை, மதியம், இரவு உணவைத் திட்டமிடுங்கள்",
-    "recipes_plan_meals": "இந்த வார உணவைத் திட்டமிடுங்கள்"
+    "recipes_plan_meals": "இந்த வார உணவைத் திட்டமிடுங்கள்",
+    "meals_vote_title": "குடும்ப வாக்கெடுப்பு",
+    "meals_vote_closes": "%1$s முடியும்",
+    "meals_suggested_by": "%1$s பரிந்துரைத்தது",
+    "meals_pick_winner": "வெற்றியாளராகத் தேர்ந்தெடு",
+    "meals_pick_denied": "குடும்ப உரிமையாளர் அல்லது நிர்வாகிகள் மட்டுமே வெற்றியாளரைத் தேர்ந்தெடுக்க முடியும்",
+    "meals_vote_save_first": "வாக்கெடுப்பைத் தொடங்க திட்டத்தைச் சேமியுங்கள்",
+    "meals_vote_closed": "இந்த உணவுக்கான வாக்கெடுப்பு முடிந்தது",
+    "meals_suggest_toggle": "குடும்ப வாக்கெடுப்புக்குப் பரிந்துரை",
+    "meals_suggest_hint": "எல்லோரும் 👍 / 👎 வாக்களிக்கலாம் — அதிகம் பிடித்தது வெல்லும்",
+    "meals_place_hint": "உணவகப் பெயர் — எ.கா. சரவண பவன்",
+    "meals_mode_home": "சமைக்க",
+    "meals_mode_eat_out": "வெளியே சாப்பிட",
+    "meals_mode_order_in": "ஆர்டர் செய்ய",
+    "meals_add_place_hint": "உங்கள் குடும்பம் இதற்கு வாக்களிக்கலாம்",
+    "meals_open_maps": "மேப்ஸில் திற"
   }
 }

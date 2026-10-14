@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "রান্না হয়েছে চিহ্নিত করুন",
     "meals_not_cooked": "এখনও রান্না হয়নি",
     "meals_remove": "সরান",
-    "meals_search_hint": "পদ খুঁজুন — যেমন পোঙ্গল",
+    "meals_search_hint": "খাবার বা পানীয় খুঁজুন — যেমন পোঙ্গল, মশলা চা",
     "meals_add_typed": "“%1$s” যোগ করুন",
     "meals_add_typed_hint": "আমরা এর রেসিপি ও উপকরণ এনে দেব",
     "meals_popular": "জনপ্রিয় পদ",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "পরিবর্তন বাদ দিন",
     "home_meals_title": "পরিবারের খাবার",
     "home_meals_body": "এই সপ্তাহের সকালের, দুপুরের ও রাতের খাবার ঠিক করুন",
-    "recipes_plan_meals": "এই সপ্তাহের খাবারের পরিকল্পনা"
+    "recipes_plan_meals": "এই সপ্তাহের খাবারের পরিকল্পনা",
+    "meals_vote_title": "পরিবারের ভোট",
+    "meals_vote_closes": "%1$s বন্ধ হবে",
+    "meals_suggested_by": "%1$s-এর প্রস্তাব",
+    "meals_pick_winner": "বিজয়ী হিসেবে বেছে নিন",
+    "meals_pick_denied": "শুধু পরিবারের মালিক বা অ্যাডমিনরা বিজয়ী বেছে নিতে পারেন",
+    "meals_vote_save_first": "ভোট শুরু করতে পরিকল্পনা সেভ করুন",
+    "meals_vote_closed": "এই খাবারের ভোট বন্ধ হয়ে গেছে",
+    "meals_suggest_toggle": "পরিবারের ভোটের জন্য প্রস্তাব করুন",
+    "meals_suggest_hint": "সবাই 👍 / 👎 ভোট দেবে — সবচেয়ে প্রিয়টি জিতবে",
+    "meals_place_hint": "রেস্তোরাঁর নাম — যেমন সরবণ ভবন",
+    "meals_mode_home": "রান্না",
+    "meals_mode_eat_out": "বাইরে খাওয়া",
+    "meals_mode_order_in": "অর্ডার",
+    "meals_add_place_hint": "আপনার পরিবার এতে ভোট দিতে পারে",
+    "meals_open_maps": "ম্যাপসে খুলুন"
   }
 }

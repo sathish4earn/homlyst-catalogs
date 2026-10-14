@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "Đánh dấu đã nấu",
     "meals_not_cooked": "Chưa nấu",
     "meals_remove": "Xóa",
-    "meals_search_hint": "Tìm món — ví dụ Pongal",
+    "meals_search_hint": "Tìm món ăn hoặc đồ uống — ví dụ Pongal, Masala chai",
     "meals_add_typed": "Thêm “%1$s”",
     "meals_add_typed_hint": "Chúng tôi sẽ lấy công thức và nguyên liệu",
     "meals_popular": "Món phổ biến",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "Bỏ thay đổi",
     "home_meals_title": "Bữa ăn gia đình",
     "home_meals_body": "Lên kế hoạch bữa sáng, trưa và tối tuần này",
-    "recipes_plan_meals": "Lên kế hoạch bữa ăn tuần này"
+    "recipes_plan_meals": "Lên kế hoạch bữa ăn tuần này",
+    "meals_vote_title": "Bình chọn gia đình",
+    "meals_vote_closes": "kết thúc %1$s",
+    "meals_suggested_by": "%1$s đề xuất",
+    "meals_pick_winner": "Chọn làm món thắng",
+    "meals_pick_denied": "Chỉ chủ hoặc quản trị viên gia đình mới chọn được món thắng",
+    "meals_vote_save_first": "Lưu kế hoạch để bắt đầu bình chọn",
+    "meals_vote_closed": "Đã hết thời gian bình chọn cho bữa này",
+    "meals_suggest_toggle": "Đề xuất để gia đình bình chọn",
+    "meals_suggest_hint": "Mọi người bình chọn 👍 / 👎 — món được thích nhất sẽ thắng",
+    "meals_place_hint": "Tên nhà hàng — ví dụ Saravana Bhavan",
+    "meals_mode_home": "Nấu ở nhà",
+    "meals_mode_eat_out": "Ăn ngoài",
+    "meals_mode_order_in": "Đặt về",
+    "meals_add_place_hint": "Gia đình bạn có thể bình chọn",
+    "meals_open_maps": "Mở trong Bản đồ"
   }
 }

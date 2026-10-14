@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "शिजवले म्हणून खूण करा",
     "meals_not_cooked": "अजून शिजवले नाही",
     "meals_remove": "काढा",
-    "meals_search_hint": "पदार्थ शोधा — उदा. पोंगल",
+    "meals_search_hint": "अन्न किंवा पेय शोधा — उदा. पोंगल, मसाला चहा",
     "meals_add_typed": "“%1$s” जोडा",
     "meals_add_typed_hint": "आम्ही त्याची पाककृती आणि साहित्य आणू",
     "meals_popular": "लोकप्रिय पदार्थ",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "बदल टाकून द्या",
     "home_meals_title": "कुटुंबाचे जेवण",
     "home_meals_body": "या आठवड्याचा नाश्ता, दुपारचे आणि रात्रीचे जेवण ठरवा",
-    "recipes_plan_meals": "या आठवड्याच्या जेवणाचे नियोजन"
+    "recipes_plan_meals": "या आठवड्याच्या जेवणाचे नियोजन",
+    "meals_vote_title": "कुटुंबाचे मत",
+    "meals_vote_closes": "%1$s ला बंद होईल",
+    "meals_suggested_by": "%1$s यांनी सुचवले",
+    "meals_pick_winner": "विजेता म्हणून निवडा",
+    "meals_pick_denied": "फक्त कुटुंबाचे मालक किंवा अ‍ॅडमिन विजेता निवडू शकतात",
+    "meals_vote_save_first": "मतदान सुरू करण्यासाठी योजना सेव्ह करा",
+    "meals_vote_closed": "या जेवणासाठी मतदान बंद झाले आहे",
+    "meals_suggest_toggle": "कुटुंबाच्या मतासाठी सुचवा",
+    "meals_suggest_hint": "सर्वजण 👍 / 👎 मत देतात — सर्वात आवडते जिंकते",
+    "meals_place_hint": "रेस्टॉरंटचे नाव — उदा. सरवणा भवन",
+    "meals_mode_home": "घरी बनवा",
+    "meals_mode_eat_out": "बाहेर जेवा",
+    "meals_mode_order_in": "ऑर्डर करा",
+    "meals_add_place_hint": "तुमचे कुटुंब यावर मत देऊ शकते",
+    "meals_open_maps": "मॅप्समध्ये उघडा"
   }
 }

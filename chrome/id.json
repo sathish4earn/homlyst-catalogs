@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "Tandai sudah dimasak",
     "meals_not_cooked": "Belum dimasak",
     "meals_remove": "Hapus",
-    "meals_search_hint": "Cari masakan — mis. Pongal",
+    "meals_search_hint": "Cari makanan atau minuman — mis. Pongal, Masala chai",
     "meals_add_typed": "Tambahkan “%1$s”",
     "meals_add_typed_hint": "Kami akan ambilkan resep dan bahannya",
     "meals_popular": "Masakan populer",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "Buang perubahan",
     "home_meals_title": "Makanan Keluarga",
     "home_meals_body": "Rencanakan sarapan, makan siang, dan makan malam minggu ini",
-    "recipes_plan_meals": "Rencanakan makanan minggu ini"
+    "recipes_plan_meals": "Rencanakan makanan minggu ini",
+    "meals_vote_title": "Voting keluarga",
+    "meals_vote_closes": "ditutup %1$s",
+    "meals_suggested_by": "disarankan oleh %1$s",
+    "meals_pick_winner": "Pilih sebagai pemenang",
+    "meals_pick_denied": "Hanya pemilik atau admin keluarga yang bisa memilih pemenang",
+    "meals_vote_save_first": "Simpan rencana untuk memulai voting",
+    "meals_vote_closed": "Voting untuk makanan ini sudah ditutup",
+    "meals_suggest_toggle": "Usulkan untuk voting keluarga",
+    "meals_suggest_hint": "Semua memberi suara 👍 / 👎 — favorit yang menang",
+    "meals_place_hint": "Nama restoran — mis. Saravana Bhavan",
+    "meals_mode_home": "Masak",
+    "meals_mode_eat_out": "Makan di luar",
+    "meals_mode_order_in": "Pesan antar",
+    "meals_add_place_hint": "Keluarga Anda bisa memberi suara",
+    "meals_open_maps": "Buka di Maps"
   }
 }

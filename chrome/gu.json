@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "રાંધેલું ચિહ્નિત કરો",
     "meals_not_cooked": "હજુ રાંધ્યું નથી",
     "meals_remove": "દૂર કરો",
-    "meals_search_hint": "વાનગીઓ શોધો — દા.ત. પોંગલ",
+    "meals_search_hint": "ખોરાક કે પીણું શોધો — દા.ત. પોંગલ, મસાલા ચા",
     "meals_add_typed": "“%1$s” ઉમેરો",
     "meals_add_typed_hint": "અમે તેની રેસિપી અને સામગ્રી લાવીશું",
     "meals_popular": "લોકપ્રિય વાનગીઓ",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "ફેરફારો કાઢી નાખો",
     "home_meals_title": "પરિવારનું ભોજન",
     "home_meals_body": "આ અઠવાડિયાનો નાસ્તો, બપોરનું અને રાત્રિનું ભોજન નક્કી કરો",
-    "recipes_plan_meals": "આ અઠવાડિયાના ભોજનનું આયોજન"
+    "recipes_plan_meals": "આ અઠવાડિયાના ભોજનનું આયોજન",
+    "meals_vote_title": "પરિવારનો મત",
+    "meals_vote_closes": "%1$s એ બંધ થશે",
+    "meals_suggested_by": "%1$s નું સૂચન",
+    "meals_pick_winner": "વિજેતા તરીકે પસંદ કરો",
+    "meals_pick_denied": "ફક્ત પરિવારના માલિક અથવા એડમિન જ વિજેતા પસંદ કરી શકે",
+    "meals_vote_save_first": "મતદાન શરૂ કરવા યોજના સેવ કરો",
+    "meals_vote_closed": "આ ભોજન માટે મતદાન બંધ થઈ ગયું છે",
+    "meals_suggest_toggle": "પરિવારના મત માટે સૂચવો",
+    "meals_suggest_hint": "સૌ 👍 / 👎 મત આપે — સૌથી પ્રિય જીતે",
+    "meals_place_hint": "રેસ્ટોરન્ટનું નામ — દા.ત. સરવણા ભવન",
+    "meals_mode_home": "ઘરે બનાવો",
+    "meals_mode_eat_out": "બહાર જમો",
+    "meals_mode_order_in": "ઓર્ડર કરો",
+    "meals_add_place_hint": "તમારો પરિવાર તેના પર મત આપી શકે",
+    "meals_open_maps": "મેપ્સમાં ખોલો"
   }
 }
