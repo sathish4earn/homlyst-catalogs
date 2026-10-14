@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "പാചകം ചെയ്തതായി അടയാളപ്പെടുത്തുക",
     "meals_not_cooked": "ഇതുവരെ പാചകം ചെയ്തില്ല",
     "meals_remove": "നീക്കം ചെയ്യുക",
-    "meals_search_hint": "വിഭവങ്ങൾ തിരയുക — ഉദാ. പൊങ്കൽ",
+    "meals_search_hint": "ഭക്ഷണമോ പാനീയമോ തിരയുക — ഉദാ. പൊങ്കൽ, മസാല ചായ",
     "meals_add_typed": "“%1$s” ചേർക്കുക",
     "meals_add_typed_hint": "അതിന്റെ പാചകക്കുറിപ്പും ചേരുവകളും ഞങ്ങൾ കൊണ്ടുവരും",
     "meals_popular": "ജനപ്രിയ വിഭവങ്ങൾ",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "മാറ്റങ്ങൾ ഉപേക്ഷിക്കുക",
     "home_meals_title": "കുടുംബ ഭക്ഷണം",
     "home_meals_body": "ഈ ആഴ്ചത്തെ പ്രഭാതഭക്ഷണം, ഉച്ചഭക്ഷണം, അത്താഴം പ്ലാൻ ചെയ്യുക",
-    "recipes_plan_meals": "ഈ ആഴ്ചത്തെ ഭക്ഷണം പ്ലാൻ ചെയ്യുക"
+    "recipes_plan_meals": "ഈ ആഴ്ചത്തെ ഭക്ഷണം പ്ലാൻ ചെയ്യുക",
+    "meals_vote_title": "കുടുംബ വോട്ട്",
+    "meals_vote_closes": "%1$s-ന് അവസാനിക്കും",
+    "meals_suggested_by": "%1$s നിർദ്ദേശിച്ചത്",
+    "meals_pick_winner": "വിജയിയായി തിരഞ്ഞെടുക്കുക",
+    "meals_pick_denied": "കുടുംബത്തിന്റെ ഉടമയ്ക്കോ അഡ്മിൻമാർക്കോ മാത്രമേ വിജയിയെ തിരഞ്ഞെടുക്കാനാകൂ",
+    "meals_vote_save_first": "വോട്ടെടുപ്പ് തുടങ്ങാൻ പ്ലാൻ സേവ് ചെയ്യുക",
+    "meals_vote_closed": "ഈ ഭക്ഷണത്തിനുള്ള വോട്ടെടുപ്പ് അവസാനിച്ചു",
+    "meals_suggest_toggle": "കുടുംബ വോട്ടിന് നിർദ്ദേശിക്കുക",
+    "meals_suggest_hint": "എല്ലാവരും 👍 / 👎 വോട്ട് ചെയ്യും — ഏറ്റവും ഇഷ്ടപ്പെട്ടത് ജയിക്കും",
+    "meals_place_hint": "റെസ്റ്റോറന്റിന്റെ പേര് — ഉദാ. ശരവണ ഭവൻ",
+    "meals_mode_home": "പാചകം",
+    "meals_mode_eat_out": "പുറത്ത് കഴിക്കാം",
+    "meals_mode_order_in": "ഓർഡർ ചെയ്യാം",
+    "meals_add_place_hint": "നിങ്ങളുടെ കുടുംബത്തിന് ഇതിൽ വോട്ട് ചെയ്യാം",
+    "meals_open_maps": "മാപ്‌സിൽ തുറക്കുക"
   }
 }

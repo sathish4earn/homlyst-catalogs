@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "ਪਕਿਆ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਓ",
     "meals_not_cooked": "ਅਜੇ ਨਹੀਂ ਪਕਿਆ",
     "meals_remove": "ਹਟਾਓ",
-    "meals_search_hint": "ਪਕਵਾਨ ਖੋਜੋ — ਜਿਵੇਂ ਪੋਂਗਲ",
+    "meals_search_hint": "ਖਾਣਾ ਜਾਂ ਪੀਣ ਵਾਲਾ ਲੱਭੋ — ਜਿਵੇਂ ਪੋਂਗਲ, ਮਸਾਲਾ ਚਾਹ",
     "meals_add_typed": "“%1$s” ਜੋੜੋ",
     "meals_add_typed_hint": "ਅਸੀਂ ਇਸ ਦੀ ਰੈਸਿਪੀ ਅਤੇ ਸਮੱਗਰੀ ਲਿਆਵਾਂਗੇ",
     "meals_popular": "ਮਸ਼ਹੂਰ ਪਕਵਾਨ",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "ਬਦਲਾਅ ਛੱਡੋ",
     "home_meals_title": "ਪਰਿਵਾਰ ਦਾ ਖਾਣਾ",
     "home_meals_body": "ਇਸ ਹਫ਼ਤੇ ਦਾ ਨਾਸ਼ਤਾ, ਦੁਪਹਿਰ ਅਤੇ ਰਾਤ ਦਾ ਖਾਣਾ ਤੈਅ ਕਰੋ",
-    "recipes_plan_meals": "ਇਸ ਹਫ਼ਤੇ ਦੇ ਖਾਣੇ ਦੀ ਯੋਜਨਾ"
+    "recipes_plan_meals": "ਇਸ ਹਫ਼ਤੇ ਦੇ ਖਾਣੇ ਦੀ ਯੋਜਨਾ",
+    "meals_vote_title": "ਪਰਿਵਾਰ ਦੀ ਵੋਟ",
+    "meals_vote_closes": "%1$s ਨੂੰ ਬੰਦ",
+    "meals_suggested_by": "%1$s ਦਾ ਸੁਝਾਅ",
+    "meals_pick_winner": "ਜੇਤੂ ਵਜੋਂ ਚੁਣੋ",
+    "meals_pick_denied": "ਸਿਰਫ਼ ਪਰਿਵਾਰ ਦੇ ਮਾਲਕ ਜਾਂ ਐਡਮਿਨ ਹੀ ਜੇਤੂ ਚੁਣ ਸਕਦੇ ਹਨ",
+    "meals_vote_save_first": "ਵੋਟਿੰਗ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਯੋਜਨਾ ਸੇਵ ਕਰੋ",
+    "meals_vote_closed": "ਇਸ ਖਾਣੇ ਲਈ ਵੋਟਿੰਗ ਬੰਦ ਹੋ ਗਈ ਹੈ",
+    "meals_suggest_toggle": "ਪਰਿਵਾਰ ਦੀ ਵੋਟ ਲਈ ਸੁਝਾਓ",
+    "meals_suggest_hint": "ਸਾਰੇ 👍 / 👎 ਵੋਟ ਪਾਉਂਦੇ ਹਨ — ਸਭ ਤੋਂ ਪਸੰਦੀਦਾ ਜਿੱਤਦਾ ਹੈ",
+    "meals_place_hint": "ਰੈਸਟੋਰੈਂਟ ਦਾ ਨਾਮ — ਜਿਵੇਂ ਸਰਵਣਾ ਭਵਨ",
+    "meals_mode_home": "ਘਰ ਪਕਾਓ",
+    "meals_mode_eat_out": "ਬਾਹਰ ਖਾਓ",
+    "meals_mode_order_in": "ਆਰਡਰ ਕਰੋ",
+    "meals_add_place_hint": "ਤੁਹਾਡਾ ਪਰਿਵਾਰ ਇਸ 'ਤੇ ਵੋਟ ਪਾ ਸਕਦਾ ਹੈ",
+    "meals_open_maps": "ਮੈਪਸ ਵਿੱਚ ਖੋਲ੍ਹੋ"
   }
 }

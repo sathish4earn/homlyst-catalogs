@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "వండినట్లు గుర్తించు",
     "meals_not_cooked": "ఇంకా వండలేదు",
     "meals_remove": "తొలగించు",
-    "meals_search_hint": "వంటకాలు వెతకండి — ఉదా. పొంగల్",
+    "meals_search_hint": "ఆహారం లేదా పానీయాలు వెతకండి — ఉదా. పొంగల్, మసాలా చాయ్",
     "meals_add_typed": "“%1$s” జోడించు",
     "meals_add_typed_hint": "దాని వంటకం, పదార్థాలు తెస్తాం",
     "meals_popular": "ప్రసిద్ధ వంటకాలు",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "మార్పులు వదిలేయి",
     "home_meals_title": "కుటుంబ భోజనం",
     "home_meals_body": "ఈ వారం అల్పాహారం, మధ్యాహ్న, రాత్రి భోజనం ప్లాన్ చేయండి",
-    "recipes_plan_meals": "ఈ వారం భోజనాలు ప్లాన్ చేయండి"
+    "recipes_plan_meals": "ఈ వారం భోజనాలు ప్లాన్ చేయండి",
+    "meals_vote_title": "కుటుంబ ఓటు",
+    "meals_vote_closes": "%1$sకి ముగుస్తుంది",
+    "meals_suggested_by": "%1$s సూచించారు",
+    "meals_pick_winner": "విజేతగా ఎంచుకోండి",
+    "meals_pick_denied": "కుటుంబ యజమాని లేదా అడ్మిన్‌లు మాత్రమే విజేతను ఎంచుకోగలరు",
+    "meals_vote_save_first": "ఓటింగ్ ప్రారంభించడానికి ప్లాన్‌ను సేవ్ చేయండి",
+    "meals_vote_closed": "ఈ భోజనానికి ఓటింగ్ ముగిసింది",
+    "meals_suggest_toggle": "కుటుంబ ఓటుకు సూచించండి",
+    "meals_suggest_hint": "అందరూ 👍 / 👎 ఓటు వేస్తారు — ఎక్కువ ఇష్టమైనది గెలుస్తుంది",
+    "meals_place_hint": "రెస్టారెంట్ పేరు — ఉదా. శరవణ భవన్",
+    "meals_mode_home": "వండండి",
+    "meals_mode_eat_out": "బయట తినండి",
+    "meals_mode_order_in": "ఆర్డర్ చేయండి",
+    "meals_add_place_hint": "మీ కుటుంబం దీనిపై ఓటు వేయవచ్చు",
+    "meals_open_maps": "మ్యాప్స్‌లో తెరవండి"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1649,7 +1649,7 @@
     "meals_mark_cooked": "ಬೇಯಿಸಲಾಗಿದೆ ಎಂದು ಗುರುತಿಸಿ",
     "meals_not_cooked": "ಇನ್ನೂ ಬೇಯಿಸಿಲ್ಲ",
     "meals_remove": "ತೆಗೆದುಹಾಕಿ",
-    "meals_search_hint": "ಖಾದ್ಯಗಳನ್ನು ಹುಡುಕಿ — ಉದಾ. ಪೊಂಗಲ್",
+    "meals_search_hint": "ಆಹಾರ ಅಥವಾ ಪಾನೀಯ ಹುಡುಕಿ — ಉದಾ. ಪೊಂಗಲ್, ಮಸಾಲಾ ಚಹಾ",
     "meals_add_typed": "“%1$s” ಸೇರಿಸಿ",
     "meals_add_typed_hint": "ಅದರ ಅಡುಗೆ ವಿಧಾನ ಮತ್ತು ಸಾಮಗ್ರಿಗಳನ್ನು ತರುತ್ತೇವೆ",
     "meals_popular": "ಜನಪ್ರಿಯ ಖಾದ್ಯಗಳು",
@@ -1671,6 +1671,21 @@
     "meals_unsaved_discard": "ಬದಲಾವಣೆಗಳನ್ನು ಬಿಡಿ",
     "home_meals_title": "ಕುಟುಂಬದ ಊಟ",
     "home_meals_body": "ಈ ವಾರದ ಉಪಾಹಾರ, ಮಧ್ಯಾಹ್ನ, ರಾತ್ರಿ ಊಟ ಯೋಜಿಸಿ",
-    "recipes_plan_meals": "ಈ ವಾರದ ಊಟ ಯೋಜಿಸಿ"
+    "recipes_plan_meals": "ಈ ವಾರದ ಊಟ ಯೋಜಿಸಿ",
+    "meals_vote_title": "ಕುಟುಂಬದ ಮತ",
+    "meals_vote_closes": "%1$s ಕ್ಕೆ ಮುಕ್ತಾಯ",
+    "meals_suggested_by": "%1$s ಸೂಚಿಸಿದ್ದಾರೆ",
+    "meals_pick_winner": "ವಿಜೇತರಾಗಿ ಆಯ್ಕೆಮಾಡಿ",
+    "meals_pick_denied": "ಕುಟುಂಬದ ಮಾಲೀಕರು ಅಥವಾ ಅಡ್ಮಿನ್‌ಗಳು ಮಾತ್ರ ವಿಜೇತರನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು",
+    "meals_vote_save_first": "ಮತದಾನ ಆರಂಭಿಸಲು ಯೋಜನೆಯನ್ನು ಉಳಿಸಿ",
+    "meals_vote_closed": "ಈ ಊಟಕ್ಕೆ ಮತದಾನ ಮುಗಿದಿದೆ",
+    "meals_suggest_toggle": "ಕುಟುಂಬದ ಮತಕ್ಕೆ ಸೂಚಿಸಿ",
+    "meals_suggest_hint": "ಎಲ್ಲರೂ 👍 / 👎 ಮತ ಹಾಕುತ್ತಾರೆ — ಹೆಚ್ಚು ಇಷ್ಟವಾದದ್ದು ಗೆಲ್ಲುತ್ತದೆ",
+    "meals_place_hint": "ರೆಸ್ಟೋರೆಂಟ್ ಹೆಸರು — ಉದಾ. ಶರವಣ ಭವನ",
+    "meals_mode_home": "ಅಡುಗೆ ಮಾಡಿ",
+    "meals_mode_eat_out": "ಹೊರಗೆ ತಿನ್ನಿ",
+    "meals_mode_order_in": "ಆರ್ಡರ್ ಮಾಡಿ",
+    "meals_add_place_hint": "ನಿಮ್ಮ ಕುಟುಂಬ ಇದಕ್ಕೆ ಮತ ಹಾಕಬಹುದು",
+    "meals_open_maps": "ಮ್ಯಾಪ್ಸ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
   }
 }
