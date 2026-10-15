@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "忌口（过敏、不爱吃）",
     "meals_ai_avoid_hint": "如 花生过敏、不要苦瓜",
     "meals_ai_remember": "为我的家庭记住这些选择",
-    "meals_ai_profile_by": "家庭饮食档案 · 最近由 %1$s 保存"
+    "meals_ai_profile_by": "家庭饮食档案 · 最近由 %1$s 保存",
+    "meals_today_title": "今日餐食",
+    "meals_tonight": "今晚：%1$s"
   }
 }

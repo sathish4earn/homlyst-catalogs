@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "टाळा (अ‍ॅलर्जी, नावडते)",
     "meals_ai_avoid_hint": "उदा. शेंगदाण्याची अ‍ॅलर्जी, कारले नको",
     "meals_ai_remember": "हे पर्याय माझ्या कुटुंबासाठी लक्षात ठेवा",
-    "meals_ai_profile_by": "कुटुंबाची खाद्य प्रोफाइल · शेवटचे सेव्ह %1$s यांनी केले"
+    "meals_ai_profile_by": "कुटुंबाची खाद्य प्रोफाइल · शेवटचे सेव्ह %1$s यांनी केले",
+    "meals_today_title": "आजचे जेवण",
+    "meals_tonight": "आज रात्री: %1$s"
   }
 }

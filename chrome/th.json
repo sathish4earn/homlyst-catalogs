@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "หลีกเลี่ยง (แพ้อาหาร, ไม่ชอบ)",
     "meals_ai_avoid_hint": "เช่น แพ้ถั่วลิสง ไม่เอามะระ",
     "meals_ai_remember": "จำตัวเลือกเหล่านี้ไว้สำหรับครอบครัวของฉัน",
-    "meals_ai_profile_by": "โปรไฟล์อาหารของครอบครัว · บันทึกล่าสุดโดย %1$s"
+    "meals_ai_profile_by": "โปรไฟล์อาหารของครอบครัว · บันทึกล่าสุดโดย %1$s",
+    "meals_today_title": "มื้ออาหารวันนี้",
+    "meals_tonight": "คืนนี้: %1$s"
   }
 }

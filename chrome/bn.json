@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "এড়িয়ে চলুন (অ্যালার্জি, অপছন্দ)",
     "meals_ai_avoid_hint": "যেমন বাদামে অ্যালার্জি, করলা নয়",
     "meals_ai_remember": "এই পছন্দগুলো আমার পরিবারের জন্য মনে রাখুন",
-    "meals_ai_profile_by": "পরিবারের খাবারের প্রোফাইল · শেষবার সেভ করেছেন %1$s"
+    "meals_ai_profile_by": "পরিবারের খাবারের প্রোফাইল · শেষবার সেভ করেছেন %1$s",
+    "meals_today_title": "আজকের খাবার",
+    "meals_tonight": "আজ রাতে: %1$s"
   }
 }

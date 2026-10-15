@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "À éviter (allergies, aversions)",
     "meals_ai_avoid_hint": "ex. allergie aux arachides, pas d'aubergine",
     "meals_ai_remember": "Mémoriser ces choix pour ma famille",
-    "meals_ai_profile_by": "Profil alimentaire familial · enregistré par %1$s"
+    "meals_ai_profile_by": "Profil alimentaire familial · enregistré par %1$s",
+    "meals_today_title": "Repas du jour",
+    "meals_tonight": "Ce soir : %1$s"
   }
 }

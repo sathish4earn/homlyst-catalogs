@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "ഒഴിവാക്കുക (അലർജി, ഇഷ്ടമില്ലാത്തവ)",
     "meals_ai_avoid_hint": "ഉദാ. നിലക്കടല അലർജി, പാവയ്ക്ക വേണ്ട",
     "meals_ai_remember": "ഈ തിരഞ്ഞെടുപ്പുകൾ എന്റെ കുടുംബത്തിനായി ഓർക്കുക",
-    "meals_ai_profile_by": "കുടുംബ ഭക്ഷണ പ്രൊഫൈൽ · അവസാനം സേവ് ചെയ്തത് %1$s"
+    "meals_ai_profile_by": "കുടുംബ ഭക്ഷണ പ്രൊഫൈൽ · അവസാനം സേവ് ചെയ്തത് %1$s",
+    "meals_today_title": "ഇന്നത്തെ ഭക്ഷണം",
+    "meals_tonight": "ഇന്ന് രാത്രി: %1$s"
   }
 }

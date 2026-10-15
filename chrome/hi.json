@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "इनसे बचें (एलर्जी, नापसंद)",
     "meals_ai_avoid_hint": "जैसे मूंगफली से एलर्जी, करेला नहीं",
     "meals_ai_remember": "ये पसंद मेरे परिवार के लिए याद रखें",
-    "meals_ai_profile_by": "परिवार की खाने की प्रोफ़ाइल · आखिरी बार %1$s ने सेव की"
+    "meals_ai_profile_by": "परिवार की खाने की प्रोफ़ाइल · आखिरी बार %1$s ने सेव की",
+    "meals_today_title": "आज का खाना",
+    "meals_tonight": "आज रात: %1$s"
   }
 }
