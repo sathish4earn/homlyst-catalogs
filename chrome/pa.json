@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "ਬੱਚਿਆਂ ਲਈ",
     "meals_goal_quick": "ਛੇਤੀ (30 ਮਿੰਟ)",
     "meals_goal_diabetic": "ਸ਼ੂਗਰ ਲਈ ਢੁਕਵਾਂ",
-    "meals_goal_budget": "ਕਿਫ਼ਾਇਤੀ"
+    "meals_goal_budget": "ਕਿਫ਼ਾਇਤੀ",
+    "meals_ai_avoid": "ਇਨ੍ਹਾਂ ਤੋਂ ਬਚੋ (ਐਲਰਜੀ, ਨਾਪਸੰਦ)",
+    "meals_ai_avoid_hint": "ਜਿਵੇਂ ਮੂੰਗਫਲੀ ਤੋਂ ਐਲਰਜੀ, ਕਰੇਲਾ ਨਹੀਂ",
+    "meals_ai_remember": "ਇਹ ਚੋਣਾਂ ਮੇਰੇ ਪਰਿਵਾਰ ਲਈ ਯਾਦ ਰੱਖੋ",
+    "meals_ai_profile_by": "ਪਰਿਵਾਰ ਦੀ ਖਾਣੇ ਦੀ ਪ੍ਰੋਫਾਈਲ · ਆਖ਼ਰੀ ਵਾਰ %1$s ਨੇ ਸੇਵ ਕੀਤੀ"
   }
 }

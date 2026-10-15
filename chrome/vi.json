@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "Hợp với trẻ em",
     "meals_goal_quick": "Nhanh (30 phút)",
     "meals_goal_diabetic": "Phù hợp người tiểu đường",
-    "meals_goal_budget": "Tiết kiệm"
+    "meals_goal_budget": "Tiết kiệm",
+    "meals_ai_avoid": "Tránh (dị ứng, không thích)",
+    "meals_ai_avoid_hint": "ví dụ dị ứng đậu phộng, không mướp đắng",
+    "meals_ai_remember": "Ghi nhớ các lựa chọn này cho gia đình tôi",
+    "meals_ai_profile_by": "Hồ sơ ăn uống gia đình · %1$s lưu gần nhất"
   }
 }

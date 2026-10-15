@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "ಮಕ್ಕಳಿಗೆ ಸೂಕ್ತ",
     "meals_goal_quick": "ತ್ವರಿತ (30 ನಿ)",
     "meals_goal_diabetic": "ಮಧುಮೇಹಕ್ಕೆ ಸೂಕ್ತ",
-    "meals_goal_budget": "ಮಿತವ್ಯಯ"
+    "meals_goal_budget": "ಮಿತವ್ಯಯ",
+    "meals_ai_avoid": "ತಪ್ಪಿಸಿ (ಅಲರ್ಜಿ, ಇಷ್ಟವಿಲ್ಲದವು)",
+    "meals_ai_avoid_hint": "ಉದಾ. ಕಡಲೆಕಾಯಿ ಅಲರ್ಜಿ, ಹಾಗಲಕಾಯಿ ಬೇಡ",
+    "meals_ai_remember": "ಈ ಆಯ್ಕೆಗಳನ್ನು ನನ್ನ ಕುಟುಂಬಕ್ಕಾಗಿ ನೆನಪಿಡಿ",
+    "meals_ai_profile_by": "ಕುಟುಂಬದ ಆಹಾರ ಪ್ರೊಫೈಲ್ · ಕೊನೆಯದಾಗಿ ಉಳಿಸಿದವರು %1$s"
   }
 }
