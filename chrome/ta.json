@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "குழந்தைகளுக்கு ஏற்றது",
     "meals_goal_quick": "விரைவு (30 நிமி)",
     "meals_goal_diabetic": "சர்க்கரை நோய்க்கு ஏற்றது",
-    "meals_goal_budget": "சிக்கனம்"
+    "meals_goal_budget": "சிக்கனம்",
+    "meals_ai_avoid": "தவிர்க்க (ஒவ்வாமை, பிடிக்காதவை)",
+    "meals_ai_avoid_hint": "எ.கா. வேர்க்கடலை ஒவ்வாமை, பாகற்காய் வேண்டாம்",
+    "meals_ai_remember": "இந்தத் தேர்வுகளை என் குடும்பத்துக்கு நினைவில் வை",
+    "meals_ai_profile_by": "குடும்ப உணவு விவரம் · கடைசியாகச் சேமித்தவர் %1$s"
   }
 }

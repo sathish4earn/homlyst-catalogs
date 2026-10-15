@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "बच्चों के लिए",
     "meals_goal_quick": "जल्दी (30 मिनट)",
     "meals_goal_diabetic": "डायबिटीज़ के अनुकूल",
-    "meals_goal_budget": "किफ़ायती"
+    "meals_goal_budget": "किफ़ायती",
+    "meals_ai_avoid": "इनसे बचें (एलर्जी, नापसंद)",
+    "meals_ai_avoid_hint": "जैसे मूंगफली से एलर्जी, करेला नहीं",
+    "meals_ai_remember": "ये पसंद मेरे परिवार के लिए याद रखें",
+    "meals_ai_profile_by": "परिवार की खाने की प्रोफ़ाइल · आखिरी बार %1$s ने सेव की"
   }
 }

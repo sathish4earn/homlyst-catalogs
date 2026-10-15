@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "બાળકોને અનુકૂળ",
     "meals_goal_quick": "ઝડપી (30 મિનિટ)",
     "meals_goal_diabetic": "ડાયાબિટીસ માટે યોગ્ય",
-    "meals_goal_budget": "કરકસરભર્યું"
+    "meals_goal_budget": "કરકસરભર્યું",
+    "meals_ai_avoid": "ટાળો (એલર્જી, નાપસંદ)",
+    "meals_ai_avoid_hint": "દા.ત. મગફળીની એલર્જી, કારેલાં નહીં",
+    "meals_ai_remember": "આ પસંદગીઓ મારા પરિવાર માટે યાદ રાખો",
+    "meals_ai_profile_by": "પરિવારની ભોજન પ્રોફાઇલ · છેલ્લે %1$s એ સેવ કરી"
   }
 }

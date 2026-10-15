@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "ପିଲାଙ୍କ ପାଇଁ",
     "meals_goal_quick": "ଶୀଘ୍ର (30 ମିନିଟ)",
     "meals_goal_diabetic": "ମଧୁମେହ ପାଇଁ ଉପଯୁକ୍ତ",
-    "meals_goal_budget": "ଶସ୍ତା"
+    "meals_goal_budget": "ଶସ୍ତା",
+    "meals_ai_avoid": "ଏଡ଼ାନ୍ତୁ (ଆଲର୍ଜି, ଅପସନ୍ଦ)",
+    "meals_ai_avoid_hint": "ଯଥା ବାଦାମ ଆଲର୍ଜି, କଲରା ନୁହେଁ",
+    "meals_ai_remember": "ଏହି ପସନ୍ଦ ମୋ ପରିବାର ପାଇଁ ମନେ ରଖନ୍ତୁ",
+    "meals_ai_profile_by": "ପରିବାରର ଖାଦ୍ୟ ପ୍ରୋଫାଇଲ · ଶେଷଥର %1$s ସେଭ କରିଥିଲେ"
   }
 }

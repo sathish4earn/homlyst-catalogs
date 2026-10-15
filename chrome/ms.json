@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "Mesra kanak-kanak",
     "meals_goal_quick": "Cepat (30 minit)",
     "meals_goal_diabetic": "Mesra diabetes",
-    "meals_goal_budget": "Jimat"
+    "meals_goal_budget": "Jimat",
+    "meals_ai_avoid": "Elakkan (alahan, tidak suka)",
+    "meals_ai_avoid_hint": "cth. alahan kacang, tiada peria",
+    "meals_ai_remember": "Ingat pilihan ini untuk keluarga saya",
+    "meals_ai_profile_by": "Profil makanan keluarga · terakhir disimpan oleh %1$s"
   }
 }

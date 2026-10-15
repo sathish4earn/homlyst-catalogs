@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "适合孩子",
     "meals_goal_quick": "快手（30 分钟）",
     "meals_goal_diabetic": "适合糖尿病",
-    "meals_goal_budget": "省钱"
+    "meals_goal_budget": "省钱",
+    "meals_ai_avoid": "忌口（过敏、不爱吃）",
+    "meals_ai_avoid_hint": "如 花生过敏、不要苦瓜",
+    "meals_ai_remember": "为我的家庭记住这些选择",
+    "meals_ai_profile_by": "家庭饮食档案 · 最近由 %1$s 保存"
   }
 }

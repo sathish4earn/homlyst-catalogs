@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "Pour enfants",
     "meals_goal_quick": "Rapide (30 min)",
     "meals_goal_diabetic": "Adapté aux diabétiques",
-    "meals_goal_budget": "Économique"
+    "meals_goal_budget": "Économique",
+    "meals_ai_avoid": "À éviter (allergies, aversions)",
+    "meals_ai_avoid_hint": "ex. allergie aux arachides, pas d'aubergine",
+    "meals_ai_remember": "Mémoriser ces choix pour ma famille",
+    "meals_ai_profile_by": "Profil alimentaire familial · enregistré par %1$s"
   }
 }

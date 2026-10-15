@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1737,6 +1737,10 @@
     "meals_goal_kid_friendly": "పిల్లలకు అనుకూలం",
     "meals_goal_quick": "త్వరగా (30 ని)",
     "meals_goal_diabetic": "మధుమేహానికి అనుకూలం",
-    "meals_goal_budget": "తక్కువ ఖర్చు"
+    "meals_goal_budget": "తక్కువ ఖర్చు",
+    "meals_ai_avoid": "వీటిని నివారించండి (అలర్జీలు, ఇష్టం లేనివి)",
+    "meals_ai_avoid_hint": "ఉదా. వేరుశనగ అలర్జీ, కాకరకాయ వద్దు",
+    "meals_ai_remember": "ఈ ఎంపికలను నా కుటుంబం కోసం గుర్తుంచుకో",
+    "meals_ai_profile_by": "కుటుంబ ఆహార ప్రొఫైల్ · చివరిగా సేవ్ చేసినవారు %1$s"
   }
 }
