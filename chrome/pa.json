@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "ਇਨ੍ਹਾਂ ਤੋਂ ਬਚੋ (ਐਲਰਜੀ, ਨਾਪਸੰਦ)",
     "meals_ai_avoid_hint": "ਜਿਵੇਂ ਮੂੰਗਫਲੀ ਤੋਂ ਐਲਰਜੀ, ਕਰੇਲਾ ਨਹੀਂ",
     "meals_ai_remember": "ਇਹ ਚੋਣਾਂ ਮੇਰੇ ਪਰਿਵਾਰ ਲਈ ਯਾਦ ਰੱਖੋ",
-    "meals_ai_profile_by": "ਪਰਿਵਾਰ ਦੀ ਖਾਣੇ ਦੀ ਪ੍ਰੋਫਾਈਲ · ਆਖ਼ਰੀ ਵਾਰ %1$s ਨੇ ਸੇਵ ਕੀਤੀ"
+    "meals_ai_profile_by": "ਪਰਿਵਾਰ ਦੀ ਖਾਣੇ ਦੀ ਪ੍ਰੋਫਾਈਲ · ਆਖ਼ਰੀ ਵਾਰ %1$s ਨੇ ਸੇਵ ਕੀਤੀ",
+    "meals_today_title": "ਅੱਜ ਦਾ ਖਾਣਾ",
+    "meals_tonight": "ਅੱਜ ਰਾਤ: %1$s"
   }
 }

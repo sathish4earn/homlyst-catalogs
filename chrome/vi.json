@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "Tránh (dị ứng, không thích)",
     "meals_ai_avoid_hint": "ví dụ dị ứng đậu phộng, không mướp đắng",
     "meals_ai_remember": "Ghi nhớ các lựa chọn này cho gia đình tôi",
-    "meals_ai_profile_by": "Hồ sơ ăn uống gia đình · %1$s lưu gần nhất"
+    "meals_ai_profile_by": "Hồ sơ ăn uống gia đình · %1$s lưu gần nhất",
+    "meals_today_title": "Bữa ăn hôm nay",
+    "meals_tonight": "Tối nay: %1$s"
   }
 }

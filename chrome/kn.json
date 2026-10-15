@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "ತಪ್ಪಿಸಿ (ಅಲರ್ಜಿ, ಇಷ್ಟವಿಲ್ಲದವು)",
     "meals_ai_avoid_hint": "ಉದಾ. ಕಡಲೆಕಾಯಿ ಅಲರ್ಜಿ, ಹಾಗಲಕಾಯಿ ಬೇಡ",
     "meals_ai_remember": "ಈ ಆಯ್ಕೆಗಳನ್ನು ನನ್ನ ಕುಟುಂಬಕ್ಕಾಗಿ ನೆನಪಿಡಿ",
-    "meals_ai_profile_by": "ಕುಟುಂಬದ ಆಹಾರ ಪ್ರೊಫೈಲ್ · ಕೊನೆಯದಾಗಿ ಉಳಿಸಿದವರು %1$s"
+    "meals_ai_profile_by": "ಕುಟುಂಬದ ಆಹಾರ ಪ್ರೊಫೈಲ್ · ಕೊನೆಯದಾಗಿ ಉಳಿಸಿದವರು %1$s",
+    "meals_today_title": "ಇಂದಿನ ಊಟಗಳು",
+    "meals_tonight": "ಇಂದು ರಾತ್ರಿ: %1$s"
   }
 }

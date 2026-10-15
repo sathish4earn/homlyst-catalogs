@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "Elakkan (alahan, tidak suka)",
     "meals_ai_avoid_hint": "cth. alahan kacang, tiada peria",
     "meals_ai_remember": "Ingat pilihan ini untuk keluarga saya",
-    "meals_ai_profile_by": "Profil makanan keluarga · terakhir disimpan oleh %1$s"
+    "meals_ai_profile_by": "Profil makanan keluarga · terakhir disimpan oleh %1$s",
+    "meals_today_title": "Hidangan hari ini",
+    "meals_tonight": "Malam ini: %1$s"
   }
 }

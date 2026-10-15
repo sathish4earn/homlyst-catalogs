@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "Avoid (allergies, dislikes)",
     "meals_ai_avoid_hint": "e.g. peanut allergy, no bitter gourd",
     "meals_ai_remember": "Remember these choices for my family",
-    "meals_ai_profile_by": "Family food profile · last saved by %1$s"
+    "meals_ai_profile_by": "Family food profile · last saved by %1$s",
+    "meals_today_title": "Today's meals",
+    "meals_tonight": "Tonight: %1$s"
   }
 }

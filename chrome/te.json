@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "వీటిని నివారించండి (అలర్జీలు, ఇష్టం లేనివి)",
     "meals_ai_avoid_hint": "ఉదా. వేరుశనగ అలర్జీ, కాకరకాయ వద్దు",
     "meals_ai_remember": "ఈ ఎంపికలను నా కుటుంబం కోసం గుర్తుంచుకో",
-    "meals_ai_profile_by": "కుటుంబ ఆహార ప్రొఫైల్ · చివరిగా సేవ్ చేసినవారు %1$s"
+    "meals_ai_profile_by": "కుటుంబ ఆహార ప్రొఫైల్ · చివరిగా సేవ్ చేసినవారు %1$s",
+    "meals_today_title": "ఈరోజు భోజనాలు",
+    "meals_tonight": "ఈ రాత్రి: %1$s"
   }
 }

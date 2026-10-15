@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1741,6 +1741,8 @@
     "meals_ai_avoid": "ଏଡ଼ାନ୍ତୁ (ଆଲର୍ଜି, ଅପସନ୍ଦ)",
     "meals_ai_avoid_hint": "ଯଥା ବାଦାମ ଆଲର୍ଜି, କଲରା ନୁହେଁ",
     "meals_ai_remember": "ଏହି ପସନ୍ଦ ମୋ ପରିବାର ପାଇଁ ମନେ ରଖନ୍ତୁ",
-    "meals_ai_profile_by": "ପରିବାରର ଖାଦ୍ୟ ପ୍ରୋଫାଇଲ · ଶେଷଥର %1$s ସେଭ କରିଥିଲେ"
+    "meals_ai_profile_by": "ପରିବାରର ଖାଦ୍ୟ ପ୍ରୋଫାଇଲ · ଶେଷଥର %1$s ସେଭ କରିଥିଲେ",
+    "meals_today_title": "ଆଜିର ଭୋଜନ",
+    "meals_tonight": "ଆଜି ରାତି: %1$s"
   }
 }
