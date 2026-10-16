@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1781,6 +1781,9 @@
     "steps_why_title": "Pourquoi HomLyst lit vos pas",
     "steps_why_body": "HomLyst lit uniquement votre nombre de pas quotidien depuis Health Connect, et seulement après que vous avez activé Pas en famille.\n\n• Vous voyez vos propres pas du jour.\n• Si vous le choisissez, les membres de votre Espace famille voient votre total quotidien, vous encouragent et marchent vers un objectif commun.\n\nNous ne lisons jamais d'autres données de santé, n'écrivons jamais dans Health Connect et ne partageons jamais vos pas avec des annonceurs ou qui que ce soit hors de votre famille. Arrêtez le partage à tout moment : vos pas partagés sont alors supprimés.",
     "steps_why_policy": "Lire la politique de confidentialité",
-    "home_steps_body": "Marchez ensemble — voyez les pas de votre famille"
+    "home_steps_body": "Marchez ensemble — voyez les pas de votre famille",
+    "steps_zero_hint": "Aucun pas pour l'instant. Vérifiez que votre appli de pas (ex. Google Fit) est connectée à Health Connect et autorisée à partager les Pas.",
+    "steps_open_hc": "Ouvrir Health Connect",
+    "steps_count_short": "%1$s pas"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1781,6 +1781,9 @@
     "steps_why_title": "Mengapa HomLyst membaca langkah anda",
     "steps_why_body": "HomLyst hanya membaca kiraan langkah harian anda daripada Health Connect, dan hanya selepas anda menghidupkan Langkah Keluarga.\n\n• Anda melihat langkah harian anda sendiri.\n• Jika anda pilih, ahli Ruang Keluarga anda melihat jumlah harian anda, memberi semangat dan berjalan ke arah matlamat bersama.\n\nKami tidak pernah membaca data kesihatan lain, tidak pernah menulis ke Health Connect, dan tidak pernah berkongsi langkah anda dengan pengiklan atau sesiapa di luar keluarga anda. Berhenti berkongsi bila-bila masa — langkah yang dikongsi kemudian dipadam.",
     "steps_why_policy": "Baca dasar privasi",
-    "home_steps_body": "Berjalan bersama — lihat langkah keluarga"
+    "home_steps_body": "Berjalan bersama — lihat langkah keluarga",
+    "steps_zero_hint": "Belum ada langkah. Pastikan apl langkah anda (cth. Google Fit) disambung ke Health Connect dan dibenarkan berkongsi Langkah.",
+    "steps_open_hc": "Buka Health Connect",
+    "steps_count_short": "%1$s langkah"
   }
 }
