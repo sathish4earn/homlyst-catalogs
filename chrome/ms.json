@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "Berjalan bersama — lihat langkah keluarga",
     "steps_zero_hint": "Belum ada langkah. Pastikan apl langkah anda (cth. Google Fit) disambung ke Health Connect dan dibenarkan berkongsi Langkah.",
     "steps_open_hc": "Buka Health Connect",
-    "steps_count_short": "%1$s langkah"
+    "steps_count_short": "%1$s langkah",
+    "steps_tagline": "Berjalan bersama, kekal sihat",
+    "steps_label": "langkah"
   }
 }

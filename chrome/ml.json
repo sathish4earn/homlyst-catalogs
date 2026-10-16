@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "ഒരുമിച്ച് നടക്കാം — കുടുംബത്തിന്റെ ചുവടുകൾ കാണാം",
     "steps_zero_hint": "ഇതുവരെ ചുവടുകൾ കണ്ടില്ല. നിങ്ങളുടെ സ്റ്റെപ് ആപ്പ് (ഉദാ. Google Fit) Health Connect-മായി ബന്ധിപ്പിച്ച് Steps പങ്കിടാൻ അനുവാദം ഉണ്ടോ എന്ന് നോക്കുക.",
     "steps_open_hc": "Health Connect തുറക്കുക",
-    "steps_count_short": "%1$s ചുവടുകൾ"
+    "steps_count_short": "%1$s ചുവടുകൾ",
+    "steps_tagline": "ഒരുമിച്ച് നടക്കാം, ആരോഗ്യത്തോടെ ഇരിക്കാം",
+    "steps_label": "ചുവടുകൾ"
   }
 }

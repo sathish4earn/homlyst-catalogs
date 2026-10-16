@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "சேர்ந்து நடங்கள் — குடும்பத்தின் அடிகளைப் பாருங்கள்",
     "steps_zero_hint": "இன்னும் அடிகள் இல்லை. உங்கள் அடி ஆப் (எ.கா. Google Fit) Health Connect உடன் இணைக்கப்பட்டு Steps பகிர அனுமதி உள்ளதா எனப் பாருங்கள்.",
     "steps_open_hc": "Health Connect திற",
-    "steps_count_short": "%1$s அடிகள்"
+    "steps_count_short": "%1$s அடிகள்",
+    "steps_tagline": "சேர்ந்து நடப்போம், ஆரோக்கியமாக இருப்போம்",
+    "steps_label": "அடிகள்"
   }
 }

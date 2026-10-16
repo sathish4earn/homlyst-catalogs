@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "સાથે ચાલો — પરિવારનાં પગલાં જુઓ",
     "steps_zero_hint": "હજી કોઈ પગલાં મળ્યાં નથી. તમારી સ્ટેપ એપ (દા.ત. Google Fit) Health Connect સાથે જોડાયેલ છે અને Steps શેર કરવાની મંજૂરી છે કે નહીં તે જુઓ.",
     "steps_open_hc": "Health Connect ખોલો",
-    "steps_count_short": "%1$s પગલાં"
+    "steps_count_short": "%1$s પગલાં",
+    "steps_tagline": "સાથે ચાલો, સ્વસ્થ રહો",
+    "steps_label": "પગલાં"
   }
 }

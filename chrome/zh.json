@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "一起走 — 看看家人的步数",
     "steps_zero_hint": "还没有步数。请确认你的计步应用（如 Google Fit）已连接 Health Connect 并允许共享步数。",
     "steps_open_hc": "打开 Health Connect",
-    "steps_count_short": "%1$s 步"
+    "steps_count_short": "%1$s 步",
+    "steps_tagline": "一起走，更健康",
+    "steps_label": "步"
   }
 }

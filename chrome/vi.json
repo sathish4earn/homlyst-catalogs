@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "Cùng đi bộ — xem số bước của gia đình",
     "steps_zero_hint": "Chưa có bước nào. Hãy kiểm tra ứng dụng đếm bước (vd. Google Fit) đã kết nối Health Connect và được phép chia sẻ Số bước.",
     "steps_open_hc": "Mở Health Connect",
-    "steps_count_short": "%1$s bước"
+    "steps_count_short": "%1$s bước",
+    "steps_tagline": "Cùng nhau đi bộ, khỏe mạnh hơn",
+    "steps_label": "bước"
   }
 }
