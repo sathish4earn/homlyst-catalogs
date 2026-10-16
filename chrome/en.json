@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1818,6 +1818,7 @@
     "mood_privacy": "Only your family sees your mood. It's kept for 30 days, never shared with anyone else.",
     "mood_home_title": "How's everyone today?",
     "mood_home_share": "Share yours",
-    "mood_home_empty": "Nobody has shared today yet. How are you feeling?"
+    "mood_home_empty": "Nobody has shared today yet. How are you feeling?",
+    "steps_share_soon": "See your family's steps here. Sharing your own steps is coming soon."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1818,6 +1818,7 @@
     "mood_privacy": "Chỉ gia đình thấy tâm trạng của bạn. Lưu 30 ngày, không bao giờ chia sẻ cho ai khác.",
     "mood_home_title": "Hôm nay mọi người thế nào?",
     "mood_home_share": "Chia sẻ của bạn",
-    "mood_home_empty": "Hôm nay chưa ai chia sẻ. Bạn thấy thế nào?"
+    "mood_home_empty": "Hôm nay chưa ai chia sẻ. Bạn thấy thế nào?",
+    "steps_share_soon": "Xem số bước của gia đình ở đây. Chia sẻ số bước của bạn sắp có."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1818,6 +1818,7 @@
     "mood_privacy": "Hanya keluargamu yang melihat suasana hatimu. Disimpan 30 hari, tidak pernah dibagikan ke orang lain.",
     "mood_home_title": "Bagaimana semua hari ini?",
     "mood_home_share": "Bagikan punyamu",
-    "mood_home_empty": "Belum ada yang berbagi hari ini. Bagaimana perasaanmu?"
+    "mood_home_empty": "Belum ada yang berbagi hari ini. Bagaimana perasaanmu?",
+    "steps_share_soon": "Lihat langkah keluarga di sini. Berbagi langkahmu sendiri segera hadir."
   }
 }
