@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1781,6 +1781,9 @@
     "steps_why_title": "Why HomLyst reads your steps",
     "steps_why_body": "HomLyst reads only your daily step count from Health Connect, and only after you turn on Family Steps.\n\n• You see your own daily steps.\n• If you choose, the members of your Family Space see your daily total, cheer you on and walk toward a shared goal.\n\nWe never read other health data, never write to Health Connect, and never share your steps with advertisers or anyone outside your family. Stop sharing any time — your shared steps are then deleted.",
     "steps_why_policy": "Read the privacy policy",
-    "home_steps_body": "Walk together — see your family's steps"
+    "home_steps_body": "Walk together — see your family's steps",
+    "steps_zero_hint": "No steps found yet. Make sure your step app (e.g. Google Fit) is connected to Health Connect and allowed to share Steps.",
+    "steps_open_hc": "Open Health Connect",
+    "steps_count_short": "%1$s steps"
   }
 }

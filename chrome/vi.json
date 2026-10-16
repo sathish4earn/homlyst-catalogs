@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1781,6 +1781,9 @@
     "steps_why_title": "Vì sao HomLyst đọc số bước của bạn",
     "steps_why_body": "HomLyst chỉ đọc số bước mỗi ngày của bạn từ Health Connect, và chỉ sau khi bạn bật Bước chân gia đình.\n\n• Bạn thấy số bước mỗi ngày của chính mình.\n• Nếu bạn chọn, thành viên Không gian gia đình thấy tổng hằng ngày của bạn, cổ vũ bạn và cùng đi tới một mục tiêu chung.\n\nChúng tôi không đọc dữ liệu sức khỏe khác, không ghi vào Health Connect, và không chia sẻ số bước của bạn với nhà quảng cáo hay bất kỳ ai ngoài gia đình. Dừng chia sẻ bất cứ lúc nào — số bước đã chia sẻ sẽ bị xóa.",
     "steps_why_policy": "Đọc chính sách quyền riêng tư",
-    "home_steps_body": "Cùng đi bộ — xem số bước của gia đình"
+    "home_steps_body": "Cùng đi bộ — xem số bước của gia đình",
+    "steps_zero_hint": "Chưa có bước nào. Hãy kiểm tra ứng dụng đếm bước (vd. Google Fit) đã kết nối Health Connect và được phép chia sẻ Số bước.",
+    "steps_open_hc": "Mở Health Connect",
+    "steps_count_short": "%1$s bước"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1781,6 +1781,9 @@
     "steps_why_title": "Por que o HomLyst lê seus passos",
     "steps_why_body": "O HomLyst lê apenas sua contagem diária de passos do Health Connect, e só depois que você ativa Passos em família.\n\n• Você vê seus próprios passos diários.\n• Se você escolher, os membros do seu Espaço da família veem seu total diário, torcem por você e caminham rumo a uma meta compartilhada.\n\nNunca lemos outros dados de saúde, nunca gravamos no Health Connect e nunca compartilhamos seus passos com anunciantes ou com alguém fora da sua família. Pare de compartilhar quando quiser — seus passos compartilhados são então apagados.",
     "steps_why_policy": "Ler a política de privacidade",
-    "home_steps_body": "Caminhem juntos — veja os passos da família"
+    "home_steps_body": "Caminhem juntos — veja os passos da família",
+    "steps_zero_hint": "Nenhum passo ainda. Verifique se seu app de passos (ex. Google Fit) está conectado ao Health Connect e pode compartilhar Passos.",
+    "steps_open_hc": "Abrir o Health Connect",
+    "steps_count_short": "%1$s passos"
   }
 }

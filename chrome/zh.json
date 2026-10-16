@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1781,6 +1781,9 @@
     "steps_why_title": "HomLyst 为什么读取你的步数",
     "steps_why_body": "HomLyst 只从 Health Connect 读取你每天的步数，而且只在你开启家庭步数之后。\n\n• 你可以看到自己每天的步数。\n• 如果你愿意，家庭空间的成员能看到你每天的总步数，为你加油，并一起朝共同目标前进。\n\n我们绝不读取其他健康数据，绝不向 Health Connect 写入数据，也绝不把你的步数分享给广告商或家庭以外的任何人。随时可以停止分享 — 已分享的步数随即删除。",
     "steps_why_policy": "阅读隐私政策",
-    "home_steps_body": "一起走 — 看看家人的步数"
+    "home_steps_body": "一起走 — 看看家人的步数",
+    "steps_zero_hint": "还没有步数。请确认你的计步应用（如 Google Fit）已连接 Health Connect 并允许共享步数。",
+    "steps_open_hc": "打开 Health Connect",
+    "steps_count_short": "%1$s 步"
   }
 }
