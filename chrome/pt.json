@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "Caminhem juntos — veja os passos da família",
     "steps_zero_hint": "Nenhum passo ainda. Verifique se seu app de passos (ex. Google Fit) está conectado ao Health Connect e pode compartilhar Passos.",
     "steps_open_hc": "Abrir o Health Connect",
-    "steps_count_short": "%1$s passos"
+    "steps_count_short": "%1$s passos",
+    "steps_tagline": "Caminhem juntos, vivam mais saudáveis",
+    "steps_label": "passos"
   }
 }

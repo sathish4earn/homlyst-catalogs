@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "सोबत चला — कुटुंबाची पावले पाहा",
     "steps_zero_hint": "अजून पावले सापडली नाहीत. तुमचे स्टेप ॲप (उदा. Google Fit) Health Connect शी जोडले आहे आणि Steps शेअर करण्याची परवानगी आहे का ते पाहा.",
     "steps_open_hc": "Health Connect उघडा",
-    "steps_count_short": "%1$s पावले"
+    "steps_count_short": "%1$s पावले",
+    "steps_tagline": "सोबत चला, निरोगी राहा",
+    "steps_label": "पावले"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "Marchez ensemble — voyez les pas de votre famille",
     "steps_zero_hint": "Aucun pas pour l'instant. Vérifiez que votre appli de pas (ex. Google Fit) est connectée à Health Connect et autorisée à partager les Pas.",
     "steps_open_hc": "Ouvrir Health Connect",
-    "steps_count_short": "%1$s pas"
+    "steps_count_short": "%1$s pas",
+    "steps_tagline": "Marchez ensemble, restez en forme",
+    "steps_label": "pas"
   }
 }

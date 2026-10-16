@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "ଏକାଠି ଚାଲନ୍ତୁ — ପରିବାରର ପାଦ ଦେଖନ୍ତୁ",
     "steps_zero_hint": "ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ପାଦ ମିଳିନାହିଁ। ଆପଣଙ୍କ ଷ୍ଟେପ ଆପ (ଯଥା Google Fit) Health Connect ସହ ଯୋଡ଼ା ହୋଇ Steps ସେୟାର ଅନୁମତି ଅଛି କି ନାହିଁ ଦେଖନ୍ତୁ।",
     "steps_open_hc": "Health Connect ଖୋଲନ୍ତୁ",
-    "steps_count_short": "%1$s ପାଦ"
+    "steps_count_short": "%1$s ପାଦ",
+    "steps_tagline": "ଏକାଠି ଚାଲନ୍ତୁ, ସୁସ୍ଥ ରୁହନ୍ତୁ",
+    "steps_label": "ପାଦ"
   }
 }

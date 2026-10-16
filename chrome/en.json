@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "Walk together — see your family's steps",
     "steps_zero_hint": "No steps found yet. Make sure your step app (e.g. Google Fit) is connected to Health Connect and allowed to share Steps.",
     "steps_open_hc": "Open Health Connect",
-    "steps_count_short": "%1$s steps"
+    "steps_count_short": "%1$s steps",
+    "steps_tagline": "Walk together, stay healthier",
+    "steps_label": "steps"
   }
 }

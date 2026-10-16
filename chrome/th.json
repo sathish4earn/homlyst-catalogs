@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "เดินด้วยกัน — ดูก้าวของครอบครัว",
     "steps_zero_hint": "ยังไม่พบจำนวนก้าว ตรวจสอบว่าแอปนับก้าว (เช่น Google Fit) เชื่อมต่อกับ Health Connect และได้รับอนุญาตให้แชร์ก้าวแล้ว",
     "steps_open_hc": "เปิด Health Connect",
-    "steps_count_short": "%1$s ก้าว"
+    "steps_count_short": "%1$s ก้าว",
+    "steps_tagline": "เดินด้วยกัน สุขภาพดีกว่า",
+    "steps_label": "ก้าว"
   }
 }

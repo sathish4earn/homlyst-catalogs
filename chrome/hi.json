@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "साथ चलें — परिवार के कदम देखें",
     "steps_zero_hint": "अभी कोई कदम नहीं मिले। देखें कि आपका स्टेप ऐप (जैसे Google Fit) Health Connect से जुड़ा है और Steps साझा करने की अनुमति है।",
     "steps_open_hc": "Health Connect खोलें",
-    "steps_count_short": "%1$s कदम"
+    "steps_count_short": "%1$s कदम",
+    "steps_tagline": "साथ चलें, सेहतमंद रहें",
+    "steps_label": "कदम"
   }
 }

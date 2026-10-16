@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "ಜೊತೆಗೆ ನಡೆಯಿರಿ — ಕುಟುಂಬದ ಹೆಜ್ಜೆಗಳನ್ನು ನೋಡಿ",
     "steps_zero_hint": "ಇನ್ನೂ ಹೆಜ್ಜೆಗಳು ಸಿಕ್ಕಿಲ್ಲ. ನಿಮ್ಮ ಹೆಜ್ಜೆ ಆ್ಯಪ್ (ಉದಾ. Google Fit) Health Connect ಗೆ ಸಂಪರ್ಕಗೊಂಡು Steps ಹಂಚಲು ಅನುಮತಿ ಇದೆಯೇ ನೋಡಿ.",
     "steps_open_hc": "Health Connect ತೆರೆಯಿರಿ",
-    "steps_count_short": "%1$s ಹೆಜ್ಜೆಗಳು"
+    "steps_count_short": "%1$s ಹೆಜ್ಜೆಗಳು",
+    "steps_tagline": "ಜೊತೆಗೆ ನಡೆಯೋಣ, ಆರೋಗ್ಯವಾಗಿರೋಣ",
+    "steps_label": "ಹೆಜ್ಜೆಗಳು"
   }
 }

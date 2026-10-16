@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1784,6 +1784,8 @@
     "home_steps_body": "కలిసి నడవండి — కుటుంబం అడుగులు చూడండి",
     "steps_zero_hint": "ఇంకా అడుగులు కనబడలేదు. మీ స్టెప్ యాప్ (ఉదా. Google Fit) Health Connectకు కనెక్ట్ అయి, Steps పంచుకోవడానికి అనుమతి ఉందో చూడండి.",
     "steps_open_hc": "Health Connect తెరవండి",
-    "steps_count_short": "%1$s అడుగులు"
+    "steps_count_short": "%1$s అడుగులు",
+    "steps_tagline": "కలిసి నడుద్దాం, ఆరోగ్యంగా ఉందాం",
+    "steps_label": "అడుగులు"
   }
 }
