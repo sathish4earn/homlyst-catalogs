@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "Bagaimana semua hari ini?",
     "mood_home_share": "Bagikan punyamu",
     "mood_home_empty": "Belum ada yang berbagi hari ini. Bagaimana perasaanmu?",
-    "steps_share_soon": "Lihat langkah keluarga di sini. Berbagi langkahmu sendiri segera hadir."
+    "steps_share_soon": "Lihat langkah keluarga di sini. Berbagi langkahmu sendiri segera hadir.",
+    "steps_guide_link": "Langkah tidak muncul? Panduan pengaturan",
+    "steps_guide_link_stuck": "Atur langkahmu dalam 4 langkah mudah",
+    "steps_guide_title": "Atur langkahmu",
+    "steps_guide_sub": "Keempatnya perlu ✓ agar langkahmu muncul di sini.",
+    "steps_guide_1_title": "Health Connect ada di ponselmu",
+    "steps_guide_1_body": "Bawaan di Android 14 dan yang lebih baru. Di ponsel lama, pasang aplikasi gratis Health Connect dari Play Store.",
+    "steps_guide_2_title": "Aplikasi langkahmu mengirim langkah ke Health Connect",
+    "steps_guide_2_body": "Google Fit: Profil → ⚙️ Setelan → aktifkan \"Sync Fit with Health Connect\". Samsung Health atau Mi Fitness: buka Setelan → Health Connect → izinkan Langkah.",
+    "steps_guide_3_title": "HomLyst bisa membaca langkahmu",
+    "steps_guide_3_body": "Izinkan HomLyst membaca Langkah di Health Connect. Hanya jumlah langkah harian — tidak ada yang lain.",
+    "steps_guide_4_title": "Bagikan ke keluarga",
+    "steps_guide_4_body": "Di Langkah Keluarga, aktifkan \"Bagikan langkah harian saya\" untuk keluargamu.",
+    "steps_guide_wait": "Pertama kali, langkah bisa butuh beberapa menit untuk muncul. Jalan sebentar lalu ketuk Periksa lagi.",
+    "steps_guide_check": "Periksa lagi",
+    "steps_guide_open_fit": "Buka Google Fit",
+    "steps_guide_allow": "Izinkan"
   }
 }

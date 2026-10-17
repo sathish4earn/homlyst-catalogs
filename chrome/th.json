@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "วันนี้ทุกคนเป็นอย่างไร?",
     "mood_home_share": "แชร์ของคุณ",
     "mood_home_empty": "วันนี้ยังไม่มีใครแชร์ คุณรู้สึกอย่างไร?",
-    "steps_share_soon": "ดูจำนวนก้าวของครอบครัวที่นี่ การแชร์ก้าวของคุณเองเร็วๆ นี้"
+    "steps_share_soon": "ดูจำนวนก้าวของครอบครัวที่นี่ การแชร์ก้าวของคุณเองเร็วๆ นี้",
+    "steps_guide_link": "ไม่เห็นจำนวนก้าว? คู่มือตั้งค่า",
+    "steps_guide_link_stuck": "ตั้งค่าก้าวใน 4 ขั้นตอนง่ายๆ",
+    "steps_guide_title": "ตั้งค่าจำนวนก้าว",
+    "steps_guide_sub": "ต้องมี ✓ ครบทั้งสี่ข้อ จำนวนก้าวจึงจะแสดงที่นี่",
+    "steps_guide_1_title": "มี Health Connect ในโทรศัพท์แล้ว",
+    "steps_guide_1_body": "มีมาในตัวใน Android 14 ขึ้นไป โทรศัพท์รุ่นเก่าให้ติดตั้งแอป Health Connect ฟรีจาก Play Store",
+    "steps_guide_2_title": "แอปนับก้าวส่งก้าวไปยัง Health Connect",
+    "steps_guide_2_body": "Google Fit: โปรไฟล์ → ⚙️ การตั้งค่า → เปิด \"Sync Fit with Health Connect\" Samsung Health หรือ Mi Fitness: เปิดการตั้งค่า → Health Connect → อนุญาตก้าว",
+    "steps_guide_3_title": "HomLyst อ่านจำนวนก้าวได้",
+    "steps_guide_3_body": "อนุญาตให้ HomLyst อ่านก้าวใน Health Connect เฉพาะจำนวนก้าวรายวัน — ไม่มีอย่างอื่น",
+    "steps_guide_4_title": "แชร์กับครอบครัว",
+    "steps_guide_4_body": "ในก้าวเดินครอบครัว เปิด \"แชร์ก้าวรายวันของฉัน\" สำหรับครอบครัว",
+    "steps_guide_wait": "ครั้งแรกอาจใช้เวลาไม่กี่นาทีกว่าจำนวนก้าวจะมา เดินสักหน่อยแล้วแตะตรวจสอบอีกครั้ง",
+    "steps_guide_check": "ตรวจสอบอีกครั้ง",
+    "steps_guide_open_fit": "เปิด Google Fit",
+    "steps_guide_allow": "อนุญาต"
   }
 }

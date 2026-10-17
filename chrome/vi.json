@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "Hôm nay mọi người thế nào?",
     "mood_home_share": "Chia sẻ của bạn",
     "mood_home_empty": "Hôm nay chưa ai chia sẻ. Bạn thấy thế nào?",
-    "steps_share_soon": "Xem số bước của gia đình ở đây. Chia sẻ số bước của bạn sắp có."
+    "steps_share_soon": "Xem số bước của gia đình ở đây. Chia sẻ số bước của bạn sắp có.",
+    "steps_guide_link": "Không thấy số bước? Hướng dẫn cài đặt",
+    "steps_guide_link_stuck": "Cài đặt số bước trong 4 bước dễ dàng",
+    "steps_guide_title": "Cài đặt số bước",
+    "steps_guide_sub": "Cả bốn cần có ✓ để số bước hiển thị ở đây.",
+    "steps_guide_1_title": "Điện thoại đã có Health Connect",
+    "steps_guide_1_body": "Có sẵn trên Android 14 trở lên. Điện thoại cũ hơn, hãy cài ứng dụng Health Connect miễn phí từ Play Store.",
+    "steps_guide_2_title": "Ứng dụng đếm bước gửi số bước tới Health Connect",
+    "steps_guide_2_body": "Google Fit: Hồ sơ → ⚙️ Cài đặt → bật \"Sync Fit with Health Connect\". Samsung Health hoặc Mi Fitness: mở Cài đặt → Health Connect → cho phép Số bước.",
+    "steps_guide_3_title": "HomLyst có thể đọc số bước",
+    "steps_guide_3_body": "Cho phép HomLyst đọc Số bước trong Health Connect. Chỉ số bước mỗi ngày — không gì khác.",
+    "steps_guide_4_title": "Chia sẻ với gia đình",
+    "steps_guide_4_body": "Trong Bước chân gia đình, bật \"Chia sẻ số bước hằng ngày\" cho gia đình.",
+    "steps_guide_wait": "Lần đầu, số bước có thể mất vài phút mới tới. Đi bộ một chút rồi nhấn Kiểm tra lại.",
+    "steps_guide_check": "Kiểm tra lại",
+    "steps_guide_open_fit": "Mở Google Fit",
+    "steps_guide_allow": "Cho phép"
   }
 }

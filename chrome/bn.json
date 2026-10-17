@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "আজ সবাই কেমন?",
     "mood_home_share": "আপনারটা জানান",
     "mood_home_empty": "আজ এখনো কেউ শেয়ার করেনি। আপনি কেমন আছেন?",
-    "steps_share_soon": "পরিবারের পদক্ষেপ এখানে দেখুন। নিজের পদক্ষেপ শেয়ার করা শীঘ্রই আসছে।"
+    "steps_share_soon": "পরিবারের পদক্ষেপ এখানে দেখুন। নিজের পদক্ষেপ শেয়ার করা শীঘ্রই আসছে।",
+    "steps_guide_link": "পদক্ষেপ দেখছেন না? সেটআপ গাইড",
+    "steps_guide_link_stuck": "4টি সহজ ধাপে পদক্ষেপ সেট করুন",
+    "steps_guide_title": "আপনার পদক্ষেপ সেট করুন",
+    "steps_guide_sub": "এখানে পদক্ষেপ দেখাতে চারটিতেই ✓ দরকার।",
+    "steps_guide_1_title": "আপনার ফোনে Health Connect আছে",
+    "steps_guide_1_body": "Android 14 ও নতুনে আগে থেকেই আছে। পুরনো ফোনে Play Store থেকে ফ্রি Health Connect অ্যাপ ইনস্টল করুন।",
+    "steps_guide_2_title": "আপনার স্টেপ অ্যাপ Health Connect-এ পদক্ষেপ পাঠায়",
+    "steps_guide_2_body": "Google Fit: Profile → ⚙️ Settings → \"Sync Fit with Health Connect\" চালু করুন। Samsung Health বা Mi Fitness: তার Settings → Health Connect → Steps অনুমতি দিন।",
+    "steps_guide_3_title": "HomLyst আপনার পদক্ষেপ পড়তে পারে",
+    "steps_guide_3_body": "Health Connect-এ HomLyst-কে Steps পড়ার অনুমতি দিন। শুধু রোজকার পদক্ষেপ — আর কিছু নয়।",
+    "steps_guide_4_title": "পরিবারের সাথে শেয়ার করুন",
+    "steps_guide_4_body": "ফ্যামিলি স্টেপসে আপনার পরিবারের জন্য \"আমার রোজকার পদক্ষেপ শেয়ার করুন\" চালু করুন।",
+    "steps_guide_wait": "প্রথমবার পদক্ষেপ আসতে কয়েক মিনিট লাগতে পারে। একটু হাঁটুন এবং আবার দেখুন চাপুন।",
+    "steps_guide_check": "আবার দেখুন",
+    "steps_guide_open_fit": "Google Fit খুলুন",
+    "steps_guide_allow": "অনুমতি দিন"
   }
 }
