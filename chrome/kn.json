@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "ಮೊದಲ ಬಾರಿ ಹೆಜ್ಜೆಗಳು ಬರಲು ಕೆಲವು ನಿಮಿಷ ಆಗಬಹುದು. ಸ್ವಲ್ಪ ನಡೆದು ಮತ್ತೆ ಪರಿಶೀಲಿಸಿ ಒತ್ತಿ.",
     "steps_guide_check": "ಮತ್ತೆ ಪರಿಶೀಲಿಸಿ",
     "steps_guide_open_fit": "Google Fit ತೆರೆಯಿರಿ",
-    "steps_guide_allow": "ಅನುಮತಿಸಿ"
+    "steps_guide_allow": "ಅನುಮತಿಸಿ",
+    "notif_xiaomi_no_token": "ನಿಮ್ಮ ಫೋನ್ ಇನ್ನೂ HomLyst ಅನ್ನು ತಡೆಯುತ್ತಿದೆ. ಈಗ ತೆರೆಯುವ ಸೆಟ್ಟಿಂಗ್ಸ್‌ನಲ್ಲಿ: Autostart ಆನ್ ಮಾಡಿ, Battery saver ಅನ್ನು No restrictions ಮಾಡಿ, Notifications ಅನುಮತಿಸಿ — ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+    "notif_xiaomi_tip_title": "ನಿಮ್ಮ Xiaomi ಫೋನ್‌ನಲ್ಲಿ ಅಧಿಸೂಚನೆ ಪಡೆಯಿರಿ",
+    "notif_xiaomi_tip_body": "Xiaomi, Redmi, POCO ಫೋನ್‌ಗಳು ಹೊಸ ಆ್ಯಪ್‌ಗಳ ಅಧಿಸೂಚನೆ ತಡೆಯುತ್ತವೆ. HomLyst ಸೆಟ್ಟಿಂಗ್ಸ್ ತೆರೆದು Autostart ಆನ್ ಮಾಡಿ, Battery saver ಅನ್ನು No restrictions ಮಾಡಿ, Notifications ಅನುಮತಿಸಿ.",
+    "notif_xiaomi_tip_open": "ಸೆಟ್ಟಿಂಗ್ಸ್ ತೆರೆಯಿರಿ",
+    "notif_xiaomi_tip_later": "ನಂತರ"
   }
 }

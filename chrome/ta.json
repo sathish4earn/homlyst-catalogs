@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "முதல் முறை அடிகள் வர சில நிமிடங்கள் ஆகலாம். கொஞ்சம் நடந்து மீண்டும் சரிபார் தட்டுங்கள்.",
     "steps_guide_check": "மீண்டும் சரிபார்",
     "steps_guide_open_fit": "Google Fit திற",
-    "steps_guide_allow": "அனுமதி"
+    "steps_guide_allow": "அனுமதி",
+    "notif_xiaomi_no_token": "உங்கள் போன் இன்னும் HomLyst-ஐத் தடுக்கிறது. இப்போது திறக்கும் அமைப்புகளில்: Autostart ஆன் செய்யுங்கள், Battery saver-ஐ No restrictions ஆக்குங்கள், Notifications அனுமதியுங்கள் — பிறகு மீண்டும் முயலுங்கள்.",
+    "notif_xiaomi_tip_title": "உங்கள் Xiaomi போனில் அறிவிப்புகளைப் பெறுங்கள்",
+    "notif_xiaomi_tip_body": "Xiaomi, Redmi, POCO போன்கள் புதிய ஆப்களின் அறிவிப்புகளைத் தடுக்கின்றன. HomLyst அமைப்புகளைத் திறந்து Autostart ஆன் செய்யுங்கள், Battery saver-ஐ No restrictions ஆக்குங்கள், Notifications அனுமதியுங்கள் — குடும்பப் பட்டியல்களைத் தவறவிடாமல் இருக்க.",
+    "notif_xiaomi_tip_open": "அமைப்புகளைத் திற",
+    "notif_xiaomi_tip_later": "பிறகு"
   }
 }

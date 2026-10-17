@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "पहिल्यांदा पावले येण्यास काही मिनिटे लागू शकतात. थोडे चाला आणि पुन्हा तपासा दाबा.",
     "steps_guide_check": "पुन्हा तपासा",
     "steps_guide_open_fit": "Google Fit उघडा",
-    "steps_guide_allow": "परवानगी द्या"
+    "steps_guide_allow": "परवानगी द्या",
+    "notif_xiaomi_no_token": "तुमचा फोन अजूनही HomLyst ला अडवत आहे. आता उघडणाऱ्या सेटिंग्जमध्ये: Autostart सुरू करा, Battery saver ला No restrictions करा आणि Notifications ला परवानगी द्या — मग पुन्हा प्रयत्न करा.",
+    "notif_xiaomi_tip_title": "तुमच्या Xiaomi फोनवर सूचना मिळवा",
+    "notif_xiaomi_tip_body": "Xiaomi, Redmi आणि POCO फोन नवीन ॲप्सच्या सूचना अडवतात. HomLyst ची सेटिंग्ज उघडा, Autostart सुरू करा, Battery saver ला No restrictions करा आणि Notifications ला परवानगी द्या.",
+    "notif_xiaomi_tip_open": "सेटिंग्ज उघडा",
+    "notif_xiaomi_tip_later": "नंतर"
   }
 }

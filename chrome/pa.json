@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "ਪਹਿਲੀ ਵਾਰ ਕਦਮ ਆਉਣ ਵਿੱਚ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ। ਥੋੜ੍ਹਾ ਚੱਲੋ ਅਤੇ ਮੁੜ ਜਾਂਚੋ ਦਬਾਓ।",
     "steps_guide_check": "ਮੁੜ ਜਾਂਚੋ",
     "steps_guide_open_fit": "Google Fit ਖੋਲ੍ਹੋ",
-    "steps_guide_allow": "ਇਜਾਜ਼ਤ ਦਿਓ"
+    "steps_guide_allow": "ਇਜਾਜ਼ਤ ਦਿਓ",
+    "notif_xiaomi_no_token": "ਤੁਹਾਡਾ ਫ਼ੋਨ ਅਜੇ ਵੀ HomLyst ਨੂੰ ਰੋਕ ਰਿਹਾ ਹੈ। ਹੁਣ ਖੁੱਲ੍ਹਣ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ: Autostart ਚਾਲੂ ਕਰੋ, Battery saver ਨੂੰ No restrictions ਕਰੋ ਅਤੇ Notifications ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ — ਫਿਰ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "notif_xiaomi_tip_title": "ਆਪਣੇ Xiaomi ਫ਼ੋਨ 'ਤੇ ਸੂਚਨਾਵਾਂ ਪਾਓ",
+    "notif_xiaomi_tip_body": "Xiaomi, Redmi ਅਤੇ POCO ਫ਼ੋਨ ਨਵੀਆਂ ਐਪਾਂ ਦੀਆਂ ਸੂਚਨਾਵਾਂ ਰੋਕਦੇ ਹਨ। HomLyst ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ, Autostart ਚਾਲੂ ਕਰੋ, Battery saver ਨੂੰ No restrictions ਕਰੋ ਅਤੇ Notifications ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।",
+    "notif_xiaomi_tip_open": "ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ",
+    "notif_xiaomi_tip_later": "ਬਾਅਦ ਵਿੱਚ"
   }
 }

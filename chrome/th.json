@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "ครั้งแรกอาจใช้เวลาไม่กี่นาทีกว่าจำนวนก้าวจะมา เดินสักหน่อยแล้วแตะตรวจสอบอีกครั้ง",
     "steps_guide_check": "ตรวจสอบอีกครั้ง",
     "steps_guide_open_fit": "เปิด Google Fit",
-    "steps_guide_allow": "อนุญาต"
+    "steps_guide_allow": "อนุญาต",
+    "notif_xiaomi_no_token": "โทรศัพท์ยังบล็อก HomLyst อยู่ ในการตั้งค่าที่เปิดขึ้น: เปิดเริ่มอัตโนมัติ ตั้งตัวประหยัดแบตเป็นไม่จำกัด และอนุญาตการแจ้งเตือน แล้วลองอีกครั้ง",
+    "notif_xiaomi_tip_title": "รับการแจ้งเตือนบนโทรศัพท์ Xiaomi",
+    "notif_xiaomi_tip_body": "โทรศัพท์ Xiaomi, Redmi และ POCO บล็อกการแจ้งเตือนของแอปใหม่ เปิดการตั้งค่าของ HomLyst เปิดเริ่มอัตโนมัติ ตั้งตัวประหยัดแบตเป็นไม่จำกัด และอนุญาตการแจ้งเตือน",
+    "notif_xiaomi_tip_open": "เปิดการตั้งค่า",
+    "notif_xiaomi_tip_later": "ไว้ทีหลัง"
   }
 }

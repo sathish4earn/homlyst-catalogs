@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "La première fois, les pas peuvent mettre quelques minutes à arriver. Marchez un peu et appuyez sur Vérifier à nouveau.",
     "steps_guide_check": "Vérifier à nouveau",
     "steps_guide_open_fit": "Ouvrir Google Fit",
-    "steps_guide_allow": "Autoriser"
+    "steps_guide_allow": "Autoriser",
+    "notif_xiaomi_no_token": "Votre téléphone bloque encore HomLyst. Dans les réglages qui s'ouvrent : activez le démarrage automatique, mettez l'économiseur de batterie sur Aucune restriction et autorisez les notifications, puis réessayez.",
+    "notif_xiaomi_tip_title": "Recevez les notifications sur votre Xiaomi",
+    "notif_xiaomi_tip_body": "Les téléphones Xiaomi, Redmi et POCO bloquent les notifications des nouvelles applis. Ouvrez les réglages de HomLyst, activez le démarrage automatique, mettez l'économiseur de batterie sur Aucune restriction et autorisez les notifications.",
+    "notif_xiaomi_tip_open": "Ouvrir les réglages",
+    "notif_xiaomi_tip_later": "Plus tard"
   }
 }
