@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "ഇന്ന് എല്ലാവർക്കും എങ്ങനെ?",
     "mood_home_share": "നിങ്ങളുടേത് പങ്കിടൂ",
     "mood_home_empty": "ഇന്ന് ആരും ഇതുവരെ പങ്കിട്ടിട്ടില്ല. നിങ്ങൾക്ക് എങ്ങനെയുണ്ട്?",
-    "steps_share_soon": "കുടുംബത്തിന്റെ ചുവടുകൾ ഇവിടെ കാണാം. നിങ്ങളുടെ ചുവടുകൾ പങ്കിടൽ ഉടൻ വരുന്നു."
+    "steps_share_soon": "കുടുംബത്തിന്റെ ചുവടുകൾ ഇവിടെ കാണാം. നിങ്ങളുടെ ചുവടുകൾ പങ്കിടൽ ഉടൻ വരുന്നു.",
+    "steps_guide_link": "ചുവടുകൾ കാണുന്നില്ലേ? സെറ്റപ്പ് ഗൈഡ്",
+    "steps_guide_link_stuck": "4 എളുപ്പ ഘട്ടങ്ങളിൽ ചുവടുകൾ സജ്ജമാക്കുക",
+    "steps_guide_title": "നിങ്ങളുടെ ചുവടുകൾ സജ്ജമാക്കുക",
+    "steps_guide_sub": "ഇവിടെ ചുവടുകൾ കാണാൻ നാലിനും ✓ വേണം.",
+    "steps_guide_1_title": "നിങ്ങളുടെ ഫോണിൽ Health Connect ഉണ്ട്",
+    "steps_guide_1_body": "Android 14-ലും പുതിയതിലും ഉള്ളിൽ തന്നെയുണ്ട്. പഴയ ഫോണുകളിൽ Play Store-ൽ നിന്ന് സൗജന്യ Health Connect ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക.",
+    "steps_guide_2_title": "നിങ്ങളുടെ സ്റ്റെപ് ആപ്പ് Health Connect-ലേക്ക് ചുവടുകൾ അയയ്ക്കുന്നു",
+    "steps_guide_2_body": "Google Fit: Profile → ⚙️ Settings → \"Sync Fit with Health Connect\" ഓൺ ചെയ്യുക. Samsung Health അല്ലെങ്കിൽ Mi Fitness: അതിന്റെ Settings → Health Connect → Steps അനുവദിക്കുക.",
+    "steps_guide_3_title": "HomLyst-ന് നിങ്ങളുടെ ചുവടുകൾ വായിക്കാം",
+    "steps_guide_3_body": "Health Connect-ൽ HomLyst-ന് Steps വായിക്കാൻ അനുമതി നൽകുക. ദിവസേനയുള്ള ചുവടുകൾ മാത്രം — മറ്റൊന്നുമില്ല.",
+    "steps_guide_4_title": "കുടുംബവുമായി പങ്കിടുക",
+    "steps_guide_4_body": "ഫാമിലി സ്റ്റെപ്സിൽ നിങ്ങളുടെ കുടുംബത്തിനായി \"എന്റെ ദിവസേനയുള്ള ചുവടുകൾ പങ്കിടുക\" ഓൺ ചെയ്യുക.",
+    "steps_guide_wait": "ആദ്യമായി ചുവടുകൾ വരാൻ കുറച്ച് മിനിറ്റ് എടുത്തേക്കാം. അല്പം നടന്ന് വീണ്ടും പരിശോധിക്കുക അമർത്തുക.",
+    "steps_guide_check": "വീണ്ടും പരിശോധിക്കുക",
+    "steps_guide_open_fit": "Google Fit തുറക്കുക",
+    "steps_guide_allow": "അനുവദിക്കുക"
   }
 }

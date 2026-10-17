@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "Comment va tout le monde ?",
     "mood_home_share": "Partager la vôtre",
     "mood_home_empty": "Personne n'a encore partagé aujourd'hui. Comment vous sentez-vous ?",
-    "steps_share_soon": "Voyez ici les pas de votre famille. Le partage de vos propres pas arrive bientôt."
+    "steps_share_soon": "Voyez ici les pas de votre famille. Le partage de vos propres pas arrive bientôt.",
+    "steps_guide_link": "Vous ne voyez pas vos pas ? Guide de configuration",
+    "steps_guide_link_stuck": "Configurez vos pas en 4 étapes simples",
+    "steps_guide_title": "Configurer vos pas",
+    "steps_guide_sub": "Les quatre doivent être ✓ pour que vos pas s'affichent ici.",
+    "steps_guide_1_title": "Health Connect est sur votre téléphone",
+    "steps_guide_1_body": "Intégré à Android 14 et plus récent. Sur les anciens téléphones, installez l'appli gratuite Health Connect depuis le Play Store.",
+    "steps_guide_2_title": "Votre appli de pas envoie les pas à Health Connect",
+    "steps_guide_2_body": "Google Fit : Profil → ⚙️ Paramètres → activez \"Sync Fit with Health Connect\". Samsung Health ou Mi Fitness : ouvrez ses Paramètres → Health Connect → autorisez les Pas.",
+    "steps_guide_3_title": "HomLyst peut lire vos pas",
+    "steps_guide_3_body": "Autorisez HomLyst à lire les Pas dans Health Connect. Seulement votre nombre de pas quotidien, rien d'autre.",
+    "steps_guide_4_title": "Partagez avec votre famille",
+    "steps_guide_4_body": "Dans Pas en famille, activez \"Partager mes pas quotidiens\" pour votre famille.",
+    "steps_guide_wait": "La première fois, les pas peuvent mettre quelques minutes à arriver. Marchez un peu et appuyez sur Vérifier à nouveau.",
+    "steps_guide_check": "Vérifier à nouveau",
+    "steps_guide_open_fit": "Ouvrir Google Fit",
+    "steps_guide_allow": "Autoriser"
   }
 }

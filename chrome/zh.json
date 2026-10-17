@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "今天大家怎么样？",
     "mood_home_share": "分享你的",
     "mood_home_empty": "今天还没人分享。你感觉怎么样？",
-    "steps_share_soon": "在这里查看家人的步数。分享你自己的步数即将推出。"
+    "steps_share_soon": "在这里查看家人的步数。分享你自己的步数即将推出。",
+    "steps_guide_link": "看不到步数？设置指南",
+    "steps_guide_link_stuck": "4 步轻松设置步数",
+    "steps_guide_title": "设置你的步数",
+    "steps_guide_sub": "四项都打 ✓，步数才会显示在这里。",
+    "steps_guide_1_title": "手机上有 Health Connect",
+    "steps_guide_1_body": "Android 14 及以上版本已内置。较旧的手机请从 Play 商店安装免费的 Health Connect 应用。",
+    "steps_guide_2_title": "你的计步应用把步数同步到 Health Connect",
+    "steps_guide_2_body": "Google Fit：个人资料 → ⚙️ 设置 → 打开 \"Sync Fit with Health Connect\"。Samsung Health 或 Mi Fitness：打开设置 → Health Connect → 允许步数。",
+    "steps_guide_3_title": "HomLyst 可以读取你的步数",
+    "steps_guide_3_body": "在 Health Connect 中允许 HomLyst 读取步数。只读取每日步数 — 别的都不读。",
+    "steps_guide_4_title": "分享给家人",
+    "steps_guide_4_body": "在家庭步数中，为你的家庭打开“分享我的每日步数”。",
+    "steps_guide_wait": "第一次同步可能需要几分钟。走一走，然后点“再检查一次”。",
+    "steps_guide_check": "再检查一次",
+    "steps_guide_open_fit": "打开 Google Fit",
+    "steps_guide_allow": "允许"
   }
 }

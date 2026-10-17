@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "ଆଜି ସମସ୍ତେ କେମିତି?",
     "mood_home_share": "ଆପଣଙ୍କର କୁହନ୍ତୁ",
     "mood_home_empty": "ଆଜି ଏପର୍ଯ୍ୟନ୍ତ କେହି ସେୟାର କରିନାହାନ୍ତି। ଆପଣ କେମିତି ଅଛନ୍ତି?",
-    "steps_share_soon": "ପରିବାରର ପାଦ ଏଠାରେ ଦେଖନ୍ତୁ। ନିଜ ପାଦ ସେୟାର ଶୀଘ୍ର ଆସୁଛି।"
+    "steps_share_soon": "ପରିବାରର ପାଦ ଏଠାରେ ଦେଖନ୍ତୁ। ନିଜ ପାଦ ସେୟାର ଶୀଘ୍ର ଆସୁଛି।",
+    "steps_guide_link": "ପାଦ ଦେଖାଯାଉନାହିଁ? ସେଟଅପ୍ ଗାଇଡ୍",
+    "steps_guide_link_stuck": "4ଟି ସହଜ ପଦକ୍ଷେପରେ ପାଦ ସେଟ୍ କରନ୍ତୁ",
+    "steps_guide_title": "ଆପଣଙ୍କ ପାଦ ସେଟ୍ କରନ୍ତୁ",
+    "steps_guide_sub": "ଏଠାରେ ପାଦ ଦେଖାଇବାକୁ ଚାରିଟିରେ ✓ ଦରକାର।",
+    "steps_guide_1_title": "ଆପଣଙ୍କ ଫୋନରେ Health Connect ଅଛି",
+    "steps_guide_1_body": "Android 14 ଏବଂ ନୂଆରେ ଭିତରେ ଅଛି। ପୁରୁଣା ଫୋନରେ Play Store ରୁ ମାଗଣା Health Connect ଆପ୍ ଇନଷ୍ଟଲ କରନ୍ତୁ।",
+    "steps_guide_2_title": "ଆପଣଙ୍କ ଷ୍ଟେପ୍ ଆପ୍ Health Connect କୁ ପାଦ ପଠାଏ",
+    "steps_guide_2_body": "Google Fit: Profile → ⚙️ Settings → \"Sync Fit with Health Connect\" ଚାଲୁ କରନ୍ତୁ। Samsung Health କିମ୍ବା Mi Fitness: ତାର Settings → Health Connect → Steps ଅନୁମତି ଦିଅନ୍ତୁ।",
+    "steps_guide_3_title": "HomLyst ଆପଣଙ୍କ ପାଦ ପଢ଼ିପାରିବ",
+    "steps_guide_3_body": "Health Connect ରେ HomLyst କୁ Steps ପଢ଼ିବାକୁ ଦିଅନ୍ତୁ। କେବଳ ଦୈନିକ ପାଦ — ଆଉ କିଛି ନୁହେଁ।",
+    "steps_guide_4_title": "ପରିବାର ସହ ସେୟାର କରନ୍ତୁ",
+    "steps_guide_4_body": "ଫ୍ୟାମିଲି ଷ୍ଟେପ୍ସରେ ଆପଣଙ୍କ ପରିବାର ପାଇଁ \"ମୋ ଦୈନିକ ପାଦ ସେୟାର କରନ୍ତୁ\" ଚାଲୁ କରନ୍ତୁ।",
+    "steps_guide_wait": "ପ୍ରଥମଥର ପାଦ ଆସିବାକୁ କିଛି ମିନିଟ ଲାଗିପାରେ। ଟିକେ ଚାଲନ୍ତୁ ଏବଂ ପୁଣି ଯାଞ୍ଚ କରନ୍ତୁ ଦବାନ୍ତୁ।",
+    "steps_guide_check": "ପୁଣି ଯାଞ୍ଚ କରନ୍ତୁ",
+    "steps_guide_open_fit": "Google Fit ଖୋଲନ୍ତୁ",
+    "steps_guide_allow": "ଅନୁମତି ଦିଅନ୍ତୁ"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "Como estão todos hoje?",
     "mood_home_share": "Compartilhe o seu",
     "mood_home_empty": "Ninguém compartilhou hoje ainda. Como você está?",
-    "steps_share_soon": "Veja aqui os passos da sua família. Compartilhar seus próprios passos chega em breve."
+    "steps_share_soon": "Veja aqui os passos da sua família. Compartilhar seus próprios passos chega em breve.",
+    "steps_guide_link": "Não vê seus passos? Guia de configuração",
+    "steps_guide_link_stuck": "Configure seus passos em 4 etapas fáceis",
+    "steps_guide_title": "Configure seus passos",
+    "steps_guide_sub": "As quatro precisam de ✓ para seus passos aparecerem aqui.",
+    "steps_guide_1_title": "O Health Connect está no seu celular",
+    "steps_guide_1_body": "Já vem no Android 14 e mais recentes. Em celulares mais antigos, instale o app gratuito Health Connect pela Play Store.",
+    "steps_guide_2_title": "Seu app de passos envia os passos ao Health Connect",
+    "steps_guide_2_body": "Google Fit: Perfil → ⚙️ Configurações → ative \"Sync Fit with Health Connect\". Samsung Health ou Mi Fitness: abra as Configurações → Health Connect → permita Passos.",
+    "steps_guide_3_title": "O HomLyst pode ler seus passos",
+    "steps_guide_3_body": "Permita que o HomLyst leia Passos no Health Connect. Só sua contagem diária de passos, nada mais.",
+    "steps_guide_4_title": "Compartilhe com a família",
+    "steps_guide_4_body": "Em Passos em família, ative \"Compartilhar meus passos diários\" para sua família.",
+    "steps_guide_wait": "Na primeira vez, os passos podem levar alguns minutos para chegar. Caminhe um pouco e toque em Verificar de novo.",
+    "steps_guide_check": "Verificar de novo",
+    "steps_guide_open_fit": "Abrir o Google Fit",
+    "steps_guide_allow": "Permitir"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "How's everyone today?",
     "mood_home_share": "Share yours",
     "mood_home_empty": "Nobody has shared today yet. How are you feeling?",
-    "steps_share_soon": "See your family's steps here. Sharing your own steps is coming soon."
+    "steps_share_soon": "See your family's steps here. Sharing your own steps is coming soon.",
+    "steps_guide_link": "Not seeing your steps? Setup guide",
+    "steps_guide_link_stuck": "Set up your steps in 4 easy steps",
+    "steps_guide_title": "Set up your steps",
+    "steps_guide_sub": "All four need a ✓ for your steps to show here.",
+    "steps_guide_1_title": "Health Connect is on your phone",
+    "steps_guide_1_body": "Built into Android 14 and newer. On older phones, install the free Health Connect app from Play Store.",
+    "steps_guide_2_title": "Your step app sends steps to Health Connect",
+    "steps_guide_2_body": "Google Fit: Profile → ⚙️ Settings → turn on \"Sync Fit with Health Connect\". Samsung Health or Mi Fitness: open its Settings → Health Connect → allow Steps.",
+    "steps_guide_3_title": "HomLyst can read your steps",
+    "steps_guide_3_body": "Allow HomLyst to read Steps in Health Connect. Only your daily step count — nothing else.",
+    "steps_guide_4_title": "Share with your family",
+    "steps_guide_4_body": "Back on Family Steps, turn on \"Share my daily steps\" for your family.",
+    "steps_guide_wait": "The first time, steps can take a few minutes to arrive. Walk a little and tap Check again.",
+    "steps_guide_check": "Check again",
+    "steps_guide_open_fit": "Open Google Fit",
+    "steps_guide_allow": "Allow"
   }
 }

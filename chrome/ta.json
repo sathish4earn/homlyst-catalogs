@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "இன்று எல்லோரும் எப்படி?",
     "mood_home_share": "உங்களுடையதைப் பகிருங்கள்",
     "mood_home_empty": "இன்று இன்னும் யாரும் பகிரவில்லை. நீங்கள் எப்படி உணர்கிறீர்கள்?",
-    "steps_share_soon": "குடும்பத்தின் அடிகளை இங்கே பாருங்கள். உங்கள் அடிகளைப் பகிர்வது விரைவில் வருகிறது."
+    "steps_share_soon": "குடும்பத்தின் அடிகளை இங்கே பாருங்கள். உங்கள் அடிகளைப் பகிர்வது விரைவில் வருகிறது.",
+    "steps_guide_link": "அடிகள் தெரியவில்லையா? அமைப்பு வழிகாட்டி",
+    "steps_guide_link_stuck": "4 எளிய படிகளில் அடிகளை அமையுங்கள்",
+    "steps_guide_title": "உங்கள் அடிகளை அமையுங்கள்",
+    "steps_guide_sub": "இங்கே அடிகள் தெரிய நான்கிலும் ✓ வேண்டும்.",
+    "steps_guide_1_title": "உங்கள் போனில் Health Connect உள்ளது",
+    "steps_guide_1_body": "Android 14 மற்றும் புதியதில் உள்ளே இருக்கும். பழைய போன்களில் Play Store-இலிருந்து இலவச Health Connect ஆப்பை நிறுவுங்கள்.",
+    "steps_guide_2_title": "உங்கள் அடி ஆப் Health Connect-க்கு அடிகளை அனுப்புகிறது",
+    "steps_guide_2_body": "Google Fit: Profile → ⚙️ Settings → \"Sync Fit with Health Connect\" ஆன் செய்யுங்கள். Samsung Health அல்லது Mi Fitness: அதன் Settings → Health Connect → Steps அனுமதி.",
+    "steps_guide_3_title": "HomLyst உங்கள் அடிகளைப் படிக்கலாம்",
+    "steps_guide_3_body": "Health Connect-இல் HomLyst-க்கு Steps படிக்க அனுமதி கொடுங்கள். தினசரி அடிகள் மட்டும் — வேறு எதுவும் இல்லை.",
+    "steps_guide_4_title": "குடும்பத்துடன் பகிருங்கள்",
+    "steps_guide_4_body": "குடும்ப நடையில் உங்கள் குடும்பத்துக்கு \"என் தினசரி அடிகளைப் பகிர்\" ஆன் செய்யுங்கள்.",
+    "steps_guide_wait": "முதல் முறை அடிகள் வர சில நிமிடங்கள் ஆகலாம். கொஞ்சம் நடந்து மீண்டும் சரிபார் தட்டுங்கள்.",
+    "steps_guide_check": "மீண்டும் சரிபார்",
+    "steps_guide_open_fit": "Google Fit திற",
+    "steps_guide_allow": "அனுமதி"
   }
 }

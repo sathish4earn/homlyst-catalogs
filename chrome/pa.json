@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1819,6 +1819,22 @@
     "mood_home_title": "ਅੱਜ ਸਾਰੇ ਕਿਵੇਂ ਹਨ?",
     "mood_home_share": "ਆਪਣਾ ਦੱਸੋ",
     "mood_home_empty": "ਅੱਜ ਅਜੇ ਕਿਸੇ ਨੇ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ। ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ?",
-    "steps_share_soon": "ਪਰਿਵਾਰ ਦੇ ਕਦਮ ਇੱਥੇ ਵੇਖੋ। ਆਪਣੇ ਕਦਮ ਸਾਂਝੇ ਕਰਨਾ ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ।"
+    "steps_share_soon": "ਪਰਿਵਾਰ ਦੇ ਕਦਮ ਇੱਥੇ ਵੇਖੋ। ਆਪਣੇ ਕਦਮ ਸਾਂਝੇ ਕਰਨਾ ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ।",
+    "steps_guide_link": "ਕਦਮ ਨਹੀਂ ਦਿਸ ਰਹੇ? ਸੈੱਟਅੱਪ ਗਾਈਡ",
+    "steps_guide_link_stuck": "4 ਆਸਾਨ ਕਦਮਾਂ ਵਿੱਚ ਕਦਮ ਸੈੱਟ ਕਰੋ",
+    "steps_guide_title": "ਆਪਣੇ ਕਦਮ ਸੈੱਟ ਕਰੋ",
+    "steps_guide_sub": "ਇੱਥੇ ਕਦਮ ਦਿਸਣ ਲਈ ਚਾਰਾਂ 'ਤੇ ✓ ਲਾਜ਼ਮੀ ਹੈ।",
+    "steps_guide_1_title": "ਤੁਹਾਡੇ ਫ਼ੋਨ ਵਿੱਚ Health Connect ਹੈ",
+    "steps_guide_1_body": "Android 14 ਅਤੇ ਨਵੇਂ ਵਿੱਚ ਪਹਿਲਾਂ ਤੋਂ ਹੈ। ਪੁਰਾਣੇ ਫ਼ੋਨ ਵਿੱਚ Play Store ਤੋਂ ਮੁਫ਼ਤ Health Connect ਐਪ ਇੰਸਟਾਲ ਕਰੋ।",
+    "steps_guide_2_title": "ਤੁਹਾਡੀ ਸਟੈਪ ਐਪ Health Connect ਨੂੰ ਕਦਮ ਭੇਜਦੀ ਹੈ",
+    "steps_guide_2_body": "Google Fit: Profile → ⚙️ Settings → \"Sync Fit with Health Connect\" ਚਾਲੂ ਕਰੋ। Samsung Health ਜਾਂ Mi Fitness: ਉਸ ਦੀ Settings → Health Connect → Steps ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।",
+    "steps_guide_3_title": "HomLyst ਤੁਹਾਡੇ ਕਦਮ ਪੜ੍ਹ ਸਕਦਾ ਹੈ",
+    "steps_guide_3_body": "Health Connect ਵਿੱਚ HomLyst ਨੂੰ Steps ਪੜ੍ਹਨ ਦਿਓ। ਸਿਰਫ਼ ਰੋਜ਼ਾਨਾ ਕਦਮ — ਹੋਰ ਕੁਝ ਨਹੀਂ।",
+    "steps_guide_4_title": "ਪਰਿਵਾਰ ਨਾਲ ਸਾਂਝਾ ਕਰੋ",
+    "steps_guide_4_body": "ਫੈਮਿਲੀ ਸਟੈਪਸ ਵਿੱਚ ਆਪਣੇ ਪਰਿਵਾਰ ਲਈ \"ਮੇਰੇ ਰੋਜ਼ਾਨਾ ਕਦਮ ਸਾਂਝੇ ਕਰੋ\" ਚਾਲੂ ਕਰੋ।",
+    "steps_guide_wait": "ਪਹਿਲੀ ਵਾਰ ਕਦਮ ਆਉਣ ਵਿੱਚ ਕੁਝ ਮਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ। ਥੋੜ੍ਹਾ ਚੱਲੋ ਅਤੇ ਮੁੜ ਜਾਂਚੋ ਦਬਾਓ।",
+    "steps_guide_check": "ਮੁੜ ਜਾਂਚੋ",
+    "steps_guide_open_fit": "Google Fit ਖੋਲ੍ਹੋ",
+    "steps_guide_allow": "ਇਜਾਜ਼ਤ ਦਿਓ"
   }
 }
