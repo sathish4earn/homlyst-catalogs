@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "The first time, steps can take a few minutes to arrive. Walk a little and tap Check again.",
     "steps_guide_check": "Check again",
     "steps_guide_open_fit": "Open Google Fit",
-    "steps_guide_allow": "Allow"
+    "steps_guide_allow": "Allow",
+    "notif_xiaomi_no_token": "Your phone is still blocking HomLyst. In the settings that open now: turn on Autostart, set Battery saver to No restrictions and allow Notifications — then try again.",
+    "notif_xiaomi_tip_title": "Get notifications on your Xiaomi phone",
+    "notif_xiaomi_tip_body": "Xiaomi, Redmi and POCO phones block notifications for new apps. Open HomLyst's settings and turn on Autostart, set Battery saver to No restrictions and allow Notifications, so you don't miss your family's lists.",
+    "notif_xiaomi_tip_open": "Open settings",
+    "notif_xiaomi_tip_later": "Later"
   }
 }

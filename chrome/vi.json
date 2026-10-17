@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "Lần đầu, số bước có thể mất vài phút mới tới. Đi bộ một chút rồi nhấn Kiểm tra lại.",
     "steps_guide_check": "Kiểm tra lại",
     "steps_guide_open_fit": "Mở Google Fit",
-    "steps_guide_allow": "Cho phép"
+    "steps_guide_allow": "Cho phép",
+    "notif_xiaomi_no_token": "Điện thoại vẫn đang chặn HomLyst. Trong phần cài đặt vừa mở: bật Tự khởi động, đặt Tiết kiệm pin thành Không hạn chế và cho phép Thông báo — rồi thử lại.",
+    "notif_xiaomi_tip_title": "Nhận thông báo trên điện thoại Xiaomi",
+    "notif_xiaomi_tip_body": "Điện thoại Xiaomi, Redmi và POCO chặn thông báo của ứng dụng mới. Mở cài đặt HomLyst, bật Tự khởi động, đặt Tiết kiệm pin thành Không hạn chế và cho phép Thông báo.",
+    "notif_xiaomi_tip_open": "Mở cài đặt",
+    "notif_xiaomi_tip_later": "Để sau"
   }
 }

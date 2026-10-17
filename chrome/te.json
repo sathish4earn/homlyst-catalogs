@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "మొదటిసారి అడుగులు రావడానికి కొన్ని నిమిషాలు పట్టవచ్చు. కొంచెం నడిచి మళ్లీ చెక్ చేయి నొక్కండి.",
     "steps_guide_check": "మళ్లీ చెక్ చేయి",
     "steps_guide_open_fit": "Google Fit తెరవండి",
-    "steps_guide_allow": "అనుమతించు"
+    "steps_guide_allow": "అనుమతించు",
+    "notif_xiaomi_no_token": "మీ ఫోన్ ఇంకా HomLystని అడ్డుకుంటోంది. ఇప్పుడు తెరుచుకునే సెట్టింగ్స్‌లో: Autostart ఆన్ చేయండి, Battery saverని No restrictions చేయండి, Notifications అనుమతించండి — మళ్లీ ప్రయత్నించండి.",
+    "notif_xiaomi_tip_title": "మీ Xiaomi ఫోన్‌లో నోటిఫికేషన్లు పొందండి",
+    "notif_xiaomi_tip_body": "Xiaomi, Redmi, POCO ఫోన్లు కొత్త యాప్‌ల నోటిఫికేషన్లను అడ్డుకుంటాయి. HomLyst సెట్టింగ్స్ తెరిచి Autostart ఆన్ చేయండి, Battery saverని No restrictions చేయండి, Notifications అనుమతించండి.",
+    "notif_xiaomi_tip_open": "సెట్టింగ్స్ తెరవండి",
+    "notif_xiaomi_tip_later": "తర్వాత"
   }
 }

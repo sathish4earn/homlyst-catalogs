@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "第一次同步可能需要几分钟。走一走，然后点“再检查一次”。",
     "steps_guide_check": "再检查一次",
     "steps_guide_open_fit": "打开 Google Fit",
-    "steps_guide_allow": "允许"
+    "steps_guide_allow": "允许",
+    "notif_xiaomi_no_token": "你的手机仍在拦截 HomLyst。在打开的设置中：开启自启动，把省电策略设为“无限制”，并允许通知——然后再试一次。",
+    "notif_xiaomi_tip_title": "在小米手机上接收通知",
+    "notif_xiaomi_tip_body": "小米、红米和 POCO 手机会拦截新应用的通知。打开 HomLyst 的设置，开启自启动，把省电策略设为“无限制”，并允许通知，以免错过家人的清单。",
+    "notif_xiaomi_tip_open": "打开设置",
+    "notif_xiaomi_tip_later": "稍后"
   }
 }

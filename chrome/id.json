@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "Pertama kali, langkah bisa butuh beberapa menit untuk muncul. Jalan sebentar lalu ketuk Periksa lagi.",
     "steps_guide_check": "Periksa lagi",
     "steps_guide_open_fit": "Buka Google Fit",
-    "steps_guide_allow": "Izinkan"
+    "steps_guide_allow": "Izinkan",
+    "notif_xiaomi_no_token": "Ponselmu masih memblokir HomLyst. Di setelan yang terbuka: aktifkan Mulai otomatis, atur Penghemat baterai ke Tanpa batasan, dan izinkan Notifikasi — lalu coba lagi.",
+    "notif_xiaomi_tip_title": "Dapatkan notifikasi di ponsel Xiaomi",
+    "notif_xiaomi_tip_body": "Ponsel Xiaomi, Redmi, dan POCO memblokir notifikasi aplikasi baru. Buka setelan HomLyst, aktifkan Mulai otomatis, atur Penghemat baterai ke Tanpa batasan, dan izinkan Notifikasi.",
+    "notif_xiaomi_tip_open": "Buka setelan",
+    "notif_xiaomi_tip_later": "Nanti"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "Kali pertama, langkah mungkin ambil beberapa minit untuk tiba. Berjalan sedikit dan ketik Semak semula.",
     "steps_guide_check": "Semak semula",
     "steps_guide_open_fit": "Buka Google Fit",
-    "steps_guide_allow": "Benarkan"
+    "steps_guide_allow": "Benarkan",
+    "notif_xiaomi_no_token": "Telefon anda masih menyekat HomLyst. Dalam tetapan yang dibuka: hidupkan Mula automatik, tetapkan Penjimat bateri kepada Tiada sekatan dan benarkan Pemberitahuan — kemudian cuba lagi.",
+    "notif_xiaomi_tip_title": "Dapatkan pemberitahuan di telefon Xiaomi",
+    "notif_xiaomi_tip_body": "Telefon Xiaomi, Redmi dan POCO menyekat pemberitahuan apl baharu. Buka tetapan HomLyst, hidupkan Mula automatik, tetapkan Penjimat bateri kepada Tiada sekatan dan benarkan Pemberitahuan.",
+    "notif_xiaomi_tip_open": "Buka tetapan",
+    "notif_xiaomi_tip_later": "Nanti"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1835,6 +1835,11 @@
     "steps_guide_wait": "প্রথমবার পদক্ষেপ আসতে কয়েক মিনিট লাগতে পারে। একটু হাঁটুন এবং আবার দেখুন চাপুন।",
     "steps_guide_check": "আবার দেখুন",
     "steps_guide_open_fit": "Google Fit খুলুন",
-    "steps_guide_allow": "অনুমতি দিন"
+    "steps_guide_allow": "অনুমতি দিন",
+    "notif_xiaomi_no_token": "আপনার ফোন এখনো HomLyst আটকাচ্ছে। এখন খোলা সেটিংসে: Autostart চালু করুন, Battery saver No restrictions করুন এবং Notifications অনুমতি দিন — তারপর আবার চেষ্টা করুন।",
+    "notif_xiaomi_tip_title": "আপনার Xiaomi ফোনে নোটিফিকেশন পান",
+    "notif_xiaomi_tip_body": "Xiaomi, Redmi ও POCO ফোন নতুন অ্যাপের নোটিফিকেশন আটকায়। HomLyst-এর সেটিংস খুলে Autostart চালু করুন, Battery saver No restrictions করুন এবং Notifications অনুমতি দিন।",
+    "notif_xiaomi_tip_open": "সেটিংস খুলুন",
+    "notif_xiaomi_tip_later": "পরে"
   }
 }
