@@ -1519,7 +1519,7 @@
     "reminder_channel": "Recordatorios de compras",
     "reminder_idle_body": "Añádelo a tu lista o pregunta a tu familia qué necesitan 👪",
     "reminder_idle_title": "¿Necesitas algo de la tienda?",
-    "reminder_setting_desc": "A las 5 PM: lo que queda en tu lista (a diario), o un aviso tras 2 días tranquilos",
+    "reminder_setting_desc": "A las 5 PM: lo que queda en tu lista (a diario), o un aviso tras 2 días tranquilos. También un aviso a las 9 AM cuando algo de la despensa se esté acabando.",
     "reminder_setting_title": "Recordatorios de compras",
     "shopping_call_add_to_list": "Añadir a mi lista",
     "shopping_call_added": "%1$s añadió: %2$s",

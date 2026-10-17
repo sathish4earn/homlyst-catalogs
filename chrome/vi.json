@@ -1519,7 +1519,7 @@
     "reminder_channel": "Nhắc nhở mua sắm",
     "reminder_idle_body": "Thêm vào danh sách, hoặc hỏi gia đình xem họ cần gì 👪",
     "reminder_idle_title": "Cần gì ở cửa hàng không?",
-    "reminder_setting_desc": "Lúc 5 giờ chiều: những món còn trong danh sách (hằng ngày), hoặc nhắc sau 2 ngày yên ắng",
+    "reminder_setting_desc": "Lúc 5 giờ chiều: những món còn trong danh sách (hằng ngày), hoặc nhắc sau 2 ngày yên ắng. Cùng lời nhắc lúc 9 giờ sáng khi kho sắp hết.",
     "reminder_setting_title": "Nhắc nhở mua sắm",
     "shopping_call_add_to_list": "Thêm vào danh sách của tôi",
     "shopping_call_added": "%1$s đã thêm: %2$s",

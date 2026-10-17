@@ -1519,7 +1519,7 @@
     "reminder_channel": "Pengingat belanja",
     "reminder_idle_body": "Tambahkan ke daftar, atau tanyakan keluarga apa yang mereka perlukan 👪",
     "reminder_idle_title": "Perlu sesuatu dari toko?",
-    "reminder_setting_desc": "Pukul 17.00: barang yang masih di daftar (setiap hari), atau pengingat setelah 2 hari sepi",
+    "reminder_setting_desc": "Pukul 17.00: barang yang masih di daftar (setiap hari), atau pengingat setelah 2 hari sepi. Plus pengingat pukul 09.00 saat stok hampir habis.",
     "reminder_setting_title": "Pengingat belanja",
     "shopping_call_add_to_list": "Tambahkan ke daftar saya",
     "shopping_call_added": "%1$s menambahkan: %2$s",

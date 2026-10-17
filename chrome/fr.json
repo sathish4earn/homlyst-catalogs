@@ -1519,7 +1519,7 @@
     "reminder_channel": "Rappels de courses",
     "reminder_idle_body": "Ajoutez-le à votre liste, ou demandez à votre famille ce qu'il leur faut 👪",
     "reminder_idle_title": "Besoin de quelque chose au magasin ?",
-    "reminder_setting_desc": "À 17 h : les articles encore sur votre liste (chaque jour), ou un rappel après 2 jours calmes",
+    "reminder_setting_desc": "À 17 h : les articles encore sur votre liste (chaque jour), ou un rappel après 2 jours calmes. Ainsi qu'un rappel à 9 h quand le stock s'épuise.",
     "reminder_setting_title": "Rappels de courses",
     "shopping_call_add_to_list": "Ajouter à ma liste",
     "shopping_call_added": "%1$s a ajouté : %2$s",

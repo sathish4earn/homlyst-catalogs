@@ -1519,7 +1519,7 @@
     "reminder_channel": "Peringatan membeli-belah",
     "reminder_idle_body": "Tambah ke senarai anda, atau tanya keluarga apa yang mereka perlukan 👪",
     "reminder_idle_title": "Perlu apa-apa dari kedai?",
-    "reminder_setting_desc": "Pada 5 petang: barang yang masih dalam senarai (setiap hari), atau peringatan selepas 2 hari senyap",
+    "reminder_setting_desc": "Pada 5 petang: barang yang masih dalam senarai (setiap hari), atau peringatan selepas 2 hari senyap. Serta peringatan pada 9 pagi apabila stok hampir habis.",
     "reminder_setting_title": "Peringatan membeli-belah",
     "shopping_call_add_to_list": "Tambah ke senarai saya",
     "shopping_call_added": "%1$s menambah: %2$s",

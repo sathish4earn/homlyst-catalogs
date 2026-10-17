@@ -1519,7 +1519,7 @@
     "reminder_channel": "Shopping reminders",
     "reminder_idle_body": "Add it to your list, or ask your family what they need 👪",
     "reminder_idle_title": "Need anything from the shop?",
-    "reminder_setting_desc": "At 5 PM: items still on your list (daily), or a nudge after 2 quiet days",
+    "reminder_setting_desc": "At 5 PM: items still on your list (daily), or a nudge after 2 quiet days. Also a 9 AM heads-up when stock is running low.",
     "reminder_setting_title": "Shopping reminders",
     "shopping_call_add_to_list": "Add to my list",
     "shopping_call_added": "%1$s added: %2$s",

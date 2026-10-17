@@ -1519,7 +1519,7 @@
     "reminder_channel": "购物提醒",
     "reminder_idle_body": "加入你的清单，或问问家人需要什么 👪",
     "reminder_idle_title": "需要从商店买点什么吗？",
-    "reminder_setting_desc": "下午 5 点：清单上还没买的东西（每天），或安静 2 天后提醒一次",
+    "reminder_setting_desc": "下午 5 点：清单上还没买的东西（每天），或安静 2 天后提醒一次。库存快用完时，还会在上午 9 点提醒。",
     "reminder_setting_title": "购物提醒",
     "shopping_call_add_to_list": "加入我的清单",
     "shopping_call_added": "%1$s 添加了：%2$s",
