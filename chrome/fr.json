@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "Suivez le riz, le blé, l'huile et chaque produit de base du foyer avec des jauges façon carburant, et soyez prévenu avant toute rupture. Toute la famille voit le même stock.",
     "fs_lock_list_kept": "Votre liste est conservée. Passez à Premium et touchez Démarrer pour commencer.",
     "fs_sync_error_title": "Impossible de joindre votre famille",
-    "fs_sync_error_body": "Vérifiez votre connexion et réessayez. Rien n'a été enregistré."
+    "fs_sync_error_body": "Vérifiez votre connexion et réessayez. Rien n'a été enregistré.",
+    "fs_add_catalog": "Depuis le catalogue",
+    "fs_add_voice": "Parler",
+    "fs_add_type": "Saisir un nouveau",
+    "fs_free_note": "Gratuit jusqu'à %1$d articles. Premium au-delà.",
+    "fs_bought_amount": "Acheté",
+    "fs_picker_search": "Cherchez un article — ex. riz, huile",
+    "fs_picker_done": "Terminé (%1$d)",
+    "fs_add_to_stock": "Ajouter au stock",
+    "fs_voice_confirm": "Ajouter %1$d au stock",
+    "fs_add_from_trip": "Ajouter au stock familial",
+    "fs_limit_title": "%1$d articles gratuits",
+    "fs_limit_body": "Le stock familial est gratuit jusqu'à %1$d articles par famille. Passez Premium pour suivre tous les essentiels de la maison : riz, huile, farine et plus.",
+    "fs_add_from_list": "Ajouter au stock familial"
   }
 }

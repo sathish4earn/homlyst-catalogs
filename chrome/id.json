@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "Pantau beras, gandum, minyak, dan setiap kebutuhan pokok rumah dengan meter ala bahan bakar, dan dapatkan peringatan sebelum ada yang habis. Seluruh keluarga melihat stok yang sama.",
     "fs_lock_list_kept": "Daftar Anda tersimpan. Berlangganan Premium lalu ketuk Mulai untuk memulai.",
     "fs_sync_error_title": "Tidak dapat menghubungi keluarga Anda",
-    "fs_sync_error_body": "Periksa koneksi dan coba lagi. Tidak ada yang tersimpan."
+    "fs_sync_error_body": "Periksa koneksi dan coba lagi. Tidak ada yang tersimpan.",
+    "fs_add_catalog": "Dari katalog",
+    "fs_add_voice": "Bicara",
+    "fs_add_type": "Ketik baru",
+    "fs_free_note": "Gratis hingga %1$d barang. Premium untuk lebih.",
+    "fs_bought_amount": "Dibeli",
+    "fs_picker_search": "Cari barang — mis. beras, minyak",
+    "fs_picker_done": "Selesai (%1$d)",
+    "fs_add_to_stock": "Tambah ke stok",
+    "fs_voice_confirm": "Tambah %1$d ke stok",
+    "fs_add_from_trip": "Tambah ke Stok Keluarga",
+    "fs_limit_title": "%1$d barang gratis",
+    "fs_limit_body": "Stok Keluarga gratis hingga %1$d barang per keluarga. Dapatkan Premium untuk memantau semua kebutuhan rumah — beras, minyak, tepung, dan lainnya.",
+    "fs_add_from_list": "Tambahkan ini ke Stok Keluarga"
   }
 }

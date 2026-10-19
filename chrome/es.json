@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "Controla el arroz, el trigo, el aceite y cada básico del hogar con medidores tipo combustible, y recibe un aviso antes de que algo se acabe. Toda la familia ve la misma despensa.",
     "fs_lock_list_kept": "Tu lista se conserva. Hazte Premium y pulsa Empezar para comenzar.",
     "fs_sync_error_title": "No se pudo conectar con tu familia",
-    "fs_sync_error_body": "Revisa tu conexión e inténtalo de nuevo. No se guardó nada."
+    "fs_sync_error_body": "Revisa tu conexión e inténtalo de nuevo. No se guardó nada.",
+    "fs_add_catalog": "Del catálogo",
+    "fs_add_voice": "Hablar",
+    "fs_add_type": "Escribir nuevo",
+    "fs_free_note": "Gratis hasta %1$d artículos. Premium para más.",
+    "fs_bought_amount": "Comprado",
+    "fs_picker_search": "Busca artículos — p. ej. arroz, aceite",
+    "fs_picker_done": "Listo (%1$d)",
+    "fs_add_to_stock": "Añadir al stock",
+    "fs_voice_confirm": "Añadir %1$d al stock",
+    "fs_add_from_trip": "Añadir al stock familiar",
+    "fs_limit_title": "%1$d artículos gratis",
+    "fs_limit_body": "El stock familiar es gratis hasta %1$d artículos por familia. Hazte Premium para controlar todo lo básico de casa: arroz, aceite, harina y más.",
+    "fs_add_from_list": "Añadir esto al stock familiar"
   }
 }

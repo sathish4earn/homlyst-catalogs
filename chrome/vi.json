@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "Theo dõi gạo, lúa mì, dầu ăn và mọi nhu yếu phẩm trong nhà bằng đồng hồ đo kiểu nhiên liệu, và được báo trước khi món nào sắp hết. Cả gia đình thấy cùng một kho.",
     "fs_lock_list_kept": "Danh sách của bạn được giữ lại. Nâng cấp Premium rồi chạm Bắt đầu để bắt đầu.",
     "fs_sync_error_title": "Không liên lạc được với gia đình bạn",
-    "fs_sync_error_body": "Kiểm tra kết nối và thử lại. Chưa lưu gì cả."
+    "fs_sync_error_body": "Kiểm tra kết nối và thử lại. Chưa lưu gì cả.",
+    "fs_add_catalog": "Từ danh mục",
+    "fs_add_voice": "Nói",
+    "fs_add_type": "Gõ món mới",
+    "fs_free_note": "Miễn phí tối đa %1$d món. Nhiều hơn cần Premium.",
+    "fs_bought_amount": "Đã mua",
+    "fs_picker_search": "Tìm món — ví dụ gạo, dầu ăn",
+    "fs_picker_done": "Xong (%1$d)",
+    "fs_add_to_stock": "Thêm vào kho",
+    "fs_voice_confirm": "Thêm %1$d vào kho",
+    "fs_add_from_trip": "Thêm vào Kho gia đình",
+    "fs_limit_title": "%1$d món miễn phí",
+    "fs_limit_body": "Kho gia đình miễn phí tối đa %1$d món mỗi gia đình. Nâng cấp Premium để theo dõi mọi nhu yếu phẩm — gạo, dầu ăn, bột và nhiều hơn.",
+    "fs_add_from_list": "Thêm các món này vào Kho gia đình"
   }
 }

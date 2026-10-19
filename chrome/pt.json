@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "Acompanhe arroz, trigo, óleo e cada item básico da casa com medidores estilo combustível e receba um aviso antes que algo acabe. Toda a família vê o mesmo estoque.",
     "fs_lock_list_kept": "Sua lista foi mantida. Assine o Premium e toque em Começar para iniciar.",
     "fs_sync_error_title": "Não foi possível alcançar sua família",
-    "fs_sync_error_body": "Verifique sua conexão e tente de novo. Nada foi salvo."
+    "fs_sync_error_body": "Verifique sua conexão e tente de novo. Nada foi salvo.",
+    "fs_add_catalog": "Do catálogo",
+    "fs_add_voice": "Falar",
+    "fs_add_type": "Digitar novo",
+    "fs_free_note": "Grátis até %1$d itens. Premium para mais.",
+    "fs_bought_amount": "Comprado",
+    "fs_picker_search": "Pesquise itens — ex. arroz, óleo",
+    "fs_picker_done": "Pronto (%1$d)",
+    "fs_add_to_stock": "Adicionar ao estoque",
+    "fs_voice_confirm": "Adicionar %1$d ao estoque",
+    "fs_add_from_trip": "Adicionar ao estoque da família",
+    "fs_limit_title": "%1$d itens grátis",
+    "fs_limit_body": "O estoque da família é grátis até %1$d itens por família. Assine o Premium para acompanhar tudo de casa: arroz, óleo, farinha e mais.",
+    "fs_add_from_list": "Adicionar ao estoque da família"
   }
 }
