@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "用类似油量表的计量条追踪大米、小麦、食用油和家中每样必需品，并在任何东西用完之前收到提醒。全家人看到的是同一份库存。",
     "fs_lock_list_kept": "你的清单已保留。升级 Premium 并点按“开始”即可开始。",
     "fs_sync_error_title": "无法连接到你的家人",
-    "fs_sync_error_body": "请检查网络后重试。没有保存任何内容。"
+    "fs_sync_error_body": "请检查网络后重试。没有保存任何内容。",
+    "fs_add_catalog": "从目录添加",
+    "fs_add_voice": "语音",
+    "fs_add_type": "输入新物品",
+    "fs_free_note": "最多 %1$d 件免费，更多需高级版。",
+    "fs_bought_amount": "买了",
+    "fs_picker_search": "搜索物品 — 如 大米、食用油",
+    "fs_picker_done": "完成（%1$d）",
+    "fs_add_to_stock": "加入库存",
+    "fs_voice_confirm": "把 %1$d 件加入库存",
+    "fs_add_from_trip": "加入家庭库存",
+    "fs_limit_title": "%1$d 件免费",
+    "fs_limit_body": "家庭库存每个家庭最多 %1$d 件免费。升级高级版，跟踪家里所有必需品 — 大米、油、面粉等。",
+    "fs_add_from_list": "把这些加入家庭库存"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "Jejaki beras, gandum, minyak dan setiap barangan asas rumah dengan meter gaya bahan api, dan dapatkan amaran sebelum apa-apa habis. Seluruh keluarga melihat stok yang sama.",
     "fs_lock_list_kept": "Senarai anda disimpan. Dapatkan Premium dan ketik Mula untuk bermula.",
     "fs_sync_error_title": "Tidak dapat menghubungi keluarga anda",
-    "fs_sync_error_body": "Semak sambungan anda dan cuba lagi. Tiada apa yang disimpan."
+    "fs_sync_error_body": "Semak sambungan anda dan cuba lagi. Tiada apa yang disimpan.",
+    "fs_add_catalog": "Dari katalog",
+    "fs_add_voice": "Cakap",
+    "fs_add_type": "Taip baharu",
+    "fs_free_note": "Percuma hingga %1$d barang. Premium untuk lebih.",
+    "fs_bought_amount": "Dibeli",
+    "fs_picker_search": "Cari barang — cth. beras, minyak",
+    "fs_picker_done": "Selesai (%1$d)",
+    "fs_add_to_stock": "Tambah ke stok",
+    "fs_voice_confirm": "Tambah %1$d ke stok",
+    "fs_add_from_trip": "Tambah ke Stok Keluarga",
+    "fs_limit_title": "%1$d barang percuma",
+    "fs_limit_body": "Stok Keluarga percuma hingga %1$d barang setiap keluarga. Dapatkan Premium untuk menjejak semua barang keperluan rumah — beras, minyak, tepung dan lain-lain.",
+    "fs_add_from_list": "Tambah ini ke Stok Keluarga"
   }
 }

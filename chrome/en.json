@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1914,6 +1914,19 @@
     "fs_lock_body": "Track rice, wheat, oil and every household staple with fuel-style meters, and get a heads-up before anything runs out. The whole family sees the same stock.",
     "fs_lock_list_kept": "Your list is kept. Go Premium and tap Start to begin.",
     "fs_sync_error_title": "Couldn't reach your family",
-    "fs_sync_error_body": "Check your connection and try again. Nothing was saved."
+    "fs_sync_error_body": "Check your connection and try again. Nothing was saved.",
+    "fs_add_catalog": "From catalog",
+    "fs_add_voice": "Speak",
+    "fs_add_type": "Type new",
+    "fs_free_note": "Free for up to %1$d items. Premium for more.",
+    "fs_bought_amount": "Bought",
+    "fs_picker_search": "Search items — e.g. rice, oil",
+    "fs_picker_done": "Done (%1$d)",
+    "fs_add_to_stock": "Add to Stock",
+    "fs_voice_confirm": "Add %1$d to Stock",
+    "fs_add_from_trip": "Add to Family Stock",
+    "fs_limit_title": "%1$d items are free",
+    "fs_limit_body": "Family Stock is free for up to %1$d items per family. Get Premium to track every staple at home — rice, oil, atta and more.",
+    "fs_add_from_list": "Add these to Family Stock"
   }
 }
