@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1937,6 +1937,7 @@
     "fs_use_per_day": "Eso es unos %1$s al día en tu casa",
     "fs_smart_title": "Estimación inteligente",
     "fs_smart_off": "Desactivada — cada artículo dura según sus días (semanal, mensual…)",
-    "fs_smart_on": "Activada — según cuánto compraste y cuántos comen en casa"
+    "fs_smart_on": "Activada — según cuánto compraste y cuántos comen en casa",
+    "home_slide_auto": "Auto"
   }
 }
