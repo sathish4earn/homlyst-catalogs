@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "बंद — हर चीज़ अपने दिनों के हिसाब से (साप्ताहिक, मासिक…)",
     "fs_smart_on": "चालू — कितना खरीदा और घर में कितने लोग खाते हैं, उसके हिसाब से",
     "home_slide_auto": "ऑटो",
-    "home_flip": "पलटें"
+    "home_flip": "पलटें",
+    "item_prices_total": "सामान की कीमतें",
+    "item_price_trip_total": "इस खरीदारी में अब तक"
   }
 }

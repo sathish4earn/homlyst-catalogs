@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "ปิด — ของแต่ละอย่างนับตามวัน (รายสัปดาห์ รายเดือน…)",
     "fs_smart_on": "เปิด — ตามปริมาณที่ซื้อและจำนวนคนที่กินในบ้าน",
     "home_slide_auto": "อัตโนมัติ",
-    "home_flip": "พลิก"
+    "home_flip": "พลิก",
+    "item_prices_total": "ราคาสินค้า",
+    "item_price_trip_total": "รอบนี้จนถึงตอนนี้"
   }
 }

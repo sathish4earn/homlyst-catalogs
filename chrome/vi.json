@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "Tắt — mỗi món tính theo số ngày (hằng tuần, hằng tháng…)",
     "fs_smart_on": "Bật — theo lượng đã mua và số người ăn ở nhà",
     "home_slide_auto": "Tự động",
-    "home_flip": "Lật"
+    "home_flip": "Lật",
+    "item_prices_total": "Giá món hàng",
+    "item_price_trip_total": "Lần mua này đến giờ"
   }
 }

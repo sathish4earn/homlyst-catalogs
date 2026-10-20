@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "ఆఫ్ — ప్రతి వస్తువు దాని రోజుల ప్రకారం (వారానికి, నెలకి…)",
     "fs_smart_on": "ఆన్ — ఎంత కొన్నారు, ఇంట్లో ఎంతమంది తింటారు అనే దాని ప్రకారం",
     "home_slide_auto": "ఆటో",
-    "home_flip": "తిప్పు"
+    "home_flip": "తిప్పు",
+    "item_prices_total": "వస్తువుల ధరలు",
+    "item_price_trip_total": "ఈ షాపింగ్‌లో ఇప్పటివరకు"
   }
 }

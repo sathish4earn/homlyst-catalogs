@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "Desactivada — cada artículo dura según sus días (semanal, mensual…)",
     "fs_smart_on": "Activada — según cuánto compraste y cuántos comen en casa",
     "home_slide_auto": "Auto",
-    "home_flip": "Girar"
+    "home_flip": "Girar",
+    "item_prices_total": "Precios de artículos",
+    "item_price_trip_total": "En esta compra hasta ahora"
   }
 }

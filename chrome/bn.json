@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "বন্ধ — প্রতিটি জিনিস তার দিন অনুযায়ী (সাপ্তাহিক, মাসিক…)",
     "fs_smart_on": "চালু — কতটা কিনেছেন আর বাড়িতে কতজন খান তার ভিত্তিতে",
     "home_slide_auto": "অটো",
-    "home_flip": "উল্টান"
+    "home_flip": "উল্টান",
+    "item_prices_total": "জিনিসের দাম",
+    "item_price_trip_total": "এই কেনাকাটায় এখন পর্যন্ত"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "关闭 — 每样东西按天数计算（每周、每月…）",
     "fs_smart_on": "开启 — 按买了多少和家里几个人吃来计算",
     "home_slide_auto": "自动",
-    "home_flip": "翻转"
+    "home_flip": "翻转",
+    "item_prices_total": "商品价格",
+    "item_price_trip_total": "本次购物目前"
   }
 }

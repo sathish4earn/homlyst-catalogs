@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "Off — each item lasts by its days (weekly, monthly…)",
     "fs_smart_on": "On — by how much you bought and how many eat at home",
     "home_slide_auto": "Auto",
-    "home_flip": "Flip"
+    "home_flip": "Flip",
+    "item_prices_total": "Item prices",
+    "item_price_trip_total": "This trip so far"
   }
 }
