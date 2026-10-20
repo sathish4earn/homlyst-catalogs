@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1937,6 +1937,7 @@
     "fs_use_per_day": "Khoảng %1$s mỗi ngày ở nhà bạn",
     "fs_smart_title": "Ước tính thông minh",
     "fs_smart_off": "Tắt — mỗi món tính theo số ngày (hằng tuần, hằng tháng…)",
-    "fs_smart_on": "Bật — theo lượng đã mua và số người ăn ở nhà"
+    "fs_smart_on": "Bật — theo lượng đã mua và số người ăn ở nhà",
+    "home_slide_auto": "Tự động"
   }
 }
