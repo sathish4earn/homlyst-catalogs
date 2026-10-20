@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -1938,6 +1938,7 @@
     "fs_smart_title": "സ്മാർട്ട് കണക്ക്",
     "fs_smart_off": "ഓഫ് — ഓരോ സാധനവും അതിന്റെ ദിവസങ്ങൾ പ്രകാരം (ആഴ്ച, മാസം…)",
     "fs_smart_on": "ഓൺ — എത്ര വാങ്ങി, വീട്ടിൽ എത്ര പേർ കഴിക്കുന്നു എന്നതനുസരിച്ച്",
-    "home_slide_auto": "ഓട്ടോ"
+    "home_slide_auto": "ഓട്ടോ",
+    "home_flip": "മറിക്കുക"
   }
 }

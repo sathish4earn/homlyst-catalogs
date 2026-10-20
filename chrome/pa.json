@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1938,6 +1938,7 @@
     "fs_smart_title": "ਸਮਾਰਟ ਅੰਦਾਜ਼ਾ",
     "fs_smart_off": "ਬੰਦ — ਹਰ ਚੀਜ਼ ਆਪਣੇ ਦਿਨਾਂ ਮੁਤਾਬਕ (ਹਫ਼ਤਾਵਾਰ, ਮਹੀਨਾਵਾਰ…)",
     "fs_smart_on": "ਚਾਲੂ — ਕਿੰਨਾ ਖ਼ਰੀਦਿਆ ਅਤੇ ਘਰ ਵਿੱਚ ਕਿੰਨੇ ਲੋਕ ਖਾਂਦੇ ਹਨ ਉਸ ਮੁਤਾਬਕ",
-    "home_slide_auto": "ਆਟੋ"
+    "home_slide_auto": "ਆਟੋ",
+    "home_flip": "ਪਲਟੋ"
   }
 }
