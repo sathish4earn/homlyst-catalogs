@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "Mati — setiap barang mengikut harinya (mingguan, bulanan…)",
     "fs_smart_on": "Hidup — mengikut berapa banyak dibeli dan berapa orang makan di rumah",
     "home_slide_auto": "Auto",
-    "home_flip": "Balik"
+    "home_flip": "Balik",
+    "item_prices_total": "Harga barang",
+    "item_price_trip_total": "Belian ini setakat ini"
   }
 }

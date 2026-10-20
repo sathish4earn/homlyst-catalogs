@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "બંધ — દરેક વસ્તુ તેના દિવસો પ્રમાણે (સાપ્તાહિક, માસિક…)",
     "fs_smart_on": "ચાલુ — કેટલું ખરીદ્યું અને ઘરમાં કેટલા લોકો જમે છે તે પ્રમાણે",
     "home_slide_auto": "ઓટો",
-    "home_flip": "ફેરવો"
+    "home_flip": "ફેરવો",
+    "item_prices_total": "વસ્તુઓની કિંમત",
+    "item_price_trip_total": "આ ખરીદીમાં અત્યાર સુધી"
   }
 }

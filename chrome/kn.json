@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "ಆಫ್ — ಪ್ರತಿ ವಸ್ತು ಅದರ ದಿನಗಳ ಪ್ರಕಾರ (ವಾರಕ್ಕೆ, ತಿಂಗಳಿಗೆ…)",
     "fs_smart_on": "ಆನ್ — ಎಷ್ಟು ಕೊಂಡಿದ್ದೀರಿ, ಮನೆಯಲ್ಲಿ ಎಷ್ಟು ಜನ ತಿನ್ನುತ್ತಾರೆ ಎಂಬುದರ ಪ್ರಕಾರ",
     "home_slide_auto": "ಆಟೋ",
-    "home_flip": "ತಿರುಗಿಸು"
+    "home_flip": "ತಿರುಗಿಸು",
+    "item_prices_total": "ವಸ್ತುಗಳ ಬೆಲೆಗಳು",
+    "item_price_trip_total": "ಈ ಖರೀದಿಯಲ್ಲಿ ಇದುವರೆಗೆ"
   }
 }

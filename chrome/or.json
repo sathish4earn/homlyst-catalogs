@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1939,6 +1939,8 @@
     "fs_smart_off": "ବନ୍ଦ — ପ୍ରତ୍ୟେକ ଜିନିଷ ତାର ଦିନ ଅନୁସାରେ (ସାପ୍ତାହିକ, ମାସିକ…)",
     "fs_smart_on": "ଚାଲୁ — କେତେ କିଣିଲେ ଏବଂ ଘରେ କେତେ ଜଣ ଖାଆନ୍ତି ସେହି ଅନୁସାରେ",
     "home_slide_auto": "ଅଟୋ",
-    "home_flip": "ଓଲଟାନ୍ତୁ"
+    "home_flip": "ଓଲଟାନ୍ତୁ",
+    "item_prices_total": "ଜିନିଷର ଦାମ",
+    "item_price_trip_total": "ଏହି କିଣାକିଣିରେ ଏପର୍ଯ୍ୟନ୍ତ"
   }
 }
