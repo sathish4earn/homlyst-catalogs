@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1927,6 +1927,13 @@
     "fs_add_from_trip": "Añadir al stock familiar",
     "fs_limit_title": "%1$d artículos gratis",
     "fs_limit_body": "El stock familiar es gratis hasta %1$d artículos por familia. Hazte Premium para controlar todo lo básico de casa: arroz, aceite, harina y más.",
-    "fs_add_from_list": "Añadir esto al stock familiar"
+    "fs_add_from_list": "Añadir esto al stock familiar",
+    "fs_people_home": "Personas en casa",
+    "fs_people_hint": "Para calcular cuánto dura cada cosa",
+    "fs_auto_chip": "✨ ~%1$d días",
+    "fs_auto_hint": "Dura unos %1$d días para %2$d personas",
+    "fs_left_qty": "~%1$s quedan",
+    "fs_left_of": "~%1$s de %2$s",
+    "fs_use_per_day": "Eso es unos %1$s al día en tu casa"
   }
 }

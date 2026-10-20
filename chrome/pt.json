@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1927,6 +1927,13 @@
     "fs_add_from_trip": "Adicionar ao estoque da família",
     "fs_limit_title": "%1$d itens grátis",
     "fs_limit_body": "O estoque da família é grátis até %1$d itens por família. Assine o Premium para acompanhar tudo de casa: arroz, óleo, farinha e mais.",
-    "fs_add_from_list": "Adicionar ao estoque da família"
+    "fs_add_from_list": "Adicionar ao estoque da família",
+    "fs_people_home": "Pessoas em casa",
+    "fs_people_hint": "Para calcular quanto tempo cada coisa dura",
+    "fs_auto_chip": "✨ ~%1$d dias",
+    "fs_auto_hint": "Dura uns %1$d dias para %2$d pessoas",
+    "fs_left_qty": "~%1$s restantes",
+    "fs_left_of": "~%1$s de %2$s",
+    "fs_use_per_day": "Cerca de %1$s por dia na sua casa"
   }
 }

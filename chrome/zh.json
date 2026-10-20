@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1927,6 +1927,13 @@
     "fs_add_from_trip": "加入家庭库存",
     "fs_limit_title": "%1$d 件免费",
     "fs_limit_body": "家庭库存每个家庭最多 %1$d 件免费。升级高级版，跟踪家里所有必需品 — 大米、油、面粉等。",
-    "fs_add_from_list": "把这些加入家庭库存"
+    "fs_add_from_list": "把这些加入家庭库存",
+    "fs_people_home": "家里人数",
+    "fs_people_hint": "用来估算每样东西能用多久",
+    "fs_auto_chip": "✨ 约 %1$d 天",
+    "fs_auto_hint": "%2$d 个人大约能用 %1$d 天",
+    "fs_left_qty": "还剩约 %1$s",
+    "fs_left_of": "%2$s 还剩约 %1$s",
+    "fs_use_per_day": "你家每天大约用 %1$s"
   }
 }
