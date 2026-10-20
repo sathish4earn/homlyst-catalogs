@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1934,6 +1934,9 @@
     "fs_auto_hint": "Cukup sekitar %1$d hari untuk %2$d orang",
     "fs_left_qty": "~%1$s tersisa",
     "fs_left_of": "~%1$s dari %2$s",
-    "fs_use_per_day": "Sekitar %1$s per hari di rumahmu"
+    "fs_use_per_day": "Sekitar %1$s per hari di rumahmu",
+    "fs_smart_title": "Perkiraan pintar",
+    "fs_smart_off": "Mati — tiap barang menurut harinya (mingguan, bulanan…)",
+    "fs_smart_on": "Nyala — menurut berapa banyak yang dibeli dan berapa orang makan di rumah"
   }
 }

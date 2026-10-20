@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1934,6 +1934,9 @@
     "fs_auto_hint": "Dura unos %1$d días para %2$d personas",
     "fs_left_qty": "~%1$s quedan",
     "fs_left_of": "~%1$s de %2$s",
-    "fs_use_per_day": "Eso es unos %1$s al día en tu casa"
+    "fs_use_per_day": "Eso es unos %1$s al día en tu casa",
+    "fs_smart_title": "Estimación inteligente",
+    "fs_smart_off": "Desactivada — cada artículo dura según sus días (semanal, mensual…)",
+    "fs_smart_on": "Activada — según cuánto compraste y cuántos comen en casa"
   }
 }

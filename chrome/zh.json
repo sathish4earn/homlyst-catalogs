@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1934,6 +1934,9 @@
     "fs_auto_hint": "%2$d 个人大约能用 %1$d 天",
     "fs_left_qty": "还剩约 %1$s",
     "fs_left_of": "%2$s 还剩约 %1$s",
-    "fs_use_per_day": "你家每天大约用 %1$s"
+    "fs_use_per_day": "你家每天大约用 %1$s",
+    "fs_smart_title": "智能估算",
+    "fs_smart_off": "关闭 — 每样东西按天数计算（每周、每月…）",
+    "fs_smart_on": "开启 — 按买了多少和家里几个人吃来计算"
   }
 }

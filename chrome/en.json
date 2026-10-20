@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1934,6 +1934,9 @@
     "fs_auto_hint": "Lasts about %1$d days for %2$d people",
     "fs_left_qty": "~%1$s left",
     "fs_left_of": "~%1$s left of %2$s",
-    "fs_use_per_day": "That's about %1$s a day in your home"
+    "fs_use_per_day": "That's about %1$s a day in your home",
+    "fs_smart_title": "Smart estimate",
+    "fs_smart_off": "Off — each item lasts by its days (weekly, monthly…)",
+    "fs_smart_on": "On — by how much you bought and how many eat at home"
   }
 }
