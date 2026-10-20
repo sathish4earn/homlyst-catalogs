@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1938,6 +1938,7 @@
     "fs_smart_title": "ประมาณอัจฉริยะ",
     "fs_smart_off": "ปิด — ของแต่ละอย่างนับตามวัน (รายสัปดาห์ รายเดือน…)",
     "fs_smart_on": "เปิด — ตามปริมาณที่ซื้อและจำนวนคนที่กินในบ้าน",
-    "home_slide_auto": "อัตโนมัติ"
+    "home_slide_auto": "อัตโนมัติ",
+    "home_flip": "พลิก"
   }
 }

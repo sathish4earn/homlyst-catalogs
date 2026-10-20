@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -1938,6 +1938,7 @@
     "fs_smart_title": "स्मार्ट अंदाज",
     "fs_smart_off": "बंद — प्रत्येक वस्तू तिच्या दिवसांनुसार (आठवडा, महिना…)",
     "fs_smart_on": "चालू — किती खरेदी केले आणि घरात किती लोक जेवतात त्यानुसार",
-    "home_slide_auto": "ऑटो"
+    "home_slide_auto": "ऑटो",
+    "home_flip": "उलटा"
   }
 }

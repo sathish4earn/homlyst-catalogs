@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1938,6 +1938,7 @@
     "fs_smart_title": "智能估算",
     "fs_smart_off": "关闭 — 每样东西按天数计算（每周、每月…）",
     "fs_smart_on": "开启 — 按买了多少和家里几个人吃来计算",
-    "home_slide_auto": "自动"
+    "home_slide_auto": "自动",
+    "home_flip": "翻转"
   }
 }

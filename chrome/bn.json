@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1938,6 +1938,7 @@
     "fs_smart_title": "স্মার্ট হিসাব",
     "fs_smart_off": "বন্ধ — প্রতিটি জিনিস তার দিন অনুযায়ী (সাপ্তাহিক, মাসিক…)",
     "fs_smart_on": "চালু — কতটা কিনেছেন আর বাড়িতে কতজন খান তার ভিত্তিতে",
-    "home_slide_auto": "অটো"
+    "home_slide_auto": "অটো",
+    "home_flip": "উল্টান"
   }
 }
