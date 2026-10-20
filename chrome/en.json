@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1927,6 +1927,13 @@
     "fs_add_from_trip": "Add to Family Stock",
     "fs_limit_title": "%1$d items are free",
     "fs_limit_body": "Family Stock is free for up to %1$d items per family. Get Premium to track every staple at home — rice, oil, atta and more.",
-    "fs_add_from_list": "Add these to Family Stock"
+    "fs_add_from_list": "Add these to Family Stock",
+    "fs_people_home": "People at home",
+    "fs_people_hint": "Used to work out how long things last",
+    "fs_auto_chip": "✨ ~%1$d days",
+    "fs_auto_hint": "Lasts about %1$d days for %2$d people",
+    "fs_left_qty": "~%1$s left",
+    "fs_left_of": "~%1$s left of %2$s",
+    "fs_use_per_day": "That's about %1$s a day in your home"
   }
 }

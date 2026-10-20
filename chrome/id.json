@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1927,6 +1927,13 @@
     "fs_add_from_trip": "Tambah ke Stok Keluarga",
     "fs_limit_title": "%1$d barang gratis",
     "fs_limit_body": "Stok Keluarga gratis hingga %1$d barang per keluarga. Dapatkan Premium untuk memantau semua kebutuhan rumah — beras, minyak, tepung, dan lainnya.",
-    "fs_add_from_list": "Tambahkan ini ke Stok Keluarga"
+    "fs_add_from_list": "Tambahkan ini ke Stok Keluarga",
+    "fs_people_home": "Orang di rumah",
+    "fs_people_hint": "Untuk memperkirakan berapa lama barang bertahan",
+    "fs_auto_chip": "✨ ~%1$d hari",
+    "fs_auto_hint": "Cukup sekitar %1$d hari untuk %2$d orang",
+    "fs_left_qty": "~%1$s tersisa",
+    "fs_left_of": "~%1$s dari %2$s",
+    "fs_use_per_day": "Sekitar %1$s per hari di rumahmu"
   }
 }
