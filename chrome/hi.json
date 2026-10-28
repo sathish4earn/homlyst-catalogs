@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "ऑटो",
     "home_flip": "पलटें",
     "item_prices_total": "सामान की कीमतें",
-    "item_price_trip_total": "इस खरीदारी में अब तक"
+    "item_price_trip_total": "इस खरीदारी में अब तक",
+    "slide_fav_save_title": "पसंदीदा में सेव करें",
+    "slide_fav_save_body": "इस सूची को रखें और एक टैप में दोबारा इस्तेमाल करें",
+    "slide_fav_save_action": "सेव करें",
+    "slide_fav_open_body": "आपकी सेव की गई सूचियां — एक टैप में अपनी सूची में जोड़ें",
+    "slide_open_action": "खोलें",
+    "slide_lang_action": "बदलें",
+    "slide_schedule_label": "शेड्यूल की गई सूचियां",
+    "slide_schedule_title": "इस सूची को शेड्यूल करें",
+    "slide_schedule_body": "इसे हर दिन, हफ़्ते या महीने फिर से पाएं",
+    "slide_schedule_open_body": "सूचियां जो अपने आप लौट आती हैं — रोज़, हर हफ़्ते या हर महीने",
+    "paywall_unavailable_country": "आपके चुने हुए देश में अभी प्रीमियम नहीं मिलता। अगर आप भारत में हैं, तो सेटिंग्स में देश जांचें।",
+    "paywall_store_error": "Google Play प्रीमियम लोड नहीं कर सका। Play Store में साइन इन करें, फिर Retry पर टैप करें।",
+    "paywall_error_code": "Play कोड: %1$s",
+    "paywall_plan_individual": "सिर्फ़ मैं",
+    "paywall_plan_family": "फ़ैमिली · 4 लोगों तक",
+    "paywall_family_space": "आपके और %1$s के 3 और लोगों के लिए प्रीमियम",
+    "paywall_family_after": "सब्सक्राइब करने के बाद 3 परिवार वालों तक जोड़ें।",
+    "paywall_upsell_family": "सिर्फ़ मैं में केवल आप शामिल हैं। %1$s में फ़ैमिली 4 लोगों को प्रीमियम देता है।",
+    "paywall_upsell_family_count": "आपके फ़ैमिली स्पेस में %1$d लोग हैं। %2$s में फ़ैमिली उनमें से 4 लोगों तक को प्रीमियम देता है।",
+    "paywall_switch_family": "फ़ैमिली पर जाएं",
+    "premium_slide_get": "प्रीमियम लें",
+    "family_plan_ready_title": "आपका फ़ैमिली प्लान तैयार है 🎉",
+    "family_plan_ready_no_space": "अपना फ़ैमिली स्पेस बनाएं और 3 लोगों तक को बुलाएं। उन्हें प्रीमियम मुफ़्त मिलेगा।",
+    "family_plan_ready_space": "%1$s में 3 लोगों तक को अब प्रीमियम मुफ़्त मिलेगा। फ़ैमिली स्पेस से और परिवार वालों को बुलाएं।",
+    "premium_from_family_plan": "%1$s के फ़ैमिली प्लान से प्रीमियम",
+    "family_plan_create_hint": "👑 आपके पास फ़ैमिली प्लान है। इस फ़ैमिली स्पेस में 3 लोगों तक को बुलाएं — उन्हें प्रीमियम मुफ़्त मिलेगा।",
+    "premium_member_badge_desc": "प्रीमियम सदस्य"
   }
 }

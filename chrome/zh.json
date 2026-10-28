@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "自动",
     "home_flip": "翻转",
     "item_prices_total": "商品价格",
-    "item_price_trip_total": "本次购物目前"
+    "item_price_trip_total": "本次购物目前",
+    "slide_fav_save_title": "保存为收藏",
+    "slide_fav_save_body": "保留这份清单，一键即可再次使用",
+    "slide_fav_save_action": "保存",
+    "slide_fav_open_body": "你保存的清单——一键加入你的清单",
+    "slide_open_action": "打开",
+    "slide_lang_action": "更改",
+    "slide_schedule_label": "定期清单",
+    "slide_schedule_title": "定期发送这份清单",
+    "slide_schedule_body": "每天、每周或每月再次收到",
+    "slide_schedule_open_body": "会自动回来的清单——每天、每周或每月",
+    "paywall_unavailable_country": "你所选的国家暂未销售高级版。如果你在印度，请在设置中检查国家。",
+    "paywall_store_error": "Google Play 无法加载高级版。请确认已登录 Play 商店，然后点按重试。",
+    "paywall_error_code": "Play 代码：%1$s",
+    "paywall_plan_individual": "仅我自己",
+    "paywall_plan_family": "家庭 · 最多 4 人",
+    "paywall_family_space": "你和 %1$s 中另外 3 人享有高级版",
+    "paywall_family_after": "订阅后可添加最多 3 位家人。",
+    "paywall_upsell_family": "仅我自己只覆盖你一人。只需 %1$s，家庭版可让 4 人享有高级版。",
+    "paywall_upsell_family_count": "你的家庭空间有 %1$d 人。只需 %2$s，家庭版可让其中最多 4 人享有高级版。",
+    "paywall_switch_family": "切换到家庭版",
+    "premium_slide_get": "获取高级版",
+    "family_plan_ready_title": "你的家庭版已就绪 🎉",
+    "family_plan_ready_no_space": "创建你的家庭空间并邀请最多 3 人，他们可免费享有高级版。",
+    "family_plan_ready_space": "%1$s 中最多 3 人现在可免费享有高级版。可从家庭空间邀请更多家人。",
+    "premium_from_family_plan": "来自 %1$s 的家庭版高级权益",
+    "family_plan_create_hint": "👑 你已开通家庭版。邀请最多 3 人加入这个家庭空间——他们可免费享有高级版。",
+    "premium_member_badge_desc": "高级版会员"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "อัตโนมัติ",
     "home_flip": "พลิก",
     "item_prices_total": "ราคาสินค้า",
-    "item_price_trip_total": "รอบนี้จนถึงตอนนี้"
+    "item_price_trip_total": "รอบนี้จนถึงตอนนี้",
+    "slide_fav_save_title": "บันทึกเป็นรายการโปรด",
+    "slide_fav_save_body": "เก็บรายการนี้ไว้และใช้ซ้ำได้ในแตะเดียว",
+    "slide_fav_save_action": "บันทึก",
+    "slide_fav_open_body": "รายการที่คุณบันทึกไว้ — เพิ่มลงรายการของคุณได้ในแตะเดียว",
+    "slide_open_action": "เปิด",
+    "slide_lang_action": "เปลี่ยน",
+    "slide_schedule_label": "รายการตามกำหนด",
+    "slide_schedule_title": "ตั้งเวลารายการนี้",
+    "slide_schedule_body": "รับอีกครั้งทุกวัน ทุกสัปดาห์ หรือทุกเดือน",
+    "slide_schedule_open_body": "รายการที่กลับมาเอง — รายวัน รายสัปดาห์ หรือรายเดือน",
+    "paywall_unavailable_country": "ยังไม่มีการขาย Premium ในประเทศที่คุณเลือก หากคุณอยู่ในอินเดีย ให้ตรวจสอบประเทศในการตั้งค่า",
+    "paywall_store_error": "Google Play โหลด Premium ไม่ได้ ตรวจสอบว่าคุณลงชื่อเข้าใช้ Play Store แล้ว จากนั้นแตะลองอีกครั้ง",
+    "paywall_error_code": "รหัส Play: %1$s",
+    "paywall_plan_individual": "ฉันคนเดียว",
+    "paywall_plan_family": "ครอบครัว · สูงสุด 4 คน",
+    "paywall_family_space": "Premium สำหรับคุณและอีก 3 คนใน %1$s",
+    "paywall_family_after": "เพิ่มสมาชิกครอบครัวได้สูงสุด 3 คนหลังสมัครสมาชิก",
+    "paywall_upsell_family": "ฉันคนเดียวครอบคลุมเฉพาะคุณ ในราคา %1$s แผนครอบครัวให้ Premium แก่ 4 คน",
+    "paywall_upsell_family_count": "พื้นที่ครอบครัวของคุณมี %1$d คน ในราคา %2$s แผนครอบครัวให้ Premium แก่พวกเขาได้สูงสุด 4 คน",
+    "paywall_switch_family": "เปลี่ยนเป็นครอบครัว",
+    "premium_slide_get": "รับ Premium",
+    "family_plan_ready_title": "แผนครอบครัวของคุณพร้อมแล้ว 🎉",
+    "family_plan_ready_no_space": "สร้างพื้นที่ครอบครัวและเชิญได้สูงสุด 3 คน พวกเขาจะได้ Premium ฟรี",
+    "family_plan_ready_space": "สูงสุด 3 คนใน %1$s ได้ Premium ฟรีแล้ว เชิญครอบครัวเพิ่มได้จากพื้นที่ครอบครัว",
+    "premium_from_family_plan": "Premium จากแผนครอบครัวของ %1$s",
+    "family_plan_create_hint": "👑 คุณมีแผนครอบครัว เชิญได้สูงสุด 3 คนเข้าพื้นที่ครอบครัวนี้ — พวกเขาจะได้ Premium ฟรี",
+    "premium_member_badge_desc": "สมาชิกพรีเมียม"
   }
 }

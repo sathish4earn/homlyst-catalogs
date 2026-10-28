@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "ઓટો",
     "home_flip": "ફેરવો",
     "item_prices_total": "વસ્તુઓની કિંમત",
-    "item_price_trip_total": "આ ખરીદીમાં અત્યાર સુધી"
+    "item_price_trip_total": "આ ખરીદીમાં અત્યાર સુધી",
+    "slide_fav_save_title": "મનપસંદ તરીકે સેવ કરો",
+    "slide_fav_save_body": "આ યાદી રાખો અને એક ટેપમાં ફરી વાપરો",
+    "slide_fav_save_action": "સેવ કરો",
+    "slide_fav_open_body": "તમારી સેવ કરેલી યાદીઓ — એક ટેપમાં તમારી યાદીમાં ઉમેરો",
+    "slide_open_action": "ખોલો",
+    "slide_lang_action": "બદલો",
+    "slide_schedule_label": "શેડ્યૂલ કરેલી યાદીઓ",
+    "slide_schedule_title": "આ યાદી શેડ્યૂલ કરો",
+    "slide_schedule_body": "દર દિવસે, અઠવાડિયે કે મહિને ફરી મેળવો",
+    "slide_schedule_open_body": "પોતાની મેળે પાછી આવતી યાદીઓ — રોજ, દર અઠવાડિયે કે દર મહિને",
+    "paywall_unavailable_country": "તમે પસંદ કરેલા દેશમાં પ્રીમિયમ હજી વેચાતું નથી. જો તમે ભારતમાં હો, તો સેટિંગ્સમાં દેશ તપાસો.",
+    "paywall_store_error": "Google Play પ્રીમિયમ લોડ કરી શક્યું નહીં. Play Store માં સાઇન ઇન છો તેની ખાતરી કરો, પછી Retry પર ટેપ કરો.",
+    "paywall_error_code": "Play કોડ: %1$s",
+    "paywall_plan_individual": "ફક્ત હું",
+    "paywall_plan_family": "ફેમિલી · 4 લોકો સુધી",
+    "paywall_family_space": "તમારા અને %1$s માંના બીજા 3 લોકો માટે પ્રીમિયમ",
+    "paywall_family_after": "સબ્સ્ક્રાઇબ કર્યા પછી 3 કુટુંબીજનો સુધી ઉમેરો.",
+    "paywall_upsell_family": "ફક્ત હું માં ફક્ત તમે આવો છો. %1$s માં ફેમિલી 4 લોકોને પ્રીમિયમ આપે છે.",
+    "paywall_upsell_family_count": "તમારી ફેમિલી સ્પેસમાં %1$d લોકો છે. %2$s માં ફેમિલી તેમાંથી 4 લોકો સુધીને પ્રીમિયમ આપે છે.",
+    "paywall_switch_family": "ફેમિલી પર જાઓ",
+    "premium_slide_get": "પ્રીમિયમ મેળવો",
+    "family_plan_ready_title": "તમારો ફેમિલી પ્લાન તૈયાર છે 🎉",
+    "family_plan_ready_no_space": "તમારી ફેમિલી સ્પેસ બનાવો અને 3 લોકો સુધીને આમંત્રિત કરો. તેમને પ્રીમિયમ મફત મળશે.",
+    "family_plan_ready_space": "%1$s માં 3 લોકો સુધીને હવે પ્રીમિયમ મફત મળશે. ફેમિલી સ્પેસમાંથી વધુ કુટુંબીજનોને આમંત્રિત કરો.",
+    "premium_from_family_plan": "%1$s ના ફેમિલી પ્લાનમાંથી પ્રીમિયમ",
+    "family_plan_create_hint": "👑 તમારી પાસે ફેમિલી પ્લાન છે. આ ફેમિલી સ્પેસમાં 3 લોકો સુધીને આમંત્રિત કરો — તેમને પ્રીમિયમ મફત મળશે.",
+    "premium_member_badge_desc": "પ્રીમિયમ સભ્ય"
   }
 }

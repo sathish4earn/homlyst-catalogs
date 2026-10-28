@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "Tự động",
     "home_flip": "Lật",
     "item_prices_total": "Giá món hàng",
-    "item_price_trip_total": "Lần mua này đến giờ"
+    "item_price_trip_total": "Lần mua này đến giờ",
+    "slide_fav_save_title": "Lưu làm yêu thích",
+    "slide_fav_save_body": "Giữ danh sách này và dùng lại chỉ với một chạm",
+    "slide_fav_save_action": "Lưu",
+    "slide_fav_open_body": "Danh sách đã lưu của bạn — thêm vào danh sách chỉ với một chạm",
+    "slide_open_action": "Mở",
+    "slide_lang_action": "Đổi",
+    "slide_schedule_label": "Danh sách định kỳ",
+    "slide_schedule_title": "Lên lịch danh sách này",
+    "slide_schedule_body": "Nhận lại mỗi ngày, tuần hoặc tháng",
+    "slide_schedule_open_body": "Danh sách tự quay lại — hằng ngày, hằng tuần hoặc hằng tháng",
+    "paywall_unavailable_country": "Premium chưa được bán ở quốc gia bạn chọn. Nếu bạn ở Ấn Độ, hãy kiểm tra quốc gia trong Cài đặt.",
+    "paywall_store_error": "Google Play không tải được Premium. Hãy chắc rằng bạn đã đăng nhập Play Store, rồi chạm Thử lại.",
+    "paywall_error_code": "Mã Play: %1$s",
+    "paywall_plan_individual": "Chỉ mình tôi",
+    "paywall_plan_family": "Gia đình · tối đa 4 người",
+    "paywall_family_space": "Premium cho bạn và 3 người khác trong %1$s",
+    "paywall_family_after": "Thêm tối đa 3 thành viên gia đình sau khi đăng ký.",
+    "paywall_upsell_family": "Chỉ mình tôi chỉ áp dụng cho bạn. Với %1$s, gói Gia đình cho 4 người dùng Premium.",
+    "paywall_upsell_family_count": "Không gian gia đình của bạn có %1$d người. Với %2$s, gói Gia đình cho tối đa 4 người trong số họ dùng Premium.",
+    "paywall_switch_family": "Chuyển sang Gia đình",
+    "premium_slide_get": "Nhận Premium",
+    "family_plan_ready_title": "Gói Gia đình của bạn đã sẵn sàng 🎉",
+    "family_plan_ready_no_space": "Tạo Không gian gia đình và mời tối đa 3 người. Họ được dùng Premium miễn phí.",
+    "family_plan_ready_space": "Tối đa 3 người trong %1$s giờ được dùng Premium miễn phí. Mời thêm người thân từ Không gian gia đình.",
+    "premium_from_family_plan": "Premium từ gói Gia đình của %1$s",
+    "family_plan_create_hint": "👑 Bạn có gói Gia đình. Mời tối đa 3 người vào Không gian gia đình này — họ được dùng Premium miễn phí.",
+    "premium_member_badge_desc": "Thành viên Premium"
   }
 }
