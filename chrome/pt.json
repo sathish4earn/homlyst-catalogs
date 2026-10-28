@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "Auto",
     "home_flip": "Virar",
     "item_prices_total": "Preços dos itens",
-    "item_price_trip_total": "Nesta compra até agora"
+    "item_price_trip_total": "Nesta compra até agora",
+    "slide_fav_save_title": "Salvar como favorita",
+    "slide_fav_save_body": "Guarde esta lista e use de novo com um toque",
+    "slide_fav_save_action": "Salvar",
+    "slide_fav_open_body": "Suas listas salvas: adicione uma à sua lista com um toque",
+    "slide_open_action": "Abrir",
+    "slide_lang_action": "Mudar",
+    "slide_schedule_label": "Listas programadas",
+    "slide_schedule_title": "Programar esta lista",
+    "slide_schedule_body": "Receba de novo todo dia, semana ou mês",
+    "slide_schedule_open_body": "Listas que voltam sozinhas: todo dia, semana ou mês",
+    "paywall_unavailable_country": "O Premium ainda não é vendido no país escolhido. Se você está na Índia, confira o país em Configurações.",
+    "paywall_store_error": "O Google Play não conseguiu carregar o Premium. Confirme que você entrou na Play Store e toque em Tentar de novo.",
+    "paywall_error_code": "Código do Play: %1$s",
+    "paywall_plan_individual": "Só eu",
+    "paywall_plan_family": "Família · até 4 pessoas",
+    "paywall_family_space": "Premium para você e mais 3 pessoas em %1$s",
+    "paywall_family_after": "Adicione até 3 familiares depois de assinar.",
+    "paywall_upsell_family": "Só eu cobre apenas você. Por %1$s, Família dá Premium a 4 pessoas.",
+    "paywall_upsell_family_count": "Seu Espaço da Família tem %1$d pessoas. Por %2$s, Família dá Premium a até 4 delas.",
+    "paywall_switch_family": "Mudar para Família",
+    "premium_slide_get": "Obter Premium",
+    "family_plan_ready_title": "Seu plano Família está pronto 🎉",
+    "family_plan_ready_no_space": "Crie seu Espaço da Família e convide até 3 pessoas. Elas ganham Premium grátis.",
+    "family_plan_ready_space": "Até 3 pessoas em %1$s agora têm Premium grátis. Convide mais familiares pelo Espaço da Família.",
+    "premium_from_family_plan": "Premium pelo plano Família de %1$s",
+    "family_plan_create_hint": "👑 Você tem o plano Família. Convide até 3 pessoas para este Espaço da Família: elas ganham Premium grátis.",
+    "premium_member_badge_desc": "Membro Premium"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "ଅଟୋ",
     "home_flip": "ଓଲଟାନ୍ତୁ",
     "item_prices_total": "ଜିନିଷର ଦାମ",
-    "item_price_trip_total": "ଏହି କିଣାକିଣିରେ ଏପର୍ଯ୍ୟନ୍ତ"
+    "item_price_trip_total": "ଏହି କିଣାକିଣିରେ ଏପର୍ଯ୍ୟନ୍ତ",
+    "slide_fav_save_title": "ପସନ୍ଦ ଭାବେ ସେଭ କରନ୍ତୁ",
+    "slide_fav_save_body": "ଏହି ତାଲିକା ରଖନ୍ତୁ ଏବଂ ଗୋଟିଏ ଟ୍ୟାପରେ ପୁଣି ବ୍ୟବହାର କରନ୍ତୁ",
+    "slide_fav_save_action": "ସେଭ କରନ୍ତୁ",
+    "slide_fav_open_body": "ଆପଣଙ୍କ ସେଭ ହୋଇଥିବା ତାଲିକା — ଗୋଟିଏ ଟ୍ୟାପରେ ଆପଣଙ୍କ ତାଲିକାରେ ଯୋଡନ୍ତୁ",
+    "slide_open_action": "ଖୋଲନ୍ତୁ",
+    "slide_lang_action": "ବଦଳାନ୍ତୁ",
+    "slide_schedule_label": "ନିର୍ଧାରିତ ତାଲିକା",
+    "slide_schedule_title": "ଏହି ତାଲିକା ନିର୍ଧାରଣ କରନ୍ତୁ",
+    "slide_schedule_body": "ପ୍ରତିଦିନ, ସପ୍ତାହ କିମ୍ବା ମାସରେ ପୁଣି ପାଆନ୍ତୁ",
+    "slide_schedule_open_body": "ନିଜେ ଫେରି ଆସୁଥିବା ତାଲିକା — ଦୈନିକ, ସାପ୍ତାହିକ କିମ୍ବା ମାସିକ",
+    "paywall_unavailable_country": "ଆପଣ ବାଛିଥିବା ଦେଶରେ ପ୍ରିମିୟମ ଏପର୍ଯ୍ୟନ୍ତ ବିକ୍ରି ହେଉନାହିଁ। ଆପଣ ଭାରତରେ ଥିଲେ, ସେଟିଂସରେ ଦେଶ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "paywall_store_error": "Google Play ପ୍ରିମିୟମ ଲୋଡ କରିପାରିଲା ନାହିଁ। Play Storeରେ ସାଇନ ଇନ ଅଛନ୍ତି କି ନିଶ୍ଚିତ କରନ୍ତୁ, ତାପରେ Retry ଟ୍ୟାପ କରନ୍ତୁ।",
+    "paywall_error_code": "Play କୋଡ୍: %1$s",
+    "paywall_plan_individual": "କେବଳ ମୁଁ",
+    "paywall_plan_family": "ପରିବାର · 4 ଜଣ ପର୍ଯ୍ୟନ୍ତ",
+    "paywall_family_space": "ଆପଣ ଏବଂ %1$sର ଆଉ 3 ଜଣଙ୍କ ପାଇଁ ପ୍ରିମିୟମ",
+    "paywall_family_after": "ସବସ୍କ୍ରାଇବ କରିବା ପରେ 3 ଜଣ ପର୍ଯ୍ୟନ୍ତ ପରିବାର ସଦସ୍ୟ ଯୋଡନ୍ତୁ।",
+    "paywall_upsell_family": "କେବଳ ମୁଁ କେବଳ ଆପଣଙ୍କୁ କଭର କରେ। %1$sରେ ପରିବାର 4 ଜଣଙ୍କୁ ପ୍ରିମିୟମ ଦିଏ।",
+    "paywall_upsell_family_count": "ଆପଣଙ୍କ ଫ୍ୟାମିଲି ସ୍ପେସରେ %1$d ଜଣ ଅଛନ୍ତି। %2$sରେ ପରିବାର ସେମାନଙ୍କ ମଧ୍ୟରୁ 4 ଜଣ ପର୍ଯ୍ୟନ୍ତ ପ୍ରିମିୟମ ଦିଏ।",
+    "paywall_switch_family": "ପରିବାରକୁ ବଦଳାନ୍ତୁ",
+    "premium_slide_get": "ପ୍ରିମିୟମ ନିଅନ୍ତୁ",
+    "family_plan_ready_title": "ଆପଣଙ୍କ ଫ୍ୟାମିଲି ପ୍ଲାନ ପ୍ରସ୍ତୁତ 🎉",
+    "family_plan_ready_no_space": "ଆପଣଙ୍କ ଫ୍ୟାମିଲି ସ୍ପେସ ତିଆରି କରନ୍ତୁ ଏବଂ 3 ଜଣ ପର୍ଯ୍ୟନ୍ତ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ। ସେମାନେ ପ୍ରିମିୟମ ମାଗଣାରେ ପାଇବେ।",
+    "family_plan_ready_space": "%1$sର 3 ଜଣ ପର୍ଯ୍ୟନ୍ତ ଏବେ ମାଗଣାରେ ପ୍ରିମିୟମ ପାଇବେ। ଫ୍ୟାମିଲି ସ୍ପେସରୁ ଅଧିକ ପରିବାର ସଦସ୍ୟଙ୍କୁ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ।",
+    "premium_from_family_plan": "%1$sଙ୍କ ଫ୍ୟାମିଲି ପ୍ଲାନରୁ ପ୍ରିମିୟମ",
+    "family_plan_create_hint": "👑 ଆପଣଙ୍କ ପାଖରେ ଫ୍ୟାମିଲି ପ୍ଲାନ ଅଛି। ଏହି ଫ୍ୟାମିଲି ସ୍ପେସକୁ 3 ଜଣ ପର୍ଯ୍ୟନ୍ତ ଆମନ୍ତ୍ରଣ କରନ୍ତୁ — ସେମାନେ ପ୍ରିମିୟମ ମାଗଣାରେ ପାଇବେ।",
+    "premium_member_badge_desc": "ପ୍ରିମିୟମ ସଦସ୍ୟ"
   }
 }

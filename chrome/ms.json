@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "Auto",
     "home_flip": "Balik",
     "item_prices_total": "Harga barang",
-    "item_price_trip_total": "Belian ini setakat ini"
+    "item_price_trip_total": "Belian ini setakat ini",
+    "slide_fav_save_title": "Simpan sebagai kegemaran",
+    "slide_fav_save_body": "Simpan senarai ini dan guna semula dengan satu ketikan",
+    "slide_fav_save_action": "Simpan",
+    "slide_fav_open_body": "Senarai simpanan anda — tambah satu ke senarai anda dengan satu ketikan",
+    "slide_open_action": "Buka",
+    "slide_lang_action": "Tukar",
+    "slide_schedule_label": "Senarai berjadual",
+    "slide_schedule_title": "Jadualkan senarai ini",
+    "slide_schedule_body": "Dapatkan semula setiap hari, minggu atau bulan",
+    "slide_schedule_open_body": "Senarai yang kembali dengan sendirinya — harian, mingguan atau bulanan",
+    "paywall_unavailable_country": "Premium belum dijual di negara pilihan anda. Jika anda di India, semak negara dalam Tetapan.",
+    "paywall_store_error": "Google Play tidak dapat memuatkan Premium. Pastikan anda log masuk ke Play Store, kemudian ketik Cuba lagi.",
+    "paywall_error_code": "Kod Play: %1$s",
+    "paywall_plan_individual": "Saya sahaja",
+    "paywall_plan_family": "Keluarga · sehingga 4 orang",
+    "paywall_family_space": "Premium untuk anda dan 3 orang lagi dalam %1$s",
+    "paywall_family_after": "Tambah sehingga 3 ahli keluarga selepas melanggan.",
+    "paywall_upsell_family": "Saya sahaja hanya meliputi anda. Untuk %1$s, Keluarga memberi Premium kepada 4 orang.",
+    "paywall_upsell_family_count": "Ruang Keluarga anda ada %1$d orang. Untuk %2$s, Keluarga memberi Premium kepada sehingga 4 daripada mereka.",
+    "paywall_switch_family": "Tukar ke Keluarga",
+    "premium_slide_get": "Dapatkan Premium",
+    "family_plan_ready_title": "Pelan Keluarga anda sudah sedia 🎉",
+    "family_plan_ready_no_space": "Cipta Ruang Keluarga anda dan jemput sehingga 3 orang. Mereka mendapat Premium percuma.",
+    "family_plan_ready_space": "Sehingga 3 orang dalam %1$s kini mendapat Premium percuma. Jemput lebih ramai keluarga dari Ruang Keluarga.",
+    "premium_from_family_plan": "Premium daripada pelan Keluarga %1$s",
+    "family_plan_create_hint": "👑 Anda ada pelan Keluarga. Jemput sehingga 3 orang ke Ruang Keluarga ini — mereka mendapat Premium percuma.",
+    "premium_member_badge_desc": "Ahli Premium"
   }
 }

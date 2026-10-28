@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "অটো",
     "home_flip": "উল্টান",
     "item_prices_total": "জিনিসের দাম",
-    "item_price_trip_total": "এই কেনাকাটায় এখন পর্যন্ত"
+    "item_price_trip_total": "এই কেনাকাটায় এখন পর্যন্ত",
+    "slide_fav_save_title": "প্রিয় হিসেবে সেভ করুন",
+    "slide_fav_save_body": "এই তালিকাটি রাখুন এবং এক ট্যাপে আবার ব্যবহার করুন",
+    "slide_fav_save_action": "সেভ করুন",
+    "slide_fav_open_body": "আপনার সেভ করা তালিকা — এক ট্যাপে আপনার তালিকায় যোগ করুন",
+    "slide_open_action": "খুলুন",
+    "slide_lang_action": "বদলান",
+    "slide_schedule_label": "নির্ধারিত তালিকা",
+    "slide_schedule_title": "এই তালিকাটি নির্ধারণ করুন",
+    "slide_schedule_body": "প্রতিদিন, প্রতি সপ্তাহে বা প্রতি মাসে আবার পান",
+    "slide_schedule_open_body": "যে তালিকা নিজে থেকেই ফিরে আসে — প্রতিদিন, সাপ্তাহিক বা মাসিক",
+    "paywall_unavailable_country": "আপনার বেছে নেওয়া দেশে প্রিমিয়াম এখনও বিক্রি হয় না। আপনি ভারতে থাকলে, সেটিংসে দেশটি দেখে নিন।",
+    "paywall_store_error": "Google Play প্রিমিয়াম লোড করতে পারেনি। Play Store-এ সাইন ইন আছেন কিনা দেখুন, তারপর Retry ট্যাপ করুন।",
+    "paywall_error_code": "Play কোড: %1$s",
+    "paywall_plan_individual": "শুধু আমি",
+    "paywall_plan_family": "পরিবার · ৪ জন পর্যন্ত",
+    "paywall_family_space": "আপনার এবং %1$s-এর আরও ৩ জনের জন্য প্রিমিয়াম",
+    "paywall_family_after": "সাবস্ক্রাইব করার পরে ৩ জন পর্যন্ত পরিবারের সদস্য যোগ করুন।",
+    "paywall_upsell_family": "শুধু আমি কেবল আপনাকেই কভার করে। %1$s-এ পরিবার ৪ জনকে প্রিমিয়াম দেয়।",
+    "paywall_upsell_family_count": "আপনার পরিবার স্পেসে %1$d জন আছেন। %2$s-এ পরিবার তাঁদের মধ্যে ৪ জন পর্যন্ত প্রিমিয়াম দেয়।",
+    "paywall_switch_family": "পরিবারে বদলান",
+    "premium_slide_get": "প্রিমিয়াম নিন",
+    "family_plan_ready_title": "আপনার পরিবার প্ল্যান তৈরি 🎉",
+    "family_plan_ready_no_space": "আপনার পরিবার স্পেস তৈরি করুন এবং ৩ জন পর্যন্ত আমন্ত্রণ জানান। তাঁরা প্রিমিয়াম বিনামূল্যে পাবেন।",
+    "family_plan_ready_space": "%1$s-এর ৩ জন পর্যন্ত এখন বিনামূল্যে প্রিমিয়াম পাবেন। পরিবার স্পেস থেকে আরও পরিবারের সদস্যদের আমন্ত্রণ জানান।",
+    "premium_from_family_plan": "%1$s-এর পরিবার প্ল্যান থেকে প্রিমিয়াম",
+    "family_plan_create_hint": "👑 আপনার পরিবার প্ল্যান আছে। এই পরিবার স্পেসে ৩ জন পর্যন্ত আমন্ত্রণ জানান — তাঁরা প্রিমিয়াম বিনামূল্যে পাবেন।",
+    "premium_member_badge_desc": "প্রিমিয়াম সদস্য"
   }
 }

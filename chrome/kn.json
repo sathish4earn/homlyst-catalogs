@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "ಆಟೋ",
     "home_flip": "ತಿರುಗಿಸು",
     "item_prices_total": "ವಸ್ತುಗಳ ಬೆಲೆಗಳು",
-    "item_price_trip_total": "ಈ ಖರೀದಿಯಲ್ಲಿ ಇದುವರೆಗೆ"
+    "item_price_trip_total": "ಈ ಖರೀದಿಯಲ್ಲಿ ಇದುವರೆಗೆ",
+    "slide_fav_save_title": "ಮೆಚ್ಚಿನದಾಗಿ ಉಳಿಸಿ",
+    "slide_fav_save_body": "ಈ ಪಟ್ಟಿಯನ್ನು ಇಟ್ಟುಕೊಂಡು ಒಂದೇ ಟ್ಯಾಪ್‌ನಲ್ಲಿ ಮತ್ತೆ ಬಳಸಿ",
+    "slide_fav_save_action": "ಉಳಿಸಿ",
+    "slide_fav_open_body": "ನೀವು ಉಳಿಸಿದ ಪಟ್ಟಿಗಳು — ಒಂದೇ ಟ್ಯಾಪ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ",
+    "slide_open_action": "ತೆರೆಯಿರಿ",
+    "slide_lang_action": "ಬದಲಿಸಿ",
+    "slide_schedule_label": "ನಿಗದಿತ ಪಟ್ಟಿಗಳು",
+    "slide_schedule_title": "ಈ ಪಟ್ಟಿಯನ್ನು ನಿಗದಿಪಡಿಸಿ",
+    "slide_schedule_body": "ಪ್ರತಿ ದಿನ, ವಾರ ಅಥವಾ ತಿಂಗಳು ಮತ್ತೆ ಪಡೆಯಿರಿ",
+    "slide_schedule_open_body": "ತಾವಾಗಿಯೇ ಮರಳಿ ಬರುವ ಪಟ್ಟಿಗಳು — ದಿನ, ವಾರ ಅಥವಾ ತಿಂಗಳಿಗೊಮ್ಮೆ",
+    "paywall_unavailable_country": "ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ ದೇಶದಲ್ಲಿ ಪ್ರೀಮಿಯಂ ಇನ್ನೂ ಮಾರಾಟವಾಗುತ್ತಿಲ್ಲ. ನೀವು ಭಾರತದಲ್ಲಿದ್ದರೆ, Settings‌ನಲ್ಲಿ ದೇಶವನ್ನು ಪರಿಶೀಲಿಸಿ.",
+    "paywall_store_error": "Google Play ಪ್ರೀಮಿಯಂ ಅನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ. Play Store‌ಗೆ ಸೈನ್ ಇನ್ ಆಗಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿ, ನಂತರ Retry ಟ್ಯಾಪ್ ಮಾಡಿ.",
+    "paywall_error_code": "Play ಕೋಡ್: %1$s",
+    "paywall_plan_individual": "ನಾನು ಮಾತ್ರ",
+    "paywall_plan_family": "ಕುಟುಂಬ · 4 ಜನರವರೆಗೆ",
+    "paywall_family_space": "ನಿಮಗೆ ಮತ್ತು %1$s ನಲ್ಲಿನ ಇನ್ನೂ 3 ಜನರಿಗೆ ಪ್ರೀಮಿಯಂ",
+    "paywall_family_after": "ಚಂದಾದಾರರಾದ ನಂತರ 3 ಕುಟುಂಬ ಸದಸ್ಯರವರೆಗೆ ಸೇರಿಸಿ.",
+    "paywall_upsell_family": "ನಾನು ಮಾತ್ರ ನಿಮಗೆ ಮಾತ್ರ ಅನ್ವಯಿಸುತ್ತದೆ. %1$s ಗೆ, ಕುಟುಂಬ 4 ಜನರಿಗೆ ಪ್ರೀಮಿಯಂ ನೀಡುತ್ತದೆ.",
+    "paywall_upsell_family_count": "ನಿಮ್ಮ ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್‌ನಲ್ಲಿ %1$d ಜನರಿದ್ದಾರೆ. %2$s ಗೆ, ಕುಟುಂಬ ಅವರಲ್ಲಿ 4 ಜನರವರೆಗೆ ಪ್ರೀಮಿಯಂ ನೀಡುತ್ತದೆ.",
+    "paywall_switch_family": "ಕುಟುಂಬಕ್ಕೆ ಬದಲಿಸಿ",
+    "premium_slide_get": "ಪ್ರೀಮಿಯಂ ಪಡೆಯಿರಿ",
+    "family_plan_ready_title": "ನಿಮ್ಮ ಫ್ಯಾಮಿಲಿ ಪ್ಲಾನ್ ಸಿದ್ಧವಾಗಿದೆ 🎉",
+    "family_plan_ready_no_space": "ನಿಮ್ಮ ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್ ರಚಿಸಿ ಮತ್ತು 3 ಜನರವರೆಗೆ ಆಹ್ವಾನಿಸಿ. ಅವರಿಗೆ ಪ್ರೀಮಿಯಂ ಉಚಿತ.",
+    "family_plan_ready_space": "%1$s ನಲ್ಲಿ 3 ಜನರವರೆಗೆ ಈಗ ಪ್ರೀಮಿಯಂ ಉಚಿತವಾಗಿ ಪಡೆಯುತ್ತಾರೆ. ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್‌ನಿಂದ ಇನ್ನಷ್ಟು ಕುಟುಂಬದವರನ್ನು ಆಹ್ವಾನಿಸಿ.",
+    "premium_from_family_plan": "%1$s ಅವರ ಫ್ಯಾಮಿಲಿ ಪ್ಲಾನ್‌ನಿಂದ ಪ್ರೀಮಿಯಂ",
+    "family_plan_create_hint": "👑 ನಿಮ್ಮ ಬಳಿ ಫ್ಯಾಮಿಲಿ ಪ್ಲಾನ್ ಇದೆ. ಈ ಫ್ಯಾಮಿಲಿ ಸ್ಪೇಸ್‌ಗೆ 3 ಜನರವರೆಗೆ ಆಹ್ವಾನಿಸಿ — ಅವರಿಗೆ ಪ್ರೀಮಿಯಂ ಉಚಿತ.",
+    "premium_member_badge_desc": "ಪ್ರೀಮಿಯಂ ಸದಸ್ಯರು"
   }
 }

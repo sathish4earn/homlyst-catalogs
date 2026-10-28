@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "ఆటో",
     "home_flip": "తిప్పు",
     "item_prices_total": "వస్తువుల ధరలు",
-    "item_price_trip_total": "ఈ షాపింగ్‌లో ఇప్పటివరకు"
+    "item_price_trip_total": "ఈ షాపింగ్‌లో ఇప్పటివరకు",
+    "slide_fav_save_title": "ఇష్టమైనదిగా సేవ్ చేయండి",
+    "slide_fav_save_body": "ఈ జాబితాను ఉంచుకుని ఒక్క ట్యాప్‌తో మళ్లీ వాడుకోండి",
+    "slide_fav_save_action": "సేవ్ చేయండి",
+    "slide_fav_open_body": "మీరు సేవ్ చేసిన జాబితాలు — ఒక్క ట్యాప్‌తో మీ జాబితాకు జోడించండి",
+    "slide_open_action": "తెరవండి",
+    "slide_lang_action": "మార్చండి",
+    "slide_schedule_label": "షెడ్యూల్ జాబితాలు",
+    "slide_schedule_title": "ఈ జాబితాను షెడ్యూల్ చేయండి",
+    "slide_schedule_body": "ప్రతి రోజు, వారం లేదా నెల మళ్లీ పొందండి",
+    "slide_schedule_open_body": "తమంతట తాము తిరిగి వచ్చే జాబితాలు — రోజూ, వారానికి లేదా నెలకు",
+    "paywall_unavailable_country": "మీరు ఎంచుకున్న దేశంలో ప్రీమియం ఇంకా అందుబాటులో లేదు. మీరు భారతదేశంలో ఉంటే, Settingsలో దేశాన్ని చూడండి.",
+    "paywall_store_error": "Google Play ప్రీమియంను లోడ్ చేయలేకపోయింది. Play Storeలో సైన్ ఇన్ అయ్యారో చూసి, Retry నొక్కండి.",
+    "paywall_error_code": "Play కోడ్: %1$s",
+    "paywall_plan_individual": "నేను మాత్రమే",
+    "paywall_plan_family": "కుటుంబం · 4 మంది వరకు",
+    "paywall_family_space": "మీకు మరియు %1$sలోని మరో 3 మందికి ప్రీమియం",
+    "paywall_family_after": "సబ్‌స్క్రైబ్ చేసిన తర్వాత 3 కుటుంబ సభ్యుల వరకు జోడించండి.",
+    "paywall_upsell_family": "నేను మాత్రమే మీకు మాత్రమే వర్తిస్తుంది. %1$sకు, కుటుంబం 4 మందికి ప్రీమియం ఇస్తుంది.",
+    "paywall_upsell_family_count": "మీ Family Spaceలో %1$d మంది ఉన్నారు. %2$sకు, కుటుంబం వారిలో 4 మంది వరకు ప్రీమియం ఇస్తుంది.",
+    "paywall_switch_family": "కుటుంబానికి మారండి",
+    "premium_slide_get": "ప్రీమియం పొందండి",
+    "family_plan_ready_title": "మీ Family plan సిద్ధంగా ఉంది 🎉",
+    "family_plan_ready_no_space": "మీ Family Space సృష్టించి 3 మంది వరకు ఆహ్వానించండి. వారికి ప్రీమియం ఉచితం.",
+    "family_plan_ready_space": "%1$sలో 3 మంది వరకు ఇప్పుడు ప్రీమియంను ఉచితంగా పొందుతారు. Family Space నుండి మరింత కుటుంబాన్ని ఆహ్వానించండి.",
+    "premium_from_family_plan": "%1$s గారి Family plan ద్వారా ప్రీమియం",
+    "family_plan_create_hint": "👑 మీకు Family plan ఉంది. ఈ Family Spaceకు 3 మంది వరకు ఆహ్వానించండి — వారికి ప్రీమియం ఉచితం.",
+    "premium_member_badge_desc": "ప్రీమియం సభ్యులు"
   }
 }

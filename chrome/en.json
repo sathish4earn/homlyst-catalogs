@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "Auto",
     "home_flip": "Flip",
     "item_prices_total": "Item prices",
-    "item_price_trip_total": "This trip so far"
+    "item_price_trip_total": "This trip so far",
+    "slide_fav_save_title": "Save as a favourite",
+    "slide_fav_save_body": "Keep this list and reuse it with one tap",
+    "slide_fav_save_action": "Save",
+    "slide_fav_open_body": "Your saved lists — add one to your list in a tap",
+    "slide_open_action": "Open",
+    "slide_lang_action": "Change",
+    "slide_schedule_label": "Scheduled lists",
+    "slide_schedule_title": "Schedule this list",
+    "slide_schedule_body": "Get it again every day, week or month",
+    "slide_schedule_open_body": "Lists that come back on their own — daily, weekly or monthly",
+    "paywall_unavailable_country": "Premium isn't sold in your selected country yet. If you're in India, check the country in Settings.",
+    "paywall_store_error": "Google Play couldn't load Premium. Make sure you're signed in to the Play Store, then tap Retry.",
+    "paywall_error_code": "Play code: %1$s",
+    "paywall_plan_individual": "Just me",
+    "paywall_plan_family": "Family · up to 4 people",
+    "paywall_family_space": "Premium for you and 3 others in %1$s",
+    "paywall_family_after": "Add up to 3 family members after you subscribe.",
+    "paywall_upsell_family": "Just me covers only you. For %1$s, Family gives Premium to 4 people.",
+    "paywall_upsell_family_count": "Your Family Space has %1$d people. For %2$s, Family gives Premium to up to 4 of them.",
+    "paywall_switch_family": "Switch to Family",
+    "premium_slide_get": "Get Premium",
+    "family_plan_ready_title": "Your Family plan is ready 🎉",
+    "family_plan_ready_no_space": "Create your Family Space and invite up to 3 people. They get Premium free.",
+    "family_plan_ready_space": "Up to 3 people in %1$s now get Premium free. Invite more family from the Family Space.",
+    "premium_from_family_plan": "Premium from %1$s's Family plan",
+    "family_plan_create_hint": "👑 You have the Family plan. Invite up to 3 people to this Family Space — they get Premium free.",
+    "premium_member_badge_desc": "Premium member"
   }
 }

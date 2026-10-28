@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "Auto",
     "home_flip": "Retourner",
     "item_prices_total": "Prix des articles",
-    "item_price_trip_total": "Pour ces courses jusqu'ici"
+    "item_price_trip_total": "Pour ces courses jusqu'ici",
+    "slide_fav_save_title": "Enregistrer en favori",
+    "slide_fav_save_body": "Gardez cette liste et réutilisez-la en un geste",
+    "slide_fav_save_action": "Enregistrer",
+    "slide_fav_open_body": "Vos listes enregistrées : ajoutez-en une à votre liste en un geste",
+    "slide_open_action": "Ouvrir",
+    "slide_lang_action": "Changer",
+    "slide_schedule_label": "Listes programmées",
+    "slide_schedule_title": "Programmer cette liste",
+    "slide_schedule_body": "Recevez-la à nouveau chaque jour, semaine ou mois",
+    "slide_schedule_open_body": "Des listes qui reviennent toutes seules : chaque jour, semaine ou mois",
+    "paywall_unavailable_country": "Premium n'est pas encore vendu dans le pays choisi. Si vous êtes en Inde, vérifiez le pays dans les Réglages.",
+    "paywall_store_error": "Google Play n'a pas pu charger Premium. Vérifiez que vous êtes connecté au Play Store, puis touchez Réessayer.",
+    "paywall_error_code": "Code Play : %1$s",
+    "paywall_plan_individual": "Moi seul",
+    "paywall_plan_family": "Famille · jusqu'à 4 personnes",
+    "paywall_family_space": "Premium pour vous et 3 autres personnes dans %1$s",
+    "paywall_family_after": "Ajoutez jusqu'à 3 membres de la famille après l'abonnement.",
+    "paywall_upsell_family": "Moi seul ne couvre que vous. Pour %1$s, Famille donne Premium à 4 personnes.",
+    "paywall_upsell_family_count": "Votre Espace Famille compte %1$d personnes. Pour %2$s, Famille donne Premium à 4 d'entre elles maximum.",
+    "paywall_switch_family": "Passer à Famille",
+    "premium_slide_get": "Obtenir Premium",
+    "family_plan_ready_title": "Votre forfait Famille est prêt 🎉",
+    "family_plan_ready_no_space": "Créez votre Espace Famille et invitez jusqu'à 3 personnes. Elles ont Premium gratuitement.",
+    "family_plan_ready_space": "Jusqu'à 3 personnes dans %1$s ont désormais Premium gratuitement. Invitez d'autres proches depuis l'Espace Famille.",
+    "premium_from_family_plan": "Premium grâce au forfait Famille de %1$s",
+    "family_plan_create_hint": "👑 Vous avez le forfait Famille. Invitez jusqu'à 3 personnes dans cet Espace Famille : elles ont Premium gratuitement.",
+    "premium_member_badge_desc": "Membre Premium"
   }
 }

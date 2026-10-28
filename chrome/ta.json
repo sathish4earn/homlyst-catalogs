@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "தானியங்கி",
     "home_flip": "புரட்டு",
     "item_prices_total": "பொருள் விலைகள்",
-    "item_price_trip_total": "இந்த பயணத்தில் இதுவரை"
+    "item_price_trip_total": "இந்த பயணத்தில் இதுவரை",
+    "slide_fav_save_title": "விருப்பமானதாகச் சேமி",
+    "slide_fav_save_body": "இந்தப் பட்டியலை வைத்துக்கொண்டு ஒரே தட்டலில் மீண்டும் பயன்படுத்துங்கள்",
+    "slide_fav_save_action": "சேமி",
+    "slide_fav_open_body": "நீங்கள் சேமித்த பட்டியல்கள் — ஒரே தட்டலில் உங்கள் பட்டியலில் சேர்க்கலாம்",
+    "slide_open_action": "திற",
+    "slide_lang_action": "மாற்று",
+    "slide_schedule_label": "திட்டமிட்ட பட்டியல்கள்",
+    "slide_schedule_title": "இந்தப் பட்டியலைத் திட்டமிடு",
+    "slide_schedule_body": "தினமும், வாரந்தோறும் அல்லது மாதந்தோறும் மீண்டும் பெறுங்கள்",
+    "slide_schedule_open_body": "தானாகவே திரும்ப வரும் பட்டியல்கள் — தினமும், வாரந்தோறும் அல்லது மாதந்தோறும்",
+    "paywall_unavailable_country": "நீங்கள் தேர்ந்தெடுத்த நாட்டில் பிரீமியம் இன்னும் விற்கப்படவில்லை. நீங்கள் இந்தியாவில் இருந்தால், Settings-இல் நாட்டைச் சரிபாருங்கள்.",
+    "paywall_store_error": "Google Play-ஆல் பிரீமியத்தை ஏற்ற முடியவில்லை. Play Store-இல் உள்நுழைந்துள்ளீர்களா என்று பார்த்து, Retry-ஐத் தட்டுங்கள்.",
+    "paywall_error_code": "Play குறியீடு: %1$s",
+    "paywall_plan_individual": "நான் மட்டும்",
+    "paywall_plan_family": "குடும்பம் · 4 பேர் வரை",
+    "paywall_family_space": "உங்களுக்கும் %1$s-இல் உள்ள 3 பேருக்கும் பிரீமியம்",
+    "paywall_family_after": "சந்தா செலுத்திய பிறகு 3 குடும்ப உறுப்பினர்கள் வரை சேர்க்கலாம்.",
+    "paywall_upsell_family": "நான் மட்டும் என்பது உங்களுக்கு மட்டுமே. %1$s-க்கு, குடும்பம் 4 பேருக்கு பிரீமியம் தருகிறது.",
+    "paywall_upsell_family_count": "உங்கள் Family Space-இல் %1$d பேர் உள்ளனர். %2$s-க்கு, குடும்பம் அவர்களில் 4 பேர் வரை பிரீமியம் தருகிறது.",
+    "paywall_switch_family": "குடும்பத்திற்கு மாறு",
+    "premium_slide_get": "பிரீமியம் பெறு",
+    "family_plan_ready_title": "உங்கள் Family plan தயார் 🎉",
+    "family_plan_ready_no_space": "உங்கள் Family Space-ஐ உருவாக்கி 3 பேர் வரை அழையுங்கள். அவர்களுக்கு பிரீமியம் இலவசம்.",
+    "family_plan_ready_space": "%1$s-இல் 3 பேர் வரை இப்போது பிரீமியத்தை இலவசமாகப் பெறுவார்கள். Family Space-இலிருந்து மேலும் குடும்பத்தினரை அழையுங்கள்.",
+    "premium_from_family_plan": "%1$s-இன் Family plan மூலம் பிரீமியம்",
+    "family_plan_create_hint": "👑 உங்களிடம் Family plan உள்ளது. இந்த Family Space-க்கு 3 பேர் வரை அழையுங்கள் — அவர்களுக்கு பிரீமியம் இலவசம்.",
+    "premium_member_badge_desc": "பிரீமியம் உறுப்பினர்"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1941,6 +1941,33 @@
     "home_slide_auto": "ਆਟੋ",
     "home_flip": "ਪਲਟੋ",
     "item_prices_total": "ਚੀਜ਼ਾਂ ਦੀਆਂ ਕੀਮਤਾਂ",
-    "item_price_trip_total": "ਇਸ ਖ਼ਰੀਦਦਾਰੀ ਵਿੱਚ ਹੁਣ ਤੱਕ"
+    "item_price_trip_total": "ਇਸ ਖ਼ਰੀਦਦਾਰੀ ਵਿੱਚ ਹੁਣ ਤੱਕ",
+    "slide_fav_save_title": "ਮਨਪਸੰਦ ਵਜੋਂ ਸੇਵ ਕਰੋ",
+    "slide_fav_save_body": "ਇਹ ਸੂਚੀ ਰੱਖੋ ਅਤੇ ਇੱਕ ਟੈਪ ਨਾਲ ਦੁਬਾਰਾ ਵਰਤੋ",
+    "slide_fav_save_action": "ਸੇਵ ਕਰੋ",
+    "slide_fav_open_body": "ਤੁਹਾਡੀਆਂ ਸੇਵ ਕੀਤੀਆਂ ਸੂਚੀਆਂ — ਇੱਕ ਟੈਪ ਨਾਲ ਆਪਣੀ ਸੂਚੀ ਵਿੱਚ ਜੋੜੋ",
+    "slide_open_action": "ਖੋਲ੍ਹੋ",
+    "slide_lang_action": "ਬਦਲੋ",
+    "slide_schedule_label": "ਸ਼ਡਿਊਲ ਕੀਤੀਆਂ ਸੂਚੀਆਂ",
+    "slide_schedule_title": "ਇਹ ਸੂਚੀ ਸ਼ਡਿਊਲ ਕਰੋ",
+    "slide_schedule_body": "ਹਰ ਦਿਨ, ਹਫ਼ਤੇ ਜਾਂ ਮਹੀਨੇ ਦੁਬਾਰਾ ਪਾਓ",
+    "slide_schedule_open_body": "ਆਪਣੇ ਆਪ ਵਾਪਸ ਆਉਣ ਵਾਲੀਆਂ ਸੂਚੀਆਂ — ਰੋਜ਼, ਹਫ਼ਤਾਵਾਰ ਜਾਂ ਮਹੀਨਾਵਾਰ",
+    "paywall_unavailable_country": "ਤੁਹਾਡੇ ਚੁਣੇ ਦੇਸ਼ ਵਿੱਚ ਪ੍ਰੀਮੀਅਮ ਅਜੇ ਨਹੀਂ ਵਿਕਦਾ। ਜੇ ਤੁਸੀਂ ਭਾਰਤ ਵਿੱਚ ਹੋ, ਤਾਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਦੇਸ਼ ਦੇਖੋ।",
+    "paywall_store_error": "Google Play ਪ੍ਰੀਮੀਅਮ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ। ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ Play Store ਵਿੱਚ ਸਾਈਨ ਇਨ ਹੋ, ਫਿਰ Retry 'ਤੇ ਟੈਪ ਕਰੋ।",
+    "paywall_error_code": "Play ਕੋਡ: %1$s",
+    "paywall_plan_individual": "ਸਿਰਫ਼ ਮੈਂ",
+    "paywall_plan_family": "ਪਰਿਵਾਰ · 4 ਲੋਕਾਂ ਤੱਕ",
+    "paywall_family_space": "ਤੁਹਾਡੇ ਅਤੇ %1$s ਦੇ ਹੋਰ 3 ਲੋਕਾਂ ਲਈ ਪ੍ਰੀਮੀਅਮ",
+    "paywall_family_after": "ਸਬਸਕ੍ਰਾਈਬ ਕਰਨ ਤੋਂ ਬਾਅਦ 3 ਪਰਿਵਾਰਕ ਮੈਂਬਰਾਂ ਤੱਕ ਜੋੜੋ।",
+    "paywall_upsell_family": "ਸਿਰਫ਼ ਮੈਂ ਵਿੱਚ ਸਿਰਫ਼ ਤੁਸੀਂ ਆਉਂਦੇ ਹੋ। %1$s ਵਿੱਚ ਪਰਿਵਾਰ 4 ਲੋਕਾਂ ਨੂੰ ਪ੍ਰੀਮੀਅਮ ਦਿੰਦਾ ਹੈ।",
+    "paywall_upsell_family_count": "ਤੁਹਾਡੇ ਪਰਿਵਾਰਕ ਸਪੇਸ ਵਿੱਚ %1$d ਲੋਕ ਹਨ। %2$s ਵਿੱਚ ਪਰਿਵਾਰ ਉਨ੍ਹਾਂ ਵਿੱਚੋਂ 4 ਲੋਕਾਂ ਤੱਕ ਨੂੰ ਪ੍ਰੀਮੀਅਮ ਦਿੰਦਾ ਹੈ।",
+    "paywall_switch_family": "ਪਰਿਵਾਰ 'ਤੇ ਜਾਓ",
+    "premium_slide_get": "ਪ੍ਰੀਮੀਅਮ ਲਓ",
+    "family_plan_ready_title": "ਤੁਹਾਡਾ ਪਰਿਵਾਰ ਪਲਾਨ ਤਿਆਰ ਹੈ 🎉",
+    "family_plan_ready_no_space": "ਆਪਣਾ ਪਰਿਵਾਰਕ ਸਪੇਸ ਬਣਾਓ ਅਤੇ 3 ਲੋਕਾਂ ਤੱਕ ਨੂੰ ਸੱਦਾ ਦਿਓ। ਉਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰੀਮੀਅਮ ਮੁਫ਼ਤ ਮਿਲੇਗਾ।",
+    "family_plan_ready_space": "%1$s ਦੇ 3 ਲੋਕਾਂ ਤੱਕ ਨੂੰ ਹੁਣ ਪ੍ਰੀਮੀਅਮ ਮੁਫ਼ਤ ਮਿਲੇਗਾ। ਪਰਿਵਾਰਕ ਸਪੇਸ ਤੋਂ ਹੋਰ ਪਰਿਵਾਰ ਵਾਲਿਆਂ ਨੂੰ ਸੱਦਾ ਦਿਓ।",
+    "premium_from_family_plan": "%1$s ਦੇ ਪਰਿਵਾਰ ਪਲਾਨ ਤੋਂ ਪ੍ਰੀਮੀਅਮ",
+    "family_plan_create_hint": "👑 ਤੁਹਾਡੇ ਕੋਲ ਪਰਿਵਾਰ ਪਲਾਨ ਹੈ। ਇਸ ਪਰਿਵਾਰਕ ਸਪੇਸ ਵਿੱਚ 3 ਲੋਕਾਂ ਤੱਕ ਨੂੰ ਸੱਦਾ ਦਿਓ — ਉਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰੀਮੀਅਮ ਮੁਫ਼ਤ ਮਿਲੇਗਾ।",
+    "premium_member_badge_desc": "ਪ੍ਰੀਮੀਅਮ ਮੈਂਬਰ"
   }
 }
