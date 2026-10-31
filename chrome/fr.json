@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1968,6 +1968,9 @@
     "family_plan_ready_space": "Jusqu'à 3 personnes dans %1$s ont désormais Premium gratuitement. Invitez d'autres proches depuis l'Espace Famille.",
     "premium_from_family_plan": "Premium grâce au forfait Famille de %1$s",
     "family_plan_create_hint": "👑 Vous avez le forfait Famille. Invitez jusqu'à 3 personnes dans cet Espace Famille : elles ont Premium gratuitement.",
-    "premium_member_badge_desc": "Membre Premium"
+    "premium_member_badge_desc": "Membre Premium",
+    "paywall_auto_renew": "Abonnement mensuel. Il se renouvelle automatiquement jusqu'à ce que vous l'annuliez. Annulez à tout moment dans les réglages de votre identifiant Apple, au moins 24 heures avant le renouvellement.",
+    "paywall_restore": "Restaurer les achats",
+    "paywall_restore_none": "Aucun abonnement actif trouvé pour cet identifiant Apple."
   }
 }

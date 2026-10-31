@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1968,6 +1968,9 @@
     "family_plan_ready_space": "สูงสุด 3 คนใน %1$s ได้ Premium ฟรีแล้ว เชิญครอบครัวเพิ่มได้จากพื้นที่ครอบครัว",
     "premium_from_family_plan": "Premium จากแผนครอบครัวของ %1$s",
     "family_plan_create_hint": "👑 คุณมีแผนครอบครัว เชิญได้สูงสุด 3 คนเข้าพื้นที่ครอบครัวนี้ — พวกเขาจะได้ Premium ฟรี",
-    "premium_member_badge_desc": "สมาชิกพรีเมียม"
+    "premium_member_badge_desc": "สมาชิกพรีเมียม",
+    "paywall_auto_renew": "การสมัครสมาชิกรายเดือน ต่ออายุอัตโนมัติจนกว่าคุณจะยกเลิก ยกเลิกได้ทุกเมื่อในการตั้งค่า Apple ID ของคุณ อย่างน้อย 24 ชั่วโมงก่อนการต่ออายุ",
+    "paywall_restore": "กู้คืนการซื้อ",
+    "paywall_restore_none": "ไม่พบการสมัครสมาชิกที่ใช้งานอยู่สำหรับ Apple ID นี้"
   }
 }

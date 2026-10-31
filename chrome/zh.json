@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1968,6 +1968,9 @@
     "family_plan_ready_space": "%1$s 中最多 3 人现在可免费享有高级版。可从家庭空间邀请更多家人。",
     "premium_from_family_plan": "来自 %1$s 的家庭版高级权益",
     "family_plan_create_hint": "👑 你已开通家庭版。邀请最多 3 人加入这个家庭空间——他们可免费享有高级版。",
-    "premium_member_badge_desc": "高级版会员"
+    "premium_member_badge_desc": "高级版会员",
+    "paywall_auto_renew": "按月订阅。在你取消之前会自动续订。可随时在 Apple ID 设置中取消，但需在续订前至少 24 小时取消。",
+    "paywall_restore": "恢复购买",
+    "paywall_restore_none": "未找到此 Apple ID 的有效订阅。"
   }
 }

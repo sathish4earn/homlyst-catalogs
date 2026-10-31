@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1968,6 +1968,9 @@
     "family_plan_ready_space": "%1$sలో 3 మంది వరకు ఇప్పుడు ప్రీమియంను ఉచితంగా పొందుతారు. Family Space నుండి మరింత కుటుంబాన్ని ఆహ్వానించండి.",
     "premium_from_family_plan": "%1$s గారి Family plan ద్వారా ప్రీమియం",
     "family_plan_create_hint": "👑 మీకు Family plan ఉంది. ఈ Family Spaceకు 3 మంది వరకు ఆహ్వానించండి — వారికి ప్రీమియం ఉచితం.",
-    "premium_member_badge_desc": "ప్రీమియం సభ్యులు"
+    "premium_member_badge_desc": "ప్రీమియం సభ్యులు",
+    "paywall_auto_renew": "నెలవారీ సబ్‌స్క్రిప్షన్. మీరు రద్దు చేసే వరకు ఇది ఆటోమేటిక్‌గా రెన్యూ అవుతుంది. రెన్యూ అవ్వడానికి కనీసం 24 గంటల ముందు, మీ Apple ID సెట్టింగ్‌లలో ఎప్పుడైనా రద్దు చేయండి.",
+    "paywall_restore": "కొనుగోళ్లను రీస్టోర్ చేయండి",
+    "paywall_restore_none": "ఈ Apple IDకి యాక్టివ్ సబ్‌స్క్రిప్షన్ ఏదీ లేదు."
   }
 }

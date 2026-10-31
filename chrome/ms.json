@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1968,6 +1968,9 @@
     "family_plan_ready_space": "Sehingga 3 orang dalam %1$s kini mendapat Premium percuma. Jemput lebih ramai keluarga dari Ruang Keluarga.",
     "premium_from_family_plan": "Premium daripada pelan Keluarga %1$s",
     "family_plan_create_hint": "👑 Anda ada pelan Keluarga. Jemput sehingga 3 orang ke Ruang Keluarga ini — mereka mendapat Premium percuma.",
-    "premium_member_badge_desc": "Ahli Premium"
+    "premium_member_badge_desc": "Ahli Premium",
+    "paywall_auto_renew": "Langganan bulanan. Ia diperbaharui secara automatik sehingga anda membatalkannya. Batalkan bila-bila masa dalam tetapan Apple ID anda, sekurang-kurangnya 24 jam sebelum ia diperbaharui.",
+    "paywall_restore": "Pulihkan pembelian",
+    "paywall_restore_none": "Tiada langganan aktif ditemui untuk Apple ID ini."
   }
 }
