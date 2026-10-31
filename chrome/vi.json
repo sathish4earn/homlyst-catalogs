@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1968,6 +1968,9 @@
     "family_plan_ready_space": "Tối đa 3 người trong %1$s giờ được dùng Premium miễn phí. Mời thêm người thân từ Không gian gia đình.",
     "premium_from_family_plan": "Premium từ gói Gia đình của %1$s",
     "family_plan_create_hint": "👑 Bạn có gói Gia đình. Mời tối đa 3 người vào Không gian gia đình này — họ được dùng Premium miễn phí.",
-    "premium_member_badge_desc": "Thành viên Premium"
+    "premium_member_badge_desc": "Thành viên Premium",
+    "paywall_auto_renew": "Gói đăng ký hằng tháng. Gói tự động gia hạn cho đến khi bạn hủy. Hủy bất cứ lúc nào trong cài đặt Apple ID, ít nhất 24 giờ trước khi gia hạn.",
+    "paywall_restore": "Khôi phục giao dịch mua",
+    "paywall_restore_none": "Không tìm thấy gói đăng ký nào đang hoạt động cho Apple ID này."
   }
 }
