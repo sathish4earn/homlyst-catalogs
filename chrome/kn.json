@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "ಪ್ರೀಮಿಯಂ ಸದಸ್ಯರು",
     "paywall_auto_renew": "ಮಾಸಿಕ ಚಂದಾದಾರಿಕೆ. ನೀವು ರದ್ದುಗೊಳಿಸುವವರೆಗೆ ಇದು ತಾನಾಗಿಯೇ ನವೀಕರಣಗೊಳ್ಳುತ್ತದೆ. ನವೀಕರಣಕ್ಕೆ ಕನಿಷ್ಠ 24 ಗಂಟೆಗಳ ಮೊದಲು, ನಿಮ್ಮ Apple ID ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಯಾವಾಗ ಬೇಕಾದರೂ ರದ್ದುಗೊಳಿಸಿ.",
     "paywall_restore": "ಖರೀದಿಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ",
-    "paywall_restore_none": "ಈ Apple ID ಗೆ ಯಾವುದೇ ಸಕ್ರಿಯ ಚಂದಾದಾರಿಕೆ ಕಂಡುಬಂದಿಲ್ಲ."
+    "paywall_restore_none": "ಈ Apple ID ಗೆ ಯಾವುದೇ ಸಕ್ರಿಯ ಚಂದಾದಾರಿಕೆ ಕಂಡುಬಂದಿಲ್ಲ.",
+    "remind_me": "ನೆನಪಿಸು",
+    "remind_me_title": "⏰ ನೆನಪಿಸು",
+    "remind_list_added": "✅ %1$s ಕಳುಹಿಸಿದ ಪಟ್ಟಿ ಸೇರಿಸಲಾಗಿದೆ",
+    "remind_question": "ಇವುಗಳನ್ನು ಖರೀದಿಸಲು ಯಾವಾಗ ನೆನಪಿಸಲಿ?",
+    "remind_morning": "ಬೆಳಿಗ್ಗೆ",
+    "remind_after_lunch": "ಊಟದ ನಂತರ",
+    "remind_evening": "ಸಂಜೆ",
+    "remind_night": "ರಾತ್ರಿ",
+    "remind_today": "ಇಂದು",
+    "remind_tomorrow": "ನಾಳೆ",
+    "remind_pick": "ದಿನ ಮತ್ತು ಸಮಯ ಆಯ್ಕೆಮಾಡಿ…",
+    "remind_no_thanks": "ಬೇಡ",
+    "remind_set": "ರಿಮೈಂಡರ್ ಹೊಂದಿಸಿ",
+    "remind_back": "ಹಿಂದೆ",
+    "remind_set_for": "⏰ %1$s ಗೆ ರಿಮೈಂಡರ್ ಹೊಂದಿಸಲಾಗಿದೆ",
+    "remind_cancel": "ರದ್ದುಮಾಡಿ",
+    "remind_cancelled": "ರಿಮೈಂಡರ್ ರದ್ದಾಗಿದೆ",
+    "remind_past": "ಈಗಿನ ನಂತರದ ಸಮಯ ಆಯ್ಕೆಮಾಡಿ",
+    "remind_title": "⏰ ಖರೀದಿಯ ಸಮಯ",
+    "remind_body": "%1$s — ಈಗ ನೆನಪಿಸಲು ನೀವು ಕೇಳಿದ್ದಿರಿ.",
+    "remind_body_from": "%1$s — %2$s ಕಳುಹಿಸಿದ ಪಟ್ಟಿ."
   }
 }

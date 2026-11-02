@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "ਪ੍ਰੀਮੀਅਮ ਮੈਂਬਰ",
     "paywall_auto_renew": "ਮਹੀਨਾਵਾਰ ਸਬਸਕ੍ਰਿਪਸ਼ਨ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਰੱਦ ਨਹੀਂ ਕਰਦੇ, ਇਹ ਆਪਣੇ ਆਪ ਰਿਨਿਊ ਹੁੰਦੀ ਹੈ। ਰਿਨਿਊ ਹੋਣ ਤੋਂ ਘੱਟੋ-ਘੱਟ 24 ਘੰਟੇ ਪਹਿਲਾਂ, ਆਪਣੀਆਂ Apple ID ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਕਦੇ ਵੀ ਰੱਦ ਕਰੋ।",
     "paywall_restore": "ਖਰੀਦਾਂ ਮੁੜ-ਬਹਾਲ ਕਰੋ",
-    "paywall_restore_none": "ਇਸ Apple ID ਲਈ ਕੋਈ ਸਰਗਰਮ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ ਮਿਲੀ।"
+    "paywall_restore_none": "ਇਸ Apple ID ਲਈ ਕੋਈ ਸਰਗਰਮ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਨਹੀਂ ਮਿਲੀ।",
+    "remind_me": "ਯਾਦ ਕਰਾਓ",
+    "remind_me_title": "⏰ ਯਾਦ ਕਰਾਓ",
+    "remind_list_added": "✅ %1$s ਦੀ ਸੂਚੀ ਜੋੜੀ ਗਈ",
+    "remind_question": "ਇਹ ਖਰੀਦਣ ਲਈ ਕਦੋਂ ਯਾਦ ਕਰਾਵਾਂ?",
+    "remind_morning": "ਸਵੇਰ",
+    "remind_after_lunch": "ਦੁਪਹਿਰ ਦੇ ਖਾਣੇ ਤੋਂ ਬਾਅਦ",
+    "remind_evening": "ਸ਼ਾਮ",
+    "remind_night": "ਰਾਤ",
+    "remind_today": "ਅੱਜ",
+    "remind_tomorrow": "ਕੱਲ੍ਹ",
+    "remind_pick": "ਦਿਨ ਅਤੇ ਸਮਾਂ ਚੁਣੋ…",
+    "remind_no_thanks": "ਨਹੀਂ, ਧੰਨਵਾਦ",
+    "remind_set": "ਰਿਮਾਈਂਡਰ ਸੈੱਟ ਕਰੋ",
+    "remind_back": "ਵਾਪਸ",
+    "remind_set_for": "⏰ %1$s ਲਈ ਰਿਮਾਈਂਡਰ ਸੈੱਟ ਹੋ ਗਿਆ",
+    "remind_cancel": "ਰੱਦ ਕਰੋ",
+    "remind_cancelled": "ਰਿਮਾਈਂਡਰ ਰੱਦ ਕੀਤਾ ਗਿਆ",
+    "remind_past": "ਹੁਣ ਤੋਂ ਬਾਅਦ ਦਾ ਸਮਾਂ ਚੁਣੋ",
+    "remind_title": "⏰ ਖਰੀਦਦਾਰੀ ਦਾ ਸਮਾਂ",
+    "remind_body": "%1$s — ਤੁਸੀਂ ਹੁਣ ਯਾਦ ਕਰਾਉਣ ਲਈ ਕਿਹਾ ਸੀ।",
+    "remind_body_from": "%1$s — %2$s ਦੀ ਸੂਚੀ ਤੋਂ।"
   }
 }

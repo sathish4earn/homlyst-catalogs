@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "প্রিমিয়াম সদস্য",
     "paywall_auto_renew": "মাসিক সাবস্ক্রিপশন। আপনি বাতিল না করা পর্যন্ত এটি নিজে থেকে রিনিউ হয়। রিনিউ হওয়ার অন্তত ২৪ ঘণ্টা আগে, আপনার Apple ID সেটিংসে যেকোনো সময় বাতিল করুন।",
     "paywall_restore": "কেনাকাটা পুনরুদ্ধার করুন",
-    "paywall_restore_none": "এই Apple ID-র জন্য কোনো সক্রিয় সাবস্ক্রিপশন পাওয়া যায়নি।"
+    "paywall_restore_none": "এই Apple ID-র জন্য কোনো সক্রিয় সাবস্ক্রিপশন পাওয়া যায়নি।",
+    "remind_me": "মনে করিয়ে দিন",
+    "remind_me_title": "⏰ মনে করিয়ে দিন",
+    "remind_list_added": "✅ %1$s-এর তালিকা যোগ হয়েছে",
+    "remind_question": "এগুলো কেনার জন্য কখন মনে করাব?",
+    "remind_morning": "সকাল",
+    "remind_after_lunch": "দুপুরের খাবারের পর",
+    "remind_evening": "সন্ধ্যা",
+    "remind_night": "রাত",
+    "remind_today": "আজ",
+    "remind_tomorrow": "আগামীকাল",
+    "remind_pick": "দিন ও সময় বেছে নিন…",
+    "remind_no_thanks": "না, ধন্যবাদ",
+    "remind_set": "রিমাইন্ডার সেট করুন",
+    "remind_back": "পিছনে",
+    "remind_set_for": "⏰ %1$s-এর জন্য রিমাইন্ডার সেট হয়েছে",
+    "remind_cancel": "বাতিল করুন",
+    "remind_cancelled": "রিমাইন্ডার বাতিল হয়েছে",
+    "remind_past": "এখনকার পরের একটি সময় বেছে নিন",
+    "remind_title": "⏰ কেনাকাটার সময়",
+    "remind_body": "%1$s — আপনি এখন মনে করাতে বলেছিলেন।",
+    "remind_body_from": "%1$s — %2$s-এর তালিকা থেকে।"
   }
 }

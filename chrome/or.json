@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "ପ୍ରିମିୟମ ସଦସ୍ୟ",
     "paywall_auto_renew": "ମାସିକ ସବସ୍କ୍ରିପସନ। ଆପଣ ବାତିଲ ନକରିବା ପର୍ଯ୍ୟନ୍ତ ଏହା ନିଜେ ନବୀକରଣ ହୁଏ। ନବୀକରଣର ଅତି କମରେ 24 ଘଣ୍ଟା ପୂର୍ବରୁ, ଆପଣଙ୍କ Apple ID ସେଟିଂସରେ ଯେକୌଣସି ସମୟରେ ବାତିଲ କରନ୍ତୁ।",
     "paywall_restore": "କ୍ରୟ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ",
-    "paywall_restore_none": "ଏହି Apple ID ପାଇଁ କୌଣସି ସକ୍ରିୟ ସବସ୍କ୍ରିପସନ ମିଳିଲା ନାହିଁ।"
+    "paywall_restore_none": "ଏହି Apple ID ପାଇଁ କୌଣସି ସକ୍ରିୟ ସବସ୍କ୍ରିପସନ ମିଳିଲା ନାହିଁ।",
+    "remind_me": "ମନେ ପକାଇ ଦିଅ",
+    "remind_me_title": "⏰ ମନେ ପକାଇ ଦିଅ",
+    "remind_list_added": "✅ %1$s ଙ୍କ ତାଲିକା ଯୋଡ଼ାଗଲା",
+    "remind_question": "ଏଗୁଡ଼ିକ କିଣିବା ପାଇଁ କେବେ ମନେ ପକାଇବି?",
+    "remind_morning": "ସକାଳ",
+    "remind_after_lunch": "ମଧ୍ୟାହ୍ନ ଭୋଜନ ପରେ",
+    "remind_evening": "ସନ୍ଧ୍ୟା",
+    "remind_night": "ରାତି",
+    "remind_today": "ଆଜି",
+    "remind_tomorrow": "ଆସନ୍ତାକାଲି",
+    "remind_pick": "ଦିନ ଓ ସମୟ ବାଛନ୍ତୁ…",
+    "remind_no_thanks": "ନାହିଁ, ଧନ୍ୟବାଦ",
+    "remind_set": "ରିମାଇଣ୍ଡର ସେଟ କରନ୍ତୁ",
+    "remind_back": "ପଛକୁ",
+    "remind_set_for": "⏰ %1$s ପାଇଁ ରିମାଇଣ୍ଡର ସେଟ ହେଲା",
+    "remind_cancel": "ବାତିଲ କରନ୍ତୁ",
+    "remind_cancelled": "ରିମାଇଣ୍ଡର ବାତିଲ ହେଲା",
+    "remind_past": "ଏବେ ପରର ଏକ ସମୟ ବାଛନ୍ତୁ",
+    "remind_title": "⏰ କିଣାକିଣିର ସମୟ",
+    "remind_body": "%1$s — ଆପଣ ଏବେ ମନେ ପକାଇବାକୁ କହିଥିଲେ।",
+    "remind_body_from": "%1$s — %2$s ଙ୍କ ତାଲିକାରୁ।"
   }
 }

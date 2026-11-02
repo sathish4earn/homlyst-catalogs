@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "Anggota Premium",
     "paywall_auto_renew": "Langganan bulanan. Diperpanjang otomatis sampai Anda membatalkannya. Batalkan kapan saja di pengaturan Apple ID Anda, paling lambat 24 jam sebelum diperpanjang.",
     "paywall_restore": "Pulihkan pembelian",
-    "paywall_restore_none": "Tidak ada langganan aktif untuk Apple ID ini."
+    "paywall_restore_none": "Tidak ada langganan aktif untuk Apple ID ini.",
+    "remind_me": "Ingatkan saya",
+    "remind_me_title": "⏰ Ingatkan saya",
+    "remind_list_added": "✅ Daftar dari %1$s ditambahkan",
+    "remind_question": "Kapan saya ingatkan untuk membeli ini?",
+    "remind_morning": "Pagi",
+    "remind_after_lunch": "Setelah makan siang",
+    "remind_evening": "Sore",
+    "remind_night": "Malam",
+    "remind_today": "Hari ini",
+    "remind_tomorrow": "Besok",
+    "remind_pick": "Pilih hari dan jam…",
+    "remind_no_thanks": "Tidak, terima kasih",
+    "remind_set": "Atur pengingat",
+    "remind_back": "Kembali",
+    "remind_set_for": "⏰ Pengingat diatur untuk %1$s",
+    "remind_cancel": "Batalkan",
+    "remind_cancelled": "Pengingat dibatalkan",
+    "remind_past": "Pilih waktu setelah sekarang",
+    "remind_title": "⏰ Waktunya belanja",
+    "remind_body": "%1$s — Anda minta diingatkan sekarang.",
+    "remind_body_from": "%1$s — dari daftar %2$s."
   }
 }

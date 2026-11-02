@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "Thành viên Premium",
     "paywall_auto_renew": "Gói đăng ký hằng tháng. Gói tự động gia hạn cho đến khi bạn hủy. Hủy bất cứ lúc nào trong cài đặt Apple ID, ít nhất 24 giờ trước khi gia hạn.",
     "paywall_restore": "Khôi phục giao dịch mua",
-    "paywall_restore_none": "Không tìm thấy gói đăng ký nào đang hoạt động cho Apple ID này."
+    "paywall_restore_none": "Không tìm thấy gói đăng ký nào đang hoạt động cho Apple ID này.",
+    "remind_me": "Nhắc tôi",
+    "remind_me_title": "⏰ Nhắc tôi",
+    "remind_list_added": "✅ Đã thêm danh sách từ %1$s",
+    "remind_question": "Khi nào nên nhắc bạn mua những món này?",
+    "remind_morning": "Sáng",
+    "remind_after_lunch": "Sau bữa trưa",
+    "remind_evening": "Chiều tối",
+    "remind_night": "Tối",
+    "remind_today": "Hôm nay",
+    "remind_tomorrow": "Ngày mai",
+    "remind_pick": "Chọn ngày và giờ…",
+    "remind_no_thanks": "Không, cảm ơn",
+    "remind_set": "Đặt lời nhắc",
+    "remind_back": "Quay lại",
+    "remind_set_for": "⏰ Đã đặt lời nhắc lúc %1$s",
+    "remind_cancel": "Hủy",
+    "remind_cancelled": "Đã hủy lời nhắc",
+    "remind_past": "Hãy chọn thời điểm sau bây giờ",
+    "remind_title": "⏰ Đến giờ đi mua sắm",
+    "remind_body": "%1$s — bạn đã nhờ nhắc vào lúc này.",
+    "remind_body_from": "%1$s — từ danh sách của %2$s."
   }
 }

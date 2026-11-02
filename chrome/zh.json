@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "高级版会员",
     "paywall_auto_renew": "按月订阅。在你取消之前会自动续订。可随时在 Apple ID 设置中取消，但需在续订前至少 24 小时取消。",
     "paywall_restore": "恢复购买",
-    "paywall_restore_none": "未找到此 Apple ID 的有效订阅。"
+    "paywall_restore_none": "未找到此 Apple ID 的有效订阅。",
+    "remind_me": "提醒我",
+    "remind_me_title": "⏰ 提醒我",
+    "remind_list_added": "✅ 已添加 %1$s 的清单",
+    "remind_question": "什么时候提醒你去买这些？",
+    "remind_morning": "上午",
+    "remind_after_lunch": "午饭后",
+    "remind_evening": "傍晚",
+    "remind_night": "晚上",
+    "remind_today": "今天",
+    "remind_tomorrow": "明天",
+    "remind_pick": "选择日期和时间…",
+    "remind_no_thanks": "不用了",
+    "remind_set": "设置提醒",
+    "remind_back": "返回",
+    "remind_set_for": "⏰ 已设置提醒：%1$s",
+    "remind_cancel": "取消提醒",
+    "remind_cancelled": "提醒已取消",
+    "remind_past": "请选择晚于现在的时间",
+    "remind_title": "⏰ 该去购物了",
+    "remind_body": "%1$s — 你要求在此时提醒。",
+    "remind_body_from": "%1$s — 来自 %2$s 的清单。"
   }
 }
