@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "Membre Premium",
     "paywall_auto_renew": "Abonnement mensuel. Il se renouvelle automatiquement jusqu'à ce que vous l'annuliez. Annulez à tout moment dans les réglages de votre identifiant Apple, au moins 24 heures avant le renouvellement.",
     "paywall_restore": "Restaurer les achats",
-    "paywall_restore_none": "Aucun abonnement actif trouvé pour cet identifiant Apple."
+    "paywall_restore_none": "Aucun abonnement actif trouvé pour cet identifiant Apple.",
+    "remind_me": "Me le rappeler",
+    "remind_me_title": "⏰ Me le rappeler",
+    "remind_list_added": "✅ Liste de %1$s ajoutée",
+    "remind_question": "Quand dois-je vous rappeler de les acheter ?",
+    "remind_morning": "Matin",
+    "remind_after_lunch": "Après le déjeuner",
+    "remind_evening": "Soir",
+    "remind_night": "Nuit",
+    "remind_today": "Aujourd'hui",
+    "remind_tomorrow": "Demain",
+    "remind_pick": "Choisir un jour et une heure…",
+    "remind_no_thanks": "Non merci",
+    "remind_set": "Programmer le rappel",
+    "remind_back": "Retour",
+    "remind_set_for": "⏰ Rappel prévu : %1$s",
+    "remind_cancel": "L'annuler",
+    "remind_cancelled": "Rappel annulé",
+    "remind_past": "Choisissez une heure plus tard",
+    "remind_title": "⏰ C'est l'heure des courses",
+    "remind_body": "%1$s — vous avez demandé un rappel maintenant.",
+    "remind_body_from": "%1$s — de la liste de %2$s."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "பிரீமியம் உறுப்பினர்",
     "paywall_auto_renew": "மாதாந்திர சந்தா. நீங்கள் ரத்து செய்யும் வரை இது தானாகவே புதுப்பிக்கப்படும். புதுப்பிக்கப்படுவதற்கு குறைந்தது 24 மணி நேரத்திற்கு முன், உங்கள் Apple ID அமைப்புகளில் எப்போது வேண்டுமானாலும் ரத்து செய்யலாம்.",
     "paywall_restore": "வாங்கியவற்றை மீட்டெடு",
-    "paywall_restore_none": "இந்த Apple ID-க்கு செயலில் உள்ள சந்தா எதுவும் இல்லை."
+    "paywall_restore_none": "இந்த Apple ID-க்கு செயலில் உள்ள சந்தா எதுவும் இல்லை.",
+    "remind_me": "நினைவூட்டு",
+    "remind_me_title": "⏰ நினைவூட்டு",
+    "remind_list_added": "✅ %1$s அனுப்பிய பட்டியல் சேர்க்கப்பட்டது",
+    "remind_question": "இவற்றை வாங்க எப்போது நினைவூட்டட்டும்?",
+    "remind_morning": "காலை",
+    "remind_after_lunch": "மதிய உணவுக்குப் பின்",
+    "remind_evening": "மாலை",
+    "remind_night": "இரவு",
+    "remind_today": "இன்று",
+    "remind_tomorrow": "நாளை",
+    "remind_pick": "நாள், நேரம் தேர்ந்தெடு…",
+    "remind_no_thanks": "வேண்டாம்",
+    "remind_set": "நினைவூட்டலை அமை",
+    "remind_back": "பின்செல்",
+    "remind_set_for": "⏰ %1$s-க்கு நினைவூட்டல் அமைக்கப்பட்டது",
+    "remind_cancel": "ரத்து செய்",
+    "remind_cancelled": "நினைவூட்டல் ரத்து செய்யப்பட்டது",
+    "remind_past": "இப்போதைய நேரத்திற்குப் பிறகு ஒரு நேரத்தைத் தேர்ந்தெடுக்கவும்",
+    "remind_title": "⏰ வாங்கும் நேரம்",
+    "remind_body": "%1$s — இப்போது நினைவூட்டச் சொன்னீர்கள்.",
+    "remind_body_from": "%1$s — %2$s அனுப்பிய பட்டியல்."
   }
 }

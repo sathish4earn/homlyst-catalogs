@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "શોધો",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "પ્રીમિયમ સભ્ય",
     "paywall_auto_renew": "માસિક સબ્સ્ક્રિપ્શન. તમે રદ કરો ત્યાં સુધી તે આપમેળે રિન્યૂ થાય છે. રિન્યૂ થવાના ઓછામાં ઓછા 24 કલાક પહેલાં, તમારી Apple ID સેટિંગ્સમાં ગમે ત્યારે રદ કરો.",
     "paywall_restore": "ખરીદી પુનઃસ્થાપિત કરો",
-    "paywall_restore_none": "આ Apple ID માટે કોઈ સક્રિય સબ્સ્ક્રિપ્શન મળ્યું નથી."
+    "paywall_restore_none": "આ Apple ID માટે કોઈ સક્રિય સબ્સ્ક્રિપ્શન મળ્યું નથી.",
+    "remind_me": "યાદ અપાવો",
+    "remind_me_title": "⏰ યાદ અપાવો",
+    "remind_list_added": "✅ %1$s ની યાદી ઉમેરાઈ",
+    "remind_question": "આ ખરીદવા માટે ક્યારે યાદ અપાવું?",
+    "remind_morning": "સવાર",
+    "remind_after_lunch": "બપોરના ભોજન પછી",
+    "remind_evening": "સાંજ",
+    "remind_night": "રાત",
+    "remind_today": "આજે",
+    "remind_tomorrow": "આવતીકાલે",
+    "remind_pick": "દિવસ અને સમય પસંદ કરો…",
+    "remind_no_thanks": "ના, આભાર",
+    "remind_set": "રિમાઇન્ડર સેટ કરો",
+    "remind_back": "પાછા",
+    "remind_set_for": "⏰ %1$s માટે રિમાઇન્ડર સેટ થયું",
+    "remind_cancel": "રદ કરો",
+    "remind_cancelled": "રિમાઇન્ડર રદ થયું",
+    "remind_past": "અત્યાર પછીનો સમય પસંદ કરો",
+    "remind_title": "⏰ ખરીદીનો સમય",
+    "remind_body": "%1$s — તમે હમણાં યાદ અપાવવા કહ્યું હતું.",
+    "remind_body_from": "%1$s — %2$s ની યાદીમાંથી."
   }
 }

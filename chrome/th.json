@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "สมาชิกพรีเมียม",
     "paywall_auto_renew": "การสมัครสมาชิกรายเดือน ต่ออายุอัตโนมัติจนกว่าคุณจะยกเลิก ยกเลิกได้ทุกเมื่อในการตั้งค่า Apple ID ของคุณ อย่างน้อย 24 ชั่วโมงก่อนการต่ออายุ",
     "paywall_restore": "กู้คืนการซื้อ",
-    "paywall_restore_none": "ไม่พบการสมัครสมาชิกที่ใช้งานอยู่สำหรับ Apple ID นี้"
+    "paywall_restore_none": "ไม่พบการสมัครสมาชิกที่ใช้งานอยู่สำหรับ Apple ID นี้",
+    "remind_me": "เตือนฉัน",
+    "remind_me_title": "⏰ เตือนฉัน",
+    "remind_list_added": "✅ เพิ่มรายการจาก %1$s แล้ว",
+    "remind_question": "จะให้เตือนซื้อของเหล่านี้เมื่อไร?",
+    "remind_morning": "เช้า",
+    "remind_after_lunch": "หลังมื้อกลางวัน",
+    "remind_evening": "เย็น",
+    "remind_night": "กลางคืน",
+    "remind_today": "วันนี้",
+    "remind_tomorrow": "พรุ่งนี้",
+    "remind_pick": "เลือกวันและเวลา…",
+    "remind_no_thanks": "ไม่เป็นไร",
+    "remind_set": "ตั้งการเตือน",
+    "remind_back": "ย้อนกลับ",
+    "remind_set_for": "⏰ ตั้งการเตือนไว้ %1$s",
+    "remind_cancel": "ยกเลิก",
+    "remind_cancelled": "ยกเลิกการเตือนแล้ว",
+    "remind_past": "เลือกเวลาหลังจากตอนนี้",
+    "remind_title": "⏰ ได้เวลาซื้อของ",
+    "remind_body": "%1$s — คุณขอให้เตือนตอนนี้",
+    "remind_body_from": "%1$s — จากรายการของ %2$s"
   }
 }

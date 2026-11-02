@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "ప్రీమియం సభ్యులు",
     "paywall_auto_renew": "నెలవారీ సబ్‌స్క్రిప్షన్. మీరు రద్దు చేసే వరకు ఇది ఆటోమేటిక్‌గా రెన్యూ అవుతుంది. రెన్యూ అవ్వడానికి కనీసం 24 గంటల ముందు, మీ Apple ID సెట్టింగ్‌లలో ఎప్పుడైనా రద్దు చేయండి.",
     "paywall_restore": "కొనుగోళ్లను రీస్టోర్ చేయండి",
-    "paywall_restore_none": "ఈ Apple IDకి యాక్టివ్ సబ్‌స్క్రిప్షన్ ఏదీ లేదు."
+    "paywall_restore_none": "ఈ Apple IDకి యాక్టివ్ సబ్‌స్క్రిప్షన్ ఏదీ లేదు.",
+    "remind_me": "గుర్తు చేయి",
+    "remind_me_title": "⏰ గుర్తు చేయి",
+    "remind_list_added": "✅ %1$s పంపిన జాబితా జోడించబడింది",
+    "remind_question": "వీటిని కొనడానికి ఎప్పుడు గుర్తు చేయాలి?",
+    "remind_morning": "ఉదయం",
+    "remind_after_lunch": "భోజనం తర్వాత",
+    "remind_evening": "సాయంత్రం",
+    "remind_night": "రాత్రి",
+    "remind_today": "ఈరోజు",
+    "remind_tomorrow": "రేపు",
+    "remind_pick": "రోజు, సమయం ఎంచుకోండి…",
+    "remind_no_thanks": "వద్దు",
+    "remind_set": "రిమైండర్ సెట్ చేయి",
+    "remind_back": "వెనుకకు",
+    "remind_set_for": "⏰ %1$s కి రిమైండర్ సెట్ అయింది",
+    "remind_cancel": "రద్దు చేయి",
+    "remind_cancelled": "రిమైండర్ రద్దు అయింది",
+    "remind_past": "ఇప్పటి తర్వాతి సమయం ఎంచుకోండి",
+    "remind_title": "⏰ షాపింగ్ సమయం",
+    "remind_body": "%1$s — ఇప్పుడు గుర్తు చేయమని మీరు అడిగారు.",
+    "remind_body_from": "%1$s — %2$s పంపిన జాబితా."
   }
 }

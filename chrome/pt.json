@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -1971,6 +1971,27 @@
     "premium_member_badge_desc": "Membro Premium",
     "paywall_auto_renew": "Assinatura mensal. Ela é renovada automaticamente até você cancelar. Cancele quando quiser nos ajustes do seu ID Apple, pelo menos 24 horas antes da renovação.",
     "paywall_restore": "Restaurar compras",
-    "paywall_restore_none": "Nenhuma assinatura ativa encontrada para este ID Apple."
+    "paywall_restore_none": "Nenhuma assinatura ativa encontrada para este ID Apple.",
+    "remind_me": "Lembrar-me",
+    "remind_me_title": "⏰ Lembrar-me",
+    "remind_list_added": "✅ Lista de %1$s adicionada",
+    "remind_question": "Quando devo lembrar você de comprar isto?",
+    "remind_morning": "Manhã",
+    "remind_after_lunch": "Depois do almoço",
+    "remind_evening": "Fim de tarde",
+    "remind_night": "Noite",
+    "remind_today": "Hoje",
+    "remind_tomorrow": "Amanhã",
+    "remind_pick": "Escolher dia e hora…",
+    "remind_no_thanks": "Não, obrigado",
+    "remind_set": "Definir lembrete",
+    "remind_back": "Voltar",
+    "remind_set_for": "⏰ Lembrete para %1$s",
+    "remind_cancel": "Cancelar",
+    "remind_cancelled": "Lembrete cancelado",
+    "remind_past": "Escolha um horário depois de agora",
+    "remind_title": "⏰ Hora das compras",
+    "remind_body": "%1$s — você pediu para ser lembrado agora.",
+    "remind_body_from": "%1$s — da lista de %2$s."
   }
 }
