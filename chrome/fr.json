@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -1992,6 +1992,10 @@
     "remind_past": "Choisissez une heure plus tard",
     "remind_title": "⏰ C'est l'heure des courses",
     "remind_body": "%1$s — vous avez demandé un rappel maintenant.",
-    "remind_body_from": "%1$s — de la liste de %2$s."
+    "remind_body_from": "%1$s — de la liste de %2$s.",
+    "steps_allow": "Autoriser le comptage des pas",
+    "steps_sensor_hint": "Votre téléphone compte vos pas. HomLyst n'utilise que le total quotidien.",
+    "steps_no_sensor": "Ce téléphone n'a pas de podomètre, il ne peut donc pas partager vos pas. Vous pouvez quand même voir les pas de votre famille.",
+    "steps_counting_starts": "Le comptage commence maintenant. Marchez un peu et vos pas s'afficheront ici."
   }
 }

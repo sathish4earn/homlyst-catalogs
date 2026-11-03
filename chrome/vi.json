@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -1992,6 +1992,10 @@
     "remind_past": "Hãy chọn thời điểm sau bây giờ",
     "remind_title": "⏰ Đến giờ đi mua sắm",
     "remind_body": "%1$s — bạn đã nhờ nhắc vào lúc này.",
-    "remind_body_from": "%1$s — từ danh sách của %2$s."
+    "remind_body_from": "%1$s — từ danh sách của %2$s.",
+    "steps_allow": "Cho phép đếm bước",
+    "steps_sensor_hint": "Điện thoại đếm bước chân của bạn. HomLyst chỉ dùng tổng mỗi ngày.",
+    "steps_no_sensor": "Điện thoại này không có bộ đếm bước nên không thể chia sẻ bước chân. Bạn vẫn xem được bước chân của gia đình.",
+    "steps_counting_starts": "Bắt đầu đếm từ bây giờ. Đi bộ một chút và số bước sẽ hiện ở đây."
   }
 }

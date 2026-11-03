@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1992,6 +1992,10 @@
     "remind_past": "Pilih masa selepas sekarang",
     "remind_title": "⏰ Masa untuk membeli-belah",
     "remind_body": "%1$s — anda minta diingatkan sekarang.",
-    "remind_body_from": "%1$s — daripada senarai %2$s."
+    "remind_body_from": "%1$s — daripada senarai %2$s.",
+    "steps_allow": "Benarkan pengiraan langkah",
+    "steps_sensor_hint": "Telefon anda mengira langkah anda. HomLyst hanya menggunakan jumlah harian.",
+    "steps_no_sensor": "Telefon ini tiada pengira langkah, jadi ia tidak boleh berkongsi langkah. Anda masih boleh melihat langkah keluarga.",
+    "steps_counting_starts": "Pengiraan bermula sekarang. Berjalan sedikit dan langkah anda akan dipaparkan di sini."
   }
 }
