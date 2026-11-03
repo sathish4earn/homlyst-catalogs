@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -1992,6 +1992,10 @@
     "remind_past": "Pick a time later than now",
     "remind_title": "⏰ Time to shop",
     "remind_body": "%1$s — you asked to be reminded now.",
-    "remind_body_from": "%1$s — from %2$s's list."
+    "remind_body_from": "%1$s — from %2$s's list.",
+    "steps_allow": "Allow step counting",
+    "steps_sensor_hint": "Your phone counts your steps. HomLyst uses only the daily total.",
+    "steps_no_sensor": "This phone doesn't have a step counter, so it can't share steps. You can still see your family's steps.",
+    "steps_counting_starts": "Counting starts now. Walk a little and your steps will show here."
   }
 }

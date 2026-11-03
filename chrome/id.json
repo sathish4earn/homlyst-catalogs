@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -1992,6 +1992,10 @@
     "remind_past": "Pilih waktu setelah sekarang",
     "remind_title": "⏰ Waktunya belanja",
     "remind_body": "%1$s — Anda minta diingatkan sekarang.",
-    "remind_body_from": "%1$s — dari daftar %2$s."
+    "remind_body_from": "%1$s — dari daftar %2$s.",
+    "steps_allow": "Izinkan penghitungan langkah",
+    "steps_sensor_hint": "Ponsel Anda menghitung langkah Anda. HomLyst hanya memakai total harian.",
+    "steps_no_sensor": "Ponsel ini tidak punya penghitung langkah, jadi tidak bisa membagikan langkah. Anda tetap bisa melihat langkah keluarga.",
+    "steps_counting_starts": "Penghitungan dimulai sekarang. Berjalanlah sedikit dan langkah Anda akan muncul di sini."
   }
 }

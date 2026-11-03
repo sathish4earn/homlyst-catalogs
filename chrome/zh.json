@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -1992,6 +1992,10 @@
     "remind_past": "请选择晚于现在的时间",
     "remind_title": "⏰ 该去购物了",
     "remind_body": "%1$s — 你要求在此时提醒。",
-    "remind_body_from": "%1$s — 来自 %2$s 的清单。"
+    "remind_body_from": "%1$s — 来自 %2$s 的清单。",
+    "steps_allow": "允许计步",
+    "steps_sensor_hint": "你的手机会计算步数。HomLyst 只使用每日总数。",
+    "steps_no_sensor": "这部手机没有计步器，无法分享步数。你仍然可以查看家人的步数。",
+    "steps_counting_starts": "现在开始计步。走几步，步数就会显示在这里。"
   }
 }
