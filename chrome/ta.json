@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "வரைபடத்தில் இல்லை",
     "trip_route_rest": "மீதி நாளுக்கான வழி",
     "trip_open_maps_link": "Google Maps இணைப்பைத் திற",
-    "trip_today_button": "%1$s · நாள் %2$s"
+    "trip_today_button": "%1$s · நாள் %2$s",
+    "trip_remove_place_q": "%1$s-ஐ நீக்கவா?"
   }
 }

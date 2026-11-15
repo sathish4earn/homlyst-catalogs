@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "Fuera del mapa",
     "trip_route_rest": "Ruta para el resto del día",
     "trip_open_maps_link": "Abrir el enlace de Google Maps",
-    "trip_today_button": "%1$s · Día %2$s"
+    "trip_today_button": "%1$s · Día %2$s",
+    "trip_remove_place_q": "¿Quitar %1$s?"
   }
 }

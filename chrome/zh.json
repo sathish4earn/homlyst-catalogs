@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "不在地图上",
     "trip_route_rest": "当天剩余路线",
     "trip_open_maps_link": "打开 Google 地图链接",
-    "trip_today_button": "%1$s · 第 %2$s 天"
+    "trip_today_button": "%1$s · 第 %2$s 天",
+    "trip_remove_place_q": "移除 %1$s？"
   }
 }

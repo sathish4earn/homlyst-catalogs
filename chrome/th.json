@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "ไม่อยู่บนแผนที่",
     "trip_route_rest": "เส้นทางสำหรับช่วงที่เหลือของวัน",
     "trip_open_maps_link": "เปิดลิงก์ Google Maps",
-    "trip_today_button": "%1$s · วันที่ %2$s"
+    "trip_today_button": "%1$s · วันที่ %2$s",
+    "trip_remove_place_q": "เอา %1$s ออกไหม"
   }
 }

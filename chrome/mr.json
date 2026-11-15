@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "नकाशावर नाही",
     "trip_route_rest": "उरलेल्या दिवसाचा मार्ग",
     "trip_open_maps_link": "Google Maps लिंक उघडा",
-    "trip_today_button": "%1$s · दिवस %2$s"
+    "trip_today_button": "%1$s · दिवस %2$s",
+    "trip_remove_place_q": "%1$s काढायचे?"
   }
 }

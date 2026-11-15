@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "ਨਕਸ਼ੇ 'ਤੇ ਨਹੀਂ",
     "trip_route_rest": "ਬਾਕੀ ਦਿਨ ਦਾ ਰੂਟ",
     "trip_open_maps_link": "Google Maps ਲਿੰਕ ਖੋਲ੍ਹੋ",
-    "trip_today_button": "%1$s · ਦਿਨ %2$s"
+    "trip_today_button": "%1$s · ਦਿਨ %2$s",
+    "trip_remove_place_q": "ਕੀ %1$s ਹਟਾਉਣਾ ਹੈ?"
   }
 }

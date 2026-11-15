@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ಹುಡುಕಿ",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "ನಕ್ಷೆಯಲ್ಲಿ ಇಲ್ಲ",
     "trip_route_rest": "ಉಳಿದ ದಿನದ ಮಾರ್ಗ",
     "trip_open_maps_link": "Google Maps ಲಿಂಕ್ ತೆರೆಯಿರಿ",
-    "trip_today_button": "%1$s · ದಿನ %2$s"
+    "trip_today_button": "%1$s · ದಿನ %2$s",
+    "trip_remove_place_q": "%1$s ತೆಗೆಯಬೇಕೇ?"
   }
 }
