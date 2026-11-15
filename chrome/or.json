@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ଖୋଜନ୍ତୁ",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "ଏପର୍ଯ୍ୟନ୍ତ ସ୍ଥାନ ନାହିଁ",
     "trip_map_just_now": "ଏବେ",
     "trip_map_min_ago": "%1$s ମିନିଟ୍ ପୂର୍ବରୁ",
-    "trip_map_h_ago": "%1$s ଘଣ୍ଟା ପୂର୍ବରୁ"
+    "trip_map_h_ago": "%1$s ଘଣ୍ଟା ପୂର୍ବରୁ",
+    "trip_day_map": "ଦିନର ମାନଚିତ୍ର",
+    "trip_route": "ରୁଟ୍",
+    "trip_import_short": "Maps ଲିଙ୍କ",
+    "trip_import_title": "Google Maps ରୁ ସ୍ଥାନ ଯୋଡନ୍ତୁ",
+    "trip_import_how": "Google Maps ରେ ଦିନର ଯୋଜନା କରନ୍ତୁ, Share ଦବାନ୍ତୁ, ତା'ପରେ Copy link କରି ଏଠାରେ ପେଷ୍ଟ କରନ୍ତୁ। Android ରେ Share ରେ ସିଧା HomLyst ମଧ୍ୟ ବାଛିପାରିବେ।",
+    "trip_import_link_hint": "Google Maps ଲିଙ୍କ ପେଷ୍ଟ କରନ୍ତୁ",
+    "trip_import_paste": "ପେଷ୍ଟ",
+    "trip_import_read": "ସ୍ଥାନ ପଢନ୍ତୁ",
+    "trip_import_reading": "ଲିଙ୍କ ପଢାଯାଉଛି…",
+    "trip_import_not_route": "ଏହି ଲିଙ୍କରେ କୌଣସି ସ୍ଥାନ ମିଳିଲା ନାହିଁ। Google Maps ରେ Share, ତା'ପରେ Copy link ଦବାଇ ଏଠାରେ ପେଷ୍ଟ କରନ୍ତୁ।",
+    "trip_import_failed": "ଲିଙ୍କ ପଢି ହେଲା ନାହିଁ। ଇଣ୍ଟରନେଟ ଦେଖି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।",
+    "trip_import_found": "%1$s ଟି ସ୍ଥାନ ମିଳିଲା",
+    "trip_import_gap": "ପ୍ରତି ସ୍ଥାନରେ ସମୟ",
+    "trip_import_no_times": "ସମୟ ନାହିଁ",
+    "trip_import_start": "ଆରମ୍ଭ",
+    "trip_import_add": "ଦିନ %2$s ରେ %1$s ଟି ସ୍ଥାନ ଯୋଡନ୍ତୁ",
+    "trip_import_pinned": "ପିନ୍ କରାଯାଇଥିବା ସ୍ଥାନ",
+    "trip_day_map_title": "ଦିନ %1$s ମାନଚିତ୍ର",
+    "trip_day_map_empty": "ମାନଚିତ୍ରରେ ଦେଖିବାକୁ ସ୍ଥାନ ଯୋଡନ୍ତୁ।",
+    "trip_day_map_no_spots": "ଏହି ସ୍ଥାନଗୁଡିକର ଏପର୍ଯ୍ୟନ୍ତ ମାନଚିତ୍ର ପିନ୍ ନାହିଁ। ମାନଚିତ୍ରରେ ଦେଖିବାକୁ Google Maps ଲିଙ୍କରୁ ଯୋଡନ୍ତୁ।",
+    "trip_map_not_on_map": "ମାନଚିତ୍ରରେ ନାହିଁ",
+    "trip_route_rest": "ବାକି ଦିନର ରୁଟ୍",
+    "trip_open_maps_link": "Google Maps ଲିଙ୍କ ଖୋଲନ୍ତୁ",
+    "trip_today_button": "%1$s · ଦିନ %2$s"
   }
 }

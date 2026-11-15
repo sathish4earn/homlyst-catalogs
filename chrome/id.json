@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "Belum ada lokasi",
     "trip_map_just_now": "baru saja",
     "trip_map_min_ago": "%1$s mnt lalu",
-    "trip_map_h_ago": "%1$s j lalu"
+    "trip_map_h_ago": "%1$s j lalu",
+    "trip_day_map": "Peta hari ini",
+    "trip_route": "Rute",
+    "trip_import_short": "Tautan Maps",
+    "trip_import_title": "Tambah tempat dari Google Maps",
+    "trip_import_how": "Rencanakan hari di Google Maps, ketuk Bagikan, lalu Salin link dan tempel di sini. Di Android Anda juga bisa memilih HomLyst di Bagikan.",
+    "trip_import_link_hint": "Tempel tautan Google Maps",
+    "trip_import_paste": "Tempel",
+    "trip_import_read": "Baca tempat",
+    "trip_import_reading": "Membaca tautan…",
+    "trip_import_not_route": "Tidak ada tempat di tautan ini. Di Google Maps ketuk Bagikan, lalu Salin link, dan tempel di sini.",
+    "trip_import_failed": "Tautan tidak bisa dibaca. Periksa internet dan coba lagi.",
+    "trip_import_found": "%1$s tempat ditemukan",
+    "trip_import_gap": "Waktu di tiap tempat",
+    "trip_import_no_times": "Tanpa waktu",
+    "trip_import_start": "Mulai pukul",
+    "trip_import_add": "Tambah %1$s tempat ke Hari %2$s",
+    "trip_import_pinned": "Tempat yang ditandai",
+    "trip_day_map_title": "Peta Hari %1$s",
+    "trip_day_map_empty": "Tambah tempat untuk melihatnya di peta.",
+    "trip_day_map_no_spots": "Tempat ini belum punya penanda peta. Tambahkan dari tautan Google Maps untuk melihatnya di peta.",
+    "trip_map_not_on_map": "Tidak di peta",
+    "trip_route_rest": "Rute untuk sisa hari",
+    "trip_open_maps_link": "Buka tautan Google Maps",
+    "trip_today_button": "%1$s · Hari %2$s"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Search",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "No spot yet",
     "trip_map_just_now": "just now",
     "trip_map_min_ago": "%1$s min ago",
-    "trip_map_h_ago": "%1$s h ago"
+    "trip_map_h_ago": "%1$s h ago",
+    "trip_day_map": "Day map",
+    "trip_route": "Route",
+    "trip_import_short": "Maps link",
+    "trip_import_title": "Add places from Google Maps",
+    "trip_import_how": "Plan the day in Google Maps, tap Share, then Copy link and paste it here. On Android you can also pick HomLyst in Share.",
+    "trip_import_link_hint": "Paste a Google Maps link",
+    "trip_import_paste": "Paste",
+    "trip_import_read": "Read places",
+    "trip_import_reading": "Reading the link…",
+    "trip_import_not_route": "No places found in this link. In Google Maps tap Share, then Copy link, and paste it here.",
+    "trip_import_failed": "Couldn't read the link. Check your internet and try again.",
+    "trip_import_found": "%1$s places found",
+    "trip_import_gap": "Time at each place",
+    "trip_import_no_times": "No times",
+    "trip_import_start": "Start at",
+    "trip_import_add": "Add %1$s places to Day %2$s",
+    "trip_import_pinned": "Pinned place",
+    "trip_day_map_title": "Day %1$s map",
+    "trip_day_map_empty": "Add places to see them on the map.",
+    "trip_day_map_no_spots": "These places have no map pin yet. Add them from a Google Maps link to see them on the map.",
+    "trip_map_not_on_map": "Not on the map",
+    "trip_route_rest": "Route for the rest of the day",
+    "trip_open_maps_link": "Open the Google Maps link",
+    "trip_today_button": "%1$s · Day %2$s"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Buscar",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "Sem localização ainda",
     "trip_map_just_now": "agora mesmo",
     "trip_map_min_ago": "há %1$s min",
-    "trip_map_h_ago": "há %1$s h"
+    "trip_map_h_ago": "há %1$s h",
+    "trip_day_map": "Mapa do dia",
+    "trip_route": "Rota",
+    "trip_import_short": "Link do Maps",
+    "trip_import_title": "Adicionar lugares do Google Maps",
+    "trip_import_how": "Planeje o dia no Google Maps, toque em Compartilhar, depois em Copiar link e cole aqui. No Android, você também pode escolher o HomLyst em Compartilhar.",
+    "trip_import_link_hint": "Cole um link do Google Maps",
+    "trip_import_paste": "Colar",
+    "trip_import_read": "Ler lugares",
+    "trip_import_reading": "Lendo o link…",
+    "trip_import_not_route": "Nenhum lugar encontrado neste link. No Google Maps toque em Compartilhar, depois em Copiar link, e cole aqui.",
+    "trip_import_failed": "Não foi possível ler o link. Verifique a internet e tente de novo.",
+    "trip_import_found": "%1$s lugares encontrados",
+    "trip_import_gap": "Tempo em cada lugar",
+    "trip_import_no_times": "Sem horários",
+    "trip_import_start": "Começar às",
+    "trip_import_add": "Adicionar %1$s lugares ao Dia %2$s",
+    "trip_import_pinned": "Lugar marcado",
+    "trip_day_map_title": "Mapa do Dia %1$s",
+    "trip_day_map_empty": "Adicione lugares para vê-los no mapa.",
+    "trip_day_map_no_spots": "Estes lugares ainda não têm marcador no mapa. Adicione-os de um link do Google Maps para vê-los no mapa.",
+    "trip_map_not_on_map": "Fora do mapa",
+    "trip_route_rest": "Rota para o resto do dia",
+    "trip_open_maps_link": "Abrir o link do Google Maps",
+    "trip_today_button": "%1$s · Dia %2$s"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "Chưa có vị trí",
     "trip_map_just_now": "vừa xong",
     "trip_map_min_ago": "%1$s phút trước",
-    "trip_map_h_ago": "%1$s giờ trước"
+    "trip_map_h_ago": "%1$s giờ trước",
+    "trip_day_map": "Bản đồ trong ngày",
+    "trip_route": "Lộ trình",
+    "trip_import_short": "Liên kết Maps",
+    "trip_import_title": "Thêm địa điểm từ Google Maps",
+    "trip_import_how": "Lên kế hoạch cho ngày trong Google Maps, chạm Chia sẻ, rồi Sao chép liên kết và dán vào đây. Trên Android bạn cũng có thể chọn HomLyst trong Chia sẻ.",
+    "trip_import_link_hint": "Dán liên kết Google Maps",
+    "trip_import_paste": "Dán",
+    "trip_import_read": "Đọc địa điểm",
+    "trip_import_reading": "Đang đọc liên kết…",
+    "trip_import_not_route": "Không tìm thấy địa điểm trong liên kết này. Trong Google Maps chạm Chia sẻ, rồi Sao chép liên kết và dán vào đây.",
+    "trip_import_failed": "Không đọc được liên kết. Kiểm tra mạng và thử lại.",
+    "trip_import_found": "Tìm thấy %1$s địa điểm",
+    "trip_import_gap": "Thời gian ở mỗi nơi",
+    "trip_import_no_times": "Không đặt giờ",
+    "trip_import_start": "Bắt đầu lúc",
+    "trip_import_add": "Thêm %1$s địa điểm vào Ngày %2$s",
+    "trip_import_pinned": "Địa điểm đã ghim",
+    "trip_day_map_title": "Bản đồ Ngày %1$s",
+    "trip_day_map_empty": "Thêm địa điểm để xem trên bản đồ.",
+    "trip_day_map_no_spots": "Các địa điểm này chưa có ghim bản đồ. Thêm chúng từ liên kết Google Maps để xem trên bản đồ.",
+    "trip_map_not_on_map": "Không có trên bản đồ",
+    "trip_route_rest": "Lộ trình cho phần còn lại của ngày",
+    "trip_open_maps_link": "Mở liên kết Google Maps",
+    "trip_today_button": "%1$s · Ngày %2$s"
   }
 }

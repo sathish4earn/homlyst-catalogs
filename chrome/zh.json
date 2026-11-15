@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "搜索",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "暂无位置",
     "trip_map_just_now": "刚刚",
     "trip_map_min_ago": "%1$s 分钟前",
-    "trip_map_h_ago": "%1$s 小时前"
+    "trip_map_h_ago": "%1$s 小时前",
+    "trip_day_map": "当天地图",
+    "trip_route": "路线",
+    "trip_import_short": "地图链接",
+    "trip_import_title": "从 Google 地图添加地点",
+    "trip_import_how": "在 Google 地图中规划当天行程，点“分享”，再点“复制链接”并粘贴到这里。在 Android 上也可以在“分享”中直接选择 HomLyst。",
+    "trip_import_link_hint": "粘贴 Google 地图链接",
+    "trip_import_paste": "粘贴",
+    "trip_import_read": "读取地点",
+    "trip_import_reading": "正在读取链接…",
+    "trip_import_not_route": "这个链接里没有找到地点。在 Google 地图中点“分享”，再点“复制链接”，然后粘贴到这里。",
+    "trip_import_failed": "无法读取链接。请检查网络后重试。",
+    "trip_import_found": "找到 %1$s 个地点",
+    "trip_import_gap": "每个地点停留时间",
+    "trip_import_no_times": "不设时间",
+    "trip_import_start": "开始时间",
+    "trip_import_add": "将 %1$s 个地点加入第 %2$s 天",
+    "trip_import_pinned": "标记的地点",
+    "trip_day_map_title": "第 %1$s 天地图",
+    "trip_day_map_empty": "添加地点后即可在地图上查看。",
+    "trip_day_map_no_spots": "这些地点还没有地图标记。从 Google 地图链接添加即可在地图上查看。",
+    "trip_map_not_on_map": "不在地图上",
+    "trip_route_rest": "当天剩余路线",
+    "trip_open_maps_link": "打开 Google 地图链接",
+    "trip_today_button": "%1$s · 第 %2$s 天"
   }
 }

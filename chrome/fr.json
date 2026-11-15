@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Rechercher",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "Pas encore de position",
     "trip_map_just_now": "à l'instant",
     "trip_map_min_ago": "il y a %1$s min",
-    "trip_map_h_ago": "il y a %1$s h"
+    "trip_map_h_ago": "il y a %1$s h",
+    "trip_day_map": "Carte du jour",
+    "trip_route": "Itinéraire",
+    "trip_import_short": "Lien Maps",
+    "trip_import_title": "Ajouter des lieux depuis Google Maps",
+    "trip_import_how": "Planifiez la journée dans Google Maps, touchez Partager, puis Copier le lien et collez-le ici. Sur Android, vous pouvez aussi choisir HomLyst dans Partager.",
+    "trip_import_link_hint": "Collez un lien Google Maps",
+    "trip_import_paste": "Coller",
+    "trip_import_read": "Lire les lieux",
+    "trip_import_reading": "Lecture du lien…",
+    "trip_import_not_route": "Aucun lieu trouvé dans ce lien. Dans Google Maps touchez Partager, puis Copier le lien, et collez-le ici.",
+    "trip_import_failed": "Impossible de lire le lien. Vérifiez votre connexion et réessayez.",
+    "trip_import_found": "%1$s lieux trouvés",
+    "trip_import_gap": "Temps à chaque lieu",
+    "trip_import_no_times": "Sans horaires",
+    "trip_import_start": "Début à",
+    "trip_import_add": "Ajouter %1$s lieux au Jour %2$s",
+    "trip_import_pinned": "Lieu épinglé",
+    "trip_day_map_title": "Carte du Jour %1$s",
+    "trip_day_map_empty": "Ajoutez des lieux pour les voir sur la carte.",
+    "trip_day_map_no_spots": "Ces lieux n'ont pas encore d'épingle. Ajoutez-les depuis un lien Google Maps pour les voir sur la carte.",
+    "trip_map_not_on_map": "Pas sur la carte",
+    "trip_route_rest": "Itinéraire pour le reste de la journée",
+    "trip_open_maps_link": "Ouvrir le lien Google Maps",
+    "trip_today_button": "%1$s · Jour %2$s"
   }
 }

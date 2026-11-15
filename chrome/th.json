@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ค้นหา",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "ยังไม่มีตำแหน่ง",
     "trip_map_just_now": "เมื่อสักครู่",
     "trip_map_min_ago": "%1$s นาทีที่แล้ว",
-    "trip_map_h_ago": "%1$s ชม. ที่แล้ว"
+    "trip_map_h_ago": "%1$s ชม. ที่แล้ว",
+    "trip_day_map": "แผนที่ของวัน",
+    "trip_route": "เส้นทาง",
+    "trip_import_short": "ลิงก์ Maps",
+    "trip_import_title": "เพิ่มสถานที่จาก Google Maps",
+    "trip_import_how": "วางแผนวันใน Google Maps แตะแชร์ แล้วคัดลอกลิงก์มาวางที่นี่ บน Android เลือก HomLyst ในเมนูแชร์ได้เลย",
+    "trip_import_link_hint": "วางลิงก์ Google Maps",
+    "trip_import_paste": "วาง",
+    "trip_import_read": "อ่านสถานที่",
+    "trip_import_reading": "กำลังอ่านลิงก์…",
+    "trip_import_not_route": "ไม่พบสถานที่ในลิงก์นี้ ใน Google Maps แตะแชร์ แล้วคัดลอกลิงก์ แล้ววางที่นี่",
+    "trip_import_failed": "อ่านลิงก์ไม่ได้ ตรวจสอบอินเทอร์เน็ตแล้วลองอีกครั้ง",
+    "trip_import_found": "พบ %1$s สถานที่",
+    "trip_import_gap": "เวลาที่แต่ละที่",
+    "trip_import_no_times": "ไม่ระบุเวลา",
+    "trip_import_start": "เริ่มเวลา",
+    "trip_import_add": "เพิ่ม %1$s สถานที่ในวันที่ %2$s",
+    "trip_import_pinned": "สถานที่ที่ปักหมุด",
+    "trip_day_map_title": "แผนที่วันที่ %1$s",
+    "trip_day_map_empty": "เพิ่มสถานที่เพื่อดูบนแผนที่",
+    "trip_day_map_no_spots": "สถานที่เหล่านี้ยังไม่มีหมุดบนแผนที่ เพิ่มจากลิงก์ Google Maps เพื่อดูบนแผนที่",
+    "trip_map_not_on_map": "ไม่อยู่บนแผนที่",
+    "trip_route_rest": "เส้นทางสำหรับช่วงที่เหลือของวัน",
+    "trip_open_maps_link": "เปิดลิงก์ Google Maps",
+    "trip_today_button": "%1$s · วันที่ %2$s"
   }
 }

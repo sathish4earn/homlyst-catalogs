@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "अभी जगह नहीं",
     "trip_map_just_now": "अभी",
     "trip_map_min_ago": "%1$s मिनट पहले",
-    "trip_map_h_ago": "%1$s घंटे पहले"
+    "trip_map_h_ago": "%1$s घंटे पहले",
+    "trip_day_map": "दिन का मैप",
+    "trip_route": "रूट",
+    "trip_import_short": "मैप्स लिंक",
+    "trip_import_title": "Google Maps से जगहें जोड़ें",
+    "trip_import_how": "Google Maps में दिन की योजना बनाएं, Share दबाएं, फिर Copy link करके यहां पेस्ट करें। Android पर Share में सीधे HomLyst भी चुन सकते हैं।",
+    "trip_import_link_hint": "Google Maps लिंक पेस्ट करें",
+    "trip_import_paste": "पेस्ट करें",
+    "trip_import_read": "जगहें पढ़ें",
+    "trip_import_reading": "लिंक पढ़ा जा रहा है…",
+    "trip_import_not_route": "इस लिंक में कोई जगह नहीं मिली। Google Maps में Share, फिर Copy link दबाकर यहां पेस्ट करें।",
+    "trip_import_failed": "लिंक नहीं पढ़ पाए। इंटरनेट जांचें और फिर कोशिश करें।",
+    "trip_import_found": "%1$s जगहें मिलीं",
+    "trip_import_gap": "हर जगह पर समय",
+    "trip_import_no_times": "समय नहीं",
+    "trip_import_start": "शुरुआत",
+    "trip_import_add": "दिन %2$s में %1$s जगहें जोड़ें",
+    "trip_import_pinned": "पिन की गई जगह",
+    "trip_day_map_title": "दिन %1$s का मैप",
+    "trip_day_map_empty": "मैप पर देखने के लिए जगहें जोड़ें।",
+    "trip_day_map_no_spots": "इन जगहों का मैप पिन अभी नहीं है। मैप पर देखने के लिए इन्हें Google Maps लिंक से जोड़ें।",
+    "trip_map_not_on_map": "मैप पर नहीं",
+    "trip_route_rest": "बाकी दिन का रूट",
+    "trip_open_maps_link": "Google Maps लिंक खोलें",
+    "trip_today_button": "%1$s · दिन %2$s"
   }
 }
