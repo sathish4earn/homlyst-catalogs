@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "खोजें",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "मैप पर नहीं",
     "trip_route_rest": "बाकी दिन का रूट",
     "trip_open_maps_link": "Google Maps लिंक खोलें",
-    "trip_today_button": "%1$s · दिन %2$s"
+    "trip_today_button": "%1$s · दिन %2$s",
+    "trip_remove_place_q": "%1$s हटाएँ?"
   }
 }

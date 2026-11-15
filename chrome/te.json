@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "మ్యాప్‌లో లేదు",
     "trip_route_rest": "మిగిలిన రోజుకు మార్గం",
     "trip_open_maps_link": "Google Maps లింక్ తెరవండి",
-    "trip_today_button": "%1$s · రోజు %2$s"
+    "trip_today_button": "%1$s · రోజు %2$s",
+    "trip_remove_place_q": "%1$s తీసివేయాలా?"
   }
 }

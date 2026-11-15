@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Cari",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "Tidak di peta",
     "trip_route_rest": "Rute untuk sisa hari",
     "trip_open_maps_link": "Buka tautan Google Maps",
-    "trip_today_button": "%1$s · Hari %2$s"
+    "trip_today_button": "%1$s · Hari %2$s",
+    "trip_remove_place_q": "Hapus %1$s?"
   }
 }

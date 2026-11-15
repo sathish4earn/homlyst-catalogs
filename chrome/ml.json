@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "തിരയുക",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "മാപ്പിൽ ഇല്ല",
     "trip_route_rest": "ബാക്കി ദിവസത്തെ റൂട്ട്",
     "trip_open_maps_link": "Google Maps ലിങ്ക് തുറക്കുക",
-    "trip_today_button": "%1$s · ദിവസം %2$s"
+    "trip_today_button": "%1$s · ദിവസം %2$s",
+    "trip_remove_place_q": "%1$s നീക്കണോ?"
   }
 }

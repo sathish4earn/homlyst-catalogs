@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "Tìm kiếm",
@@ -2211,6 +2211,7 @@
     "trip_map_not_on_map": "Không có trên bản đồ",
     "trip_route_rest": "Lộ trình cho phần còn lại của ngày",
     "trip_open_maps_link": "Mở liên kết Google Maps",
-    "trip_today_button": "%1$s · Ngày %2$s"
+    "trip_today_button": "%1$s · Ngày %2$s",
+    "trip_remove_place_q": "Bỏ %1$s?"
   }
 }
