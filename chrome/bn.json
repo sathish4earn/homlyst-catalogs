@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "খুঁজুন",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "এখনও অবস্থান নেই",
     "trip_map_just_now": "এইমাত্র",
     "trip_map_min_ago": "%1$s মিনিট আগে",
-    "trip_map_h_ago": "%1$s ঘণ্টা আগে"
+    "trip_map_h_ago": "%1$s ঘণ্টা আগে",
+    "trip_day_map": "দিনের ম্যাপ",
+    "trip_route": "রুট",
+    "trip_import_short": "Maps লিংক",
+    "trip_import_title": "Google Maps থেকে জায়গা যোগ করুন",
+    "trip_import_how": "Google Maps-এ দিনের পরিকল্পনা করুন, Share চাপুন, তারপর Copy link করে এখানে পেস্ট করুন। Android-এ Share-এ সরাসরি HomLyst-ও বেছে নিতে পারেন।",
+    "trip_import_link_hint": "Google Maps লিংক পেস্ট করুন",
+    "trip_import_paste": "পেস্ট",
+    "trip_import_read": "জায়গা পড়ুন",
+    "trip_import_reading": "লিংক পড়া হচ্ছে…",
+    "trip_import_not_route": "এই লিংকে কোনো জায়গা পাওয়া যায়নি। Google Maps-এ Share, তারপর Copy link চেপে এখানে পেস্ট করুন।",
+    "trip_import_failed": "লিংক পড়া গেল না। ইন্টারনেট দেখে আবার চেষ্টা করুন।",
+    "trip_import_found": "%1$sটি জায়গা পাওয়া গেছে",
+    "trip_import_gap": "প্রতিটি জায়গায় সময়",
+    "trip_import_no_times": "সময় নয়",
+    "trip_import_start": "শুরু",
+    "trip_import_add": "দিন %2$s-এ %1$sটি জায়গা যোগ করুন",
+    "trip_import_pinned": "পিন করা জায়গা",
+    "trip_day_map_title": "দিন %1$s-এর ম্যাপ",
+    "trip_day_map_empty": "ম্যাপে দেখতে জায়গা যোগ করুন।",
+    "trip_day_map_no_spots": "এই জায়গাগুলোর এখনও ম্যাপ পিন নেই। ম্যাপে দেখতে Google Maps লিংক থেকে যোগ করুন।",
+    "trip_map_not_on_map": "ম্যাপে নেই",
+    "trip_route_rest": "বাকি দিনের রুট",
+    "trip_open_maps_link": "Google Maps লিংক খুলুন",
+    "trip_today_button": "%1$s · দিন %2$s"
   }
 }

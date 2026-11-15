@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "ਖੋਜੋ",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "ਹਾਲੇ ਥਾਂ ਨਹੀਂ",
     "trip_map_just_now": "ਹੁਣੇ",
     "trip_map_min_ago": "%1$s ਮਿੰਟ ਪਹਿਲਾਂ",
-    "trip_map_h_ago": "%1$s ਘੰਟੇ ਪਹਿਲਾਂ"
+    "trip_map_h_ago": "%1$s ਘੰਟੇ ਪਹਿਲਾਂ",
+    "trip_day_map": "ਦਿਨ ਦਾ ਨਕਸ਼ਾ",
+    "trip_route": "ਰੂਟ",
+    "trip_import_short": "Maps ਲਿੰਕ",
+    "trip_import_title": "Google Maps ਤੋਂ ਥਾਵਾਂ ਜੋੜੋ",
+    "trip_import_how": "Google Maps ਵਿੱਚ ਦਿਨ ਦੀ ਯੋਜਨਾ ਬਣਾਓ, Share ਦਬਾਓ, ਫਿਰ Copy link ਕਰਕੇ ਇੱਥੇ ਪੇਸਟ ਕਰੋ। Android 'ਤੇ Share ਵਿੱਚ ਸਿੱਧਾ HomLyst ਵੀ ਚੁਣ ਸਕਦੇ ਹੋ।",
+    "trip_import_link_hint": "Google Maps ਲਿੰਕ ਪੇਸਟ ਕਰੋ",
+    "trip_import_paste": "ਪੇਸਟ",
+    "trip_import_read": "ਥਾਵਾਂ ਪੜ੍ਹੋ",
+    "trip_import_reading": "ਲਿੰਕ ਪੜ੍ਹਿਆ ਜਾ ਰਿਹਾ ਹੈ…",
+    "trip_import_not_route": "ਇਸ ਲਿੰਕ ਵਿੱਚ ਕੋਈ ਥਾਂ ਨਹੀਂ ਮਿਲੀ। Google Maps ਵਿੱਚ Share, ਫਿਰ Copy link ਦਬਾ ਕੇ ਇੱਥੇ ਪੇਸਟ ਕਰੋ।",
+    "trip_import_failed": "ਲਿੰਕ ਨਹੀਂ ਪੜ੍ਹ ਸਕੇ। ਇੰਟਰਨੈੱਟ ਦੇਖੋ ਅਤੇ ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "trip_import_found": "%1$s ਥਾਵਾਂ ਮਿਲੀਆਂ",
+    "trip_import_gap": "ਹਰ ਥਾਂ 'ਤੇ ਸਮਾਂ",
+    "trip_import_no_times": "ਸਮਾਂ ਨਹੀਂ",
+    "trip_import_start": "ਸ਼ੁਰੂਆਤ",
+    "trip_import_add": "ਦਿਨ %2$s ਵਿੱਚ %1$s ਥਾਵਾਂ ਜੋੜੋ",
+    "trip_import_pinned": "ਪਿੰਨ ਕੀਤੀ ਥਾਂ",
+    "trip_day_map_title": "ਦਿਨ %1$s ਦਾ ਨਕਸ਼ਾ",
+    "trip_day_map_empty": "ਨਕਸ਼ੇ 'ਤੇ ਦੇਖਣ ਲਈ ਥਾਵਾਂ ਜੋੜੋ।",
+    "trip_day_map_no_spots": "ਇਨ੍ਹਾਂ ਥਾਵਾਂ ਦਾ ਅਜੇ ਨਕਸ਼ਾ ਪਿੰਨ ਨਹੀਂ। ਨਕਸ਼ੇ 'ਤੇ ਦੇਖਣ ਲਈ Google Maps ਲਿੰਕ ਤੋਂ ਜੋੜੋ।",
+    "trip_map_not_on_map": "ਨਕਸ਼ੇ 'ਤੇ ਨਹੀਂ",
+    "trip_route_rest": "ਬਾਕੀ ਦਿਨ ਦਾ ਰੂਟ",
+    "trip_open_maps_link": "Google Maps ਲਿੰਕ ਖੋਲ੍ਹੋ",
+    "trip_today_button": "%1$s · ਦਿਨ %2$s"
   }
 }

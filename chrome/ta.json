@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "தேடு",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "இன்னும் இடம் இல்லை",
     "trip_map_just_now": "இப்போதுதான்",
     "trip_map_min_ago": "%1$s நிமிடம் முன்பு",
-    "trip_map_h_ago": "%1$s மணி நேரம் முன்பு"
+    "trip_map_h_ago": "%1$s மணி நேரம் முன்பு",
+    "trip_day_map": "நாள் வரைபடம்",
+    "trip_route": "வழி",
+    "trip_import_short": "Maps இணைப்பு",
+    "trip_import_title": "Google Maps-இலிருந்து இடங்களைச் சேர்க்கவும்",
+    "trip_import_how": "Google Maps-இல் நாளைத் திட்டமிட்டு, Share தட்டி, Copy link செய்து இங்கே ஒட்டவும். Android-இல் Share-இல் நேரடியாக HomLyst-ஐயும் தேர்வு செய்யலாம்.",
+    "trip_import_link_hint": "Google Maps இணைப்பை ஒட்டவும்",
+    "trip_import_paste": "ஒட்டு",
+    "trip_import_read": "இடங்களைப் படி",
+    "trip_import_reading": "இணைப்பு படிக்கப்படுகிறது…",
+    "trip_import_not_route": "இந்த இணைப்பில் இடங்கள் இல்லை. Google Maps-இல் Share, பிறகு Copy link தட்டி இங்கே ஒட்டவும்.",
+    "trip_import_failed": "இணைப்பைப் படிக்க முடியவில்லை. இணையத்தைச் சரிபார்த்து மீண்டும் முயலவும்.",
+    "trip_import_found": "%1$s இடங்கள் கிடைத்தன",
+    "trip_import_gap": "ஒவ்வொரு இடத்திலும் நேரம்",
+    "trip_import_no_times": "நேரம் வேண்டாம்",
+    "trip_import_start": "தொடக்கம்",
+    "trip_import_add": "நாள் %2$s-இல் %1$s இடங்களைச் சேர்",
+    "trip_import_pinned": "பின் செய்த இடம்",
+    "trip_day_map_title": "நாள் %1$s வரைபடம்",
+    "trip_day_map_empty": "வரைபடத்தில் பார்க்க இடங்களைச் சேர்க்கவும்.",
+    "trip_day_map_no_spots": "இந்த இடங்களுக்கு இன்னும் வரைபட பின் இல்லை. வரைபடத்தில் பார்க்க Google Maps இணைப்பிலிருந்து சேர்க்கவும்.",
+    "trip_map_not_on_map": "வரைபடத்தில் இல்லை",
+    "trip_route_rest": "மீதி நாளுக்கான வழி",
+    "trip_open_maps_link": "Google Maps இணைப்பைத் திற",
+    "trip_today_button": "%1$s · நாள் %2$s"
   }
 }

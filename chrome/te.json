@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "వెతకు",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "ఇంకా స్థానం లేదు",
     "trip_map_just_now": "ఇప్పుడే",
     "trip_map_min_ago": "%1$s ని. క్రితం",
-    "trip_map_h_ago": "%1$s గం. క్రితం"
+    "trip_map_h_ago": "%1$s గం. క్రితం",
+    "trip_day_map": "రోజు మ్యాప్",
+    "trip_route": "మార్గం",
+    "trip_import_short": "Maps లింక్",
+    "trip_import_title": "Google Maps నుండి ప్రదేశాలు జోడించండి",
+    "trip_import_how": "Google Maps‌లో రోజును ప్లాన్ చేసి, Share నొక్కి, Copy link చేసి ఇక్కడ పేస్ట్ చేయండి. Android‌లో Share‌లో నేరుగా HomLyst కూడా ఎంచుకోవచ్చు.",
+    "trip_import_link_hint": "Google Maps లింక్ పేస్ట్ చేయండి",
+    "trip_import_paste": "పేస్ట్",
+    "trip_import_read": "ప్రదేశాలు చదవండి",
+    "trip_import_reading": "లింక్ చదువుతోంది…",
+    "trip_import_not_route": "ఈ లింక్‌లో ప్రదేశాలు లేవు. Google Maps‌లో Share, తర్వాత Copy link నొక్కి ఇక్కడ పేస్ట్ చేయండి.",
+    "trip_import_failed": "లింక్ చదవలేకపోయాం. ఇంటర్నెట్ చూసి మళ్లీ ప్రయత్నించండి.",
+    "trip_import_found": "%1$s ప్రదేశాలు దొరికాయి",
+    "trip_import_gap": "ప్రతి ప్రదేశంలో సమయం",
+    "trip_import_no_times": "సమయం వద్దు",
+    "trip_import_start": "మొదలు",
+    "trip_import_add": "రోజు %2$s‌కు %1$s ప్రదేశాలు జోడించండి",
+    "trip_import_pinned": "పిన్ చేసిన ప్రదేశం",
+    "trip_day_map_title": "రోజు %1$s మ్యాప్",
+    "trip_day_map_empty": "మ్యాప్‌లో చూడటానికి ప్రదేశాలు జోడించండి.",
+    "trip_day_map_no_spots": "ఈ ప్రదేశాలకు ఇంకా మ్యాప్ పిన్ లేదు. మ్యాప్‌లో చూడటానికి Google Maps లింక్ నుండి జోడించండి.",
+    "trip_map_not_on_map": "మ్యాప్‌లో లేదు",
+    "trip_route_rest": "మిగిలిన రోజుకు మార్గం",
+    "trip_open_maps_link": "Google Maps లింక్ తెరవండి",
+    "trip_today_button": "%1$s · రోజు %2$s"
   }
 }

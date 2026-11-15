@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "strings": {
     "app_name": "HomLyst",
     "nav_search": "शोधा",
@@ -2187,6 +2187,30 @@
     "trip_map_no_spot": "अजून ठिकाण नाही",
     "trip_map_just_now": "आत्ताच",
     "trip_map_min_ago": "%1$s मिनिटांपूर्वी",
-    "trip_map_h_ago": "%1$s तासांपूर्वी"
+    "trip_map_h_ago": "%1$s तासांपूर्वी",
+    "trip_day_map": "दिवसाचा नकाशा",
+    "trip_route": "मार्ग",
+    "trip_import_short": "Maps लिंक",
+    "trip_import_title": "Google Maps मधून ठिकाणे जोडा",
+    "trip_import_how": "Google Maps मध्ये दिवसाचे नियोजन करा, Share दाबा, मग Copy link करून इथे पेस्ट करा. Android वर Share मध्ये थेट HomLyst पण निवडता येते.",
+    "trip_import_link_hint": "Google Maps लिंक पेस्ट करा",
+    "trip_import_paste": "पेस्ट करा",
+    "trip_import_read": "ठिकाणे वाचा",
+    "trip_import_reading": "लिंक वाचत आहे…",
+    "trip_import_not_route": "या लिंकमध्ये ठिकाणे सापडली नाहीत. Google Maps मध्ये Share, मग Copy link दाबून इथे पेस्ट करा.",
+    "trip_import_failed": "लिंक वाचता आली नाही. इंटरनेट तपासा आणि पुन्हा प्रयत्न करा.",
+    "trip_import_found": "%1$s ठिकाणे सापडली",
+    "trip_import_gap": "प्रत्येक ठिकाणी वेळ",
+    "trip_import_no_times": "वेळ नको",
+    "trip_import_start": "सुरुवात",
+    "trip_import_add": "दिवस %2$s मध्ये %1$s ठिकाणे जोडा",
+    "trip_import_pinned": "पिन केलेले ठिकाण",
+    "trip_day_map_title": "दिवस %1$s नकाशा",
+    "trip_day_map_empty": "नकाशावर पाहण्यासाठी ठिकाणे जोडा.",
+    "trip_day_map_no_spots": "या ठिकाणांना अजून नकाशा पिन नाही. नकाशावर पाहण्यासाठी Google Maps लिंकमधून जोडा.",
+    "trip_map_not_on_map": "नकाशावर नाही",
+    "trip_route_rest": "उरलेल्या दिवसाचा मार्ग",
+    "trip_open_maps_link": "Google Maps लिंक उघडा",
+    "trip_today_button": "%1$s · दिवस %2$s"
   }
 }
